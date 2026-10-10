@@ -1,1 +1,198 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Noticias | Radio Pénjamo 105.50 FM</title>
+<style>
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+  color: #18202b;
+}
+header {
+  background: linear-gradient(135deg,#101a2b,#263b55);
+  color: white;
+  text-align: center;
+  padding: 32px 15px;
+  border-bottom: 5px solid #ff9200;
+}
+header h1 { margin: 0 0 10px; font-size: 30px; }
+header p { margin: 6px 0; }
+.lema { color: #ffb84c; font-weight: bold; }
+nav {
+  background: #ff9200;
+  padding: 13px;
+  text-align: center;
+}
+nav a {
+  color: #161616;
+  font-weight: bold;
+  text-decoration: none;
+}
+main { max-width: 1100px; margin: auto; padding: 24px 16px; }
+h2 { border-left: 5px solid #ff9200; padding-left: 12px; }
+.estado { color: #566174; }
+.noticias {
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(260px,1fr));
+  gap: 20px;
+  margin-top: 22px;
+}
+article {
+  background: white;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px #00000013;
+}
+article img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+.sin-foto {
+  height: 180px;
+  background: linear-gradient(135deg,#18273e,#f29113);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding: 20px;
+}
+.contenido { padding: 18px; }
+.contenido h3 { margin-top: 0; line-height: 1.4; }
+.contenido p { line-height: 1.6; color: #4d5664; }
+.contenido a { color: #bc6500; font-weight: bold; }
+.fecha { font-size: 12px; color: #697386; }
+footer {
+  background: #111c2b;
+  color: white;
+  text-align: center;
+  padding: 25px 15px;
+  margin-top: 35px;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📰 NOTICIAS RADIO PÉNJAMO</h1>
+  <p>105.50 FM · La Finísima</p>
+  <p class="lema">La información que nos conecta</p>
+  <p>Noticias de México y el mundo</p>
+</header>
+
+<nav>
+  <a href="https://radiopenjamo.webnode.mx/"
+     target="_blank" rel="noopener">
+    📻 ESCUCHA RADIO PÉNJAMO
+  </a>
+</nav>
+
+<main>
+  <h2>🇲🇽 Últimas noticias de México</h2>
+  <p class="estado" id="estado" role="status">
+    Cargando noticias...
+  </p>
+  <section class="noticias" id="noticias"
+           aria-label="Noticias recientes"></section>
+</main>
+
+<footer>
+  <strong>RADIO PÉNJAMO 105.50 FM</strong>
+  <p>Juntando familias a través de la magia de la radio</p>
+  <p>© Radio Pénjamo</p>
+</footer>
+
+<script>
+const contenedor = document.getElementById("noticias");
+const estado = document.getElementById("estado");
+
+function mostrarNoticias(datos) {
+  contenedor.replaceChildren();
+
+  if (!Array.isArray(datos) || datos.length === 0) {
+    estado.textContent = "Aún no hay noticias publicadas.";
+    return;
+  }
+
+  estado.textContent = "Información de actualidad";
+
+  datos.forEach(noticia => {
+    const tarjeta = document.createElement("article");
+
+    if (typeof noticia.imagen === "string" &&
+        /^https:\/\//i.test(noticia.imagen)) {
+      const foto = document.createElement("img");
+      foto.src = noticia.imagen;
+      foto.alt = "Imagen de la noticia";
+      foto.loading = "lazy";
+      foto.onerror = () => {
+        foto.replaceWith(crearSinFoto());
+      };
+      tarjeta.appendChild(foto);
+    } else {
+      tarjeta.appendChild(crearSinFoto());
+    }
+
+    const contenido = document.createElement("div");
+    contenido.className = "contenido";
+
+    const titulo = document.createElement("h3");
+    titulo.textContent = noticia.titulo || "Noticia";
+
+    const descripcion = document.createElement("p");
+    descripcion.textContent = noticia.descripcion || "";
+
+    const fecha = document.createElement("p");
+    fecha.className = "fecha";
+    fecha.textContent = noticia.fecha || "";
+
+    contenido.append(titulo, descripcion, fecha);
+
+    if (typeof noticia.enlace === "string" &&
+        /^https?:\/\//i.test(noticia.enlace)) {
+      const enlace = document.createElement("a");
+      enlace.href = noticia.enlace;
+      enlace.target = "_blank";
+      enlace.rel = "noopener noreferrer";
+      enlace.textContent = "Leer noticia completa →";
+      contenido.appendChild(enlace);
+    }
+
+    tarjeta.appendChild(contenido);
+    contenedor.appendChild(tarjeta);
+  });
+}
+
+function crearSinFoto() {
+  const bloque = document.createElement("div");
+  bloque.className = "sin-foto";
+  bloque.textContent = "RADIO PÉNJAMO 📰";
+  return bloque;
+}
+
+async function cargarNoticias() {
+  try {
+    const respuesta = await fetch("./noticias.json?t=" + Date.now());
+    if (!respuesta.ok) throw new Error("Sin archivo de noticias");
+    const datos = await respuesta.json();
+    mostrarNoticias(datos);
+  } catch (error) {
+    estado.textContent =
+      "Portal listo. Próximamente aparecerán aquí las noticias automáticas.";
+  }
+}
+
+cargarNoticias();
+</script>
+
+</body>
+</html>
+
