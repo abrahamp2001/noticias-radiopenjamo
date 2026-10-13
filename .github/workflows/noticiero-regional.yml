@@ -55,3 +55,17 @@ jobs:
           name: prueba-noticiero-regional
           path: noticiero-regional/noticiero-regional-final.mp3
           retention-days: 2
+
+
+      - name: Publicar noticiero regional
+        run: |
+          cp noticiero-regional/noticiero-regional-final.mp3 noticiero-regional.mp3
+          git config user.name "Radio Penjamo Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticiero-regional.mp3
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar noticiero regional automatico"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+
