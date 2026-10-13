@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-CARPETA = Path.home() / "RadioPenjamo/NoticieroRegional/Noticias"
+CARPETA = Path(__file__).resolve().parent
 DESTINO = CARPETA / "noticias_regionales.json"
 
 FUENTES = {
