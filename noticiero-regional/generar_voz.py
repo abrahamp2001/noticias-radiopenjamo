@@ -25,7 +25,7 @@ async def generar():
         comunicacion = edge_tts.Communicate(
             texto,
             VOZ,
-            rate="-5%"
+            rate="+15%"
         )
         await comunicacion.save(str(archivo_temporal))
 
