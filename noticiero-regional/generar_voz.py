@@ -6,7 +6,7 @@ CARPETA = Path(__file__).resolve().parent
 GUION = CARPETA / "guion_regional.txt"
 AUDIO = CARPETA / "noticiero-regional.mp3"
 
-VOZ = "es-MX-JorgeNeural"
+VOZ = "es-MX-DaliaNeural"
 
 async def generar():
     if not GUION.exists():
