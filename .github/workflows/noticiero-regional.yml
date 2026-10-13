@@ -1,0 +1,57 @@
+
+name: Noticiero Regional Radio Penjamo
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticiero-regional
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: America/Mexico_City
+      RADIO_AUTOMATICO: "SI"
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar herramientas
+        run: |
+          python -m pip install -r noticiero-regional/requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Descargar noticias regionales
+        run: python noticiero-regional/Noticias/descargar_noticias.py
+
+      - name: Generar guion
+        run: python noticiero-regional/generar_regional.py
+
+      - name: Generar voz
+        run: python noticiero-regional/generar_voz.py
+
+      - name: Agregar cortinillas
+        run: python noticiero-regional/unir_audio.py
+
+      - name: Guardar audio de prueba
+        uses: actions/upload-artifact@v4
+        with:
+          name: prueba-noticiero-regional
+          path: noticiero-regional/noticiero-regional-final.mp3
+          retention-days: 2

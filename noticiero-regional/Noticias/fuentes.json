@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/"
+  },
+  {
+    "nombre": "Notus",
+    "url": "https://notus.com.mx/"
+  },
+  {
+    "nombre": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/"
+  },
+  {
+    "nombre": "Comunicación Noticias",
+    "url": "https://www.facebook.com/comuniknoticias/",
+    "tipo": "facebook",
+    "estado": "pendiente de integración automática"
+  }
+]
