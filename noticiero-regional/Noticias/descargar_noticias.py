@@ -1,3 +1,5 @@
+import re
+import html
 	
 import json
 import unicodedata
@@ -87,7 +89,7 @@ for medio, url in FUENTES.items():
             if not limite <= publicada <= ahora:
                 continue
 
-            descripcion = noticia.findtext("description", "")
+            descripcion = html.unescape(re.sub(r"<[^>]+>", " ", noticia.findtext("description", ""))).strip()
             texto_noticia = normalizar(titulo + " " + descripcion)
             titulo_normalizado = normalizar(titulo)
 
@@ -140,7 +142,8 @@ for medio, url in FUENTES.items():
                     "%d/%m/%Y %H:%M"
                 ),
                 "fuente": medio,
-                "url": enlace
+                "url": enlace,
+                "resumen": descripcion.strip()
             })
 
     except Exception as error:
@@ -172,7 +175,7 @@ if DESTINO.exists():
         print("AVISO: No se pudieron recuperar los resúmenes anteriores.")
 
 for nota in resultados:
-    nota["resumen"] = anteriores.get(nota["url"], "")
+    nota["resumen"] = nota.get("resumen", "").strip() or anteriores.get(nota["url"], "")
 
 DESTINO.write_text(
     json.dumps(
