@@ -11,6 +11,10 @@ CARPETA = Path(__file__).resolve().parent
 DESTINO = CARPETA / "noticias_regionales.json"
 
 FUENTES = {
+    "Periódico Correo": "https://periodicocorreo.com.mx/rss/feed.xml",
+
+    "El Sol de Irapuato": "https://oem.com.mx/elsoldeirapuato/rss",
+
     "Pénjamo TV": "https://www.penjamotv.com/feed/",
     "Notus": "https://notus.com.mx/feed/",
     "Notus página 2": "https://notus.com.mx/feed/?paged=2",
