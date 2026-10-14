@@ -11,6 +11,7 @@ CARPETA = Path(__file__).resolve().parent
 DESTINO = CARPETA / "noticias_regionales.json"
 
 FUENTES = {
+    "Así Sucede Guanajuato": "https://asisucedegto.mx/feed/",
     "Periódico Correo": "https://periodicocorreo.com.mx/rss/feed.xml",
 
     "El Sol de Irapuato": "https://oem.com.mx/elsoldeirapuato/rss",
@@ -57,7 +58,7 @@ for medio, url in FUENTES.items():
     try:
         solicitud = urllib.request.Request(
             url,
-            headers={"User-Agent": "Mozilla/5.0"}
+            headers={"User-Agent": "Googlebot" if medio == "Así Sucede Guanajuato" else "Mozilla/5.0"}
         )
 
         with urllib.request.urlopen(
@@ -175,7 +176,7 @@ for nota in resultados:
 
 DESTINO.write_text(
     json.dumps(
-        resultados[:10],
+        resultados[:20],
         ensure_ascii=False,
         indent=2
     ),
@@ -183,7 +184,7 @@ DESTINO.write_text(
 )
 
 print("DESCARGA REGIONAL FINALIZADA")
-print("NOTICIAS ENCONTRADAS:", len(resultados[:10]))
+print("NOTICIAS ENCONTRADAS:", len(resultados[:20]))
 
-for noticia in resultados[:10]:
+for noticia in resultados[:20]:
     print("-", noticia["titulo"])
