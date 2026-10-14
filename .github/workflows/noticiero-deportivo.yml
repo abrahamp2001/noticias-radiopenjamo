@@ -1,0 +1,69 @@
+name: Radio Penjamo Deportes
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticiero-deportivo
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TZ: America/Mexico_City
+      RADIO_AUTOMATICO: "SI"
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar herramientas
+        run: |
+          python -m pip install -r noticiero-deportivo/requirements.txt
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Descargar noticias deportivas
+        run: python noticiero-deportivo/Noticias/descargar_noticias.py
+
+      - name: Generar guion deportivo
+        run: python noticiero-deportivo/generar_deportivo.py
+
+      - name: Generar voz de Jorge
+        run: python noticiero-deportivo/generar_voz.py
+
+      - name: Agregar cortinillas deportivas
+        run: python noticiero-deportivo/unir_audio.py
+
+      - name: Guardar audio de prueba
+        uses: actions/upload-artifact@v4
+        with:
+          name: prueba-noticiero-deportivo
+          path: noticiero-deportivo/noticiero-deportivo.mp3
+          retention-days: 2
+
+      - name: Publicar noticiero deportivo
+        run: |
+          cp noticiero-deportivo/noticiero-deportivo.mp3 noticiero-deportivo.mp3
+          git config user.name "Radio Penjamo Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticiero-deportivo.mp3
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar noticiero deportivo automatico"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi

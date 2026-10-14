@@ -1,0 +1,2 @@
+requests
+edge-tts
