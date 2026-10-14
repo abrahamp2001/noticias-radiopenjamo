@@ -57,6 +57,23 @@ jobs:
               print("ERROR DE CONEXION:", repr(e))
           CHECK
 
+      - name: Probar fuente deportiva alternativa
+        run: |
+          python - <<'CHECK'
+          import urllib.request
+          url = "https://www.mediotiempo.com/rss"
+          try:
+              req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+              with urllib.request.urlopen(req, timeout=20) as r:
+                  datos = r.read()
+                  print("ESTADO:", r.status)
+                  print("TIPO:", r.headers.get("Content-Type"))
+                  print("TAMANO:", len(datos))
+                  print("INICIO:", repr(datos[:100]))
+          except Exception as e:
+              print("ERROR:", repr(e))
+          CHECK
+
       - name: Descargar noticias deportivas
         run: python noticiero-deportivo/Noticias/descargar_noticias.py
 
