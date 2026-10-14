@@ -11,7 +11,7 @@ CARPETA = Path(__file__).resolve().parent
 DESTINO = CARPETA / "noticias_deportivas.json"
 
 FUENTES = {
-    "ESPN Deportes": "https://espndeportes.espn.com/espn/rss/news"
+    "ESPN Deportes": "https://espndeportes.espn.com/espn/rss/news",
 }
 
 LOCALIDADES = [
