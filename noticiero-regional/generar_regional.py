@@ -46,7 +46,7 @@ guion = [
     "Las noticias de Pénjamo y los municipios vecinos."
 ]
 
-for prioridad, fecha, titulo, resumen in seleccionadas[:10]:
+for prioridad, fecha, titulo, resumen in seleccionadas[:20]:
     tipo = "Noticia regional" if prioridad == 0 else "Información estatal"
     if resumen:
         guion.append(f"{tipo}. {titulo}. {resumen}")
