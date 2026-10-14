@@ -29,7 +29,12 @@ LOCALIDADES = [
     "trojes de maranon", "zapote de la esperanza",
     "santa fe del rio", "estacion corralejo",
     "guayabo de origel", "magallanes",
-    "estacion penjamo", "potreros"
+    "estacion penjamo", "potreros",
+    "irapuato",
+    "manuel doblado",
+    "numaran",
+    "penjamillo",
+    "ecuandureo",
 ]
 
 def normalizar(texto):
