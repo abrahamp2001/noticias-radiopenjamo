@@ -153,6 +153,9 @@ if fuentes_correctas == 0:
 resultados.sort(
     key=lambda noticia: (
         noticia["prioridad"],
+        0 if any(lugar in normalizar(noticia["titulo"]) for lugar in [
+            "penjamo", "abasolo", "santa ana pacueco"
+        ]) else 1,
         -datetime.strptime(
             noticia["fecha"], "%d/%m/%Y %H:%M"
         ).timestamp()
