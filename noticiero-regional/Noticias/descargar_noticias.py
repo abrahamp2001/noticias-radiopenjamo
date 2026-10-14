@@ -119,7 +119,21 @@ for medio, url in FUENTES.items():
             enlaces.add(enlace)
 
             resultados.append({
-                "prioridad": 0 if es_local else 1,
+                "prioridad": (
+                    0 if any(lugar in texto_noticia for lugar in [
+                        "penjamo", "abasolo", "santa ana pacueco",
+                        "corralejo", "trojes de maranon",
+                        "zapote de la esperanza", "santa fe del rio",
+                        "estacion corralejo", "guayabo de origel",
+                        "magallanes", "estacion penjamo", "potreros"
+                    ])
+                    else 1 if any(lugar in texto_noticia for lugar in [
+                        "huanimaro", "cueramaro", "la piedad",
+                        "manuel doblado", "numaran", "penjamillo",
+                        "ecuandureo"
+                    ])
+                    else 2 if es_local else 3
+                ),
                 "titulo": titulo,
                 "fecha": publicada.astimezone().strftime(
                     "%d/%m/%Y %H:%M"
