@@ -37,6 +37,26 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
 
+      - name: Diagnosticar respuesta ESPN
+        run: |
+          python - <<'CHECK'
+          import urllib.request
+          url = "https://espndeportes.espn.com/espn/rss/news"
+          req = urllib.request.Request(url, headers={
+              "User-Agent": "Mozilla/5.0",
+              "Accept": "application/rss+xml, application/xml, text/xml, */*"
+          })
+          try:
+              with urllib.request.urlopen(req, timeout=20) as respuesta:
+                  contenido = respuesta.read()
+                  print("ESTADO HTTP:", respuesta.status)
+                  print("TIPO:", respuesta.headers.get("Content-Type"))
+                  print("TAMANO:", len(contenido))
+                  print("INICIO:", repr(contenido[:150]))
+          except Exception as e:
+              print("ERROR DE CONEXION:", repr(e))
+          CHECK
+
       - name: Descargar noticias deportivas
         run: python noticiero-deportivo/Noticias/descargar_noticias.py
 
