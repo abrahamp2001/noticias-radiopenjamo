@@ -1,51 +1,67 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Director de Prepa oficial de Pénjamo firma renuncia simbólica ante presión estudiantil",
+    "fecha": "14/10/2026 22:42",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/14/director-de-prepa-oficial-de-penjamo-firma-renuncia-simbolica-ante-presion-estudiantil-169159.html",
+    "resumen": "Los estudiantes condicionaron el regreso a clases a la separación de Gerardo Fuentes y Sara Martínez, señalados por presunta falta de atención a denuncias"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Ataque en Pénjamo deja tres muertos a un costado de la Dirección de Seguridad Pública",
+    "fecha": "14/10/2026 14:54",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/14/ataque-en-penjamo-deja-tres-muertos-a-un-costado-de-la-direccion-de-seguridad-publica-169099.html",
+    "resumen": "El ataque se dio de manera simultánea a otro cerca del edificio de Seguridad Pública de Pénjamo que generó alarma en la madrugada"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Estudiantes de la prepa de Pénjamo se reúnen con autoridades de la UG",
+    "fecha": "14/10/2026 14:37",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/14/estudiantes-de-la-prepa-de-penjamo-se-reunen-con-autoridades-de-la-ug-169096.html",
+    "resumen": "Los estudiantes exigieron renuncias del director de la ENMS Pénjamo y de UGénero, además acusaron que los presuntos agresores siguen en la escuela"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Comando asesina a “pareja” y “anciana” en Pénjamo",
+    "fecha": "14/10/2026 14:37",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/comando-asesina-a-pareja-y-anciana-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.– Tres personas sin vida durante la madrugada de este miércoles, fue el saldo que dejó una serie de ataques armados en distintos puntos de Pénjamo. Entre las víctimas al parecer eran una mujer, su pareja y la madre de ella En los hechos hubo daños a un comercio, disparos cerca de las instalaciones …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Director de la ENMS de Pénjamo firma renuncia simbólica; alumnos exigen cambios en Ugénero de la misma escuela",
+    "fecha": "14/10/2026 10:59",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/director-de-la-enms-de-penjamo-firma-renuncia-simbolica-alumnos-exigen-cambios-en-ugenero-de-la-misma-escuela-32602771",
+    "resumen": "La comunidad estudiantil de la Escuela de Nivel Medio Superior de Pénjamo solicitó la renuncia del director de la sede Gerardo Fuentes Cordera y de Sara Martínez López, responsable del enlace de UGénero, al señalar falta de seguridad y atención ante casos de acoso. Autoridades universitarias se comprometieron a entregar una respuesta por escrito y los estudiantes advirtieron que mantendrán el paro si sus demandas no son atendidas"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Balacera se desata cerca de Seguridad Pública en Pénjamo; resguardan edificio",
+    "fecha": "14/10/2026 09:45",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/14/balacera-se-desata-cerca-de-seguridad-publica-en-penjamo-resguardan-edificio-169070.html",
+    "resumen": "El gobierno de Pénjamo señaló que el ataque fue a un domicilio cercano en la colonia Los Fresnos durante la madrugada del miércoles"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Asesinan a dos hombres y una mujer en una  vivienda de Pénjamo",
+    "fecha": "14/10/2026 04:19",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-dos-hombres-y-una-mujer-en-una-vivienda-de-penjamo-presentaban-huellas-de-tortura-32595135",
+    "resumen": "Los cuerpos presentaban impactos de arma de fuego, quemaduras y otras lesiones, mientras sus identidades permanecían sin establecerse"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Confusión en Pénjamo: disparan contra fachada a espaldas de la Policía Municipal",
     "fecha": "14/10/2026 03:59",
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/policiaca/balazos-a-unos-metros-de-las-instalaciones-de-la-policia-en-penjamo-que-paso-en-la-colonia-los-fresnos-32594910",
     "resumen": "El ataque en Pénjamo dañó la fachada de un inmueble; no hubo lesionados y Seguridad negó que las instalaciones policiales fueran el blanco"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Pénjamo invierte 6.5 millones de pesos en obras en Lagunillas y Mezquite de Luna",
-    "fecha": "13/10/2026 15:16",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/penjamo-invierte-6-5-millones-de-pesos-en-obras-en-lagunillas-y-mezquite-de-luna/",
-    "resumen": "Pénjamo, Guanajuato.- El Gobierno Municipal de Pénjamo invierte 6 millones 585 mil 163 pesos en obras de pavimentación e infraestructura básica en las comunidades de Lagunillas y Mezquite de Luna, con proyectos que incluyen mejoras en vialidades, banquetas, agua potable y drenaje sanitario. Durante una gira de trabajo realizada el lunes 12 de octubre, la …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Abasolo celebrará el Día de Muertos con festival del 29 de octubre al 2 de noviembre",
-    "fecha": "13/10/2026 14:44",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/abasolo-celebrara-el-dia-de-muertos-con-festival-del-29-de-octubre-al-2-de-noviembre/",
-    "resumen": "Abasolo, Guanajuato.- El municipio de Abasolo realizará el tercer Festival del Día de Muertos “Una Luz para No Olvidar” del 29 de octubre al 2 de noviembre, con actividades para las familias y el público en general. El Gobierno Municipal informó que la celebración incluirá música, catrinas y propuestas relacionadas con una de las tradiciones …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Hay al menos 4 casos de bullying, acoso y amenazas en ENMS de Pénjamo",
-    "fecha": "13/10/2026 13:07",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/13/hay-al-menos-4-casos-de-bullying-acoso-y-amenazas-en-enms-de-penjamo-168983.html",
-    "resumen": "La Fiscalía de Guanajuato señaló que actuará de oficio debido a que hasta el momento no tiene denuncias formales de la ENMS Pénjamo"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Transformando con el Corazón beneficia a más de 300 personas en Pénjamo",
-    "fecha": "13/10/2026 12:10",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/transformando-con-el-corazon-beneficia-a-mas-de-300-personas-en-penjamo-32583998",
-    "resumen": "La alcaldesa Yozajamby Molina informó que el apoyo de 2 mil 500 pesos por beneficiaria se mantendrá durante el bimestre en curso con recursos provenientes de ahorros municipales"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Arrancan obras en el camino de Las Conejas, en Abasolo; costará 14 millones de pesos",
-    "fecha": "13/10/2026 10:20",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/arrancan-obras-en-el-camino-de-las-conejas-en-abasolo-costara-14-millones-de-pesos-32583335",
-    "resumen": "El presidente municipal de Abasolo, Job Gallardo Santellano, puso en marcha los trabajos en la comunidad de Buena Vista de Vega, donde se intervendrán 3.4 kilómetros de camino. En el arranque, pidió paciencia a los habitantes de otras localidades que esperan obras de urbanización"
   },
   {
     "prioridad": 0,
@@ -57,106 +73,90 @@
   },
   {
     "prioridad": 1,
-    "titulo": "Comerciantes de Cuerámaro temen afectaciones por obras de drenaje en la calle 20 de noviembre",
-    "fecha": "13/10/2026 20:37",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/13/comerciantes-de-cueramaro-temen-afectaciones-por-obras-de-drenaje-en-la-calle-20-de-noviembre-169042.html",
-    "resumen": "Comerciantes de Cuerámaro temen que las obras de rehabilitación del drenaje en la calle 20 de Noviembre comiencen antes de enero"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Volcadura en la carretera a Manuel Doblado deja dos lesionadas",
-    "fecha": "13/10/2026 17:34",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/13/volcadura-en-la-carretera-a-manuel-doblado-deja-dos-lesionadas-169019.html",
-    "resumen": "Una niña de 2 años y una mujer de 37 resultaron lesionadas tras volcar la camioneta en la que viajaban en la carretera de San Francisco del Rincón a Manuel Doblado"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Manuel Doblado reunirá a siete municipios en el Tianguis Cultural 2026",
-    "fecha": "13/10/2026 16:57",
+    "titulo": "SFR: Niña de 2 años y mujer lesionadas en volcadura",
+    "fecha": "14/10/2026 15:58",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/manuel-doblado-reunira-a-siete-municipios-en-el-tianguis-cultural-2026/",
-    "resumen": "Manuel Doblado, Guanajuato.- El municipio de Manuel Doblado será sede del Tianguis Cultural 2026 el próximo miércoles 21 de octubre, con la participación de representantes de siete municipios de Guanajuato que presentarán parte de su oferta artística, cultural y gastronómica. El evento, coordinado con la Secretaría de Cultura del Estado, busca fortalecer el patrimonio cultural …"
+    "url": "https://notus.com.mx/sfr-nina-de-2-anos-y-mujer-lesionadas-en-volcadura/",
+    "resumen": "San Francisco del Rincón, Guanajuato.- Una niña de 2 años y una mujer de 37 resultaron lesionadas tras volcadura en la carretera que comunica a San Francisco del Rincón con Manuel Doblado. El hecho ocurrió, frente a la comunidad de El Toro a unos tres kilómetros de Manuel Doblado. En base al reporte que llegó …"
   },
   {
     "prioridad": 2,
-    "titulo": "En Irapuato, Irma Leticia se baja en Morena",
-    "fecha": "13/10/2026 23:38",
+    "titulo": "Oh My Jah ofrecerá un concierto gratuito en Irapuato con la embajadora de Jamaica",
+    "fecha": "14/10/2026 20:00",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/opinion/2026/oct/13/en-irapuato-irma-leticia-se-baja-en-morena-169064.html",
-    "resumen": "Es probable que en Irapuato, la definición de la candidatura a alcalde sea cosa de varones luego de que la directora de la secretaría de Infraestructura..."
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/oh-my-jah-ofrecera-un-concierto-gratuito-en-irapuato-con-la-embajadora-de-jamaica-169138.html",
+    "resumen": "Oh My Jah ofrecerá un concierto gratuito este sábado 17 de octubre en el Centro Histórico de Irapuato, con la embajadora de Jamaica en México"
   },
   {
     "prioridad": 2,
-    "titulo": "Hallan cadáver de un hombre junto a la carretera Silao-Irapuato",
-    "fecha": "13/10/2026 21:45",
+    "titulo": "Adeudo de predial del estadio Sergio León Chávez en Irapuato sigue en disputa pese a nueva directiva",
+    "fecha": "14/10/2026 19:46",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/13/hallan-cadaver-de-un-hombre-junto-a-la-carretera-silao-irapuato-169051.html",
-    "resumen": "El cuerpo de un hombre fue localizado sobre un pastizal a un costado de la carretera Silao-Irapuato, a la altura de la comunidad de El Espejo"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/adeudo-de-predial-del-estadio-sergio-leon-chavez-en-irapuato-sigue-en-disputa-pese-a-nueva-directiva-169132.html",
+    "resumen": "Lorena Alfaro aseguró que el Club Irapuato cumple sus compromisos, aunque el adeudo del predial sigue en el juzgado administrativo"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato es sede de un encuentro estatal para impulsar la igualdad de género en Guanajuato",
-    "fecha": "13/10/2026 20:25",
+    "titulo": "Banco de Alimentos de Irapuato lanza campaña \"2 kilogramos de amor\"",
+    "fecha": "14/10/2026 18:41",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/13/irapuato-es-sede-de-un-encuentro-estatal-para-impulsar-la-igualdad-de-genero-en-guanajuato-169040.html",
-    "resumen": "Irapuato reunió un encuentro para impulsar la igualdad de género en Guanajuato, fortalecer las políticas públicas con perspectiva de género"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/banco-de-alimentos-de-irapuato-lanza-campana-2-kilogramos-de-amor-169120.html",
+    "resumen": "La asociación solicita alimentos de la canasta básica a empresas y familias durante octubre para apoyar a quienes enfrentan dificultades alimentarias en Irapuato"
   },
   {
     "prioridad": 2,
-    "titulo": "Así buscan combatir la contaminación ambiental en Salamanca, Silao e Irapuato",
-    "fecha": "13/10/2026 18:12",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/13/asi-buscan-combatir-la-contaminacion-ambiental-en-salamanca-silao-e-irapuato-169022.html",
-    "resumen": "La contaminación ambiental mantiene retos en Silao, Irapuato y Salamanca. Mientras autoridades reportan avances y proyectos para reducir emisiones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Personal de IMSS Irapuato continúa protestas por falta de insumos y salarios",
-    "fecha": "13/10/2026 16:58",
+    "titulo": "Ruta 15 en Cuarta Brigada, con retrasos y muy “amoladas”",
+    "fecha": "14/10/2026 17:15",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/personal-de-imss-irapuato-continua-protestas-por-falta-de-insumos-y-salarios/",
-    "resumen": "Irapuato, Guanajuato.- Personal del IMSS Irapuato se manifestó en la avenida Reforma, donde se encuentra ubicado el Seguro Social. El pasado domingo también protestaron por un aumento salarial y mejoras tanto en el servicio de atención y en los insumos. Los trabajadores salieron de la institución con destino a las oficinas del Sindicato Nacional de …"
+    "url": "https://notus.com.mx/ruta-15-en-cuarta-brigada-con-retrasos-y-muy-amoladas/",
+    "resumen": "Irapuato, Guanajuato.– Habitantes de Cuarta Brigada presentaron un reporte ciudadano para denunciar deficiencias del servicio de transporte público de la Ruta 15. Según los inconformes señalan que el problema los afecta desde hace tiempo sin que se haya dado una solución. De acuerdo con el escrito enviado a Notus, los vecinos ya expusieron la situación …"
   },
   {
     "prioridad": 2,
-    "titulo": "“Repartidor de comida”: lo que entregaba era droga en Irapuato",
-    "fecha": "13/10/2026 15:35",
+    "titulo": "Condenan a 15 años de prisión a Alberto Carlos N por intento de feminicidio en Irapuato",
+    "fecha": "14/10/2026 16:54",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/14/condenan-a-15-anos-de-prision-a-alberto-carlos-n-por-intento-de-feminicidio-en-irapuato-169111.html",
+    "resumen": "La FEIDEM obtuvo sentencia de 15 años contra Alberto Carlos N por intentar matar a una mujer en Irapuato en 2022; también deberá pagar la reparación del daño"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Descubren un cuerpo en la colonia Nuevo Copalillo de Irapuato",
+    "fecha": "14/10/2026 16:32",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/14/descubren-un-cuerpo-en-la-colonia-nuevo-copalillo-de-irapuato-169108.html",
+    "resumen": "Madres de familia alertaron a las autoridades tras encontrar a una persona sin vida cerca de la primaria Melchor Ocampo, en la colonia Nuevo Copalillo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Misas de muertos en el Templo de “San Francisquito”",
+    "fecha": "14/10/2026 15:44",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/repartidor-de-comida-lo-que-entregaba-era-droga-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un “repartidor de comida” de Irapuato, fue detenido porque llevaba 21 envoltorios de presuntas sustancias ilícitas. Elementos de la Policía Municipal detuvieron a Francisco “N.”, de 32 años en el cruce de las calles Coahuila y Tlaxcala en la colonia Infonavit-Solidaridad. Según la información que dio a conocer la Secretaría de Seguridad Ciudadana …"
+    "url": "https://notus.com.mx/misas-de-muertos-en-el-templo-de-san-francisquito/",
+    "resumen": "Irapuato, Guanajuato.- Era un 31 de diciembre del año 1970, Don David salía de trabajar de la gasolinera ubicada en la avenida Guerrero a un lado del edificio comercial que anteriormente era conocido como “Blanco” y luego “Plaza Magna”, entre las calles Cedro del Líbano y Francisco Márquez, en la colonia Santa Julia. Después de …"
   },
   {
     "prioridad": 2,
-    "titulo": "Guanajuato: instan a mayor aprovechamiento de residuos en los municipios",
-    "fecha": "13/10/2026 15:22",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/guanajuato-instan-a-mayor-aprovechamiento-de-residuos-en-los-municipios/",
-    "resumen": "Irapuato, Guanajuato.- Con el objetivo de enriquecer la iniciativa para crear una nueva Ley de Economía Circular para el Estado de Guanajuato y sus Municipios, se llevó a cabo el segundo Foro de Consulta Legislativa, un espacio de diálogo en el que representantes de los sectores público, privado, académico y social aportaron propuestas para construir …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Abraham Sotomayor va por coordinación de Morena en Irapuato",
-    "fecha": "13/10/2026 14:54",
+    "titulo": "Autoridades estatales y municipales supervisan sitio de disposición final de residuos de Irapuato",
+    "fecha": "14/10/2026 13:37",
     "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/abraham-sotomayor-va-por-coordinacion-de-morena-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- El diputado Abraham Ramos Sotomayor se registró como aspirante a Coordinador Municipal de la Defensa de la Transformación y la Soberanía Nacional en Irapuato. Meses antes el morenista señaló su interés por contender en las elecciones de 2027: “aunque a muchos y a muchas no les convenga que llegue como candidato a la …"
+    "url": "https://notus.com.mx/autoridades-estatales-y-municipales-supervisan-sitio-de-disposicion-final-de-residuos-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Autoridades municipales y estatales supervisaron el sitio de disposición final de residuos de Irapuato para revisar sus condiciones operativas, infraestructura y avances en el manejo de la basura. El recorrido fue encabezado por la presidenta municipal, Lorena Alfaro García, y el secretario del Agua y Medio Ambiente de Guanajuato, José Lara Lona, con …"
   },
   {
     "prioridad": 2,
-    "titulo": "Vuelca automovilista en el Libramiento Norte, Irapuato; conductora resulta ilesa",
-    "fecha": "13/10/2026 14:47",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/13/vuelca-automovilista-en-el-libramiento-norte-irapuato-conductora-resulta-ilesa-168998.html",
-    "resumen": "Personas que transitaban por la vialidad en Irapuato reportaron el accidente, por lo que cuerpos de emergencias acudieron para atender a la conductora"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Nombran nuevos mandos militares en Guanajuato; Martínez García asume la XII Región",
-    "fecha": "13/10/2026 14:37",
+    "titulo": "Agrupación irapuatense de reggae Oh My Jah dará concierto gratuito",
+    "fecha": "14/10/2026 12:19",
     "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/nombran-nuevos-mandos-militares-en-guanajuato-martinez-garcia-asume-la-xii-region/",
-    "resumen": "Irapuato, Guanajuato.- La XII Región Militar y la 16ª Zona Militar cuentan con nuevos mandos, tras una ceremonia en Irapuato a la que asistió la gobernadora de Guanajuato, Libia Dennise García Muñoz Ledo. El general de brigada de Estado Mayor Gabriel Martínez García asumió el cargo de comandante interino de la XII Región Militar, cuya …"
+    "url": "https://notus.com.mx/agrupacion-irapuatense-de-reggae-oh-my-jah-dara-concierto-gratuito/",
+    "resumen": "Irapuato, Guanajuato.- La banda irapuatense Oh My Jah ofrecerá un concierto gratuito este sábado 17 de octubre en el Andador Juárez, en el Centro Histórico de Irapuato, con la embajadora de Jamaica en México, Julia Elizabeth Hyatt, como invitada especial. La presentación comenzará a las 18:30 horas. La agrupación, que celebra 20 años de trayectoria …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato certifica a Laguna Larga como comunidad responsable de sus mascotas",
+    "fecha": "14/10/2026 12:11",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/irapuato-certifica-a-laguna-larga-como-comunidad-responsable-de-sus-mascotas/",
+    "resumen": "Irapuato, Guanajuato.- La comunidad de Laguna Larga, en Irapuato, recibió la certificación como Comunidad Responsable de sus Mascotas, luego de participar en acciones de atención veterinaria y cuidado animal. La entrega se realizó durante el cierre del programa “Redes y Espacios de Paz”, impulsado por el Gobierno Municipal. Como parte de las actividades, se realizaron …"
   }
 ]
