@@ -64,20 +64,20 @@
     "resumen": "El ataque en Pénjamo dañó la fachada de un inmueble; no hubo lesionados y Seguridad negó que las instalaciones policiales fueran el blanco"
   },
   {
-    "prioridad": 0,
-    "titulo": "Créditos para el campo en Guanajuato: requisitos para financiar fertilizante, diésel y semillas",
-    "fecha": "14/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/creditos-para-el-campo-en-guanajuato-requisitos-para-financiar-fertilizante-diesel-y-semillas-32585432",
-    "resumen": "En Pénjamo, Edie Vázquez destinó un Financiamiento Progresa a semilla, fertilizante, diésel, agroquímicos y jornales durante el ciclo agrícola"
-  },
-  {
     "prioridad": 1,
     "titulo": "SFR: Niña de 2 años y mujer lesionadas en volcadura",
     "fecha": "14/10/2026 15:58",
     "fuente": "Notus",
     "url": "https://notus.com.mx/sfr-nina-de-2-anos-y-mujer-lesionadas-en-volcadura/",
     "resumen": "San Francisco del Rincón, Guanajuato.- Una niña de 2 años y una mujer de 37 resultaron lesionadas tras volcadura en la carretera que comunica a San Francisco del Rincón con Manuel Doblado. El hecho ocurrió, frente a la comunidad de El Toro a unos tres kilómetros de Manuel Doblado. En base al reporte que llegó …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en bar Continental de Irapuato deja dos muertos y cuatro lesionados",
+    "fecha": "15/10/2026 00:30",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/15/ataque-armado-en-bar-continental-de-irapuato-deja-dos-muertos-y-cuatro-lesionados-169164.html",
+    "resumen": "La agresión ocurrió en el establecimiento de la calle Álvaro Obregón, cerca de la Presidencia Municipal; los responsables huyeron y no se reportaron detenidos"
   },
   {
     "prioridad": 2,
