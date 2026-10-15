@@ -13,12 +13,16 @@ if not all(p.exists() for p in (voz, cortinilla, musica)):
 
 filtros = (
     "[0:a]aresample=44100,atrim=0:8,asetpts=PTS-STARTPTS[entrada];"
+    "[2:a]aresample=44100,volume=0.70,atrim=0:5,"
+    "asetpts=PTS-STARTPTS[apertura];"
     "[1:a]aresample=44100,asetpts=PTS-STARTPTS[voz];"
-    "[2:a]aresample=44100,volume=0.10,asetpts=PTS-STARTPTS[musica];"
-    "[voz][musica]amix=inputs=2:duration=first:"
-    "dropout_transition=0:normalize=0[noticias];"
+    "[2:a]aresample=44100,volume=0.10,asetpts=PTS-STARTPTS[fondo];"
+    "[voz][fondo]amix=inputs=2:duration=first:normalize=0[noticias];"
+    "[2:a]aresample=44100,volume=0.70,atrim=0:5,"
+    "asetpts=PTS-STARTPTS[cierre];"
     "[0:a]aresample=44100,atrim=0:8,asetpts=PTS-STARTPTS[salida];"
-    "[entrada][noticias][salida]concat=n=3:v=0:a=1[out]"
+    "[entrada][apertura][noticias][cierre][salida]"
+    "concat=n=5:v=0:a=1[out]"
 )
 
 subprocess.run([
