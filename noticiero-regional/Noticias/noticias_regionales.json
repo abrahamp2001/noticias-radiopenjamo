@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Estudiantes de la Prepa Oficial en Pénjamo levantan la huelga tras renuncia de Director",
+    "fecha": "15/10/2026 12:10",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/15/estudiantes-de-la-prepa-oficial-en-penjamo-levantan-la-huelga-tras-renuncia-de-director-169178.html",
+    "resumen": "Autoridades de la UG confirmaron el cambio de director en la prepa oficial de Pénjamo, pero aún se esperan acciones contra los alumnos presuntos agresores"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Pénjamo inaugura red de drenaje en Estación La Piedad tras más de 20 años de solicitudes",
     "fecha": "15/10/2026 10:49",
     "fuente": "Notus",
@@ -11,7 +19,7 @@
     "prioridad": 0,
     "titulo": "Acoso y amenazas: “renuncia” del director de la Prepa UG de Pénjamo",
     "fecha": "15/10/2026 09:05",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/acoso-y-amenazas-renuncia-del-director-de-la-prepa-ug-de-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- Estudiantes de la Preparatoria Oficial de Pénjamo “lograron” la salida del director, Gerardo Fuentes Cordera, anunciada por el Colegio del Nivel Medio Superior en un comunicado fechado el 14 de octubre. Los “afectados”, habían denunciado presuntos casos de acoso sexual, amenazas, bullying y violencia de género dentro del plantel, y habían acusado a …"
   },
@@ -64,6 +72,14 @@
     "resumen": "Pénjamo, Guanajuato.– Tres personas sin vida durante la madrugada de este miércoles, fue el saldo que dejó una serie de ataques armados en distintos puntos de Pénjamo. Entre las víctimas al parecer eran una mujer, su pareja y la madre de ella En los hechos hubo daños a un comercio, disparos cerca de las instalaciones …"
   },
   {
+    "prioridad": 0,
+    "titulo": "Tras más de 20 años de solicitudes, inauguran drenaje en Estación La Piedad",
+    "fecha": "15/10/2026 06:01",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-inaugura-red-de-drenaje-en-estacion-la-piedad-para-mejorar-servicios-basicos-32615156",
+    "resumen": "La comunidad de Pénjamo cuenta con una nueva red de drenaje sanitario luego de décadas de peticiones de sus habitantes"
+  },
+  {
     "prioridad": 1,
     "titulo": "Manuel Doblado entrega más de 50 pares de zapatos escolares a niñas y niños",
     "fecha": "15/10/2026 10:57",
@@ -83,9 +99,41 @@
     "prioridad": 1,
     "titulo": "SFR: Niña de 2 años y mujer lesionadas en volcadura",
     "fecha": "14/10/2026 15:58",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/sfr-nina-de-2-anos-y-mujer-lesionadas-en-volcadura/",
     "resumen": "San Francisco del Rincón, Guanajuato.- Una niña de 2 años y una mujer de 37 resultaron lesionadas tras volcadura en la carretera que comunica a San Francisco del Rincón con Manuel Doblado. El hecho ocurrió, frente a la comunidad de El Toro a unos tres kilómetros de Manuel Doblado. En base al reporte que llegó …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Las Liebres se certifica como colonia responsable de sus mascotas en Irapuato",
+    "fecha": "15/10/2026 12:01",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/las-liebres-se-certifica-como-colonia-responsable-de-sus-mascotas-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- La colonia Las Liebres recibió la certificación como Colonia Responsable de sus Mascotas en Irapuato, luego de participar en un programa municipal que logró más de 150 esterilizaciones, 185 desparasitaciones y 217 aplicaciones de vacunas. La estrategia es impulsada por el Gobierno de Irapuato, a través de la Dirección General de Salud Municipal, …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato lleva servicios municipales y talleres a Guadalupe de Rivera",
+    "fecha": "15/10/2026 11:58",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-lleva-servicios-municipales-y-talleres-a-guadalupe-de-rivera/",
+    "resumen": "Irapuato, Guanajuato.- Después de ocho semanas de actividades y servicios dirigidos a las familias, el Gobierno de Irapuato, a través del Sistema DIF Municipal, concluyó las acciones del programa “Juntos con Paso Firme” en la comunidad de Guadalupe de Rivera, cuyo objetivo es fortalecer la convivencia, impulsar el desarrollo humano y acercar la atención municipal …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "‘Sicarios’ balean bar del centro de Irapuato y dejan 3 muertos",
+    "fecha": "15/10/2026 11:39",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/sicarios-balean-bar-del-centro-de-irapuato-y-dejan-3-muertos/",
+    "resumen": "Irapuato, Guanajuato.- Un ataque armado dentro del bar Continental de la calle Álvaro Obregón, casi esquina con 20 de Noviembre en la zona centro de Irapuato, dejó 3 muertos y cerca de 3 lesionados. Al parecer, presuntos sicarios a bordo de vehículos arribaron supuestamente en busca de dos personas; tras los disparos, dejaron varias víctimas …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Condenan a 15 años de prisión a hombre por intento de feminicidio en Irapuato",
+    "fecha": "15/10/2026 11:26",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/condenan-a-15-anos-de-prision-a-hombre-por-intento-de-feminicidio-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un hombre identificado como Alberto Carlos “N” fue condenado a 15 años de prisión por el delito de feminicidio en grado de tentativa, tras agredir a una mujer en un domicilio de Irapuato y hacerla perder el conocimiento al apretarla del cuello. La Fiscalía General del Estado de Guanajuato informó que los hechos …"
   },
   {
     "prioridad": 2,
@@ -110,53 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/relleno-sanitario-de-irapuato-recibe-540-toneladas-de-basura-al-dia-buscan-reducir-afectaciones-ambientales-32602012",
     "resumen": "El Municipio y el Gobierno de Guanajuato revisaron las acciones de recuperación del sitio en el ejido Peñitas, donde operan medidas para controlar residuos, lixiviados y malos olores"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detectan 16 inmuebles en mal estado; evalúan riesgo de colapso en Irapuato",
-    "fecha": "15/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/detectan-16-inmuebles-en-mal-estado-evaluan-riesgo-de-colapso-en-irapuato-32601333",
-    "resumen": "El diagnóstico municipal evaluó 206 propiedades y detectó 69 con condiciones regulares o malas en el centro histórico. La falta de conservación también ha llevado a Protección Civil a intervenir fachadas y vigilar construcciones antiguas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en bar Continental de Irapuato deja dos muertos y cuatro lesionados",
-    "fecha": "15/10/2026 00:30",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/15/ataque-armado-en-bar-continental-de-irapuato-deja-dos-muertos-y-cuatro-lesionados-169164.html",
-    "resumen": "La agresión ocurrió en el establecimiento de la calle Álvaro Obregón, cerca de la Presidencia Municipal; dos de los presuntos responsables fueron detenidos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Mango se dispara a 120 pesos por kilo en Irapuato; suben también papa y jitomate",
-    "fecha": "14/10/2026 21:49",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/mango-se-dispara-a-120-pesos-por-kilo-en-irapuato-suben-tambien-papa-y-jitomate-169155.html",
-    "resumen": "En el mercado Benito Juárez, el mango pasó de 45 a 120 pesos por kilo, mientras que la papa subió a 45 pesos y el limón a 35 pesos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Oh My Jah ofrecerá un concierto gratuito en Irapuato con la embajadora de Jamaica",
-    "fecha": "14/10/2026 20:00",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/oh-my-jah-ofrecera-un-concierto-gratuito-en-irapuato-con-la-embajadora-de-jamaica-169138.html",
-    "resumen": "Oh My Jah ofrecerá un concierto gratuito este sábado 17 de octubre en el Centro Histórico de Irapuato, con la embajadora de Jamaica en México"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Adeudo de predial del estadio Sergio León Chávez en Irapuato sigue en disputa pese a nueva directiva",
-    "fecha": "14/10/2026 19:46",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/adeudo-de-predial-del-estadio-sergio-leon-chavez-en-irapuato-sigue-en-disputa-pese-a-nueva-directiva-169132.html",
-    "resumen": "Lorena Alfaro aseguró que el Club Irapuato cumple sus compromisos, aunque el adeudo del predial sigue en el juzgado administrativo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Banco de Alimentos de Irapuato lanza campaña \"2 kilogramos de amor\"",
-    "fecha": "14/10/2026 18:41",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/14/banco-de-alimentos-de-irapuato-lanza-campana-2-kilogramos-de-amor-169120.html",
-    "resumen": "La asociación solicita alimentos de la canasta básica a empresas y familias durante octubre para apoyar a quienes enfrentan dificultades alimentarias en Irapuato"
   }
 ]
