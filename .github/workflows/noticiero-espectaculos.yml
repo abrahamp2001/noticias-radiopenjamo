@@ -1,0 +1,59 @@
+name: Se Armo la Farandula Radio Penjamo
+
+on:
+  schedule:
+    - cron: '0 15 * * *'
+    - cron: '0 21 * * *'
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noticiero-espectaculos
+  cancel-in-progress: false
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar herramientas
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          python -m pip install --upgrade pip
+          python -m pip install edge-tts
+
+      - name: Descargar noticias
+        run: python noticiero-espectaculos/Noticias/descargar_noticias.py
+
+      - name: Generar guion
+        run: python noticiero-espectaculos/generar_espectaculos.py
+
+      - name: Generar voz de Salome
+        run: python noticiero-espectaculos/generar_voz.py
+
+      - name: Agregar musica de fondo
+        run: python noticiero-espectaculos/mezclar_audio.py
+
+      - name: Publicar programa
+        run: |
+          cp noticiero-espectaculos/espectaculos-con-musica.mp3 noticiero-espectaculos.mp3
+          git config user.name "Radio Penjamo Bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add noticiero-espectaculos.mp3 noticiero-espectaculos/Noticias/noticias_espectaculos.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizar programa de espectaculos"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
