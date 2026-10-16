@@ -4,10 +4,14 @@ name: Noticiero del Clima Radio Penjamo
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12,18,0 * * *"
+    - cron: "0 0,12,18 * * *"
 
 permissions:
   contents: write
+
+concurrency:
+  group: noticiero-clima
+  cancel-in-progress: false
 
 jobs:
   generar-clima:
@@ -26,22 +30,34 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install edge-tts
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
       - name: Generar reporte meteorologico
         run: |
           python clima-radiopenjamo/generar_clima.py
 
-      - name: Generar voz del noticiero
+      - name: Generar voz de Dalia
         run: |
           python clima-radiopenjamo/generar_voz.py
 
-      - name: Publicar audio en GitHub
+      - name: Mezclar voz y musica
+        run: |
+          python clima-radiopenjamo/mezclar_audio.py
+
+      - name: Publicar audios en GitHub
         run: |
           cp clima-radiopenjamo/noticiero-clima.mp3 .
+          cp clima-radiopenjamo/noticiero-clima-final.mp3 .
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add noticiero-clima.mp3
+          git add noticiero-clima-final.mp3
+
           if ! git diff --cached --quiet; then
-            git commit -m "Actualizar noticiero del clima"
-            git push
+            git commit -m "Actualizar noticiero del clima con musica"
+            git pull --rebase origin main
+            git push origin main
           fi
