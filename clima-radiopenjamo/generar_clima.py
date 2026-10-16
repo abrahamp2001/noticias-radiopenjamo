@@ -1,63 +1,120 @@
 
-import asyncio
-import re
+import json
+import urllib.request
 from pathlib import Path
-import edge_tts
+from datetime import datetime
+from zoneinfo import ZoneInfo
+
+# RADIO PENJAMO - NOTICIERO DEL CLIMA
 
 CARPETA = Path(__file__).resolve().parent
 GUION = CARPETA / "guion_clima.txt"
-AUDIO = CARPETA / "noticiero-clima.mp3"
 
-VOZ = "es-MX-DaliaNeural"
+LATITUD = 20.4311
+LONGITUD = -101.7226
 
-async def generar():
-    if not GUION.exists():
-        raise SystemExit("ERROR: No existe el guion.")
+URL = (
+    "https://api.open-meteo.com/v1/forecast"
+    f"?latitude={LATITUD}&longitude={LONGITUD}"
+    "&current=temperature_2m,relative_humidity_2m,"
+    "apparent_temperature,weather_code,wind_speed_10m"
+    "&daily=temperature_2m_max,temperature_2m_min,"
+    "precipitation_probability_max"
+    "&timezone=America%2FMexico_City"
+    "&forecast_days=1"
+)
 
-    texto = GUION.read_text(
-        encoding="utf-8"
-    ).strip()
-
-    if not texto:
-        raise SystemExit("ERROR: Guion vacio.")
-
-    # Unificar espacios y saltos de linea
-    texto = re.sub(r"\s+", " ", texto)
-
-    # Sustituir pausas de comas por espacios
-    texto = re.sub(r",\s*", " ", texto)
-
-    # Reducir pausas de puntos intermedios
-    texto = re.sub(
-        r"\.(?=\s+\S)",
-        ",",
-        texto
+def descripcion(codigo):
+    condiciones = {
+        0: "cielo despejado",
+        1: "cielo mayormente despejado",
+        2: "cielo parcialmente nublado",
+        3: "cielo nublado",
+        45: "presencia de niebla",
+        48: "presencia de niebla",
+        51: "llovizna ligera",
+        53: "llovizna moderada",
+        55: "llovizna intensa",
+        61: "lluvia ligera",
+        63: "lluvia moderada",
+        65: "lluvia intensa",
+        80: "chubascos ligeros",
+        81: "chubascos moderados",
+        82: "chubascos intensos",
+        95: "tormentas electricas",
+        96: "tormentas con granizo",
+        99: "tormentas fuertes con granizo"
+    }
+    return condiciones.get(
+        codigo, "condiciones meteorologicas variables"
     )
 
-    # Limpiar espacios duplicados
-    texto = re.sub(r"\s+", " ", texto).strip()
+def generar():
+    solicitud = urllib.request.Request(
+        URL,
+        headers={"User-Agent": "RadioPenjamoClima/1.0"}
+    )
 
-    print("GENERANDO LOCUCION CONTINUA...")
+    with urllib.request.urlopen(
+        solicitud, timeout=30
+    ) as respuesta:
+        datos = json.load(respuesta)
 
-    temporal = CARPETA / "voz-temporal.mp3"
+    actual = datos["current"]
+    diario = datos["daily"]
 
-    try:
-        comunicacion = edge_tts.Communicate(
-            text=texto,
-            voice=VOZ,
-            rate="+8%",
-            pitch="+0Hz"
-        )
+    temperatura = round(actual["temperature_2m"])
+    sensacion = round(actual["apparent_temperature"])
+    humedad = actual["relative_humidity_2m"]
+    viento = round(actual["wind_speed_10m"])
+    estado = descripcion(actual["weather_code"])
 
-        await comunicacion.save(str(temporal))
-        temporal.replace(AUDIO)
+    maxima = round(diario["temperature_2m_max"][0])
+    minima = round(diario["temperature_2m_min"][0])
+    lluvia = diario["precipitation_probability_max"][0]
 
-        print("LOCUCION GENERADA CORRECTAMENTE")
-        print(f"Archivo: {AUDIO}")
+    ahora = datetime.now(
+        ZoneInfo("America/Mexico_City")
+    )
 
-    finally:
-        if temporal.exists():
-            temporal.unlink()
+    fecha = ahora.strftime("%d/%m/%Y")
+
+    if 5 <= ahora.hour < 12:
+        saludo = "Muy buenos días"
+    elif 12 <= ahora.hour < 19:
+        saludo = "Muy buenas tardes"
+    else:
+        saludo = "Muy buenas noches"
+
+    texto = (
+        f"Radio Pénjamo presenta el reporte del clima. "
+        f"{saludo} amigos radioescuchas. "
+        f"Les compartimos las condiciones del tiempo "
+        f"para Pénjamo Guanajuato este {fecha}. "
+        f"Actualmente tenemos {temperatura} grados "
+        f"centígrados con sensación térmica "
+        f"de {sensacion} grados. "
+        f"El cielo presenta {estado}. "
+        f"La humedad es del {humedad} por ciento "
+        f"y los vientos alcanzan los {viento} "
+        f"kilómetros por hora. "
+        f"Para hoy se espera una temperatura máxima "
+        f"de {maxima} grados y una mínima "
+        f"de {minima} grados. "
+        f"La probabilidad máxima de lluvia "
+        f"es del {lluvia} por ciento. "
+        f"Le recomendamos tomar precauciones "
+        f"ante los cambios de temperatura "
+        f"y mantenerse informado. "
+        f"Desde Pénjamo Guanajuato esto fue "
+        f"el reporte meteorológico de Radio Pénjamo. "
+        f"Juntando familias gracias a la magia de la radio."
+    )
+
+    GUION.write_text(texto, encoding="utf-8")
+
+    print("REPORTE DEL CLIMA GENERADO CORRECTAMENTE")
+    print(f"Guion guardado en: {GUION}")
 
 if __name__ == "__main__":
-    asyncio.run(generar())
+    generar()
