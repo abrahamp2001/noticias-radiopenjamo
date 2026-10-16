@@ -5,9 +5,12 @@ from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+# RADIO PENJAMO - NOTICIERO DEL CLIMA
+
 CARPETA = Path(__file__).resolve().parent
 GUION = CARPETA / "guion_clima.txt"
 
+# Coordenadas de Penjamo, Guanajuato
 LATITUD = 20.4311
 LONGITUD = -101.7226
 
@@ -22,29 +25,45 @@ URL = (
     "&forecast_days=1"
 )
 
+
 def descripcion(codigo):
-    if codigo == 0:
-        return "cielo despejado"
-    if codigo in (1, 2, 3):
-        return "cielo parcialmente nublado o nublado"
-    if codigo in (45, 48):
-        return "presencia de niebla"
-    if codigo in (51, 53, 55, 56, 57):
-        return "posibilidad de lloviznas"
-    if codigo in (61, 63, 65, 66, 67, 80, 81, 82):
-        return "condiciones de lluvia"
-    if codigo in (95, 96, 99):
-        return "posibilidad de tormentas electricas"
-    return "condiciones meteorologicas variables"
+    condiciones = {
+        0: "cielo despejado",
+        1: "cielo mayormente despejado",
+        2: "cielo parcialmente nublado",
+        3: "cielo nublado",
+        45: "presencia de niebla",
+        48: "presencia de niebla",
+        51: "llovizna ligera",
+        53: "llovizna moderada",
+        55: "llovizna intensa",
+        61: "lluvia ligera",
+        63: "lluvia moderada",
+        65: "lluvia intensa",
+        80: "chubascos ligeros",
+        81: "chubascos moderados",
+        82: "chubascos intensos",
+        95: "tormentas electricas",
+        96: "tormentas con granizo",
+        99: "tormentas fuertes con granizo"
+    }
+
+    return condiciones.get(
+        codigo,
+        "condiciones meteorologicas variables"
+    )
+
 
 def generar():
+
     solicitud = urllib.request.Request(
         URL,
         headers={"User-Agent": "RadioPenjamoClima/1.0"}
     )
 
     with urllib.request.urlopen(
-        solicitud, timeout=30
+        solicitud,
+        timeout=30
     ) as respuesta:
         datos = json.load(respuesta)
 
@@ -55,6 +74,7 @@ def generar():
     sensacion = round(actual["apparent_temperature"])
     humedad = actual["relative_humidity_2m"]
     viento = round(actual["wind_speed_10m"])
+
     estado = descripcion(actual["weather_code"])
 
     maxima = round(diario["temperature_2m_max"][0])
@@ -65,53 +85,52 @@ def generar():
         ZoneInfo("America/Mexico_City")
     )
 
-    fecha = ahora.strftime("%d/%m/%Y")
+    fecha = ahora.strftime("%d de %B de %Y")
 
-    texto = f"""
-Radio Penjamo presenta su reporte del clima.
+    if 5 <= ahora.hour < 12:
+        saludo = "Muy buenos dias"
+    elif 12 <= ahora.hour < 19:
+        saludo = "Muy buenas tardes"
+    else:
+        saludo = "Muy buenas noches"
 
-Muy buenos dias, tardes o noches, amigos radioescuchas.
-
-Les presentamos la informacion meteorologica
-para Penjamo, Guanajuato, correspondiente
-al dia {fecha}.
-
-Actualmente tenemos una temperatura
-de {temperatura} grados centigrados,
-con sensacion termica de {sensacion} grados.
-
-Las condiciones del cielo indican {estado}.
-
-La humedad relativa es del {humedad} por ciento,
-y el viento alcanza los {viento} kilometros por hora.
-
-Para este dia se pronostica una temperatura
-maxima de {maxima} grados,
-y una minima de {minima} grados centigrados.
-
-La probabilidad maxima de precipitacion
-prevista para hoy es del {lluvia} por ciento.
-
-Recuerde tomar sus precauciones
-ante los cambios de temperatura.
-
-Desde Penjamo, Guanajuato,
-para Mexico y el mundo.
-
-Esto fue el reporte meteorologico
-de Radio Penjamo.
-
-Juntando familias gracias a la magia de la radio.
-"""
+    texto = (
+        f"Radio Pénjamo presenta el reporte del clima. "
+        f"{saludo}, amigos radioescuchas. "
+        f"Les compartimos las condiciones del tiempo "
+        f"para Pénjamo, Guanajuato, este {fecha}. "
+        f"Actualmente tenemos {temperatura} grados "
+        f"centígrados, con sensación térmica "
+        f"de {sensacion} grados. "
+        f"El cielo presenta {estado}. "
+        f"La humedad es del {humedad} por ciento "
+        f"y los vientos alcanzan los {viento} "
+        f"kilómetros por hora. "
+        f"Para hoy se espera una temperatura máxima "
+        f"de {maxima} grados y una mínima "
+        f"de {minima} grados. "
+        f"La probabilidad máxima de lluvia "
+        f"es del {lluvia} por ciento. "
+        f"Le recomendamos tomar precauciones "
+        f"ante los cambios de temperatura "
+        f"y mantenerse informado. "
+        f"Desde Pénjamo, Guanajuato, "
+        f"esto fue el reporte meteorológico "
+        f"de Radio Pénjamo. "
+        f"Juntando familias gracias "
+        f"a la magia de la radio."
+    )
 
     GUION.write_text(
-        texto.strip(),
+        texto,
         encoding="utf-8"
     )
 
-    print("GUION DEL CLIMA GENERADO CORRECTAMENTE")
-    print(f"Archivo: {GUION}")
+    print("REPORTE DEL CLIMA GENERADO CORRECTAMENTE")
+    print(f"Temperatura: {temperatura} grados")
+    print(f"Condiciones: {estado}")
+    print(f"Guion guardado en: {GUION}")
+
 
 if __name__ == "__main__":
     generar()
-
