@@ -73,14 +73,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Director de Prepa oficial de Pénjamo firma renuncia simbólica ante presión estudiantil",
-    "fecha": "14/10/2026 22:42",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/14/director-de-prepa-oficial-de-penjamo-firma-renuncia-simbolica-ante-presion-estudiantil-169159.html",
-    "resumen": "Los estudiantes condicionaron el regreso a clases a la separación de Gerardo Fuentes y Sara Martínez, señalados por presunta falta de atención a denuncias"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Tras más de 20 años de solicitudes, inauguran drenaje en Estación La Piedad",
     "fecha": "15/10/2026 06:01",
     "fuente": "El Sol de Irapuato",
@@ -102,6 +94,22 @@
     "fuente": "Notus página 3",
     "url": "https://notus.com.mx/huanimaro-inicia-pavimentacion-de-calle-en-copales/",
     "resumen": "Huanímaro, Guanajuato. Con una inversión de 4 millones 994 mil 604.72 pesos, inició la pavimentación de la calle Benito Juárez en la comunidad de Copales, una obra que contempla empedrado y huellas de concreto estampado, además de trabajos en las redes de agua potable y drenaje. El proyecto se realiza con recursos del Gobierno Municipal …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "DIF de Irapuato entrega 44 aparatos ortopédicos con apoyo de Tiendas Básicos",
+    "fecha": "15/10/2026 21:23",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/15/dif-de-irapuato-entrega-44-aparatos-ortopedicos-con-apoyo-de-tiendas-basicos-169243.html",
+    "resumen": "El DIF de Irapuato entregó 44 aparatos ortopédicos a habitantes de Irapuato y Romita, con una inversión de 227 mil pesos, en coordinación con Tiendas Básico"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "BanBajío inaugura su sexta sucursal en Irapuato",
+    "fecha": "15/10/2026 17:58",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/15/banbajio-inaugura-su-sexta-sucursal-en-irapuato-169216.html",
+    "resumen": "BanBajío abrió la Sucursal Murano, su sexta oficina en Irapuato y la número 53 en Guanajuato, para fortalecer el acompañamiento"
   },
   {
     "prioridad": 2,
@@ -129,6 +137,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "El Cervantino en Irapuato abre espacio a la inclusión con A los 30",
+    "fecha": "15/10/2026 14:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/el-amor-tambien-se-cuenta-desde-la-discapacidad-a-los-30-llega-al-cervantino-en-irapuato-32624264",
+    "resumen": "La compañía Ola Artística, originaria de León, presentó la obra “A los 30” en el Parque Irekua, con una propuesta que busca visibilizar a las personas con discapacidad a través del arte"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Violencia en Irapuato: asesinan a pastor cristiano y a su esposa",
     "fecha": "15/10/2026 14:04",
     "fuente": "Notus página 2",
@@ -142,21 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/15/ataque-armado-en-villas-del-dorado-irapuato-deja-un-muerto-y-una-mujer-lesionada-hay-un-detenido-169184.html",
     "resumen": "Reportes a emergencias alertaron sobre detonaciones de arma de fuego en la colonia de Irapuato, donde se logró la detención del presunto responsable"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Seis maestros de Irapuato viajarán a España para una estancia académica",
-    "fecha": "15/10/2026 12:57",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/seis-maestros-de-irapuato-viajaran-a-espana-para-una-estancia-academica/",
-    "resumen": "Irapuato, Guanajuato.- Seis docentes de instituciones educativas de Irapuato viajarán a España del 29 de octubre al 7 de noviembre para realizar una estancia académica como parte del programa Impulso a la Internacionalización Docente 2026, impulsado por el Gobierno Municipal. Las y los maestros fueron reconocidos en la quinta edición del premio Ramón Barreto de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Las Liebres se certifica como colonia responsable de sus mascotas en Irapuato",
-    "fecha": "15/10/2026 12:01",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/las-liebres-se-certifica-como-colonia-responsable-de-sus-mascotas-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- La colonia Las Liebres recibió la certificación como Colonia Responsable de sus Mascotas en Irapuato, luego de participar en un programa municipal que logró más de 150 esterilizaciones, 185 desparasitaciones y 217 aplicaciones de vacunas. La estrategia es impulsada por el Gobierno de Irapuato, a través de la Dirección General de Salud Municipal, …"
   }
 ]
