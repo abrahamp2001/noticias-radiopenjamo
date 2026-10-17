@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Inauguran pavimentación de la calle “Plan de Ayala Poniente” en Pénjamo",
+    "fecha": "17/10/2026 11:32",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/inauguran-pavimentacion-de-la-calle-plan-de-ayala-poniente-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- La calle Plan de Ayala Poniente, ubicada en la colonia 10 de Abril, fue inaugurada tras concluir los trabajos de pavimentación con concreto, una obra destinada a mejorar las condiciones de movilidad para los habitantes de la zona. Con esta intervención, las familias cuentan con una vialidad que facilita el tránsito y el …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Ya no pasará el camión de la basura en Abasolo por la noche",
     "fecha": "16/10/2026 16:51",
     "fuente": "Notus",
@@ -19,7 +27,7 @@
     "prioridad": 0,
     "titulo": "Pénjamo entrega pavimentación en la colonia Magisterial 10 de Abril",
     "fecha": "16/10/2026 15:24",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/penjamo-entrega-pavimentacion-en-la-colonia-magisterial-10-de-abril/",
     "resumen": "Pénjamo, Guanajuato.- El municipio de Pénjamo entregó la pavimentación de la calle Plan de Ayala Poniente, en la colonia Magisterial 10 de Abril, con una inversión de 3 millones 515 mil 287 pesos y beneficio directo para 55 personas. La presidenta municipal, Yozajamby Molina, encabezó la inauguración de la obra, que incluyó la construcción de …"
   },
@@ -35,7 +43,7 @@
     "prioridad": 0,
     "titulo": "Designan directora interina en prepa de Pénjamo tras protestas",
     "fecha": "16/10/2026 14:08",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/designan-directora-interina-en-prepa-de-penjamo-tras-protestas/",
     "resumen": "Pénjamo, Guanajuato.- Luego de las protestas estudiantiles por presunto acoso y violencia en la preparatoria oficial de Pénjamo, se anunció a María del Carmen Moreno Frías como directora interina, sustituyendo a Gerardo Fuentes Cordera. El exdirector fue señalado por los manifestantes por desestimar las denuncias expuestas por los alumnos. Acoso y amenazas: “renuncia” del director …"
   },
@@ -57,6 +65,22 @@
   },
   {
     "prioridad": 2,
+    "titulo": "¡Éxito total! Theatron Ensamble conquista Irapuato con ‘Desfaciendo entuertos’",
+    "fecha": "17/10/2026 06:06",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/exito-total-theatron-ensamble-conquista-irapuato-con-desfaciendo-entuertos-32648281",
+    "resumen": "Bajo la dirección del maestro Hugo Almanza González, el elenco de esta comedia corta ofreció una actuación de primera en el marco del Festival Internacional Cervantino"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "María Gómez transforma su pasión por la lectura en libros que acercan la psicología a todos",
+    "fecha": "16/10/2026 21:25",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/16/maria-gomez-transforma-su-pasion-por-la-lectura-en-libros-que-acercan-la-psicologia-a-todos-169329.html",
+    "resumen": "María Gómez, docente y escritora de Irapuato, recibió el premio a la Máxima Excelencia del Premio Iberoamericano de Literatura Rafael Almanza Pérez"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Sequía destruye las cosechas de maíz de 250 productores de 17 comunidades de Irapuato",
     "fecha": "16/10/2026 19:28",
     "fuente": "Periódico Correo",
@@ -75,7 +99,7 @@
     "prioridad": 2,
     "titulo": "Plaza Fiesta Irapuato: roba joyas y el ladrón sale caminando",
     "fecha": "16/10/2026 15:33",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/plaza-fiesta-irapuato-roba-joyas-y-el-ladron-sale-caminando/",
     "resumen": "Irapuato, Guanajuato.- Un hombre robó joyas de un puesto en Plaza Fiesta, en el centro de Irapuato, y se fue caminando sin que nadie lo detuviera. El robo ocurrió alrededor de las 8 de la noche del jueves y “nadie” se percató del atracó. El puesto afectado se encuentra en el pasillo principal de la …"
   },
@@ -123,7 +147,7 @@
     "prioridad": 2,
     "titulo": "Alcaldesa de Irapuato exige liberar la carretera Irapuato-Salamanca",
     "fecha": "16/10/2026 13:53",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/alcaldesa-de-irapuato-exige-liberar-la-carretera-irapuato-salamanca/",
     "resumen": "Irapuato, Guanajuato.- Lorena Alfaro, presidenta de Irapuato, informó que hay una nula respuesta por parte de Pemex y Guardia Nacional respecto a las pipas que generan congestionamiento vial en la carretera Irapuato-Salamanca a la altura de la Ciudad Industrial. La alcaldesa hizo un exhorto público a las autoridades federales y a la empresa para que …"
   },
@@ -134,29 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/16/volcadura-ocasiona-fuerte-congestionamiento-en-carretera-federal-irapuato-silao-169284.html",
     "resumen": "Un accidente se registró cuando un auto terminó volcado sobre dos de los tres carriles de la carretera Irapuato-Silao, ocasionando caos vial"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cambio climático aumenta incertidumbre para el campo; proponen ampliar agricultura protegida",
-    "fecha": "16/10/2026 12:14",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cambio-climatico-aumenta-incertidumbre-para-el-campo-proponen-ampliar-agricultura-protegida-32636334",
-    "resumen": "La variabilidad climática complica la producción a cielo abierto en Irapuato y lleva al campo a evaluar agricultura protegida y nuevas tecnologías"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato reinstala comité contra el acoso sexual y la violencia laboral",
-    "fecha": "16/10/2026 12:07",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/irapuato-reinstala-comite-contra-el-acoso-sexual-y-la-violencia-laboral/",
-    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato reinstaló el Comité para la Prevención, Atención y Sanción de la Violencia Laboral, el Acoso Sexual y el Hostigamiento Sexual en la Administración Pública Municipal, organismo encargado de contribuir a la prevención y atención de estas conductas entre el personal del municipio. La sesión fue encabezada por la presidenta …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "DIF Irapuato concluye programa de prevención de violencia en dos comunidades rurales",
-    "fecha": "16/10/2026 11:42",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/dif-irapuato-concluye-programa-de-prevencion-de-violencia-en-dos-comunidades-rurales/",
-    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato y el Sistema DIF Municipal realizaron el cierre del programa “Redes y Espacios de Paz” en las comunidades rurales de La Candelaria y El Zapote, con acciones orientadas a fortalecer las relaciones familiares, promover el diálogo y prevenir la violencia intrafamiliar. Durante la jornada, la presidenta municipal, Lorena Alfaro …"
   }
 ]
