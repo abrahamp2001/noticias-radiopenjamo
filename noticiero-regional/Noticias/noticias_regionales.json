@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Fallece el doctor Carlos Torres, anestesiólogo de Pénjamo",
+    "fecha": "17/10/2026 17:51",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/fallece-el-doctor-carlos-torres-anestesiologo-de-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- El doctor Carlos Torres López, quien entregó su vida a la salud penjamense, falleció este 17 de octubre. El anestesiólogo se había jubilado el 30 de septiembre del Hospital General, tras 24 años de servicio. “Descansa en paz, querido amigo y colega. Que tu legado y los buenos momentos compartidos permanezcan vivos en …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Inauguran pavimentación de la calle “Plan de Ayala Poniente” en Pénjamo",
     "fecha": "17/10/2026 11:32",
     "fuente": "Notus página 2",
@@ -8,12 +16,20 @@
     "resumen": "Pénjamo, Guanajuato.- La calle Plan de Ayala Poniente, ubicada en la colonia 10 de Abril, fue inaugurada tras concluir los trabajos de pavimentación con concreto, una obra destinada a mejorar las condiciones de movilidad para los habitantes de la zona. Con esta intervención, las familias cuentan con una vialidad que facilita el tránsito y el …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Ya no pasará el camión de la basura en Abasolo por la noche",
-    "fecha": "16/10/2026 16:51",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/ya-no-pasara-el-camion-de-la-basura-en-abasolo-por-la-noche/",
-    "resumen": "Abasolo, Guanajuato.- A partir del próximo lunes, los camiones recolectores de basura pasarán todos los días en un horario de 7:00 de la mañana a 4:00 de la tarde, así lo informó el Gobierno Municipal de Abasolo. El anunció es un cambio en el servicio de recolección de basura en la cabecera municipal. Con este …"
+    "prioridad": 2,
+    "titulo": "Irapuato vence dos a cero a Zacatepec y firma séptimo triunfo",
+    "fecha": "17/10/2026 17:03",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-2-0-al-zacatepec-y-suma-su-septimo-triunfo-en-la-liga-premier-32659533",
+    "resumen": "Irapuato derrotó 2-0 al Zacatepec con goles de Luis “Nono” Araujo y Arturo Hernández y llegó a siete triunfos consecutivos en la Liga Premier."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Oh My Jah y La Comuna hacen vibrar Irapuato con una noche de reggae en el Cervantino",
+    "fecha": "17/10/2026 15:24",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/oh-my-jah-y-la-comuna-comparten-una-noche-de-reggae-en-irapuato-32658104",
+    "resumen": "La banda irapuatense celebró 20 años de trayectoria junto a La Comuna, en un concierto gratuito que puso al reggae en el corazón del Centro Histórico y buscó acercar este género a nuevos públicos."
   },
   {
     "prioridad": 2,
@@ -35,7 +51,7 @@
     "prioridad": 2,
     "titulo": "Frente frío 2 enfriará a Guanajuato",
     "fecha": "17/10/2026 13:54",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/frente-frio-2-enfriara-a-guanajuato/",
     "resumen": "Irapuato, Guanajuato.- El frente frío número 2 de la temporada y la masa de aire polar que lo acompaña enfriarán este sábado la mayoría de municipios de Guanajuato. El pronóstico del Servicio Meteorológico Nacional (SMN) difundió que bajará la temperatura hasta seis grados y las mínimas rondarán los 11 grados. Las máximas bajarán entre tres …"
   },
@@ -51,7 +67,7 @@
     "prioridad": 2,
     "titulo": "Diputado Abraham Sotomayor “ya hace campaña” en Irapuato",
     "fecha": "17/10/2026 13:43",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/diputado-abraham-sotomayor-ya-hace-campana-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- El diputado local Abraham Sotomayor, de Morena, comenzó en Irapuato una serie de recorridos tipo “campaña electoral” para supuestamente “informar “a la ciudadanía sobre su segundo año en el Congreso del Estado. El diputado hace unos días se registró para buscar la coordinación municipal de los Comités en Defensa de la Transformación y …"
   },
@@ -102,29 +118,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/gossip/exito-total-theatron-ensamble-conquista-irapuato-con-desfaciendo-entuertos-32648281",
     "resumen": "Bajo la dirección del maestro Hugo Almanza González, el elenco de esta comedia corta ofreció una actuación de primera en el marco del Festival Internacional Cervantino"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "María Gómez transforma su pasión por la lectura en libros que acercan la psicología a todos",
-    "fecha": "16/10/2026 21:25",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/16/maria-gomez-transforma-su-pasion-por-la-lectura-en-libros-que-acercan-la-psicologia-a-todos-169329.html",
-    "resumen": "María Gómez, docente y escritora de Irapuato, recibió el premio a la Máxima Excelencia del Premio Iberoamericano de Literatura Rafael Almanza Pérez"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sequía destruye las cosechas de maíz de 250 productores de 17 comunidades de Irapuato",
-    "fecha": "16/10/2026 19:28",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/16/sequia-destruye-las-cosechas-de-maiz-de-250-productores-de-17-comunidades-de-irapuato-169313.html",
-    "resumen": "La sequía provocó la pérdida de cosechas de maíz de 250 productores agrícolas de 17 comunidades de Irapuato. La falta de agua impidió recuperar las inversiones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Productores de Purísima del Rincón rechazan el trazo del tren Irapuato-Guadalajara",
-    "fecha": "16/10/2026 18:20",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/16/productores-de-purisima-del-rincon-rechazan-el-trazo-del-tren-irapuato-guadalajara-169308.html",
-    "resumen": "Ejidatarios y productores de Purísima del Rincón advierten riesgos para sus tierras y comunidades por el trazo del tren Irapuato-Guadalajara"
   }
 ]
