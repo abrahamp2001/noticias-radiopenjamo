@@ -8,12 +8,36 @@
     "resumen": "Pénjamo, Guanajuato.- El doctor Carlos Torres López, quien entregó su vida a la salud penjamense, falleció este 17 de octubre. El anestesiólogo se había jubilado el 30 de septiembre del Hospital General, tras 24 años de servicio. “Descansa en paz, querido amigo y colega. Que tu legado y los buenos momentos compartidos permanezcan vivos en …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Inauguran pavimentación de la calle “Plan de Ayala Poniente” en Pénjamo",
-    "fecha": "17/10/2026 11:32",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/inauguran-pavimentacion-de-la-calle-plan-de-ayala-poniente-en-penjamo/",
-    "resumen": "Pénjamo, Guanajuato.- La calle Plan de Ayala Poniente, ubicada en la colonia 10 de Abril, fue inaugurada tras concluir los trabajos de pavimentación con concreto, una obra destinada a mejorar las condiciones de movilidad para los habitantes de la zona. Con esta intervención, las familias cuentan con una vialidad que facilita el tránsito y el …"
+    "prioridad": 2,
+    "titulo": "Asesinan a balazos a un hombre durante la madrugada en Irapuato",
+    "fecha": "18/10/2026 11:02",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/asesinan-a-balazos-a-un-hombre-durante-la-madrugada-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un hombre murió tras ser víctima de un ataque armado durante la madrugada de este domingo , en la colonia Miguel Hidalgo, en Irapuato. Los hechos se registraron alrededor de las 2:30 de la mañana sobre la calle Independencia, casi en el cruce con Antonio Torres, donde vecinos reportaron una agresión con disparos …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a hombre a balazos en la colonia Miguel Hidalgo de Irapuato",
+    "fecha": "18/10/2026 04:57",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-hombre-a-balazos-en-la-colonia-miguel-hidalgo-de-irapuato-32664966",
+    "resumen": "Vecinos reportaron detonaciones alrededor de las 2:30 de la madrugada en la calle Independencia; la víctima fue localizada todavía con vida por paramédicos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De estancias ganaderas a ciudad: así comenzó a formarse Irapuato",
+    "fecha": "18/10/2026 04:26",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-estancias-ganaderas-a-ciudad-asi-comenzo-a-formarse-irapuato-32664444",
+    "resumen": "Durante los siglos XVI, XVII y XVIII, el territorio se configuró mediante mercedes de tierra, estancias ganaderas y haciendas; Arandas conserva parte de una historia ligada al manejo del agua y a las inundaciones"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Constructora invade área de donación y levanta canchas de pádel en fraccionamiento de Irapuato",
+    "fecha": "17/10/2026 23:06",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/17/constructora-invade-area-de-donacion-y-levanta-canchas-de-padel-en-fraccionamiento-de-irapuato-169378.html",
+    "resumen": "Vecinos de un fraccionamiento de Irapuato denuncian que la constructora Aloro ocupó un área de donación para construir canchas de pádel"
   },
   {
     "prioridad": 2,
@@ -35,7 +59,7 @@
     "prioridad": 2,
     "titulo": "Halloween y Día de Muertos llegan a ZooIra; niños disfrazados entran gratis",
     "fecha": "17/10/2026 14:40",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/halloween-y-dia-de-muertos-llegan-a-zooira-ninos-disfrazados-entran-gratis/",
     "resumen": "Irapuato, Guanajuato.- Ya se acerca el Halloween y la fiesta del Día de Muertos y en el Zoológico de Irapuato se preparan promociones para quienes quieran pasar un fin de semana divertido. Y es que las promociones se extenderán los días viernes 30 y sábado 31 de octubre, en los cuales, habrá entrada gratis para …"
   },
@@ -43,7 +67,7 @@
     "prioridad": 2,
     "titulo": "“Queda acéfala” Secretaría del Ayuntamiento de Irapuato",
     "fecha": "17/10/2026 14:37",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/queda-acefala-secretaria-del-ayuntamiento-de-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Rodolfo Gómez Cervantes concluyó su gestión como secretario del Ayuntamiento de Irapuato y horas más tarde festejó su cumpleaños 48. El irapuatense ocupó el cargo durante cinco años, en las dos administraciones de la alcaldesa panista Lorena Alfaro García. La salida estaba anunciada desde el viernes 9 de octubre cuando “Rodo” Gómez Cervantes …"
   },
@@ -70,53 +94,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/diputado-abraham-sotomayor-ya-hace-campana-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- El diputado local Abraham Sotomayor, de Morena, comenzó en Irapuato una serie de recorridos tipo “campaña electoral” para supuestamente “informar “a la ciudadanía sobre su segundo año en el Congreso del Estado. El diputado hace unos días se registró para buscar la coordinación municipal de los Comités en Defensa de la Transformación y …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Secuestran, torturan y atropellan a un hombre en Irapuato; lo abandonan junto al río",
-    "fecha": "17/10/2026 10:11",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/secuestran-torturan-y-atropellan-a-un-hombre-en-irapuato-lo-abandonan-junto-al-rio-32653443",
-    "resumen": "Cuatro hombres lo habrían privado de la libertad en el camino a Villas de San Cayetano, lo golpearon y lo arrojaron cerca del río Guanajuato. Fue localizado durante la madrugada en el Fraccionamiento El Encanto"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Viento de hasta 60 km/h y noches frías: alertan por condiciones del clima en Irapuato",
-    "fecha": "17/10/2026 09:49",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/viento-de-hasta-60-km-h-y-noches-frias-alertan-por-condiciones-del-clima-en-irapuato-32652890",
-    "resumen": "Protección Civil pide asegurar objetos, evitar zonas con árboles y espectaculares y abrigarse durante la noche. El pronóstico nacional también contempla chubascos en Guanajuato durante el fin de semana"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tecnología y coordinación policial, claves en detenciones tras jornada violenta en Irapuato: regidor",
-    "fecha": "17/10/2026 08:38",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/tecnologia-y-coordinacion-policial-claves-en-detenciones-tras-jornada-violenta-en-irapuato-regidor-32651595",
-    "resumen": "El edil atribuyó la captura de siete personas a la reacción policial y la coordinación con la Fiscalía, luego de hechos violentos en el bar El Continental, Colinas del Río, Villas del Dorado e incluso Salamanca"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Jóvenes convierten meses de trabajo en robots de combate durante torneo en Irapuato",
-    "fecha": "17/10/2026 07:20",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/jovenes-convierten-meses-de-trabajo-en-robots-de-combate-durante-torneo-en-irapuato-32649785",
-    "resumen": "El Japan Sumo Irapuato reunió a participantes de distintas ciudades en pruebas de robótica y combate mecánico. Oswaldo, de 17 años, desarrolló durante meses un robot de una libra; Fernando, de ocho, comienza a involucrarse en este campo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Centros Convive buscan ir más allá de los talleres: Irapuato apuesta por atender problemas familiares",
-    "fecha": "17/10/2026 07:04",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/centros-convive-buscan-ir-mas-alla-de-los-talleres-irapuato-apuesta-por-atender-problemas-familiares-32649587",
-    "resumen": "Los antiguos Cedecom fueron reactivados y ahora buscan convertirse en espacios de atención integral; Lorena Alfaro afirma que la meta es detectar situaciones de riesgo y acompañar a las familias, no sólo ofrecer actividades recreativas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡Éxito total! Theatron Ensamble conquista Irapuato con ‘Desfaciendo entuertos’",
-    "fecha": "17/10/2026 06:06",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/exito-total-theatron-ensamble-conquista-irapuato-con-desfaciendo-entuertos-32648281",
-    "resumen": "Bajo la dirección del maestro Hugo Almanza González, el elenco de esta comedia corta ofreció una actuación de primera en el marco del Festival Internacional Cervantino"
   }
 ]
