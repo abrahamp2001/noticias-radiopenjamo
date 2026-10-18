@@ -1,11 +1,51 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Volcadura en carretera La Herradura, Pénjamo, deja cuatro lesionados",
+    "fecha": "18/10/2026 15:31",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/18/volcadura-en-carretera-la-herradura-penjamo-deja-cuatro-lesionados-169409.html",
+    "resumen": "Un accidente se registró la madrugada del domingo en de Pénjamo cuando un conductor perdió el control del vehículo y terminó volcado sobre la carretera"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Entregan más de 70 apoyos para movilidad y salud en el DIF Municipal en Abasolo",
+    "fecha": "18/10/2026 10:13",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/entregan-mas-de-70-apoyos-para-movilidad-y-salud-en-el-dif-municipal-en-abasolo-32670317",
+    "resumen": "En coordinación con el Gobierno del Estado, el Gobierno Municipal realizó la entrega de sillas de ruedas, auxiliares auditivos, lentes, bastones, muletas y andaderas, dirigidos a personas que requieren estos dispositivos"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Yozajamby Molina arranca obra vial en la comunidad de Lagunillas, en Pénjamo tras compromiso con sus habitantes",
+    "fecha": "18/10/2026 09:48",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/yozajamby-molina-arranca-obra-vial-en-la-comunidad-de-lagunillas-en-penjamo-tras-compromiso-con-sus-habitantes-32669808",
+    "resumen": "La presidenta municipal de Pénjamo, Yozajamby Molina Balver, encabezó el inicio de los trabajos en la comunidad de Lagunillas, donde señaló que la intervención responde a un compromiso adquirido, dijo que la selección de la calle considera el tránsito de estudiantes y la necesidad de mejorar los accesos a los espacios educativos"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Fallece el doctor Carlos Torres, anestesiólogo de Pénjamo",
     "fecha": "17/10/2026 17:51",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/fallece-el-doctor-carlos-torres-anestesiologo-de-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- El doctor Carlos Torres López, quien entregó su vida a la salud penjamense, falleció este 17 de octubre. El anestesiólogo se había jubilado el 30 de septiembre del Hospital General, tras 24 años de servicio. “Descansa en paz, querido amigo y colega. Que tu legado y los buenos momentos compartidos permanezcan vivos en …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Huanímaro inaugura jardín de La Granja tras inversión acumulada de casi 3.4 millones de pesos",
+    "fecha": "18/10/2026 09:13",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/huanimaro-inaugura-jardin-de-la-granja-tras-inversion-acumulada-de-casi-3-4-millones-de-pesos-32669045",
+    "resumen": "La rehabilitación del espacio público se desarrolló en dos etapas, con una inversión total de tres millones 392 mil 27 pesos. Los trabajos incluyeron la instalación de adoquín, pórfido, cantera, bancas, luminarias solares, juegos infantiles y aparatos para ejercitarse"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Obispo de Irapuato pide fortalecer atención a víctimas de abusos sexuales en la iglesia",
+    "fecha": "18/10/2026 12:39",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/18/obispo-de-irapuato-pide-fortalecer-atencion-a-victimas-de-abusos-sexuales-en-la-iglesia-169395.html",
+    "resumen": "Enrique Díaz Díaz declaró que la diócesis de Irapuato ha mejorado la transparencia y formado una comisión de protección y prevención de casos de abuso"
   },
   {
     "prioridad": 2,
@@ -14,6 +54,22 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/asesinan-a-balazos-a-un-hombre-durante-la-madrugada-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Un hombre murió tras ser víctima de un ataque armado durante la madrugada de este domingo , en la colonia Miguel Hidalgo, en Irapuato. Los hechos se registraron alrededor de las 2:30 de la mañana sobre la calle Independencia, casi en el cruce con Antonio Torres, donde vecinos reportaron una agresión con disparos …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "La ópera Pagliacci cautiva Irapuato de la mano de la Orquesta Filarmónica Mahler",
+    "fecha": "18/10/2026 10:31",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/la-opera-pagliacci-cautiva-irapuato-de-la-mano-de-la-orquesta-filarmonica-mahler-32669931",
+    "resumen": "Con este montaje del compositor italiano Ruggero Leoncavallo, fue clausurada la agenda cultural que se llevó a cabo dentro de la programación del Festival Internacional Cervantino"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Nadie mueve al Irapuato del liderato en la Liga Premier",
+    "fecha": "18/10/2026 09:20",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/nadie-mueve-al-irapuato-del-liderato-de-la-liga-premier-llega-a-22-puntos-32669347",
+    "resumen": "Este lunes inician su preparación con miras a la visita ante Inter Playa del Carmen"
   },
   {
     "prioridad": 2,
@@ -48,51 +104,11 @@
     "resumen": "Irapuato derrotó 2-0 al Zacatepec con goles de Luis “Nono” Araujo y Arturo Hernández y llegó a siete triunfos consecutivos en la Liga Premier."
   },
   {
-    "prioridad": 2,
-    "titulo": "Oh My Jah y La Comuna hacen vibrar Irapuato con una noche de reggae en el Cervantino",
-    "fecha": "17/10/2026 15:24",
+    "prioridad": 3,
+    "titulo": "De goteras a drenajes dañados: las reparaciones que requieren escuelas de Guanajuato",
+    "fecha": "18/10/2026 07:33",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/oh-my-jah-y-la-comuna-comparten-una-noche-de-reggae-en-irapuato-32658104",
-    "resumen": "La banda irapuatense celebró 20 años de trayectoria junto a La Comuna, en un concierto gratuito que puso al reggae en el corazón del Centro Histórico y buscó acercar este género a nuevos públicos."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Halloween y Día de Muertos llegan a ZooIra; niños disfrazados entran gratis",
-    "fecha": "17/10/2026 14:40",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/halloween-y-dia-de-muertos-llegan-a-zooira-ninos-disfrazados-entran-gratis/",
-    "resumen": "Irapuato, Guanajuato.- Ya se acerca el Halloween y la fiesta del Día de Muertos y en el Zoológico de Irapuato se preparan promociones para quienes quieran pasar un fin de semana divertido. Y es que las promociones se extenderán los días viernes 30 y sábado 31 de octubre, en los cuales, habrá entrada gratis para …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Queda acéfala” Secretaría del Ayuntamiento de Irapuato",
-    "fecha": "17/10/2026 14:37",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/queda-acefala-secretaria-del-ayuntamiento-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Rodolfo Gómez Cervantes concluyó su gestión como secretario del Ayuntamiento de Irapuato y horas más tarde festejó su cumpleaños 48. El irapuatense ocupó el cargo durante cinco años, en las dos administraciones de la alcaldesa panista Lorena Alfaro García. La salida estaba anunciada desde el viernes 9 de octubre cuando “Rodo” Gómez Cervantes …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Frente frío 2 enfriará a Guanajuato",
-    "fecha": "17/10/2026 13:54",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/frente-frio-2-enfriara-a-guanajuato/",
-    "resumen": "Irapuato, Guanajuato.- El frente frío número 2 de la temporada y la masa de aire polar que lo acompaña enfriarán este sábado la mayoría de municipios de Guanajuato. El pronóstico del Servicio Meteorológico Nacional (SMN) difundió que bajará la temperatura hasta seis grados y las mínimas rondarán los 11 grados. Las máximas bajarán entre tres …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Pestalotia disminuyó producción de fresa de Irapuato; secuelas aún persisten",
-    "fecha": "17/10/2026 13:48",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/17/pestalotia-disminuyo-produccion-de-fresa-de-irapuato-secuelas-aun-persisten-169351.html",
-    "resumen": "La disminución de la producción de fresa por Pestalotia fue de 15 a 17% a la fecha, pese a que la plaga ya fue controlada"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Diputado Abraham Sotomayor “ya hace campaña” en Irapuato",
-    "fecha": "17/10/2026 13:43",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/diputado-abraham-sotomayor-ya-hace-campana-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- El diputado local Abraham Sotomayor, de Morena, comenzó en Irapuato una serie de recorridos tipo “campaña electoral” para supuestamente “informar “a la ciudadanía sobre su segundo año en el Congreso del Estado. El diputado hace unos días se registró para buscar la coordinación municipal de los Comités en Defensa de la Transformación y …"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-goteras-a-drenajes-danados-las-reparaciones-que-requieren-escuelas-de-guanajuato-32667324",
+    "resumen": "El delegado de Educación, Juan Luis Saldaña López, señaló que la Región IV comprende más de dos mil 100 planteles y que junto con Obra Pública dan atención a escuelas afectadas"
   }
 ]
