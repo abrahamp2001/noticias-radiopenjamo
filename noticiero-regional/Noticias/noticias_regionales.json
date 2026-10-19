@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Auto vuelca en carretera Abasolo-Irapuato tras esquivar presunta motocicleta",
+    "fecha": "18/10/2026 23:16",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/18/auto-vuelca-en-carretera-abasolo-irapuato-tras-esquivar-presunta-motocicleta-169447.html",
+    "resumen": "El accidente ocurrió a la altura de la comunidad La Purísima; el automovilista recibió atención de Protección Civil y no presentó lesiones graves"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Volcadura en carretera La Herradura, Pénjamo, deja cuatro lesionados",
     "fecha": "18/10/2026 15:31",
     "fuente": "Periódico Correo",
@@ -24,12 +32,12 @@
     "resumen": "La presidenta municipal de Pénjamo, Yozajamby Molina Balver, encabezó el inicio de los trabajos en la comunidad de Lagunillas, donde señaló que la intervención responde a un compromiso adquirido, dijo que la selección de la calle considera el tránsito de estudiantes y la necesidad de mejorar los accesos a los espacios educativos"
   },
   {
-    "prioridad": 0,
-    "titulo": "Fallece el doctor Carlos Torres, anestesiólogo de Pénjamo",
-    "fecha": "17/10/2026 17:51",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/fallece-el-doctor-carlos-torres-anestesiologo-de-penjamo/",
-    "resumen": "Pénjamo, Guanajuato.- El doctor Carlos Torres López, quien entregó su vida a la salud penjamense, falleció este 17 de octubre. El anestesiólogo se había jubilado el 30 de septiembre del Hospital General, tras 24 años de servicio. “Descansa en paz, querido amigo y colega. Que tu legado y los buenos momentos compartidos permanezcan vivos en …"
+    "prioridad": 1,
+    "titulo": "Despliegue policiaco en un velorio alarmó a vecinos de Cuerámaro",
+    "fecha": "18/10/2026 18:06",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/18/despliegue-policiaco-en-un-velorio-alarmo-a-vecinos-de-cueramaro-169420.html",
+    "resumen": "Hasta seis patrullas llegaron a una vivienda de la calle Lerdo de Tejada, Cuerámaro, tras reportes de que un velorio se había convertido en fiesta"
   },
   {
     "prioridad": 1,
@@ -38,6 +46,14 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/huanimaro-inaugura-jardin-de-la-granja-tras-inversion-acumulada-de-casi-3-4-millones-de-pesos-32669045",
     "resumen": "La rehabilitación del espacio público se desarrolló en dos etapas, con una inversión total de tres millones 392 mil 27 pesos. Los trabajos incluyeron la instalación de adoquín, pórfido, cantera, bancas, luminarias solares, juegos infantiles y aparatos para ejercitarse"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato registra más de mil 555 millones de dólares en inversiones comprometidas",
+    "fecha": "18/10/2026 18:28",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/18/irapuato-registra-mas-de-mil-555-millones-de-dolares-en-inversiones-comprometidas-169421.html",
+    "resumen": "Entre 2021 y 2026 Irapuato acumuló mil 555.64 millones de dólares en inversiones comprometidas, con la industria automotriz y de autopartes como el principal sector"
   },
   {
     "prioridad": 2,
@@ -86,22 +102,6 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/de-estancias-ganaderas-a-ciudad-asi-comenzo-a-formarse-irapuato-32664444",
     "resumen": "Durante los siglos XVI, XVII y XVIII, el territorio se configuró mediante mercedes de tierra, estancias ganaderas y haciendas; Arandas conserva parte de una historia ligada al manejo del agua y a las inundaciones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Constructora invade área de donación y levanta canchas de pádel en fraccionamiento de Irapuato",
-    "fecha": "17/10/2026 23:06",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/17/constructora-invade-area-de-donacion-y-levanta-canchas-de-padel-en-fraccionamiento-de-irapuato-169378.html",
-    "resumen": "Vecinos de un fraccionamiento de Irapuato denuncian que la constructora Aloro ocupó un área de donación para construir canchas de pádel"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato vence dos a cero a Zacatepec y firma séptimo triunfo",
-    "fecha": "17/10/2026 17:03",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-2-0-al-zacatepec-y-suma-su-septimo-triunfo-en-la-liga-premier-32659533",
-    "resumen": "Irapuato derrotó 2-0 al Zacatepec con goles de Luis “Nono” Araujo y Arturo Hernández y llegó a siete triunfos consecutivos en la Liga Premier."
   },
   {
     "prioridad": 3,
