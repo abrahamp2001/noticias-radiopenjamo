@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abuelo y nieto son baleados en el centro de Pénjamo; quedan graves",
+    "fecha": "19/10/2026 13:49",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/19/abuelo-y-nieto-son-baleados-en-el-centro-de-penjamo-quedan-graves-169471.html",
+    "resumen": "Los reportes indicaron que las víctimas del ataque en Pénjamo son un adulto de 65 años de edad y un adolescente, al parecer familiares"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Muere conductor tras choque con camión de carga en la carretera Irapuato-Abasolo",
+    "fecha": "19/10/2026 06:35",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/muere-conductor-tras-choque-con-camion-de-carga-en-la-carretera-irapuato-abasolo-32682439",
+    "resumen": "El accidente ocurrió a la altura de San Joaquín, en Abasolo; automovilistas señalaron que la unidad pesada realizaba una maniobra en un retorno cuando ocurrió la colisión"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Auto vuelca en carretera Abasolo-Irapuato tras esquivar presunta motocicleta",
     "fecha": "18/10/2026 23:16",
     "fuente": "Periódico Correo",
@@ -16,22 +32,6 @@
     "resumen": "Un accidente se registró la madrugada del domingo en de Pénjamo cuando un conductor perdió el control del vehículo y terminó volcado sobre la carretera"
   },
   {
-    "prioridad": 0,
-    "titulo": "Entregan más de 70 apoyos para movilidad y salud en el DIF Municipal en Abasolo",
-    "fecha": "18/10/2026 10:13",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/entregan-mas-de-70-apoyos-para-movilidad-y-salud-en-el-dif-municipal-en-abasolo-32670317",
-    "resumen": "En coordinación con el Gobierno del Estado, el Gobierno Municipal realizó la entrega de sillas de ruedas, auxiliares auditivos, lentes, bastones, muletas y andaderas, dirigidos a personas que requieren estos dispositivos"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Yozajamby Molina arranca obra vial en la comunidad de Lagunillas, en Pénjamo tras compromiso con sus habitantes",
-    "fecha": "18/10/2026 09:48",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/yozajamby-molina-arranca-obra-vial-en-la-comunidad-de-lagunillas-en-penjamo-tras-compromiso-con-sus-habitantes-32669808",
-    "resumen": "La presidenta municipal de Pénjamo, Yozajamby Molina Balver, encabezó el inicio de los trabajos en la comunidad de Lagunillas, donde señaló que la intervención responde a un compromiso adquirido, dijo que la selección de la calle considera el tránsito de estudiantes y la necesidad de mejorar los accesos a los espacios educativos"
-  },
-  {
     "prioridad": 1,
     "titulo": "Despliegue policiaco en un velorio alarmó a vecinos de Cuerámaro",
     "fecha": "18/10/2026 18:06",
@@ -40,12 +40,60 @@
     "resumen": "Hasta seis patrullas llegaron a una vivienda de la calle Lerdo de Tejada, Cuerámaro, tras reportes de que un velorio se había convertido en fiesta"
   },
   {
-    "prioridad": 1,
-    "titulo": "Huanímaro inaugura jardín de La Granja tras inversión acumulada de casi 3.4 millones de pesos",
-    "fecha": "18/10/2026 09:13",
+    "prioridad": 2,
+    "titulo": "Condenan a responsable de desaparición de mujer en Irapuato; ella aún no aparece",
+    "fecha": "19/10/2026 13:12",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/condenan-a-responsable-de-desaparicion-de-mujer-en-irapuato-ella-aun-no-aparece/",
+    "resumen": "Irapuato, Guanajuato.- Tras demostrarse su culpabilidad mediante un procedimiento abreviado, la Fiscalía General del Estado de Guanajuato logró una sentencia condenatoria acumulada de 20 años de prisión contra VÍCTOR HUGO “N”. La pena se desglosa en 19 años de cárcel por el delito de desaparición forzada cometida por particulares en agravio de una mujer, más …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Más allá de las becas: Irapuato busca prevenir abandono escolar desde las familias",
+    "fecha": "19/10/2026 09:06",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/huanimaro-inaugura-jardin-de-la-granja-tras-inversion-acumulada-de-casi-3-4-millones-de-pesos-32669045",
-    "resumen": "La rehabilitación del espacio público se desarrolló en dos etapas, con una inversión total de tres millones 392 mil 27 pesos. Los trabajos incluyeron la instalación de adoquín, pórfido, cantera, bancas, luminarias solares, juegos infantiles y aparatos para ejercitarse"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/mas-alla-de-las-becas-irapuato-busca-prevenir-abandono-escolar-desde-las-familias-32684484",
+    "resumen": "Lorena Alfaro García señaló que padres y docentes participan en la detección de señales de depresión, conductas suicidas, adicciones y otros riesgos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato entregará mil 80 cascos a motociclistas: estos son los requisitos para obtener uno",
+    "fecha": "19/10/2026 07:45",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-entregara-mil-80-cascos-a-motociclistas-estos-son-los-requisitos-para-obtener-uno-32683304",
+    "resumen": "La convocatoria de “Casco Seguro, Irapuato Seguro” abrió el 19 de octubre y permanecerá vigente hasta agotar existencias"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Mesa Redonda Panamericana de Irapuato mantiene su liderazgo: Sulema Gutiérrez es reelecta",
+    "fecha": "19/10/2026 04:24",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/mesa-redonda-panamericana-de-irapuato-mantiene-su-liderazgo-sulema-gutierrez-es-reelecta-32482219",
+    "resumen": "La toma de protesta al nuevo consejo directivo la realizó María Celia Rangel Galván, coordinadora de las Mesas Redondas Panamericanas de la Zona XI"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Jóvenes de Irapuato recurren al reparto mientras encuentran una oportunidad laboral que los satisfaga",
+    "fecha": "19/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/jovenes-de-irapuato-recurren-al-reparto-mientras-encuentran-una-oportunidad-laboral-que-los-satisfaga-32668389",
+    "resumen": "Diego Arturo Saldaña comenzó a repartir después de pasar un mes entre solicitudes y entrevistas; Juan Sebastián Rico Gutiérrez entró por necesidad y, dos años después, mantiene el reparto como su fuente de ingresos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De la Trinca a la política: exjugadores del Irapuato que llegaron a las urnas",
+    "fecha": "19/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-la-trinca-a-la-politica-exjugadores-del-irapuato-que-llegaron-a-las-urnas-32670430",
+    "resumen": "Alejandro García buscó la alcaldía en 2006, Víctor Saavedra contendió en 2021 y 2024 y Cuauhtémoc Blanco llegó después a gobernar Morelos; el registro de El Gullit Peña en Morena revive el cruce entre fútbol y política"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato registra el mismo número de eutanasias de animales que de rescates, casi 20 mil",
+    "fecha": "18/10/2026 23:22",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/18/irapuato-registra-el-mismo-numero-de-eutanasias-de-animales-que-de-rescates-casi-20-mil-169448.html",
+    "resumen": "Entre 2021 y 2026 Irapuato contabilizó 19 mil 752 eutanasias humanitarias y 19 mil 767 rescates de animales de la vía pública"
   },
   {
     "prioridad": 2,
@@ -54,61 +102,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/18/irapuato-registra-mas-de-mil-555-millones-de-dolares-en-inversiones-comprometidas-169421.html",
     "resumen": "Entre 2021 y 2026 Irapuato acumuló mil 555.64 millones de dólares en inversiones comprometidas, con la industria automotriz y de autopartes como el principal sector"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Obispo de Irapuato pide fortalecer atención a víctimas de abusos sexuales en la iglesia",
-    "fecha": "18/10/2026 12:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/18/obispo-de-irapuato-pide-fortalecer-atencion-a-victimas-de-abusos-sexuales-en-la-iglesia-169395.html",
-    "resumen": "Enrique Díaz Díaz declaró que la diócesis de Irapuato ha mejorado la transparencia y formado una comisión de protección y prevención de casos de abuso"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a balazos a un hombre durante la madrugada en Irapuato",
-    "fecha": "18/10/2026 11:02",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/asesinan-a-balazos-a-un-hombre-durante-la-madrugada-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un hombre murió tras ser víctima de un ataque armado durante la madrugada de este domingo , en la colonia Miguel Hidalgo, en Irapuato. Los hechos se registraron alrededor de las 2:30 de la mañana sobre la calle Independencia, casi en el cruce con Antonio Torres, donde vecinos reportaron una agresión con disparos …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "La ópera Pagliacci cautiva Irapuato de la mano de la Orquesta Filarmónica Mahler",
-    "fecha": "18/10/2026 10:31",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/la-opera-pagliacci-cautiva-irapuato-de-la-mano-de-la-orquesta-filarmonica-mahler-32669931",
-    "resumen": "Con este montaje del compositor italiano Ruggero Leoncavallo, fue clausurada la agenda cultural que se llevó a cabo dentro de la programación del Festival Internacional Cervantino"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Nadie mueve al Irapuato del liderato en la Liga Premier",
-    "fecha": "18/10/2026 09:20",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/nadie-mueve-al-irapuato-del-liderato-de-la-liga-premier-llega-a-22-puntos-32669347",
-    "resumen": "Este lunes inician su preparación con miras a la visita ante Inter Playa del Carmen"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a hombre a balazos en la colonia Miguel Hidalgo de Irapuato",
-    "fecha": "18/10/2026 04:57",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-hombre-a-balazos-en-la-colonia-miguel-hidalgo-de-irapuato-32664966",
-    "resumen": "Vecinos reportaron detonaciones alrededor de las 2:30 de la madrugada en la calle Independencia; la víctima fue localizada todavía con vida por paramédicos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De estancias ganaderas a ciudad: así comenzó a formarse Irapuato",
-    "fecha": "18/10/2026 04:26",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/de-estancias-ganaderas-a-ciudad-asi-comenzo-a-formarse-irapuato-32664444",
-    "resumen": "Durante los siglos XVI, XVII y XVIII, el territorio se configuró mediante mercedes de tierra, estancias ganaderas y haciendas; Arandas conserva parte de una historia ligada al manejo del agua y a las inundaciones"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "De goteras a drenajes dañados: las reparaciones que requieren escuelas de Guanajuato",
-    "fecha": "18/10/2026 07:33",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/de-goteras-a-drenajes-danados-las-reparaciones-que-requieren-escuelas-de-guanajuato-32667324",
-    "resumen": "El delegado de Educación, Juan Luis Saldaña López, señaló que la Región IV comprende más de dos mil 100 planteles y que junto con Obra Pública dan atención a escuelas afectadas"
   }
 ]
