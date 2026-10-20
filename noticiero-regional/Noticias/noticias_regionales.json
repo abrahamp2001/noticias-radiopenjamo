@@ -57,19 +57,27 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Auto vuelca en carretera Abasolo-Irapuato tras esquivar presunta motocicleta",
-    "fecha": "18/10/2026 23:16",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/18/auto-vuelca-en-carretera-abasolo-irapuato-tras-esquivar-presunta-motocicleta-169447.html",
-    "resumen": "El accidente ocurrió a la altura de la comunidad La Purísima; el automovilista recibió atención de Protección Civil y no presentó lesiones graves"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Automovilista muere prensado tras impacto de tolva en la Irapuato-Cuerámaro",
     "fecha": "19/10/2026 15:07",
     "fuente": "Notus",
     "url": "https://notus.com.mx/automovilista-muere-prensado-tras-impacto-de-tolva-en-la-irapuato-cueramaro/",
     "resumen": "Abasolo, Guanajuato.- Un conductor murió al quedar prensado en su vehículo tras el impacto de una tolva sobre la carretera Irapuato-Cuerámaro, en el tramo aledaño a la comunidad Hermosillo de Abasolo. El choque provocó el cierre parcial del carril hacia Irapuato. El accidente ocurrió cerca de las 9 y media de la mañana, el auto …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Choque frontal entre auto y tolva deja un muerto en la Cuerámaro-Irapuato",
+    "fecha": "19/10/2026 22:01",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/19/choque-frontal-entre-auto-y-tolva-deja-un-muerto-en-la-cueramaro-irapuato-169537.html",
+    "resumen": "El conductor de un automóvil compacto murió tras chocar de frente contra una tolva en la carretera Cuerámaro-Irapuato"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Identifican a Carlos Alberto Rangel como el conductor fallecido en la Cuerámaro-Irapuato",
+    "fecha": "19/10/2026 18:34",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/19/identifican-a-carlos-alberto-rangel-como-el-conductor-fallecido-en-la-cueramaro-irapuato-169511.html",
+    "resumen": "El conductor que murió en el accidente en la carretera Cuerámaro-Irapuato, a la altura de Hermosillo, fue identificado como Carlos Alberto Rangel, vecino de la colonia Haciendas de la Virgen"
   },
   {
     "prioridad": 1,
@@ -80,12 +88,36 @@
     "resumen": "Cuerámaro, Guanajuato.- El cuerpo de bomberos de Cuerámaro opera sin sueldos, con una ambulancia descompuesta, sin pipa y dependen de colectas entre la ciudadanía para comprar llantas y refacciones, de acuerdo con lo que su comandante, Joel Torres, explicó. Actualmente los bomberos de Cuerámaro, lo integran diez elementos, todos con otros empleos, es decir, no …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Despliegue policiaco en un velorio alarmó a vecinos de Cuerámaro",
-    "fecha": "18/10/2026 18:06",
+    "prioridad": 2,
+    "titulo": "Nace bebé en ambulancia de Protección Civil durante traslado en Silao",
+    "fecha": "19/10/2026 20:46",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/18/despliegue-policiaco-en-un-velorio-alarmo-a-vecinos-de-cueramaro-169420.html",
-    "resumen": "Hasta seis patrullas llegaron a una vivienda de la calle Lerdo de Tejada, Cuerámaro, tras reportes de que un velorio se había convertido en fiesta"
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/19/nace-bebe-en-ambulancia-de-proteccion-civil-durante-traslado-en-silao-169531.html",
+    "resumen": "La recién nacida llegó al mundo a las 15:17 horas en la carretera Silao-Irapuato. Paramédicos atendieron el parto y reportaron estables a la madre y a su hija"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Galería | Crece afluencia en la Plaza del Comercio por monstruos y botargas en Irapuato",
+    "fecha": "19/10/2026 20:16",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/19/galeria-crece-afluencia-en-la-plaza-del-comercio-por-monstruos-y-botargas-en-irapuato-169527.html",
+    "resumen": "Hasta 5 mil personas al día visitaron la plazuela durante las primeras semanas de octubre, mientras los participantes esperan más público"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Usuarios reportan riesgos viales en bulevar García Márquez de Irapuato",
+    "fecha": "19/10/2026 19:57",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/19/usuarios-reportan-riesgos-viales-en-bulevar-garcia-marquez-de-irapuato-169522.html",
+    "resumen": "A menos de un mes de su inauguración, usuarios reportaron obstáculos y errores en la vialidad; el municipio gestiona puentes para Bella Vista y Vista Hermosa"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Definen bases del Torneo del Pavo con clubes de Irapuato",
+    "fecha": "19/10/2026 17:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/definen-bases-del-torneo-del-pavo-con-clubes-de-irapuato-32690352",
+    "resumen": "Un torneo que busca la participación de los tenistas del estado en el Castillo de Santa Rosa"
   },
   {
     "prioridad": 2,
@@ -126,37 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/mas-alla-de-las-becas-irapuato-busca-prevenir-abandono-escolar-desde-las-familias-32684484",
     "resumen": "Lorena Alfaro García señaló que padres y docentes participan en la detección de señales de depresión, conductas suicidas, adicciones y otros riesgos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato entregará mil 80 cascos a motociclistas: estos son los requisitos para obtener uno",
-    "fecha": "19/10/2026 07:45",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-entregara-mil-80-cascos-a-motociclistas-estos-son-los-requisitos-para-obtener-uno-32683304",
-    "resumen": "La convocatoria de “Casco Seguro, Irapuato Seguro” abrió el 19 de octubre y permanecerá vigente hasta agotar existencias"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Mesa Redonda Panamericana de Irapuato mantiene su liderazgo: Sulema Gutiérrez es reelecta",
-    "fecha": "19/10/2026 04:24",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/mesa-redonda-panamericana-de-irapuato-mantiene-su-liderazgo-sulema-gutierrez-es-reelecta-32482219",
-    "resumen": "La toma de protesta al nuevo consejo directivo la realizó María Celia Rangel Galván, coordinadora de las Mesas Redondas Panamericanas de la Zona XI"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Jóvenes de Irapuato recurren al reparto mientras encuentran una oportunidad laboral que los satisfaga",
-    "fecha": "19/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/jovenes-de-irapuato-recurren-al-reparto-mientras-encuentran-una-oportunidad-laboral-que-los-satisfaga-32668389",
-    "resumen": "Diego Arturo Saldaña comenzó a repartir después de pasar un mes entre solicitudes y entrevistas; Juan Sebastián Rico Gutiérrez entró por necesidad y, dos años después, mantiene el reparto como su fuente de ingresos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De la Trinca a la política: exjugadores del Irapuato que llegaron a las urnas",
-    "fecha": "19/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/de-la-trinca-a-la-politica-exjugadores-del-irapuato-que-llegaron-a-las-urnas-32670430",
-    "resumen": "Alejandro García buscó la alcaldía en 2006, Víctor Saavedra contendió en 2021 y 2024 y Cuauhtémoc Blanco llegó después a gobernar Morelos; el registro de El Gullit Peña en Morena revive el cruce entre fútbol y política"
   }
 ]
