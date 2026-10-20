@@ -1,11 +1,51 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abasolo inicia pavimentación de la calle principal de Nombre de Dios",
+    "fecha": "19/10/2026 16:35",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/abasolo-inicia-pavimentacion-de-la-calle-principal-de-nombre-de-dios/",
+    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo inició los trabajos de mejoramiento de la calle principal de la zona de Nombre de Dios, donde se intervendrán 189 metros mediante la colocación de empedrado con huellas de concreto. La obra busca mejorar las condiciones de tránsito y facilitar los traslados diarios de las personas que viven …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "CBTis 171 de Abasolo celebra 43 años con Semana Cultural",
+    "fecha": "19/10/2026 16:30",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cbtis-171-de-abasolo-celebra-43-anos-con-semana-cultural/",
+    "resumen": "Abasolo, Guanajuato.- El CBTis 171 de Abasolo inició su Semana Cultural para celebrar su 43 aniversario, con presentaciones artísticas y actividades cívicas y culturales dirigidas a su comunidad educativa. Durante la jornada también se reconoció a docentes por su dedicación, trabajo y trayectoria en la institución, así como por su labor en la formación académica …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Alcaldes de Pénjamo y Abasolo buscan reelegirse",
+    "fecha": "19/10/2026 15:04",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/alcaldes-de-penjamo-y-abasolo-buscan-reelegirse/",
+    "resumen": "Pénjamo, Guanajuato.- La alcaldesa de Pénjamo, Yozajamby Molina Balver y el de Abasolo, Job Gallardo Santellano se registraron para encabezar las coordinaciones municipales de Morena, es decir, perfilan sus candidaturas rumbo a la reelección de 2027. La alcaldesa de Pénjamo, Yozajamby Molina Balver, se inscribió en el proceso interno de su partido para encabezar los …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abuelo y nieto son baleados en el centro de Pénjamo; quedan graves",
     "fecha": "19/10/2026 13:49",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/19/abuelo-y-nieto-son-baleados-en-el-centro-de-penjamo-quedan-graves-169471.html",
     "resumen": "Los reportes indicaron que las víctimas del ataque en Pénjamo son un adulto de 65 años de edad y un adolescente, al parecer familiares"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Abasolo alista su panteón municipal tras reportes de mosquitos, arañas y serpientes coralillo",
+    "fecha": "19/10/2026 10:50",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/abasolo-alista-su-panteon-municipal-tras-reportes-de-mosquitos-aranas-y-serpientes-coralillo-32686172",
+    "resumen": "El municipio realizó trabajos de poda de maleza y prepara la aplicación de un producto para atender la presencia de mosquitos, arañas silvestres y serpientes coralillo"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Tras 20 años de espera, inicia pavimentación del camino principal de la comunidad Nombre de Dios, en Abasolo",
+    "fecha": "19/10/2026 10:20",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-20-anos-de-espera-inicia-pavimentacion-del-camino-principal-de-la-comunidad-nombre-de-dios-en-abasolo-32685770",
+    "resumen": "El presidente municipal, Job Gallardo Santellano, dio el arranque a la construcción de la primera etapa de la calle principal de la comunidad de Nombre de Dios, obra con una inversión de 3 millones 169 mil pesos de recursos municipales"
   },
   {
     "prioridad": 0,
@@ -25,11 +65,19 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Volcadura en carretera La Herradura, Pénjamo, deja cuatro lesionados",
-    "fecha": "18/10/2026 15:31",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/18/volcadura-en-carretera-la-herradura-penjamo-deja-cuatro-lesionados-169409.html",
-    "resumen": "Un accidente se registró la madrugada del domingo en de Pénjamo cuando un conductor perdió el control del vehículo y terminó volcado sobre la carretera"
+    "titulo": "Automovilista muere prensado tras impacto de tolva en la Irapuato-Cuerámaro",
+    "fecha": "19/10/2026 15:07",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/automovilista-muere-prensado-tras-impacto-de-tolva-en-la-irapuato-cueramaro/",
+    "resumen": "Abasolo, Guanajuato.- Un conductor murió al quedar prensado en su vehículo tras el impacto de una tolva sobre la carretera Irapuato-Cuerámaro, en el tramo aledaño a la comunidad Hermosillo de Abasolo. El choque provocó el cierre parcial del carril hacia Irapuato. El accidente ocurrió cerca de las 9 y media de la mañana, el auto …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Sin sueldo, sin ambulancia y sin pipa: bomberos de Cuerámaro",
+    "fecha": "19/10/2026 14:46",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/sin-sueldo-sin-ambulancia-y-sin-pipa-bomberos-de-cueramaro/",
+    "resumen": "Cuerámaro, Guanajuato.- El cuerpo de bomberos de Cuerámaro opera sin sueldos, con una ambulancia descompuesta, sin pipa y dependen de colectas entre la ciudadanía para comprar llantas y refacciones, de acuerdo con lo que su comandante, Joel Torres, explicó. Actualmente los bomberos de Cuerámaro, lo integran diez elementos, todos con otros empleos, es decir, no …"
   },
   {
     "prioridad": 1,
@@ -41,11 +89,35 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Frente frío 2 trae madrugadas de 0 a 5 °C a Guanajuato",
+    "fecha": "19/10/2026 14:56",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/frente-frio-2-trae-madrugadas-de-0-a-5-c-a-guanajuato/",
+    "resumen": "Irapuato, Guanajuato.- El frente frío número 2 mantiene un descenso marcado de temperaturas en Guanajuato.  De acuerdo con el pronóstico de la Comisión Nacional del Agua (Conagua) en algunos municipios se esperan madrugadas de entre 0 y 5 grados centígrados. En base al servicio meteorológico se esperan chubascos de 5 a 25 milímetros y rachas …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "54 morenistas se apuntan para ser candidatos a alcaldías de Guanajuato",
+    "fecha": "19/10/2026 14:54",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/54-morenistas-se-apuntan-para-ser-candidatos-a-alcaldias-de-guanajuato/",
+    "resumen": "Guanajuato.- Al menos 29 funcionarios de MORENA entre ellos alcaldes, diputados federales y locales se “anotaron” en el caso de presidentes municipales para la reelección y el resto para ser candidatos a las alcaldías de sus municipios. Sin embargo, existen 54 registros que incluyen a morenistas sin cargo, regidores y síndicos. En Irapuato se inscribieron …"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Condenan a responsable de desaparición de mujer en Irapuato; ella aún no aparece",
     "fecha": "19/10/2026 13:12",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/condenan-a-responsable-de-desaparicion-de-mujer-en-irapuato-ella-aun-no-aparece/",
     "resumen": "Irapuato, Guanajuato.- Tras demostrarse su culpabilidad mediante un procedimiento abreviado, la Fiscalía General del Estado de Guanajuato logró una sentencia condenatoria acumulada de 20 años de prisión contra VÍCTOR HUGO “N”. La pena se desglosa en 19 años de cárcel por el delito de desaparición forzada cometida por particulares en agravio de una mujer, más …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "A un año de su salida, Morena pedirá revisar escoltas de exsecretario de seguridad de Irapuato",
+    "fecha": "19/10/2026 10:31",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/a-un-ano-de-su-salida-morena-pedira-revisar-escoltas-de-exsecretario-de-seguridad-de-irapuato-32685921",
+    "resumen": "A un año de la salida de Ricardo Benavides de Seguridad Ciudadana, el regidor Ignacio Morales anunció que solicitarán verificar el plazo de protección autorizado al exfuncionario y evitar que se prolongue sin justificación"
   },
   {
     "prioridad": 2,
@@ -86,21 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/de-la-trinca-a-la-politica-exjugadores-del-irapuato-que-llegaron-a-las-urnas-32670430",
     "resumen": "Alejandro García buscó la alcaldía en 2006, Víctor Saavedra contendió en 2021 y 2024 y Cuauhtémoc Blanco llegó después a gobernar Morelos; el registro de El Gullit Peña en Morena revive el cruce entre fútbol y política"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato registra el mismo número de eutanasias de animales que de rescates, casi 20 mil",
-    "fecha": "18/10/2026 23:22",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/18/irapuato-registra-el-mismo-numero-de-eutanasias-de-animales-que-de-rescates-casi-20-mil-169448.html",
-    "resumen": "Entre 2021 y 2026 Irapuato contabilizó 19 mil 752 eutanasias humanitarias y 19 mil 767 rescates de animales de la vía pública"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato registra más de mil 555 millones de dólares en inversiones comprometidas",
-    "fecha": "18/10/2026 18:28",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/18/irapuato-registra-mas-de-mil-555-millones-de-dolares-en-inversiones-comprometidas-169421.html",
-    "resumen": "Entre 2021 y 2026 Irapuato acumuló mil 555.64 millones de dólares en inversiones comprometidas, con la industria automotriz y de autopartes como el principal sector"
   }
 ]
