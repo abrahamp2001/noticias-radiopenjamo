@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abasolo: San Bernardo Peña Blanca tiene agua solo una hora cada tercer día; urgen construcción de otro pozo",
+    "fecha": "21/10/2026 09:04",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/abasolo-san-bernardo-pena-blanca-tiene-agua-solo-una-hora-cada-tercer-dia-urgen-construccion-de-otro-pozo-169643.html",
+    "resumen": "Los habitantes de la comunidad de Abasolo optan por comprar pipas puesto que la del municipio tarda hasta un mes en llegar, representando un golpe a su economía"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Capacitan a agricultores de Abasolo para reducir el desperdicio de agua en sus cultivos",
     "fecha": "20/10/2026 16:33",
     "fuente": "Notus",
@@ -8,20 +16,12 @@
     "resumen": "Abasolo, Guanajuato.- Productores agrícolas del Cárcamo Oficial de Munguía participaron en una jornada de capacitación en el Módulo de Riego de Abasolo, donde recibieron información sobre técnicas para mejorar el aprovechamiento del agua en sus cultivos y reducir desperdicios mediante una programación más eficiente del riego. La actividad fue organizada por la Secretaría del Agua …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Arrancan obras de pavimentación de la calle principal de Nombre de Dios; Abasolo",
-    "fecha": "20/10/2026 10:37",
+    "prioridad": 1,
+    "titulo": "Detienen a cuatro presuntos delincuentes en Huanímaro; decomisan armas, drogas y camioneta baleada",
+    "fecha": "21/10/2026 12:11",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/20/arrancan-obras-de-pavimentacion-de-la-calle-principal-de-nombre-de-dios-abasolo-169554.html",
-    "resumen": "La obra en la comunidad de Abasolo contempla una inversión de 3 millones de pesos donde se pavimentará la vía principal y se integrará red hidráulica y drenaje"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Abasolenses ‘denuncian’ acumulación de basura y fallas en el servicio",
-    "fecha": "20/10/2026 11:44",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/abasolenses-denuncian-acumulacion-de-basura-y-fallas-en-el-servicio/",
-    "resumen": "Abasolo, Guanajuato.- Habitantes de Abasolo manifestaron inconformidad con la nueva organización del servicio municipal de recolección de basura. Según señalaron, la ausencia de horarios fijos en las colonias ha derivado en la acumulación de desechos en las calles. Zonas como la comunidad de Alto de San José, Lomas del Sol y Rosa de Camacho expusieron …"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/detienen-a-cuatro-presuntos-delincuentes-en-huanimaro-decomisan-armas-drogas-y-camioneta-baleada-169651.html",
+    "resumen": "El operativo de elementos de Sedena y GN en una vivienda de la comunidad de Joroches en Huanímaro derivó en la detención de cuatro hombres"
   },
   {
     "prioridad": 1,
@@ -35,7 +35,7 @@
     "prioridad": 1,
     "titulo": "Karatecas de Manuel Doblado ganan ocho medallas en Campeonato Mundial en Argentina",
     "fecha": "20/10/2026 14:42",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/karatecas-de-manuel-doblado-ganan-ocho-medallas-en-campeonato-mundial-en-argentina/",
     "resumen": "Manuel Doblado, Guanajuato.- Alumnos de la escuela de Karate Do Senchi Nakama, de Manuel Doblado, obtuvieron ocho medallas durante su participación en el Campeonato Mundial de Artes Marciales, realizado del 9 al 11 de octubre en Buenos Aires, Argentina. Los deportistas consiguieron tres primeros lugares, un segundo y cuatro terceros, además de un quinto lugar …"
   },
@@ -62,6 +62,54 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/vacunacion-en-guanajuato-llegara-a-377-puntos-contra-influenza-y-covid-19-32705554",
     "resumen": "La campaña arrancó en Huanímaro y se prevé aplicar un millón 713 mil dosis en todo el estado"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Conagra Brands arranca nuevas líneas de producción en Irapuato",
+    "fecha": "21/10/2026 12:42",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/conagra-brands-arranca-nuevas-lineas-de-produccion-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- La consolidación de Irapuato como uno de los municipios más competitivos del estado de Guanajuato y de todo el país, avanza con paso firme, al ser facilitador para la ampliación de diferentes empresas que han puesto su confianza en el potencial de la ciudad. Ejemplo de ello es la empresa global Conagra Brands, …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Van a “despedir” a varios secretarios del Gobierno de la Gente",
+    "fecha": "21/10/2026 11:58",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/van-a-despedir-a-varios-secretarios-del-gobierno-de-la-gente/",
+    "resumen": "Irapuato, Guanajuato.- A principios de noviembre el llamado Gobierno de la Gente, sufrirá cambios en varias de sus secretarías: “las van a correr”. Aunque no se ha hecho oficial, entre los secretarios que podrían quedar fuera, están: Secretaría de Economía, Campo, Cultura y Turismo e Identidad. En el análisis de la actual administración de la …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Joven derrapa en su moto en Jardines de Irapuato; lucha por su vida en hospital",
+    "fecha": "21/10/2026 11:02",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/joven-derrapa-en-su-moto-en-jardines-de-irapuato-lucha-por-su-vida-en-hospital-169649.html",
+    "resumen": "El joven no portaba el casco de protección y derrapó cuando circulaba por las calles Nogal y Paseo de las Fresas, en la colonia Jardines de Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De Irapuato para el mundo: Afan Beats & Misty RJ estrenan ‘Mística’ su primer álbum en colaboración",
+    "fecha": "21/10/2026 07:29",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/de-irapuato-para-el-mundo-afan-beats-misty-rj-estrenan-mistica-su-primer-album-en-colaboracion-32715571",
+    "resumen": "El material discográfico incluye cinco temas, que a partir de hoy ya se pueden escuchar en plataformas digitales acompañado de sus visuales en el canal de Afan Beats por YouTube"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Motociclista sin casco derrapa en Jardines de Irapuato y termina con fracturas",
+    "fecha": "21/10/2026 05:29",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/motociclista-sin-casco-derrapa-en-jardines-de-irapuato-y-termina-con-fracturas-32714399",
+    "resumen": "El accidente ocurrió durante la madrugada en el cruce de Nogal y Paseo de las Fresas; paramédicos de Cruz Roja trasladaron al conductor de 26 años a un hospital"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¡Orgullo mexicano! Tlahuilli, Quetzalli y Xidoo triunfan en Irapuato con espectáculo folklórico",
+    "fecha": "21/10/2026 04:29",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/orgullo-mexicano-tlahuilli-quetzalli-y-xidoo-triunfan-en-irapuato-con-espectaculo-folklorico-32396973",
+    "resumen": "Las agrupaciones dancísticas demostraron lo mejor de su talento en el 5° Encuentro ‘México a través de la Danza Folklórica’, una velada donde se unieron la cultura y tradición mexicana"
   },
   {
     "prioridad": 2,
@@ -110,53 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/irapuato-habilita-una-casa-de-emergencia-violeta-para-victimas-de-violencia-169600.html",
     "resumen": "La casa violeta en Irapuato brindará resguardo hasta por 72 horas a mujeres víctimas de violencia y sus hijos menores de edad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "ConAgra Brands amplía su planta en Irapuato con inversión de 550 mdp",
-    "fecha": "20/10/2026 16:44",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/conagra-brands-amplia-su-planta-en-irapuato-con-inversion-de-550-mdp-169588.html",
-    "resumen": "ConAgra Brands invirtió 550 millones de pesos en su planta de Irapuato para inaugurar dos líneas de producción y aumentar su capacidad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Nuevo tren a Guadalajara y la nostalgia de “El Tapatío”",
-    "fecha": "20/10/2026 16:01",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/nuevo-tren-a-guadalajara-y-la-nostalgia-de-el-tapatio/",
-    "resumen": "Irapuato, Guanajuato.- Durante un siglo, la comunicación en tren fue fundamental en el país. Desde la consolidación de la red ferroviaria en el porfiriano y los usos del ferrocarril en los momentos bélicos de la revolución mexicana, a la integración de un modelo de viajes cómodos y elegantes mediante trenes con carros dormitorios que iban …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Japami prestará 150 millones a Irapuato para renovar pavimentos",
-    "fecha": "20/10/2026 14:15",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/japami-prestara-150-millones-a-irapuato-para-renovar-pavimentos-32703290",
-    "resumen": "El municipio tiene bajo revisión 120 vialidades y busca iniciar las intervenciones en diciembre; Camino a La Virgen está entre las prioridades y la Junta de Agua verificará primero las redes hidráulicas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Unión Irapuato supera a Dinosaurios Benito Juárez en la Liga de Futbol Luis Hernández",
-    "fecha": "20/10/2026 13:53",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/union-irapuato-supera-a-dinosaurios-benito-juarez-en-la-liga-de-futbol-luis-hernandez-32703368",
-    "resumen": "San Miguelito sorprende con su triunfo ante el líder Deportivo Benítez con marcador de 2-0"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Operativos de revisión de motocicletas en Irapuato aseguran casi 800 motos",
-    "fecha": "20/10/2026 12:49",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/operativos-de-revision-de-motocicletas-en-irapuato-aseguran-casi-800-motos-32703586",
-    "resumen": "La Secretaría de Seguridad reporta cerca de 800 motos aseguradas, mientras el Observatorio Ciudadano advierte que faltan datos para determinar cuánto han contribuido estos operativos a reducir los delitos patrimoniales."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "INE pone fecha límite para actualizar la credencial de elector en Irapuato rumbo a 2027",
-    "fecha": "20/10/2026 12:36",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ine-pone-fecha-limite-para-actualizar-la-credencial-de-elector-en-irapuato-rumbo-a-2027-32703512",
-    "resumen": "El 25 de enero será el último día para inscribirse al padrón o actualizar datos; el instituto también ofrece atención a domicilio para personas que no pueden trasladarse a un módulo."
   }
 ]
