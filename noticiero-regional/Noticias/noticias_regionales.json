@@ -1,19 +1,59 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abasolo regulariza predios de la colonia Jardines de San Telmo",
+    "fecha": "21/10/2026 17:30",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/abasolo-regulariza-predios-de-la-colonia-jardines-de-san-telmo/",
+    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo continúa avanzando en las acciones para brindar certeza jurídica sobre el patrimonio de las familias abasolenses, mediante la regularización de la tenencia de la tierra. En esta ocasión, concluyó el proceso de regularización de la colonia Jardines de San Telmo, un avance que comprende 33 lotes y beneficia …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Carretera Abasolo-Maritas avanza en trabajos de rehabilitación",
+    "fecha": "21/10/2026 16:46",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/carretera-abasolo-maritas-avanza-en-trabajos-de-rehabilitacion/",
+    "resumen": "Abasolo, Guanajuato.- Con el objetivo de mantener en buenas condiciones las carreteras estatales y brindar traslados más seguros a las familias guanajuatenses, la Secretaría de Obra Pública (SOP), realiza trabajos de conservación periódica en la carretera Abasolo – Maritas, con una inversión de 11 millones 196 mil 358 pesos. El secretario de Obra Pública, Juan …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Fuerte impacto de autobuses deja múltiples heridos en Pénjamo",
+    "fecha": "21/10/2026 15:27",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/fuerte-impacto-de-autobuses-deja-multiples-heridos-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Un fuerte impacto entre dos camiones de transporte dejó un saldo de varios heridos sobre la carretera federal 1110 Pénjamo-La Piedad, entre las comunidades Laguna Larga y La Estrella. En el choque, se involucró una unidad de transporte de personal de la empresa Bafar y un urbano de Pénjamo-Lagunillas. Personal de emergencias como …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Choque entre autobuses deja múltiples lesionados en carretera 1110, Pénjamo",
+    "fecha": "21/10/2026 15:24",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/choque-entre-autobuses-deja-multiples-lesionados-en-carretera-1110-penjamo-169672.html",
+    "resumen": "El accidente se registró cuando un camión intentó utilizar el retorno a Pénjamo pero fue impactado por otro autobús, dejando varias personas lesionadas"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Alumnos de primaria Mariano Abasolo en Huanímaro mejoran su aprendizaje",
+    "fecha": "21/10/2026 14:09",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/alumnos-de-primaria-mariano-abasolo-en-huanimaro-mejoran-su-aprendizaje/",
+    "resumen": "Huanímaro, Guanajuato.- Identificar las dificultades de aprendizaje, compartir experiencias entre docentes y transformar los acuerdos del Consejo Técnico Escolar en estrategias dentro del aula permitió a la primaria Mariano Abasolo de la Comunidad de San José de Ayala, del municipio de Huanímaro, fortalecer los conocimientos de sus estudiantes y obtener resultados positivos. El proceso comenzó …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Accidente en carretera Pénjamo-La Piedad deja al menos 15 personas lesionadas",
+    "fecha": "21/10/2026 12:11",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/accidente-en-carretera-penjamo-la-piedad-deja-al-menos-15-personas-lesionadas-32722027",
+    "resumen": "El percance se habría dado después de que una de las unidades tuviera una falla en los frenos"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo: San Bernardo Peña Blanca tiene agua solo una hora cada tercer día; urgen construcción de otro pozo",
     "fecha": "21/10/2026 09:04",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/abasolo-san-bernardo-pena-blanca-tiene-agua-solo-una-hora-cada-tercer-dia-urgen-construccion-de-otro-pozo-169643.html",
     "resumen": "Los habitantes de la comunidad de Abasolo optan por comprar pipas puesto que la del municipio tarda hasta un mes en llegar, representando un golpe a su economía"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Capacitan a agricultores de Abasolo para reducir el desperdicio de agua en sus cultivos",
-    "fecha": "20/10/2026 16:33",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/capacitan-a-agricultores-de-abasolo-para-reducir-el-desperdicio-de-agua-en-sus-cultivos/",
-    "resumen": "Abasolo, Guanajuato.- Productores agrícolas del Cárcamo Oficial de Munguía participaron en una jornada de capacitación en el Módulo de Riego de Abasolo, donde recibieron información sobre técnicas para mejorar el aprovechamiento del agua en sus cultivos y reducir desperdicios mediante una programación más eficiente del riego. La actividad fue organizada por la Secretaría del Agua …"
   },
   {
     "prioridad": 1,
@@ -25,6 +65,22 @@
   },
   {
     "prioridad": 1,
+    "titulo": "Panteón municipal de Cuerámaro prevé recibir a más de 5 mil visitantes por el Día de Muertos",
+    "fecha": "21/10/2026 10:06",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/panteon-municipal-de-cueramaro-preve-recibir-a-mas-de-5-mil-visitantes-por-el-dia-de-muertos-32719927",
+    "resumen": "Roberto Mendoza, administrador del cementerio, informó que se realizaron trabajos de limpieza, desazolve, fumigación y retiro de hierba"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "David Rojas mantiene el legado familiar del alfeñique en Cuerámaro desde hace 70 años",
+    "fecha": "21/10/2026 09:01",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/david-rojas-mantiene-el-legado-familiar-del-alfenique-en-cueramaro-desde-hace-70-anos-32718400",
+    "resumen": "El comerciante recuerda que su padre comenzó a trabajar el dulce en la década de 1950. Cada año, la familia prepara calaveritas, cajitas de muerto y figuras de alimentos para la temporada del Día de Muertos"
+  },
+  {
+    "prioridad": 1,
     "titulo": "Libia Dennise García arranca el programa Manos a la Obra en Huanímaro",
     "fecha": "20/10/2026 21:21",
     "fuente": "Periódico Correo",
@@ -32,42 +88,26 @@
     "resumen": "Libia Dennise García inauguró cinco obras sociales en Huanímaro con una inversión cercana a 40 millones de pesos, que sumada al recurso municipal alcanzará más de 90 millones"
   },
   {
-    "prioridad": 1,
-    "titulo": "Karatecas de Manuel Doblado ganan ocho medallas en Campeonato Mundial en Argentina",
-    "fecha": "20/10/2026 14:42",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/karatecas-de-manuel-doblado-ganan-ocho-medallas-en-campeonato-mundial-en-argentina/",
-    "resumen": "Manuel Doblado, Guanajuato.- Alumnos de la escuela de Karate Do Senchi Nakama, de Manuel Doblado, obtuvieron ocho medallas durante su participación en el Campeonato Mundial de Artes Marciales, realizado del 9 al 11 de octubre en Buenos Aires, Argentina. Los deportistas consiguieron tres primeros lugares, un segundo y cuatro terceros, además de un quinto lugar …"
+    "prioridad": 2,
+    "titulo": "Irapuato destinará hasta 150 millones de pesos a calles",
+    "fecha": "21/10/2026 15:40",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-destinara-hasta-150-millones-de-pesos-a-calles/",
+    "resumen": "Irapuato, Guanajuato.- El Ayuntamiento de Irapuato aprobó un fondo de hasta 150 millones de pesos para urbanizar y rehabilitar calles. El dinero saldrá de un apoyo financiero recuperable de la Junta de Agua Potable, Alcantarillado y Saneamiento (JAPAMI) al gobierno municipal. La propuesta se votó en la sesión ordinaria número 55 que pasó con 10 …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Huanímaro conmemora lucha contra el cáncer de mama con taller de prevención",
-    "fecha": "20/10/2026 14:35",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/huanimaro-conmemora-lucha-contra-el-cancer-de-mama-con-taller-de-prevencion/",
-    "resumen": "Huanímaro, Guanajuato.- En el marco de la conmemoración de la lucha contra el cáncer de mama, el Gobierno Municipal de Huanímaro realizó un taller informativo sobre prevención y detección oportuna de esta enfermedad, con la participación de trabajadoras de distintas dependencias municipales y personal del sector salud. La actividad se llevó a cabo en el …"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Libia Dennise García anuncia obras por más de 90 mdp en Huanímaro",
-    "fecha": "20/10/2026 14:26",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/libia-dennise-garcia-realiza-gira-de-trabajo-por-huanimaro-anuncia-obras-por-mas-de-90-millones-de-pesos-32706625",
-    "resumen": "La gobernadora de Guanajuato y la alcaldesa Laura Villalpando Arroyo encabezaron el arranque de la obra de la calle Benito Juárez en la cabecera municipal y la rehabilitación del camino rural Cerrito Alto Viejo"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Vacunación en Guanajuato llegará a 377 puntos contra influenza y Covid-19",
-    "fecha": "20/10/2026 13:19",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/vacunacion-en-guanajuato-llegara-a-377-puntos-contra-influenza-y-covid-19-32705554",
-    "resumen": "La campaña arrancó en Huanímaro y se prevé aplicar un millón 713 mil dosis en todo el estado"
+    "prioridad": 2,
+    "titulo": "Tras 3 meses de gestiones, niegan permiso a expo artesanal en Irapuato justo antes de instalarse",
+    "fecha": "21/10/2026 13:14",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/21/tras-3-meses-de-gestiones-niegan-permiso-a-expo-artesanal-en-irapuato-justo-antes-de-instalarse-169657.html",
+    "resumen": "La organizadora señaló que llevaba 3 meses solicitando el permiso para la expo artesanal en Irapuato y ahora perderán más de 30 mil pesos"
   },
   {
     "prioridad": 2,
     "titulo": "Conagra Brands arranca nuevas líneas de producción en Irapuato",
     "fecha": "21/10/2026 12:42",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/conagra-brands-arranca-nuevas-lineas-de-produccion-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- La consolidación de Irapuato como uno de los municipios más competitivos del estado de Guanajuato y de todo el país, avanza con paso firme, al ser facilitador para la ampliación de diferentes empresas que han puesto su confianza en el potencial de la ciudad. Ejemplo de ello es la empresa global Conagra Brands, …"
   },
@@ -75,7 +115,7 @@
     "prioridad": 2,
     "titulo": "Van a “despedir” a varios secretarios del Gobierno de la Gente",
     "fecha": "21/10/2026 11:58",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/van-a-despedir-a-varios-secretarios-del-gobierno-de-la-gente/",
     "resumen": "Irapuato, Guanajuato.- A principios de noviembre el llamado Gobierno de la Gente, sufrirá cambios en varias de sus secretarías: “las van a correr”. Aunque no se ha hecho oficial, entre los secretarios que podrían quedar fuera, están: Secretaría de Economía, Campo, Cultura y Turismo e Identidad. En el análisis de la actual administración de la …"
   },
@@ -89,74 +129,34 @@
   },
   {
     "prioridad": 2,
-    "titulo": "De Irapuato para el mundo: Afan Beats & Misty RJ estrenan ‘Mística’ su primer álbum en colaboración",
-    "fecha": "21/10/2026 07:29",
+    "titulo": "Irapuato impulsa trámites digitales y prepara foro sobre ciudades inteligentes",
+    "fecha": "21/10/2026 10:15",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/de-irapuato-para-el-mundo-afan-beats-misty-rj-estrenan-mistica-su-primer-album-en-colaboracion-32715571",
-    "resumen": "El material discográfico incluye cinco temas, que a partir de hoy ya se pueden escuchar en plataformas digitales acompañado de sus visuales en el canal de Afan Beats por YouTube"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-impulsa-tramites-digitales-y-prepara-foro-sobre-ciudades-inteligentes-32719052",
+    "resumen": "Uso de suelo, permisos de construcción y seguimiento de solicitudes forman parte de los procesos que ya cuentan con herramientas digitales el municipio llevará esta transformación al foro Futuro Urbano del cinco de noviembre"
   },
   {
     "prioridad": 2,
-    "titulo": "Motociclista sin casco derrapa en Jardines de Irapuato y termina con fracturas",
-    "fecha": "21/10/2026 05:29",
+    "titulo": "Irapuato busca tener más de 52 dependencias libres de humo y vapeadores antes de 2027",
+    "fecha": "21/10/2026 09:17",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/motociclista-sin-casco-derrapa-en-jardines-de-irapuato-y-termina-con-fracturas-32714399",
-    "resumen": "El accidente ocurrió durante la madrugada en el cruce de Nogal y Paseo de las Fresas; paramédicos de Cruz Roja trasladaron al conductor de 26 años a un hospital"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-tener-mas-de-52-dependencias-libres-de-humo-y-vapeadores-antes-de-2027-32718802",
+    "resumen": "Ocho áreas municipales recibieron reconocimiento durante el Miércoles Ciudadano; Salud Municipal busca extender el proceso a todas las oficinas de la administración"
   },
   {
     "prioridad": 2,
-    "titulo": "¡Orgullo mexicano! Tlahuilli, Quetzalli y Xidoo triunfan en Irapuato con espectáculo folklórico",
-    "fecha": "21/10/2026 04:29",
+    "titulo": "Entró cuatro veces al mismo negocio a robar en Irapuato; lo sentencian a siete años de prisión",
+    "fecha": "21/10/2026 08:18",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/orgullo-mexicano-tlahuilli-quetzalli-y-xidoo-triunfan-en-irapuato-con-espectaculo-folklorico-32396973",
-    "resumen": "Las agrupaciones dancísticas demostraron lo mejor de su talento en el 5° Encuentro ‘México a través de la Danza Folklórica’, una velada donde se unieron la cultura y tradición mexicana"
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/entro-cuatro-veces-al-mismo-negocio-a-robar-en-irapuato-lo-sentencian-a-siete-anos-de-prision-32717570",
+    "resumen": "Juan José N. cometió los robos entre diciembre de 2024 y mayo de 2025"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato pedirá crédito millonario a Japami para obras y mantenimiento vial",
-    "fecha": "20/10/2026 20:18",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/irapuato-pedira-credito-millonario-a-japami-para-obras-y-mantenimiento-vial-169615.html",
-    "resumen": "La alcaldesa Lorena Alfaro defendió el préstamo ante los cuestionamientos de Morena por los recursos ya asignados a pavimentación y urbanización"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Susana Bermúdez mantiene su aspiración a la alcaldía de Irapuato e impugna fallo del PAN",
-    "fecha": "20/10/2026 19:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/susana-bermudez-mantiene-su-aspiracion-a-la-alcaldia-de-irapuato-e-impugna-fallo-del-pan-169608.html",
-    "resumen": "Susana Bermúdez impugnó ante el Tribunal Estatal Electoral de Guanajuato la resolución interna del PAN y reiteró su intención de buscar la candidatura"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ricardo Gómez Escalante se registra como aspirante a la coordinación de Morena en Irapuato",
-    "fecha": "20/10/2026 19:00",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/ricardo-gomez-escalante-se-registra-como-aspirante-a-la-coordinacion-de-morena-en-irapuato-169605.html",
-    "resumen": "El joven de 34 años y exsecretario de organización estatal de Morena buscará la coordinación municipal en Irapuato; respetará la decisión del partido"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Camión de carga vuelca y cae a un canal en la Irapuato-Pueblo Nuevo",
-    "fecha": "20/10/2026 18:55",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/20/camion-de-carga-vuelca-y-cae-a-un-canal-en-la-irapuato-pueblo-nuevo-169604.html",
-    "resumen": "El conductor y dos pasajeros de un camión de carga resultaron con lesiones leves tras volcar y caer a un canal entre las comunidades El Carmen y Tomelópez, en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato donará dos terrenos para construir preparatorias en la zona sur",
-    "fecha": "20/10/2026 18:54",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/irapuato-donara-dos-terrenos-para-construir-preparatorias-en-la-zona-sur-169603.html",
-    "resumen": "La Comisión de Hacienda de Irapuato aprobó la donación de dos terrenos para construir preparatorias en Irapuato, con una inversión federal de 34 mdp"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato habilita una Casa de Emergencia Violeta para víctimas de violencia",
-    "fecha": "20/10/2026 18:21",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/20/irapuato-habilita-una-casa-de-emergencia-violeta-para-victimas-de-violencia-169600.html",
-    "resumen": "La casa violeta en Irapuato brindará resguardo hasta por 72 horas a mujeres víctimas de violencia y sus hijos menores de edad"
+    "titulo": "Un día para conectar negocios: Lidera 2026 reunirá empresarias en Irapuato",
+    "fecha": "21/10/2026 08:06",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/un-dia-para-conectar-negocios-lidera-2026-reunira-empresarias-en-irapuato-32717109",
+    "resumen": "AMMJE realizará el encuentro el 19 de noviembre con exposición empresarial, paneles, talleres y networking; las organizadoras proyectan una derrama de entre 700 mil y un millón de pesos"
   }
 ]
