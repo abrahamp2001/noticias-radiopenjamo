@@ -27,9 +27,36 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Instalar dependencias
+      - name: Instalar dependencias y FFmpeg
         run: |
-          python -m pip install edge-tts
+          python -m pip install edge-tts imageio-ffmpeg
+
+          python - <<'PY'
+          import imageio_ffmpeg
+          import os
+          import shutil
+          from pathlib import Path
+
+          ejecutable = imageio_ffmpeg.get_ffmpeg_exe()
+          destino = Path.home() / ".local" / "bin"
+          destino.mkdir(parents=True, exist_ok=True)
+
+          enlace = destino / "ffmpeg"
+
+          if enlace.exists() or enlace.is_symlink():
+              enlace.unlink()
+
+          os.symlink(ejecutable, enlace)
+
+          print("FFmpeg instalado:", ejecutable)
+          print("Comando disponible:", enlace)
+
+          with open(os.environ["GITHUB_PATH"], "a") as f:
+              f.write(str(destino) + "\n")
+          PY
+
+      - name: Verificar FFmpeg
+        run: |
           ffmpeg -version
 
       - name: Generar reporte meteorologico
@@ -59,4 +86,6 @@ jobs:
             git commit -m "Actualizar noticiero del clima con musica"
             git pull --rebase origin main
             git push origin main
+          else
+            echo "Los audios no presentan cambios."
           fi
