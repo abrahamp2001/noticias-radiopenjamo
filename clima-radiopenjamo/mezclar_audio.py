@@ -1,6 +1,7 @@
 
 import subprocess
 from pathlib import Path
+import imageio_ffmpeg
 
 # RADIO PENJAMO - MEZCLADOR DEL CLIMA
 
@@ -15,16 +16,44 @@ MUSICA = CARPETA / (
 
 SALIDA = CARPETA / "noticiero-clima-final.mp3"
 
+FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
+
 
 def duracion(archivo):
-    resultado = subprocess.check_output([
-        "ffprobe",
-        "-v", "error",
-        "-show_entries", "format=duration",
-        "-of", "default=noprint_wrappers=1:nokey=1",
-        str(archivo)
-    ])
-    return float(resultado.decode().strip())
+    comando = [
+        FFMPEG,
+        "-hide_banner",
+        "-i", str(archivo),
+        "-f", "null",
+        "-"
+    ]
+
+    resultado = subprocess.run(
+        comando,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.PIPE,
+        text=True
+    )
+
+    import re
+
+    tiempos = re.findall(
+        r"time=(\d+):(\d+):(\d+(?:\.\d+)?)",
+        resultado.stderr
+    )
+
+    if not tiempos:
+        raise RuntimeError(
+            f"No se pudo calcular la duracion de {archivo}"
+        )
+
+    horas, minutos, segundos = tiempos[-1]
+
+    return (
+        int(horas) * 3600
+        + int(minutos) * 60
+        + float(segundos)
+    )
 
 
 def mezclar():
@@ -39,8 +68,6 @@ def mezclar():
 
     print("INICIANDO MEZCLA MUSICAL...", flush=True)
 
-    # Entrada de 6 segundos, voz y cierre musical.
-    # La cortinilla se repite a volumen bajo.
     filtro = (
         "[0:a]asetpts=PTS-STARTPTS,"
         "adelay=6000:all=1,"
@@ -58,7 +85,7 @@ def mezclar():
     )
 
     comando = [
-        "ffmpeg",
+        FFMPEG,
         "-y",
         "-i", str(VOZ),
         "-i", str(MUSICA),
@@ -80,4 +107,3 @@ def mezclar():
 
 if __name__ == "__main__":
     mezclar()
-
