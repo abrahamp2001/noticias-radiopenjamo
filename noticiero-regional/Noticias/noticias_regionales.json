@@ -9,6 +9,14 @@
   },
   {
     "prioridad": 0,
+    "titulo": "A sus 83 años, Jaime Orozco mantiene vivo el vínculo con su comunidad en Pénjamo",
+    "fecha": "21/10/2026 20:33",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/a-sus-83-anos-jaime-orozco-mantiene-vivo-el-vinculo-con-su-comunidad-en-penjamo-169717.html",
+    "resumen": "A sus 83 años, Jaime Orozco mantiene su vínculo con el campo y su comunidad natal, Trojes de Paúl, en Pénjamo: conoce su historia"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo regulariza predios de la colonia Jardines de San Telmo",
     "fecha": "21/10/2026 17:30",
     "fuente": "Notus",
@@ -27,7 +35,7 @@
     "prioridad": 0,
     "titulo": "Fuerte impacto de autobuses deja múltiples heridos en Pénjamo",
     "fecha": "21/10/2026 15:27",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/fuerte-impacto-de-autobuses-deja-multiples-heridos-en-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- Un fuerte impacto entre dos camiones de transporte dejó un saldo de varios heridos sobre la carretera federal 1110 Pénjamo-La Piedad, entre las comunidades Laguna Larga y La Estrella. En el choque, se involucró una unidad de transporte de personal de la empresa Bafar y un urbano de Pénjamo-Lagunillas. Personal de emergencias como …"
   },
@@ -56,14 +64,6 @@
     "resumen": "El percance se habría dado después de que una de las unidades tuviera una falla en los frenos"
   },
   {
-    "prioridad": 0,
-    "titulo": "Abasolo: San Bernardo Peña Blanca tiene agua solo una hora cada tercer día; urgen construcción de otro pozo",
-    "fecha": "21/10/2026 09:04",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/abasolo-san-bernardo-pena-blanca-tiene-agua-solo-una-hora-cada-tercer-dia-urgen-construccion-de-otro-pozo-169643.html",
-    "resumen": "Los habitantes de la comunidad de Abasolo optan por comprar pipas puesto que la del municipio tarda hasta un mes en llegar, representando un golpe a su economía"
-  },
-  {
     "prioridad": 1,
     "titulo": "Detienen a cuatro presuntos delincuentes en Huanímaro; decomisan armas, drogas y camioneta baleada",
     "fecha": "21/10/2026 12:11",
@@ -72,20 +72,28 @@
     "resumen": "El operativo de elementos de Sedena y GN en una vivienda de la comunidad de Joroches en Huanímaro derivó en la detención de cuatro hombres"
   },
   {
-    "prioridad": 1,
-    "titulo": "Panteón municipal de Cuerámaro prevé recibir a más de 5 mil visitantes por el Día de Muertos",
-    "fecha": "21/10/2026 10:06",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/panteon-municipal-de-cueramaro-preve-recibir-a-mas-de-5-mil-visitantes-por-el-dia-de-muertos-32719927",
-    "resumen": "Roberto Mendoza, administrador del cementerio, informó que se realizaron trabajos de limpieza, desazolve, fumigación y retiro de hierba"
+    "prioridad": 2,
+    "titulo": "¿Qué piensan sobre la muerte? Entre el miedo, la fe y las tradiciones",
+    "fecha": "22/10/2026 11:00",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/que-piensan-sobre-la-muerte-entre-el-miedo-la-fe-y-las-tradiciones/",
+    "resumen": "Irapuato, Guanajuato.- Con la llegada del Día de Muertos, una de las tradiciones más representativas de México, también surgen reflexiones sobre el significado de la muerte, el temor a lo desconocido y las creencias acerca de lo que sucede después de la vida. Periódico Notus salió a preguntar a ciudadanos qué representa para ellos la …"
   },
   {
-    "prioridad": 1,
-    "titulo": "David Rojas mantiene el legado familiar del alfeñique en Cuerámaro desde hace 70 años",
-    "fecha": "21/10/2026 09:01",
+    "prioridad": 2,
+    "titulo": "Imuvii prepara nuevo desarrollo de vivienda en Irapuato tras recibir 700 solicitudes",
+    "fecha": "22/10/2026 01:00",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/david-rojas-mantiene-el-legado-familiar-del-alfenique-en-cueramaro-desde-hace-70-anos-32718400",
-    "resumen": "El comerciante recuerda que su padre comenzó a trabajar el dulce en la década de 1950. Cada año, la familia prepara calaveritas, cajitas de muerto y figuras de alimentos para la temporada del Día de Muertos"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/imuvii-prepara-nuevo-desarrollo-de-vivienda-en-irapuato-tras-recibir-700-solicitudes-32720513",
+    "resumen": "El proyecto se analiza para un predio ubicado detrás del terreno destinado al IMSS"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Club Irapuato ya paga agua del Sergio León Chávez; Japami negocia deuda histórica",
+    "fecha": "22/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/club-irapuato-ya-paga-agua-del-sergio-leon-chavez-japami-negocia-deuda-historica-32720589",
+    "resumen": "La actual directiva ya cuenta con contrato y toma regularizada y cubre el consumo corriente"
   },
   {
     "prioridad": 2,
@@ -150,13 +158,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/van-a-despedir-a-varios-secretarios-del-gobierno-de-la-gente/",
     "resumen": "Irapuato, Guanajuato.- A principios de noviembre el llamado Gobierno de la Gente, sufrirá cambios en varias de sus secretarías: “las van a correr”. Aunque no se ha hecho oficial, entre los secretarios que podrían quedar fuera, están: Secretaría de Economía, Campo, Cultura y Turismo e Identidad. En el análisis de la actual administración de la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Joven derrapa en su moto en Jardines de Irapuato; lucha por su vida en hospital",
-    "fecha": "21/10/2026 11:02",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/joven-derrapa-en-su-moto-en-jardines-de-irapuato-lucha-por-su-vida-en-hospital-169649.html",
-    "resumen": "El joven no portaba el casco de protección y derrapó cuando circulaba por las calles Nogal y Paseo de las Fresas, en la colonia Jardines de Irapuato"
   }
 ]
