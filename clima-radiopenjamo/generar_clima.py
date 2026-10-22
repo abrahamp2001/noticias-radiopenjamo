@@ -79,6 +79,26 @@ def generar():
 
     fecha = ahora.strftime("%d/%m/%Y")
 
+    hora = ahora.hour % 12 or 12
+    minutos = ahora.minute
+
+    if ahora.hour < 5:
+      periodo = "de la madrugada"
+    elif ahora.hour < 12:
+      periodo = "de la mañana"
+    elif ahora.hour < 19:
+      periodo = "de la tarde"
+    else:
+      periodo = "de la noche"
+
+    hora_reporte = f"las {hora}"
+    if hora == 1:
+      hora_reporte = "la 1"
+    if minutos:
+      hora_reporte += f" con {minutos} minutos"
+    hora_reporte += f" {periodo}"
+
+
     if 5 <= ahora.hour < 12:
         saludo = "Muy buenos días"
     elif 12 <= ahora.hour < 19:
@@ -90,7 +110,7 @@ def generar():
         f"Radio Pénjamo presenta el reporte del clima. "
         f"{saludo} amigos radioescuchas. "
         f"Les compartimos las condiciones del tiempo "
-        f"para Pénjamo Guanajuato este {fecha}. "
+        f"para Pénjamo Guanajuato este {fecha}, reporte generado a {hora_reporte}, hora de Pénjamo. "
         f"Actualmente tenemos {temperatura} grados "
         f"centígrados con sensación térmica "
         f"de {sensacion} grados. "
