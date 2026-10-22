@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Secretario de Salud asegura que Abasolo no requiere médicos especialistas",
+    "fecha": "21/10/2026 22:01",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/secretario-de-salud-asegura-que-abasolo-no-requiere-medicos-especialistas-169725.html",
+    "resumen": "Gabriel Cortés afirmó que el Hospital Comunitario de Abasolo funciona bien y que los pacientes que requieren especialistas son canalizados a Irapuato"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo regulariza predios de la colonia Jardines de San Telmo",
     "fecha": "21/10/2026 17:30",
     "fuente": "Notus",
@@ -80,12 +88,28 @@
     "resumen": "El comerciante recuerda que su padre comenzó a trabajar el dulce en la década de 1950. Cada año, la familia prepara calaveritas, cajitas de muerto y figuras de alimentos para la temporada del Día de Muertos"
   },
   {
-    "prioridad": 1,
-    "titulo": "Libia Dennise García arranca el programa Manos a la Obra en Huanímaro",
-    "fecha": "20/10/2026 21:21",
+    "prioridad": 2,
+    "titulo": "Incendio en oficinas de Sagarpa en Irapuato deja daños materiales",
+    "fecha": "21/10/2026 23:30",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/20/libia-dennise-garcia-arranca-el-programa-manos-a-la-obra-en-huanimaro-169628.html",
-    "resumen": "Libia Dennise García inauguró cinco obras sociales en Huanímaro con una inversión cercana a 40 millones de pesos, que sumada al recurso municipal alcanzará más de 90 millones"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/incendio-en-oficinas-de-sagarpa-en-irapuato-deja-danos-materiales-169735.html",
+    "resumen": "El fuego movilizó a Bomberos y Protección Civil tras un reporte al 911. Las llamas fueron controladas y solo se registraron daños materiales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en los edificios San José, Irapuato, deja un hombre lesionado",
+    "fecha": "21/10/2026 22:44",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/ataque-armado-en-los-edificios-san-jose-irapuato-deja-un-hombre-lesionado-169732.html",
+    "resumen": "Un hombre fue atacado a balazos al interior de los edificios San José, en Irapuato, y trasladado a un hospital en un vehículo particular"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "OXXO entrega 132 mil pesos a la Cruz Roja de Irapuato por su programa de redondeo",
+    "fecha": "21/10/2026 20:03",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/21/oxxo-entrega-132-mil-pesos-a-la-cruz-roja-de-irapuato-por-su-programa-de-redondeo-169709.html",
+    "resumen": "La Cruz Roja de Irapuato recibió 132 mil 694 pesos del programa de redondeo \"Cambio por Cambio\" de OXXO"
   },
   {
     "prioridad": 2,
@@ -102,6 +126,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/21/tras-3-meses-de-gestiones-niegan-permiso-a-expo-artesanal-en-irapuato-justo-antes-de-instalarse-169657.html",
     "resumen": "La organizadora señaló que llevaba 3 meses solicitando el permiso para la expo artesanal en Irapuato y ahora perderán más de 30 mil pesos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato será epicentro del taekwondo nacional",
+    "fecha": "21/10/2026 12:45",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-sera-epicentro-del-taekwondo-nacional-32722775",
+    "resumen": "La Federación Mexicana tendrá cuatro eventos en la tierra de las fresas, entre ellos el Grand Slam"
   },
   {
     "prioridad": 2,
@@ -126,37 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/21/joven-derrapa-en-su-moto-en-jardines-de-irapuato-lucha-por-su-vida-en-hospital-169649.html",
     "resumen": "El joven no portaba el casco de protección y derrapó cuando circulaba por las calles Nogal y Paseo de las Fresas, en la colonia Jardines de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato impulsa trámites digitales y prepara foro sobre ciudades inteligentes",
-    "fecha": "21/10/2026 10:15",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-impulsa-tramites-digitales-y-prepara-foro-sobre-ciudades-inteligentes-32719052",
-    "resumen": "Uso de suelo, permisos de construcción y seguimiento de solicitudes forman parte de los procesos que ya cuentan con herramientas digitales el municipio llevará esta transformación al foro Futuro Urbano del cinco de noviembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato busca tener más de 52 dependencias libres de humo y vapeadores antes de 2027",
-    "fecha": "21/10/2026 09:17",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-tener-mas-de-52-dependencias-libres-de-humo-y-vapeadores-antes-de-2027-32718802",
-    "resumen": "Ocho áreas municipales recibieron reconocimiento durante el Miércoles Ciudadano; Salud Municipal busca extender el proceso a todas las oficinas de la administración"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Entró cuatro veces al mismo negocio a robar en Irapuato; lo sentencian a siete años de prisión",
-    "fecha": "21/10/2026 08:18",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/entro-cuatro-veces-al-mismo-negocio-a-robar-en-irapuato-lo-sentencian-a-siete-anos-de-prision-32717570",
-    "resumen": "Juan José N. cometió los robos entre diciembre de 2024 y mayo de 2025"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Un día para conectar negocios: Lidera 2026 reunirá empresarias en Irapuato",
-    "fecha": "21/10/2026 08:06",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/un-dia-para-conectar-negocios-lidera-2026-reunira-empresarias-en-irapuato-32717109",
-    "resumen": "AMMJE realizará el encuentro el 19 de noviembre con exposición empresarial, paneles, talleres y networking; las organizadoras proyectan una derrama de entre 700 mil y un millón de pesos"
   }
 ]
