@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Hospital Comunitario de Abasolo: los reclamos y amagos de Job Gallardo",
+    "fecha": "23/10/2026 00:34",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/opinion/2026/oct/23/hospital-comunitario-de-abasolo-los-reclamos-y-amagos-de-job-gallardo-169835.html",
+    "resumen": "“Él no conoce Abasolo, nunca ha visitado Abasolo. No conoce Abasolo. No conoce el hospital y si lo conoce, quién sabe qué le habrán enseñado a este tipo..."
+  },
+  {
+    "prioridad": 0,
     "titulo": "Alcalde de Abasolo amenaza con manifestarse por falta de especialistas",
     "fecha": "22/10/2026 19:34",
     "fuente": "Periódico Correo",
@@ -129,34 +137,26 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Galería | Monstruos y Botargas de Irapuato premia a 23 participantes en el segundo Concurso de Disfraces",
-    "fecha": "22/10/2026 20:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/22/galeria-monstruos-y-botargas-de-irapuato-premia-a-23-participantes-en-el-segundo-concurso-de-disfraces-169808.html",
-    "resumen": "El Concurso de Disfraces organizado por Monstruos y Botargas de Irapuato reunió a 23 participantes en la Plaza del Comercio Popular"
+    "titulo": "Irapuato no autorizará rodadas de motos por Día de Muertos; habrá operativos",
+    "fecha": "23/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-no-autorizara-rodadas-de-motos-por-dia-de-muertos-habra-operativos-32738208",
+    "resumen": "La medida llega después de antecedentes ocurridos en estas concentraciones: en 2023 un repartidor fue asesinado durante una Rodada del Terror y en 2024 otra convocatoria dejó un motociclista muerto y ocho personas lesionadas"
   },
   {
     "prioridad": 2,
-    "titulo": "Ataque armado en la colonia Las Heras, Irapuato, deja un hombre herido",
-    "fecha": "22/10/2026 17:50",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/22/ataque-armado-en-la-colonia-las-heras-irapuato-deja-un-hombre-herido-169790.html",
-    "resumen": "Un hombre resultó herido tras un ataque armado en la calle División del Norte, en la colonia Las Heras, en Irapuato; los agresores huyeron"
+    "titulo": "Bajan 30% las carpetas por homicidio doloso en Irapuato durante septiembre",
+    "fecha": "23/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/bajan-30-las-carpetas-por-homicidio-doloso-en-irapuato-durante-septiembre-32738602",
+    "resumen": "Los registros pasaron de 23 en agosto a 16 en septiembre, mientras que las carpetas por robo de vehículo disminuyeron de 14 a 11, según datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública"
   },
   {
     "prioridad": 2,
-    "titulo": "Ofrecen oportunidades de empleo incluyente en Irapuato con participación de 23 empresas",
-    "fecha": "22/10/2026 16:42",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/ofrecen-oportunidades-de-empleo-incluyente-en-irapuato-con-participacion-de-23-empresas/",
-    "resumen": "Irapuato, Guanajuato.- Con la participación de 23 empresas aliadas, se realizó la jornada Conexión Laboral para la Inclusión Irapuato 2026, una iniciativa dirigida a facilitar oportunidades de empleo para personas con discapacidad, adultos mayores y otros sectores de la población. El encuentro tuvo lugar en el patio de la Presidencia Municipal y fue organizado por …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tribunal desecha impugnación de Susana Bermúdez y Eduardo López contra proceso de defensores de la Patria",
-    "fecha": "22/10/2026 16:19",
+    "titulo": "Irapuato registró 108 accidentes viales y siete muertes durante septiembre de 2026",
+    "fecha": "22/10/2026 21:07",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/22/tribunal-desecha-impugnacion-de-susana-bermudez-y-eduardo-lopez-contra-proceso-de-defensores-de-la-patria-169780.html",
-    "resumen": "El TEEG desechó la impugnación contra la elección de los defensores de la Patria, la Familia y la Libertad del PAN en Irapuato"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/22/irapuato-registro-108-accidentes-viales-y-siete-muertes-durante-septiembre-de-2026-169821.html",
+    "resumen": "Los accidentes en Irapuato aumentaron 54 % durante septiembre de 2026, con 108 percances que dejaron siete personas fallecidas y 110 lesionadas"
   }
 ]
