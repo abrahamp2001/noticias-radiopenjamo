@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Alcalde de Abasolo amenaza con manifestarse por falta de especialistas",
+    "fecha": "22/10/2026 19:34",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/22/alcalde-de-abasolo-amenaza-con-manifestarse-por-falta-de-especialistas-169802.html",
+    "resumen": "Job Gallardo exigió médicos para el Hospital Comunitario de Tamazula y criticó al secretario de Salud por descartar la necesidad de especialistas"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Tres motociclistas chocan contra un tráiler en la carretera Abasolo-Pénjamo",
+    "fecha": "22/10/2026 18:59",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/22/tres-motociclistas-chocan-contra-un-trailer-en-la-carretera-abasolo-penjamo-169798.html",
+    "resumen": "Tres personas que viajaban en una motocicleta se impactaron contra la parte posterior de un tráiler cerca de La Marmolera, entre Abasolo y Pénjamo"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo va por 700 viviendas para trabajadores y trabajadoras",
     "fecha": "22/10/2026 16:52",
     "fuente": "Notus",
@@ -65,27 +81,19 @@
   },
   {
     "prioridad": 0,
+    "titulo": "Entregan 590 tinacos a familias de comunidades y colonias de Abasolo",
+    "fecha": "22/10/2026 13:16",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/entregan-590-tinacos-a-familias-de-comunidades-y-colonias-de-abasolo-32739282",
+    "resumen": "El presidente municipal, Job Gallardo Santellano, encabezó la entrega de apoyos del programa Suministro e Instalación de Tinacos, dirigido a habitantes de distintas localidades del municipio"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Programa de Red Móvil lleva cemento y estuco a familias de la comunidad de La Aceituna en Pénjamo",
     "fecha": "22/10/2026 10:47",
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/programa-de-red-movil-lleva-cemento-y-estuco-a-familias-de-la-comunidad-de-la-aceituna-en-penjamo-32738335",
     "resumen": "El proyecto “Mejoramiento de Vivienda Comunitaria” llegó a la localidad de La Aceituna, donde el SMDIF Pénjamo distribuyó cemento y estuco entre las integrantes del Grupo de Desarrollo, mediante la coordinación con el DIF Estatal Guanajuato y el DIF Nacional, como parte de las actividades del programa Red Móvil: Salud y Bienestar Comunitario"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Secretario de Salud asegura que Abasolo no requiere médicos especialistas",
-    "fecha": "21/10/2026 22:01",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/secretario-de-salud-asegura-que-abasolo-no-requiere-medicos-especialistas-169725.html",
-    "resumen": "Gabriel Cortés afirmó que el Hospital Comunitario de Abasolo funciona bien y que los pacientes que requieren especialistas son canalizados a Irapuato"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "A sus 83 años, Jaime Orozco mantiene vivo el vínculo con su comunidad en Pénjamo",
-    "fecha": "21/10/2026 20:33",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/21/a-sus-83-anos-jaime-orozco-mantiene-vivo-el-vinculo-con-su-comunidad-en-penjamo-169717.html",
-    "resumen": "A sus 83 años, Jaime Orozco mantiene su vínculo con el campo y su comunidad natal, Trojes de Paúl, en Pénjamo: conoce su historia"
   },
   {
     "prioridad": 0,
@@ -121,6 +129,22 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Galería | Monstruos y Botargas de Irapuato premia a 23 participantes en el segundo Concurso de Disfraces",
+    "fecha": "22/10/2026 20:08",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/22/galeria-monstruos-y-botargas-de-irapuato-premia-a-23-participantes-en-el-segundo-concurso-de-disfraces-169808.html",
+    "resumen": "El Concurso de Disfraces organizado por Monstruos y Botargas de Irapuato reunió a 23 participantes en la Plaza del Comercio Popular"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en la colonia Las Heras, Irapuato, deja un hombre herido",
+    "fecha": "22/10/2026 17:50",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/22/ataque-armado-en-la-colonia-las-heras-irapuato-deja-un-hombre-herido-169790.html",
+    "resumen": "Un hombre resultó herido tras un ataque armado en la calle División del Norte, en la colonia Las Heras, en Irapuato; los agresores huyeron"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Ofrecen oportunidades de empleo incluyente en Irapuato con participación de 23 empresas",
     "fecha": "22/10/2026 16:42",
     "fuente": "Notus",
@@ -134,29 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/22/tribunal-desecha-impugnacion-de-susana-bermudez-y-eduardo-lopez-contra-proceso-de-defensores-de-la-patria-169780.html",
     "resumen": "El TEEG desechó la impugnación contra la elección de los defensores de la Patria, la Familia y la Libertad del PAN en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "DIF Estatal realizará el ¡Vive Más! Fest en Irapuato con espectáculos y actividades gratuitas",
-    "fecha": "22/10/2026 16:15",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/dif-estatal-realizara-el-vive-mas-fest-en-irapuato-con-espectaculos-y-actividades-gratuitas/",
-    "resumen": "Irapuato, Guanajuato.- El Sistema DIF Estatal Guanajuato realizará este sábado 24 de octubre el ¡Vive Más! Fest en el Parque Irekua de Irapuato, un festival gratuito que reunirá espectáculos infantiles, presentaciones musicales, talleres de cocina, actividades físicas y espacios de convivencia familiar. El encuentro, organizado por el DIF Estatal en el marco del Día Mundial …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Prohíben caravanas y rodadas de motocicletas por Día de Muertos en Irapuato",
-    "fecha": "22/10/2026 15:15",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/prohiben-caravanas-y-rodadas-de-motocicletas-por-dia-de-muertos-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- El Gobierno Municipal de Irapuato anunció que no autorizará caravanas ni rodadas de motocicletas durante las festividades de Día de Muertos, debido a los antecedentes de accidentes, conducción temeraria y alteraciones al orden público registrados en años anteriores. La medida busca prevenir situaciones de riesgo durante las celebraciones, por lo que las autoridades …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Bajan 30% los homicidios dolosos en Irapuato durante septiembre",
-    "fecha": "22/10/2026 15:09",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/bajan-30-los-homicidios-dolosos-en-irapuato-durante-septiembre/",
-    "resumen": "Irapuato, Guanajuato.- Los homicidios dolosos en Irapuato disminuyeron un 30% durante septiembre de 2026, al pasar de 23 registros en agosto a 16 en septiembre, de acuerdo con las cifras de incidencia delictiva del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP). El reporte mensual señala una reducción en cuatro delitos, entre ellos el …"
   }
 ]
