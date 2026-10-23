@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Programa de alimentación escolar atiende a 3,922 niñas y niños en Pénjamo",
+    "fecha": "23/10/2026 12:33",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/programa-de-alimentacion-escolar-atiende-a-3922-ninas-y-ninos-en-penjamo/",
+    "resumen": "El DIF Municipal informó que el servicio opera a través de 78 comedores escolares, en coordinación con el DIF Estatal. Pénjamo, Guanajuato.— El programa de Alimentación Escolar Caliente beneficia a…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "DIF Pénjamo brinda ocho sesiones de crianza positiva a 29 madres de familia",
+    "fecha": "23/10/2026 12:27",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/dif-penjamo-brinda-ocho-sesiones-de-crianza-positiva-a-29-madres-de-familia/",
+    "resumen": "Las participantes del Preescolar Ignacio Manuel Altamirano recibieron herramientas de comunicación para fortalecer la relación con sus hijos. Pénjamo, Guanajuato.— A través de su área de Psicología, el DIF Pénjamo…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Hospital Comunitario de Abasolo: los reclamos y amagos de Job Gallardo",
     "fecha": "23/10/2026 00:34",
     "fuente": "Periódico Correo",
@@ -35,7 +51,7 @@
     "prioridad": 0,
     "titulo": "Pénjamo: tras una semana de desaparecer en gasolinera, buscan a 6",
     "fecha": "22/10/2026 16:14",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/penjamo-tras-una-semana-de-desaparecer-en-gasolinera-buscan-a-6/",
     "resumen": "Pénjamo, Guanajuato.- Ha pasado una semana desde que se perdió el contacto con 6 personas en la gasolinera ubicada sobre la carretera Pénjamo-La Piedad, a la altura de la comunidad Laguna Larga de Cortés, de donde 4 son originarios. Las familias de las hermanas Lesly de 33 años y Maritza de 31; Juan, despachador de …"
   },
@@ -67,7 +83,7 @@
     "prioridad": 0,
     "titulo": "Abasolo destina 1.7 millones de pesos para instalar calentadores solares en 227 hogares",
     "fecha": "22/10/2026 14:32",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/abasolo-destina-1-7-millones-de-pesos-para-instalar-calentadores-solares-en-227-hogares/",
     "resumen": "Abasolo, Guanajuato.- Un total de 227 familias de Abasolo serán beneficiadas con el suministro e instalación de calentadores solares, mediante un programa municipal que contempla una inversión de 1 millón 748 mil 503 pesos con 82 centavos. Los apoyos estarán dirigidos a habitantes de 45 colonias y comunidades del municipio, con el objetivo de facilitar …"
   },
@@ -97,14 +113,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Programa de Red Móvil lleva cemento y estuco a familias de la comunidad de La Aceituna en Pénjamo",
-    "fecha": "22/10/2026 10:47",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/programa-de-red-movil-lleva-cemento-y-estuco-a-familias-de-la-comunidad-de-la-aceituna-en-penjamo-32738335",
-    "resumen": "El proyecto “Mejoramiento de Vivienda Comunitaria” llegó a la localidad de La Aceituna, donde el SMDIF Pénjamo distribuyó cemento y estuco entre las integrantes del Grupo de Desarrollo, mediante la coordinación con el DIF Estatal Guanajuato y el DIF Nacional, como parte de las actividades del programa Red Móvil: Salud y Bienestar Comunitario"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Balean a Juanito afuera de los edificios San José, en Irapuato",
     "fecha": "22/10/2026 14:47",
     "fuente": "Notus página 2",
@@ -123,40 +131,32 @@
     "prioridad": 0,
     "titulo": "Manuel Doblado reúne a siete municipios en Tianguis Cultural con música, danza y artesanías",
     "fecha": "22/10/2026 14:27",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/manuel-doblado-reune-a-siete-municipios-en-tianguis-cultural-con-musica-danza-y-artesanias/",
     "resumen": "Manuel Doblado, Guanajuato.- Representantes de siete municipios de Guanajuato participaron en el Tianguis Cultural realizado en la Plaza de Armas “Insurgente José Antonio Torres”, en Manuel Doblado, donde se llevaron a cabo presentaciones musicales, danza, teatro, exposiciones artesanales y talleres gratuitos. El encuentro reunió a participantes de Silao, Cuerámaro, Pénjamo, San Felipe, Guanajuato capital, Ocampo …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Yozajmby Molina refrenda compromiso con habitantes de Mezquite de Luna mediante obras de infraestructura",
-    "fecha": "22/10/2026 09:45",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/yozajmby-molina-refrenda-compromiso-con-habitantes-de-mesquite-de-luna-mediante-obras-de-infraestructura-32737420",
-    "resumen": "La presidenta municipal de Pénjamo señaló que los trabajos buscan mejorar los accesos a escuelas, centros deportivos y espacios de culto, además de atender las condiciones de movilidad de las familias"
-  },
-  {
     "prioridad": 2,
-    "titulo": "Irapuato no autorizará rodadas de motos por Día de Muertos; habrá operativos",
-    "fecha": "23/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-no-autorizara-rodadas-de-motos-por-dia-de-muertos-habra-operativos-32738208",
-    "resumen": "La medida llega después de antecedentes ocurridos en estas concentraciones: en 2023 un repartidor fue asesinado durante una Rodada del Terror y en 2024 otra convocatoria dejó un motociclista muerto y ocho personas lesionadas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Bajan 30% las carpetas por homicidio doloso en Irapuato durante septiembre",
-    "fecha": "23/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/bajan-30-las-carpetas-por-homicidio-doloso-en-irapuato-durante-septiembre-32738602",
-    "resumen": "Los registros pasaron de 23 en agosto a 16 en septiembre, mientras que las carpetas por robo de vehículo disminuyeron de 14 a 11, según datos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato registró 108 accidentes viales y siete muertes durante septiembre de 2026",
-    "fecha": "22/10/2026 21:07",
+    "titulo": "Ataque armado deja un hombre sin vida en Emiliano Zapata III, Irapuato",
+    "fecha": "23/10/2026 11:53",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/22/irapuato-registro-108-accidentes-viales-y-siete-muertes-durante-septiembre-de-2026-169821.html",
-    "resumen": "Los accidentes en Irapuato aumentaron 54 % durante septiembre de 2026, con 108 percances que dejaron siete personas fallecidas y 110 lesionadas"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/23/ataque-armado-deja-un-hombre-sin-vida-en-emiliano-zapata-iii-irapuato-169848.html",
+    "resumen": "Reportes a emergencias alertaron por detonaciones de armas de fuego en la colonia de la zona sur de Irapuato, confirmando posteriormente la muerte de un hombre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Dos ataques en la madrugada dejan un herido y un muerto en Irapuato",
+    "fecha": "23/10/2026 11:37",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/dos-ataques-en-la-madrugada-dejan-un-herido-y-un-muerto-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Dos ataques armados en Irapuato dejaron a un hombre sin vida y a otro más lesionado. La madrugada del viernes, en la colonia Emiliano Zapata III se reportaron varios disparos que terminaron con la muerte de una persona. En otro hecho en la colonia 24 de Diciembre, un herido fue trasladado a recibir …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a un hombre en la colonia Emiliano Zapata III en Irapuato",
+    "fecha": "23/10/2026 05:24",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/asesinan-a-un-hombre-en-la-colonia-emiliano-zapata-iii-en-irapuato-32750443",
+    "resumen": "Un hombre fue asesinado a balazos en la colonia Emiliano Zapata III, en Irapuato; la Fiscalía recabó indicios y no había detenidos"
   }
 ]
