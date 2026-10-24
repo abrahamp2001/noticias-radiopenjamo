@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Mujer de Abasolo gasta más de medio millón tras derrame cerebral ante falta de especialista",
+    "fecha": "23/10/2026 23:01",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/23/mujer-de-abasolo-gasta-mas-de-medio-millon-tras-derrame-cerebral-ante-falta-de-especialista-169915.html",
+    "resumen": "María Guadalupe Razo sobrevivió a un derrame cerebral tras una cirugía privada y aún debe más de 80 mil pesos con apoyo de su familia y vecino"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Salud estatal mantiene abierto el diálogo con Abasolo por falta de internista",
     "fecha": "23/10/2026 17:30",
     "fuente": "Periódico Correo",
@@ -65,17 +73,9 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Yozajamby Molina entrega pavimentación de la calle Plan de Ayala Poniente en Pénjamo",
-    "fecha": "23/10/2026 11:12",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/yozajamby-molina-entrega-pavimentacion-de-la-calle-plan-de-ayala-poniente-en-penjamo-32754702",
-    "resumen": "La pavimentación de la calle Plan de Ayala Poniente mejora el acceso a viviendas y la circulación de familias y vehículos en Pénjamo"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Carrera Apache y pasarela de disfraces cierran Semana de la Ciencia en CBTis 171",
     "fecha": "23/10/2026 15:37",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/carrera-apache-y-pasarela-de-disfraces-cierran-semana-de-la-ciencia-en-cbtis-171/",
     "resumen": "Abasolo, Guanajuato.- Con la Carrera Apache y una pasarela de disfraces, estudiantes del CBTis 171 concluyeron las actividades de la Semana de la Ciencia y la Tecnología, realizadas en el marco de la celebración del aniversario de esta institución educativa. La jornada reunió a integrantes de la comunidad estudiantil en actividades deportivas y recreativas que …"
   },
@@ -97,6 +97,14 @@
   },
   {
     "prioridad": 1,
+    "titulo": "Inauguran pavimentación de la calle Flores Magón en Cuerámaro tras más de 20 años",
+    "fecha": "23/10/2026 22:34",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/23/inauguran-pavimentacion-de-la-calle-flores-magon-en-cueramaro-tras-mas-de-20-anos-169911.html",
+    "resumen": "El alcalde Humberto Hernández encabezó la inauguración de la pavimentación con concreto hidráulico de la calle Flores Magón en Cuerámaro"
+  },
+  {
+    "prioridad": 1,
     "titulo": "Motociclista resulta lesionado tras choque de tres vehículos en la Cuerámaro-Irapuato",
     "fecha": "23/10/2026 21:29",
     "fuente": "Periódico Correo",
@@ -112,20 +120,12 @@
     "resumen": "Manuel Doblado, Guanajuato.- Con una inversión de un millón 185 mil 52 pesos, el Gobierno Municipal de Manuel Doblado inició los trabajos de pavimentación en la comunidad de Puerto de Laurel, donde se intervendrá el acceso principal y el espacio ubicado frente a la escuela primaria Mariano Matamoros y la iglesia. El arranque de la …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Las viviendas en la calle 20 de Noviembre de Cuerámaro estaban en riesgo: esta es la razón por la que abrieron la calle",
-    "fecha": "23/10/2026 08:50",
+    "prioridad": 2,
+    "titulo": "De la Plaza Miguel Hidalgo a la Plaza del Comercio: más de 40 años vendiendo bromas en Irapuato",
+    "fecha": "24/10/2026 04:47",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/obras-en-calle-20-de-noviembre-en-cueramaro-por-que-cerraron-la-zona-centro-32753833",
-    "resumen": "La rehabilitación de la calle 20 de Noviembre atiende el drenaje y agua potable; comerciantes plantearon inquietudes por el periodo de obra"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Inaugura Humberto Hernández Martínez la calle 20 de Marzo en la colonia Flores Magón de Cuerámaro",
-    "fecha": "23/10/2026 08:04",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-entregan-pavimentacion-de-la-calle-20-de-marzo-en-la-colonia-flores-magon-32753109",
-    "resumen": "La calle 20 de Marzo fue inaugurada en la colonia Flores Magón de Cuerámaro, donde el alcalde destacó necesidades y límites presupuestales"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-la-plaza-miguel-hidalgo-a-la-plaza-del-comercio-mas-de-40-anos-vendiendo-bromas-en-irapuato-32767111",
+    "resumen": "María Colindres mantiene viva una tradición familiar que comenzó con sus padres, cuando los puestos se instalaban en la Plaza Miguel Hidalgo; ahora en la Plaza del Comercio"
   },
   {
     "prioridad": 2,
@@ -155,7 +155,7 @@
     "prioridad": 2,
     "titulo": "Disminuye abandono escolar en Guanajuato; primaria pasa de 3.02% a 0.02%",
     "fecha": "23/10/2026 15:51",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/disminuye-abandono-escolar-en-guanajuato-primaria-pasa-de-3-02-a-0-02/",
     "resumen": "Irapuato, Guanajuato.- El abandono escolar en Guanajuato disminuyó de 3.02 a 0.02 por ciento en primaria y de 14 a 9 por ciento en educación media superior durante los últimos dos años, informó la Secretaría de Educación de Guanajuato (SEG), que también reportó avances en cobertura educativa y resultados de aprendizaje. Los datos fueron presentados …"
   }
