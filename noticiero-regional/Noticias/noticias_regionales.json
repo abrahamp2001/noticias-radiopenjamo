@@ -73,14 +73,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Hospital Comunitario de Abasolo: los reclamos y amagos de Job Gallardo",
-    "fecha": "23/10/2026 00:34",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/opinion/2026/oct/23/hospital-comunitario-de-abasolo-los-reclamos-y-amagos-de-job-gallardo-169835.html",
-    "resumen": "“Él no conoce Abasolo, nunca ha visitado Abasolo. No conoce Abasolo. No conoce el hospital y si lo conoce, quién sabe qué le habrán enseñado a este tipo..."
-  },
-  {
-    "prioridad": 0,
     "titulo": "Carrera Apache y pasarela de disfraces cierran Semana de la Ciencia en CBTis 171",
     "fecha": "23/10/2026 15:37",
     "fuente": "Notus",
@@ -158,5 +150,13 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/irapuato-tendra-rodada-del-terror-camionera-este-1-de-noviembre/",
     "resumen": "Irapuato, Guanajuato.- Este primero de noviembre Irapuato tendrá una Rodada del Terror Camionera. La página Freseros Tuning invitó a conductores de autobuses, carros y camionetas a unirse en la caravana con disfraces y decoración de Halloween para regalar dulces a los niños durante el recorrido. Cabe destacar que se informó que no se permiten motocicletas. …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Disminuye abandono escolar en Guanajuato; primaria pasa de 3.02% a 0.02%",
+    "fecha": "23/10/2026 15:51",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/disminuye-abandono-escolar-en-guanajuato-primaria-pasa-de-3-02-a-0-02/",
+    "resumen": "Irapuato, Guanajuato.- El abandono escolar en Guanajuato disminuyó de 3.02 a 0.02 por ciento en primaria y de 14 a 9 por ciento en educación media superior durante los últimos dos años, informó la Secretaría de Educación de Guanajuato (SEG), que también reportó avances en cobertura educativa y resultados de aprendizaje. Los datos fueron presentados …"
   }
 ]
