@@ -8,6 +8,22 @@
     "resumen": "Habitantes de La Estrella, Laguna Larga de Cortés y otras ocho comunidades de Pénjamo solicitan la construcción de un puente superior vehicular sobre la carretera Pénjamo-La Piedad"
   },
   {
+    "prioridad": 0,
+    "titulo": "Muere joven motociclista tras chocar contra camellón en Irapuato",
+    "fecha": "25/10/2026 13:59",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/muere-joven-motociclista-tras-chocar-contra-camellon-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un joven motociclista perdió la vida luego de perder el control de la unidad que conducía y estrellarse contra el camellón central del bulevar Insurgentes, en la salida hacia Abasolo, a un costado de la colonia Los Fresnos. El accidente ocurrió cuando el joven circulaba a bordo de una motocicleta Italika, en colores …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Cuerámaro prevé cumplir entre 80 y 90% de las obras contempladas antes de finalizar el año",
+    "fecha": "25/10/2026 09:32",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-preve-cumplir-hasta-90-de-sus-obras-programadas-para-2026-32790714",
+    "resumen": "El alcalde Humberto Hernández Martínez informó que están pendientes trabajos en la entrada del municipio, así como la construcción de un puente y una calle en la comunidad de Puerta de la Reserva"
+  },
+  {
     "prioridad": 2,
     "titulo": "Con alrededor de 400 corredores, celebran en Irapuato la edición 14 de la carrera ‘Familia en Rosa’",
     "fecha": "25/10/2026 11:39",
@@ -22,6 +38,30 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/muere-motociclista-tras-derrapar-en-la-avenida-de-los-insurgentes-irapuato-169973.html",
     "resumen": "Testigos señalan que, tras viajar a alta velocidad por la vialidad de Irapuato, el motociclista perdió el control y cayó sobre la carretera, perdiendo la vida"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "24 detenidos y nueve vehículos robados recuperados: así cerró la semana policial en Irapuato",
+    "fecha": "25/10/2026 10:20",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/24-detenidos-y-nueve-vehiculos-robados-recuperados-asi-cerro-la-semana-policial-en-irapuato-32792255",
+    "resumen": "Entre el 18 y el 24 de octubre, la Policía Municipal aseguró también 48 dosis de droga"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Atacó a una madre y su hija en un negocio de Irapuato; procesa a El Alex y queda en prisión",
+    "fecha": "25/10/2026 10:07",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataco-a-una-madre-y-su-hija-en-un-negocio-de-irapuato-procesa-a-el-alex-y-queda-en-prision-32791954",
+    "resumen": "La agresión ocurrió el 28 de abril en un negocio de la carretera Irapuato-León; la hija no resultó lesionada, pero la Fiscalía presentó datos para procesar al imputado también por tentativa de homicidio"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Vemos más elementos de seguridad, pero no nos sentimos más seguros: obispo de Irapuato",
+    "fecha": "25/10/2026 08:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/vemos-mas-elementos-de-seguridad-pero-no-nos-sentimos-mas-seguros-obispo-de-irapuato-32789654",
+    "resumen": "Enrique Díaz Díaz señaló que es difícil establecer hasta qué punto una encuesta refleja todas las condiciones de seguridad de un territorio, pero los hechos violentos que siguen registrándose entre la población"
   },
   {
     "prioridad": 2,
@@ -88,54 +128,6 @@
     "resumen": "Irapuato, Guanajuato.- En el Zoológico de Irapuato, hay cerca de 500 animales de unas 120 especies que puedes conocer y aprender de ellas. Una de las zonas que más puedes disfrutar es el herpetario, donde puedes observar diversas variedades de reptiles y dentro de este espacio -al que puedes llegar por el camino al costado …"
   },
   {
-    "prioridad": 2,
-    "titulo": "Gobierno de Guanajuato atenderá inseguridad en Irapuato, confirma gobernadora",
-    "fecha": "24/10/2026 16:35",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/24/gobierno-de-guanajuato-atendera-inseguridad-en-irapuato-confirma-gobernadora-169938.html",
-    "resumen": "Nueve de cada 10 personas de Irapuato se sienten temerosas de vivir en esta ciudad que lideró la percepción de inseguridad a nivel nacional"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Persiste “bloqueo” pipas de Pemex en salida a Salamanca",
-    "fecha": "24/10/2026 16:22",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/persiste-bloqueo-pipas-de-pemex-en-salida-a-salamanca/",
-    "resumen": "Irapuato, Guanajuato.- Cientos de pipas permanecen estacionadas sobre la carretera 45D, a la altura del entronque hacia Salamanca. Los camiones han estado provocando desde hace un mes largas filas y esperas de horas para los automovilistas que circulan por Irapuato, sobre todo en horas pico. Los tractocamiones se forman para ingresar a la Terminal de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡La Trinca no se detiene! Irapuato golea 4-1 al Inter Playa y suma ocho triunfos consecutivos",
-    "fecha": "24/10/2026 15:49",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-golea-4-1-al-inter-playa-y-suma-ocho-victorias-consecutivas-32778510",
-    "resumen": "Con doblete de Luis Ángel Araujo y anotaciones de Heriberto de la Rosa y Jehan Nicolás Arcila, los Freseros se impusieron como visitantes, se llevaron cuatro puntos y mantuvieron su paso invicto en la Liga Premier."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Condenan a prisión a irapuatense; asesinó a su pareja en Floresta",
-    "fecha": "24/10/2026 15:35",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/condenan-a-prision-a-irapuatense-asesino-a-su-pareja-en-floresta/",
-    "resumen": "Irapuato, Guanajuato.- Héctor Abel “N”, de 35 años de edad, fue sentenciado a 28 años de prisión por el delito de feminicidio, luego de que la Fiscalía General del Estado de Guanajuato acreditara su responsabilidad en el asesinato de su pareja, ocurrido en el fraccionamiento Residencial Floresta, en Irapuato. De acuerdo con la información de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Socavón en la colonia El Cantador de Irapuato provoca que un automóvil quede atorado",
-    "fecha": "24/10/2026 15:12",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/socavon-en-la-colonia-el-cantador-de-irapuato-provoca-que-un-automovil-quede-atorado/",
-    "resumen": "Irapuato, Guanajuato.- Un automóvil quedó atorado en un socavón que se formó la mañana de este sábado sobre la calle Pascual Ortiz Tirado, en la colonia El Cantador, en Irapuato. A través de una denuncia ciudadana, habitantes de la zona reportaron la presencia de un hoyo de grandes dimensiones en dicha vialidad, el cual habría …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a mujer a balazos en La Lupita, Irapuato; agresor huye en motocicleta",
-    "fecha": "24/10/2026 14:18",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-mujer-a-balazos-en-la-lupita-irapuato-agresor-huye-en-motocicleta-32777968",
-    "resumen": "El ataque ocurrió sobre la calle Faisán; vecinos reportaron detonaciones, lo que movilizó a policías, Ejército y Guardia Nacional"
-  },
-  {
     "prioridad": 3,
     "titulo": "Guanajuato premia a 12 familias por preparar alimentos saludables y fomentar buenos hábitos",
     "fecha": "24/10/2026 20:29",
@@ -150,13 +142,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/24/secretaria-de-salud-de-guanajuato-busca-pago-del-imss-por-370-mil-derechohabientes-atendidos-en-su-lugar-169947.html",
     "resumen": "Las clínicas del estado de Guanajuato han absorbido los costos de 370 mil pacientes atendidos que tenían derechohabiencia del IMSS o el ISSSTE"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Suspenden agricultores de Guanajuato y el Bajío bloqueos del 27 de octubre; esperan rescate al campo",
-    "fecha": "24/10/2026 14:24",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/24/suspenden-agricultores-de-guanajuato-y-el-bajio-bloqueos-del-27-de-octubre-esperan-rescate-al-campo-169928.html",
-    "resumen": "Se buscaría integrar una bolsa de recursos con aportaciones de la Federación y los gobiernos estatales para apoyar a los productores de Guanajuato y otros estados"
   }
 ]
