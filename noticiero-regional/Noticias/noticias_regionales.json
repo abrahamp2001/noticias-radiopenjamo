@@ -16,14 +16,6 @@
     "resumen": "María Guadalupe Razo sobrevivió a un derrame cerebral tras una cirugía privada y aún debe más de 80 mil pesos con apoyo de su familia y vecino"
   },
   {
-    "prioridad": 0,
-    "titulo": "Salud estatal mantiene abierto el diálogo con Abasolo por falta de internista",
-    "fecha": "23/10/2026 17:30",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/23/salud-estatal-mantiene-abierto-el-dialogo-con-abasolo-por-falta-de-internista-169881.html",
-    "resumen": "Gabriel Cortés Alcalá informó que sigue la búsqueda de un médico internista para el Hospital Comunitario de Abasolo y ofreció al alcalde Job Gallardo recibir sus recomendaciones si cumplen el perfil"
-  },
-  {
     "prioridad": 1,
     "titulo": "Inauguran pavimentación de la calle Flores Magón en Cuerámaro tras más de 20 años",
     "fecha": "23/10/2026 22:34",
@@ -38,6 +30,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/23/motociclista-resulta-lesionado-tras-choque-de-tres-vehiculos-en-la-cueramaro-irapuato-169905.html",
     "resumen": "Un motociclista fue hospitalizado tras un choque múltiple en la carretera Cuerámaro-Irapuato, a la altura de Presa de Uribe, donde un auto rojo y otro gris también se impactaron"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Ya conoces todas las especies de serpientes del ZooIra?",
+    "fecha": "24/10/2026 18:20",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/ya-conoces-todas-las-especies-de-serpientes-del-zooira/",
+    "resumen": "Irapuato, Guanajuato.- En el Zoológico de Irapuato, hay cerca de 500 animales de unas 120 especies que puedes conocer y aprender de ellas. Una de las zonas que más puedes disfrutar es el herpetario, donde puedes observar diversas variedades de reptiles y dentro de este espacio -al que puedes llegar por el camino al costado …"
   },
   {
     "prioridad": 2,
@@ -73,9 +73,17 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Detienen a pareja señalada por amenazas a comerciantes de mercado en Irapuato",
+    "fecha": "24/10/2026 12:28",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-en-irapuato-a-dos-personas-por-presuntos-mensajes-amenazantes-32776225",
+    "resumen": "Margarita N. y Joel N. fueron ubicados por el GOE en San Juanito, tras labores de inteligencia por posibles extorsiones"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Irapuato encabeza otra vez la percepción de inseguridad en el país",
     "fecha": "24/10/2026 11:51",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-encabeza-otra-vez-la-percepcion-de-inseguridad-en-el-pais/",
     "resumen": "Irapuato, Guanajuato.- Nueve de cada diez habitantes de Irapuato dicen sentirse inseguros en su ciudad, así lo dio a conocer la Encuesta Nacional de Seguridad Pública Urbana (ENSU) del Inegi correspondiente a septiembre de 2026. La encuesta coloca al municipio en el primer lugar entre las ciudades evaluadas, con 90.5% de percepción de inseguridad, es …"
   },
@@ -94,14 +102,6 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/23/irapuato-lidera-por-tercer-trimestre-la-percepcion-de-inseguridad-segun-ensu-169898.html",
     "resumen": "El 90.5% de los habitantes de Irapuato se sintió inseguro en septiembre, según el INEGI; la Secretaría de Seguridad local destaca una tendencia a la baja"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato prohíbe rodadas del terror tras estampida y accidentes previos",
-    "fecha": "23/10/2026 17:49",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/23/irapuato-prohibe-rodadas-del-terror-tras-estampida-y-accidentes-previos-169883.html",
-    "resumen": "La Secretaría de Seguridad Ciudadana de Irapuato canceló los permisos para caravanas y rodadas de motocicletas por Halloween y Día de Muertos"
   },
   {
     "prioridad": 3,
