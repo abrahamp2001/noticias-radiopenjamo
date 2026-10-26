@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Volcadura de una pipa de gas LP en la carretera Abasolo-Pénjamo genera alerta",
+    "fecha": "25/10/2026 18:24",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/volcadura-de-una-pipa-de-gas-lp-en-la-carretera-abasolo-penjamo-genera-alerta-170003.html",
+    "resumen": "Una pipa de gas LP volcó en la cuneta de la carretera 1110, cerca de Soledad de Morales, entre Abasolo y Pénjamo; bomberos controlaron el riesgo"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Reportan accidente vial con una pipa de gas en la carretera Pénjamo-Abasolo",
+    "fecha": "25/10/2026 17:29",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/reportan-accidente-vial-con-una-pipa-de-gas-en-la-carretera-penjamo-abasolo/",
+    "resumen": "Pénjamo, Guanajuato.- Conductores reportaron un accidente vial sobre la carretera federal Pénjamo–Abasolo, en el que se encuentra involucrada una pipa de gas. El reporte fue difundido a través de las redes sociales, donde se alertó a los automovilistas que transitan por esta vialidad para que conduzcan con precaución ante la presencia de la unidad involucrada …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Habitantes de La Estrella y Laguna Larga solicitan puente vehicular sobre la Pénjamo-La Piedad; llevan 20 años de espera",
     "fecha": "25/10/2026 08:31",
     "fuente": "El Sol de Irapuato",
@@ -22,6 +38,22 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-preve-cumplir-hasta-90-de-sus-obras-programadas-para-2026-32790714",
     "resumen": "El alcalde Humberto Hernández Martínez informó que están pendientes trabajos en la entrada del municipio, así como la construcción de un puente y una calle en la comunidad de Puerta de la Reserva"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "The Carfest reúne 300 vehículos y espectáculos automotrices en Irapuato",
+    "fecha": "25/10/2026 19:42",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/the-carfest-reune-300-vehiculos-y-espectaculos-automotrices-en-irapuato-170010.html",
+    "resumen": "El festival automotriz The Carfest se realizó por primera vez en el Inforum de Irapuato con 300 vehículos en exhibición, derrapes, choques controlados y develaciones de autos modificados"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Antojitos y alfeñiques dan sabor a la tradición del Día de Muertos en Irapuato",
+    "fecha": "25/10/2026 15:28",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/antojitos-y-alfeniques-dan-sabor-a-la-tradicion-del-dia-de-muertos-en-irapuato-32798900",
+    "resumen": "Comerciantes de la explanada de la Plaza del Comercio mantienen viva una tradición familiar con la venta de comida mexicana, elotes preparados y dulces típicos durante esta temporada"
   },
   {
     "prioridad": 2,
@@ -94,53 +126,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/asi-nacio-irapuato-su-historia-comenzo-en-1547-entre-estancias-minas-y-cuatro-pueblos-32777212",
     "resumen": "La historia del municipio se remonta cuando españoles, tlaxcaltecas, otomíes y purépechas comenzaron a ocupar el territorio habitado por los Guamares"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Zoológico de Irapuato invita a conocer serpientes y reptiles en su herpetario gratuito",
-    "fecha": "24/10/2026 20:48",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/24/zoologico-de-irapuato-invita-a-conocer-serpientes-y-reptiles-en-su-herpetario-gratuito-169960.html",
-    "resumen": "El Zoológico de Irapuato invita a los visitantes a conocer su herpetario gratuito, donde habitan pitones, boas, tortugas lagarto y otras especies de reptiles"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a balazos a una mujer en la colonia La Lupita de Irapuato",
-    "fecha": "24/10/2026 19:51",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/asesinan-a-balazos-a-una-mujer-en-la-colonia-la-lupita-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Una mujer fue asesinada a balazos la tarde de este sábado en la colonia La Lupita, en Irapuato, luego de ser atacada afuera de su vivienda, ubicada sobre la calle Faisán. Los hechos ocurrieron alrededor de las 4:50 de la tarde, cuando se reportaron detonaciones de arma en la zona. Al arribar al …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Motociclista armado mata a mujer en colonia La Lupita, Irapuato",
-    "fecha": "24/10/2026 18:54",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/24/motociclista-armado-mata-a-mujer-en-colonia-la-lupita-irapuato-169943.html",
-    "resumen": "Un motociclista armado circulaba por la calle de Irapuato se acercó a la mujer, sin más le dispar en varias ocasiones y huyó"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Ya conoces todas las especies de serpientes del ZooIra?",
-    "fecha": "24/10/2026 18:20",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/ya-conoces-todas-las-especies-de-serpientes-del-zooira/",
-    "resumen": "Irapuato, Guanajuato.- En el Zoológico de Irapuato, hay cerca de 500 animales de unas 120 especies que puedes conocer y aprender de ellas. Una de las zonas que más puedes disfrutar es el herpetario, donde puedes observar diversas variedades de reptiles y dentro de este espacio -al que puedes llegar por el camino al costado …"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Guanajuato premia a 12 familias por preparar alimentos saludables y fomentar buenos hábitos",
-    "fecha": "24/10/2026 20:29",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/24/guanajuato-premia-a-12-familias-por-preparar-alimentos-saludables-y-fomentar-buenos-habitos-169957.html",
-    "resumen": "El Gobierno estatal reconoció a 12 familias por promover alimentos saludables en Guanajuato durante el festival ¡Vive Más!"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Secretaría de Salud de Guanajuato busca pago del IMSS por 370 mil derechohabientes atendidos en su lugar",
-    "fecha": "24/10/2026 19:16",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/24/secretaria-de-salud-de-guanajuato-busca-pago-del-imss-por-370-mil-derechohabientes-atendidos-en-su-lugar-169947.html",
-    "resumen": "Las clínicas del estado de Guanajuato han absorbido los costos de 370 mil pacientes atendidos que tenían derechohabiencia del IMSS o el ISSSTE"
   }
 ]
