@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Ataque armado en centro de Pénjamo deja tres heridos",
+    "fecha": "26/10/2026 09:50",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/ataque-armado-en-centro-de-penjamo-deja-tres-heridos-170040.html",
+    "resumen": "Uno de los heridos fue trasladado en la ambulancia a un hospital de Pénjamo en estado grave, mientras los otros dos fueron llevados por un auto privado"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Volcadura de una pipa de gas LP en la carretera Abasolo-Pénjamo genera alerta",
     "fecha": "25/10/2026 18:24",
     "fuente": "Periódico Correo",
@@ -17,14 +25,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Habitantes de La Estrella y Laguna Larga solicitan puente vehicular sobre la Pénjamo-La Piedad; llevan 20 años de espera",
-    "fecha": "25/10/2026 08:31",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/habitantes-de-penjamo-piden-puente-en-la-carretera-penjamo-la-piedad-tras-20-anos-de-espera-32789307",
-    "resumen": "Habitantes de La Estrella, Laguna Larga de Cortés y otras ocho comunidades de Pénjamo solicitan la construcción de un puente superior vehicular sobre la carretera Pénjamo-La Piedad"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Muere joven motociclista tras chocar contra camellón en Irapuato",
     "fecha": "25/10/2026 13:59",
     "fuente": "Notus",
@@ -33,11 +33,99 @@
   },
   {
     "prioridad": 1,
-    "titulo": "Cuerámaro prevé cumplir entre 80 y 90% de las obras contempladas antes de finalizar el año",
-    "fecha": "25/10/2026 09:32",
+    "titulo": "¿Fantasmas? Aparición de huella misteriosa en el panteón de Cuerámaro sorprende a albañil",
+    "fecha": "26/10/2026 10:20",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/26/fantasmas-aparicion-de-huella-misteriosa-en-el-panteon-de-cueramaro-sorprende-a-albanil-170042.html",
+    "resumen": "Un albañil vivió un hecho paranormal tras trabajar en el panteón de Cuerámaro, donde la huella de un niño apareció inexplicablemente de la noche a la mañana"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Ante falta de espacio, Cuerámaro ampliará panteón municipal",
+    "fecha": "25/10/2026 21:56",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/25/ante-falta-de-espacio-cueramaro-ampliara-panteon-municipal-170024.html",
+    "resumen": "El alcalde Humberto Hernández anunció que acondicionarán un área disponible para colocar más gavetas, mientras descartan construir un nuevo cementerio"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Motociclista muere en accidente en la carretera Irapuato-Huanímaro",
+    "fecha": "25/10/2026 21:43",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/motociclista-muere-en-accidente-en-la-carretera-irapuato-huanimaro-170023.html",
+    "resumen": "Miguel Guevara, quien al parecer trabajaba en una granja cercana, murió tras un accidente en motocicleta en la carretera Irapuato-Huanímaro"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Accidente de tráiler en Cuarto Cinturón Vial complica circulación",
+    "fecha": "26/10/2026 10:56",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/accidente-de-trailer-en-cuarto-cinturon-vial-complica-circulacion/",
+    "resumen": "Irapuato, Guanajuato.- La volcadura de un tráiler en El Cuarto Cinturón Vial de Arandas hacia Plaza Cibeles afectó tres carriles. Al parecer, la caja que transportaba se volteó, quedando en medio de la vialidad la mañana de este lunes. Automovilistas que circulaban por la zona informaron a las autoridades; Policía Municipal y Tránsito atendieron el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Trailero se salva de milagro tras volcadura en el Cuarto Cinturón Vial de Irapuato",
+    "fecha": "26/10/2026 10:38",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/trailero-se-salva-de-milagro-tras-volcadura-en-el-cuarto-cinturon-vial-de-irapuato-170043.html",
+    "resumen": "Por varios minutos se congestionó la zona, mientras se realizaban las maniobras para retirar la unidad del Cuarto Cinturón Vial en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "‘El muerto al pozo y la viuda al gozo’: la obra teatral que conquista al público de Irapuato",
+    "fecha": "26/10/2026 05:10",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-preve-cumplir-hasta-90-de-sus-obras-programadas-para-2026-32790714",
-    "resumen": "El alcalde Humberto Hernández Martínez informó que están pendientes trabajos en la entrada del municipio, así como la construcción de un puente y una calle en la comunidad de Puerta de la Reserva"
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/el-muerto-al-pozo-y-la-viuda-al-gozo-la-obra-teatral-que-conquista-al-publico-de-irapuato-32447889",
+    "resumen": "El talentoso reparto encabezado por el profesor Jorge Rafael Martínez Aza, ofreció una actuación de primera que recibió la cálida ovación de los asistentes"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Ver una patrulla nos da miedo”: transportistas protestan en Irapuato por robos y presuntas extorsiones",
+    "fecha": "26/10/2026 04:52",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/ver-una-patrulla-nos-da-miedo-transportistas-protestan-en-irapuato-por-robos-y-presuntas-extorsiones-32803561",
+    "resumen": "Operadores partieron desde Castro del Río hacia Silao; denuncian secuestros, presuntos cobros de policías, daños a sus unidades y problemas para hacer válidos los seguros carreteros"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ricardo Gómez Escalante quiere llevar a Morena al terreno histórico del PAN: el empresariado de Irapuato",
+    "fecha": "26/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/ricardo-gomez-escalante-quiere-llevar-a-morena-al-terreno-historico-del-pan-el-empresariado-de-irapuato-32795778",
+    "resumen": "El exsecretario de Organización de Morena también plantea sumar perfiles provenientes de otras fuerzas sin ofrecerles candidaturas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De punto de estancia de migrantes a espacio deportivo: transforman bajopuente de la Coca en Irapuato",
+    "fecha": "26/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-punto-de-estancia-de-migrantes-a-espacio-deportivo-transforman-bajopuente-de-la-coca-en-irapuato-32789516",
+    "resumen": "Una parte tendrá áreas de práctica de basquetbol y el otro contará con rampas y espacios para skate y bicicletas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "ENSU: León mejora, Irapuato se estanca y Guanajuato capital recupera terreno",
+    "fecha": "26/10/2026 00:12",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/opinion/2026/oct/26/ensu-leon-mejora-irapuato-se-estanca-y-guanajuato-capital-recupera-terreno-170036.html",
+    "resumen": "En los municipios de Guanajuato incluidos en la Encuesta Nacional de Seguridad Pública Urbana (ENSU) del INEGI hay un comportamiento bastante desigual..."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato: atropellan a sargento de la Guardia Nacional en bulevar Díaz Ordaz; conductor es detenido",
+    "fecha": "25/10/2026 21:37",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/irapuato-atropellan-a-sargento-de-la-guardia-nacional-en-bulevar-diaz-ordaz-conductor-es-detenido-170022.html",
+    "resumen": "La sargento Cecilia Marcial fue trasladada a un hospital en estado delicado tras ser arrollada por una camioneta en el bulevar Díaz Ordaz"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Obispo de Irapuato llama a vivir el Día de Muertos desde la fe y la oración",
+    "fecha": "25/10/2026 21:30",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/obispo-de-irapuato-llama-a-vivir-el-dia-de-muertos-desde-la-fe-y-la-oracion-170021.html",
+    "resumen": "Enrique Díaz Díaz, obispo de Irapuato, invitó a las familias a recordar a sus difuntos con oración y a no dejarse invadir por Halloween"
   },
   {
     "prioridad": 2,
@@ -62,69 +150,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/con-alrededor-de-400-corredores-celebran-en-irapuato-la-edicion-14-de-la-carrera-familia-en-rosa-169976.html",
     "resumen": "La carrera anual organizada por Gladys Miranda tiene el objetivo de apoyar a mujeres que afrontan el cáncer de mama en Irapuato y promover la prevención"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere motociclista tras derrapar en la avenida de Los Insurgentes, Irapuato",
-    "fecha": "25/10/2026 10:23",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/muere-motociclista-tras-derrapar-en-la-avenida-de-los-insurgentes-irapuato-169973.html",
-    "resumen": "Testigos señalan que, tras viajar a alta velocidad por la vialidad de Irapuato, el motociclista perdió el control y cayó sobre la carretera, perdiendo la vida"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "24 detenidos y nueve vehículos robados recuperados: así cerró la semana policial en Irapuato",
-    "fecha": "25/10/2026 10:20",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/24-detenidos-y-nueve-vehiculos-robados-recuperados-asi-cerro-la-semana-policial-en-irapuato-32792255",
-    "resumen": "Entre el 18 y el 24 de octubre, la Policía Municipal aseguró también 48 dosis de droga"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Atacó a una madre y su hija en un negocio de Irapuato; procesa a El Alex y queda en prisión",
-    "fecha": "25/10/2026 10:07",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataco-a-una-madre-y-su-hija-en-un-negocio-de-irapuato-procesa-a-el-alex-y-queda-en-prision-32791954",
-    "resumen": "La agresión ocurrió el 28 de abril en un negocio de la carretera Irapuato-León; la hija no resultó lesionada, pero la Fiscalía presentó datos para procesar al imputado también por tentativa de homicidio"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Vemos más elementos de seguridad, pero no nos sentimos más seguros: obispo de Irapuato",
-    "fecha": "25/10/2026 08:58",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/vemos-mas-elementos-de-seguridad-pero-no-nos-sentimos-mas-seguros-obispo-de-irapuato-32789654",
-    "resumen": "Enrique Díaz Díaz señaló que es difícil establecer hasta qué punto una encuesta refleja todas las condiciones de seguridad de un territorio, pero los hechos violentos que siguen registrándose entre la población"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato firme en la cima de la Liga Premier; busca el noveno triunfo",
-    "fecha": "25/10/2026 08:21",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-al-inter-playa-y-suma-ocho-triunfos-consecutivos-en-la-liga-premier-32789084",
-    "resumen": "La Trinca Fresera ha conseguido 26 de 27 puntos posibles en el campeonato de Primera"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Esmeralda Rico y Uriel Barroso ganan la novena carrera Nissan Vegusa en Irapuato",
-    "fecha": "25/10/2026 07:19",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/carrera-nissan-vegusa-2026-reune-a-corredores-de-irapuato-y-la-region-en-pruebas-de-10-y-5-kilometros-32787864",
-    "resumen": "Vuelve a superar sus metas la carrera Nissan Vegusa, ahora en su novena edición"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Libia Dennise: “Hay avances” en seguridad, pero Irapuato sigue con 90.5% de percepción de inseguridad",
-    "fecha": "25/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/libia-dennise-hay-avances-en-seguridad-pero-irapuato-sigue-con-90-5-de-percepcion-de-inseguridad-32772608",
-    "resumen": "La gobernadora dijo que se debe seguir trabajando y atender la diferencia entre la percepción ciudadana y los resultados; la ENSU mantiene a Irapuato en el primer lugar nacional, mientras la SSC reporta mejoras en algunos indicadores"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Así nació Irapuato: su historia comenzó en 1547 entre estancias, minas y cuatro pueblos",
-    "fecha": "25/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/asi-nacio-irapuato-su-historia-comenzo-en-1547-entre-estancias-minas-y-cuatro-pueblos-32777212",
-    "resumen": "La historia del municipio se remonta cuando españoles, tlaxcaltecas, otomíes y purépechas comenzaron a ocupar el territorio habitado por los Guamares"
   }
 ]
