@@ -1,11 +1,27 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Balean a 3 jóvenes en el centro de Pénjamo",
+    "fecha": "26/10/2026 13:07",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/balean-a-3-jovenes-en-el-centro-de-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- En un ataque armado, presuntos sicarios dejaron 3 hombres, al parecer, jóvenes, lesionados sobre la calle Independencia, casi esquina con Joaquín Pardavé, en el centro de Pénjamo. Supuestamente, el estado de salud de una de las víctimas es crítico. Los reportes de varias detonaciones alertaron a la policía municipal cerca de las 10 …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Ataque armado en centro de Pénjamo deja tres heridos",
     "fecha": "26/10/2026 09:50",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/ataque-armado-en-centro-de-penjamo-deja-tres-heridos-170040.html",
     "resumen": "Uno de los heridos fue trasladado en la ambulancia a un hospital de Pénjamo en estado grave, mientras los otros dos fueron llevados por un auto privado"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Entregan 227 calentadores solares a familias de Abasolo",
+    "fecha": "26/10/2026 09:07",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/entregan-227-calentadores-solares-a-familias-de-abasolo-32806162",
+    "resumen": "El presidente municipal, Job Gallardo Santellano, encabezó la entrega de calentadores solares a habitantes de 46 colonias y comunidades del municipio"
   },
   {
     "prioridad": 0,
@@ -22,14 +38,6 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/reportan-accidente-vial-con-una-pipa-de-gas-en-la-carretera-penjamo-abasolo/",
     "resumen": "Pénjamo, Guanajuato.- Conductores reportaron un accidente vial sobre la carretera federal Pénjamo–Abasolo, en el que se encuentra involucrada una pipa de gas. El reporte fue difundido a través de las redes sociales, donde se alertó a los automovilistas que transitan por esta vialidad para que conduzcan con precaución ante la presencia de la unidad involucrada …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Muere joven motociclista tras chocar contra camellón en Irapuato",
-    "fecha": "25/10/2026 13:59",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/muere-joven-motociclista-tras-chocar-contra-camellon-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un joven motociclista perdió la vida luego de perder el control de la unidad que conducía y estrellarse contra el camellón central del bulevar Insurgentes, en la salida hacia Abasolo, a un costado de la colonia Los Fresnos. El accidente ocurrió cuando el joven circulaba a bordo de una motocicleta Italika, en colores …"
   },
   {
     "prioridad": 1,
@@ -57,6 +65,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Caravanas de transportistas guanajuatenses protestan en la federal 45",
+    "fecha": "26/10/2026 12:02",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/caravanas-de-transportistas-guanajuatenses-protestan-en-la-federal-45/",
+    "resumen": "Guanajuato.- Las manifestaciones de transportistas para exigir mayor seguridad y mejores condiciones de trabajo comenzaron en Guanajuato con caravanas y pancartas en los tramos carreteros que conectan a León, Silao, Salamanca e Irapuato. Con corte a las 11:30, se registraron las movilizaciones que reducen la circulación en: León: Transportistas detenidos a la altura del Arco …"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Accidente de tráiler en Cuarto Cinturón Vial complica circulación",
     "fecha": "26/10/2026 10:56",
     "fuente": "Notus",
@@ -70,6 +86,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/trailero-se-salva-de-milagro-tras-volcadura-en-el-cuarto-cinturon-vial-de-irapuato-170043.html",
     "resumen": "Por varios minutos se congestionó la zona, mientras se realizaban las maniobras para retirar la unidad del Cuarto Cinturón Vial en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Seguirá caos vial rumbo a Salamanca: llegan 300 pipas llegan al día a Irapuato y Pemex no da fecha de solución",
+    "fecha": "26/10/2026 08:50",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/seguira-caos-vial-rumbo-a-salamanca-llegan-300-pipas-llegan-al-dia-a-irapuato-y-pemex-no-da-fecha-de-solucion-32805973",
+    "resumen": "Lorena Alfaro García dijo que la petrolera atribuyó la saturación al cierre del poliducto Salamanca–Guadalajara; el municipio pidió apoyo federal ante las filas sobre la carretera 45 y los riesgos asociados a mantener cientos de unidades detenidas"
   },
   {
     "prioridad": 2,
@@ -134,21 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/the-carfest-reune-300-vehiculos-y-espectaculos-automotrices-en-irapuato-170010.html",
     "resumen": "El festival automotriz The Carfest se realizó por primera vez en el Inforum de Irapuato con 300 vehículos en exhibición, derrapes, choques controlados y develaciones de autos modificados"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Antojitos y alfeñiques dan sabor a la tradición del Día de Muertos en Irapuato",
-    "fecha": "25/10/2026 15:28",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/antojitos-y-alfeniques-dan-sabor-a-la-tradicion-del-dia-de-muertos-en-irapuato-32798900",
-    "resumen": "Comerciantes de la explanada de la Plaza del Comercio mantienen viva una tradición familiar con la venta de comida mexicana, elotes preparados y dulces típicos durante esta temporada"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Con alrededor de 400 corredores, celebran en Irapuato la edición 14 de la carrera ‘Familia en Rosa’",
-    "fecha": "25/10/2026 11:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/con-alrededor-de-400-corredores-celebran-en-irapuato-la-edicion-14-de-la-carrera-familia-en-rosa-169976.html",
-    "resumen": "La carrera anual organizada por Gladys Miranda tiene el objetivo de apoyar a mujeres que afrontan el cáncer de mama en Irapuato y promover la prevención"
   }
 ]
