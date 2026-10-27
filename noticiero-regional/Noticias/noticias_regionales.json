@@ -1,11 +1,35 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Esterilizan gratuitamente a 13 perros y gatos en Abasolo",
+    "fecha": "26/10/2026 14:39",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/esterilizan-gratuitamente-a-13-perros-y-gatos-en-abasolo/",
+    "resumen": "Abasolo, Guanajuato.- Un total de 13 perros y gatos fueron esterilizados de manera gratuita durante una jornada de atención veterinaria realizada en la colonia Guadalupe, en Abasolo, como parte de las acciones del Gobierno Municipal para prevenir la sobrepoblación y el abandono de mascotas. La actividad se llevó a cabo en la calle Salamanca, donde …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Concluye Feria de la Educación en Abasolo con actividades para estudiantes",
+    "fecha": "26/10/2026 14:32",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/concluye-feria-de-la-educacion-en-abasolo-con-actividades-para-estudiantes/",
+    "resumen": "Abasolo, Guanajuato.- Después de tres días de actividades informativas y dinámicas dirigidas a estudiantes, el Gobierno Municipal de Abasolo concluyó la Feria de la Educación, una iniciativa enfocada en acercar conocimientos y herramientas para el desarrollo de niñas, niños y jóvenes del municipio. La última jornada se llevó a cabo en la comunidad de Joya …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Balean a 3 jóvenes en el centro de Pénjamo",
     "fecha": "26/10/2026 13:07",
     "fuente": "Notus",
     "url": "https://notus.com.mx/balean-a-3-jovenes-en-el-centro-de-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- En un ataque armado, presuntos sicarios dejaron 3 hombres, al parecer, jóvenes, lesionados sobre la calle Independencia, casi esquina con Joaquín Pardavé, en el centro de Pénjamo. Supuestamente, el estado de salud de una de las víctimas es crítico. Los reportes de varias detonaciones alertaron a la policía municipal cerca de las 10 …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Entregan prótesis y despensas a familias de Abasolo",
+    "fecha": "26/10/2026 10:54",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/entregan-protesis-y-despensas-a-familias-de-abasolo-32807611",
+    "resumen": "La entrega se realizó con la colaboración de la Fundación Chispitas de Felicidad, el Sistema DIF, el Instituto Municipal de Abasolo para las Mujeres y el Ayuntamiento, con apoyos dirigidos a personas y familias del municipio"
   },
   {
     "prioridad": 0,
@@ -32,12 +56,12 @@
     "resumen": "Una pipa de gas LP volcó en la cuneta de la carretera 1110, cerca de Soledad de Morales, entre Abasolo y Pénjamo; bomberos controlaron el riesgo"
   },
   {
-    "prioridad": 0,
-    "titulo": "Reportan accidente vial con una pipa de gas en la carretera Pénjamo-Abasolo",
-    "fecha": "25/10/2026 17:29",
+    "prioridad": 1,
+    "titulo": "DIF Huanímaro busca a familiares de dos bebés y una adolescente",
+    "fecha": "26/10/2026 16:58",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/reportan-accidente-vial-con-una-pipa-de-gas-en-la-carretera-penjamo-abasolo/",
-    "resumen": "Pénjamo, Guanajuato.- Conductores reportaron un accidente vial sobre la carretera federal Pénjamo–Abasolo, en el que se encuentra involucrada una pipa de gas. El reporte fue difundido a través de las redes sociales, donde se alertó a los automovilistas que transitan por esta vialidad para que conduzcan con precaución ante la presencia de la unidad involucrada …"
+    "url": "https://notus.com.mx/dif-huanimaro-busca-a-familiares-de-dos-bebes-y-una-adolescente/",
+    "resumen": "Huanímaro, Guanajuato.- El DIF de Huanímaro solicita ayuda para localizar a los familiares de 3 menores de edad que se encuentran bajo su resguardo. La dependencia realiza una búsqueda de red familiar materna y/o paterna de Karol Jozes, una adolescente de 16 años; Lian Jesús, un bebé de 2 meses; y un recién nacido de …"
   },
   {
     "prioridad": 1,
@@ -65,9 +89,57 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Brujas de Irapuato instalará altar para recordar a mujeres y niñas víctimas de violencia",
+    "fecha": "26/10/2026 17:47",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/26/brujas-de-irapuato-instalara-altar-para-recordar-a-mujeres-y-ninas-victimas-de-violencia-170078.html",
+    "resumen": "El colectivo convoca a la ciudadanía a participar en un altar de muertas en Irapuato para honrar a las víctimas y exigir verdad y justicia"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato: dos hombres heridos tras ataque en Ignacio Allende",
+    "fecha": "26/10/2026 15:55",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-dos-hombres-heridos-tras-ataque-en-ignacio-allende/",
+    "resumen": "Irapuato, Guanajuato.- Cerca del medio día se registró una agresión en la colonia Ignacio Allende de Irapuato. Dos hombres fueron baleados en la calle Mariano Jiménez, con intersección en Josefa Ortiz de Domínguez y General M. Miramón. Según los primeros reportes, las víctimas fueron sorprendidas en la vía pública con un ataque armado; una de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Arrancarán los trabajos previos para la construcción del puente de Calzada de Guadalupe",
+    "fecha": "26/10/2026 15:53",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/arrancaran-los-trabajos-previos-para-la-construccion-del-puente-de-calzada-de-guadalupe/",
+    "resumen": "Irapuato, Guanajuato.- Con una inversión conjunta cercana a los 410 millones de pesos, los gobiernos estatal y municipal preparan la construcción de un paso superior vehicular en el cruce de Calzada de Guadalupe con las vías del ferrocarril, en Irapuato, con el objetivo de mejorar la movilidad y reducir los conflictos entre el tránsito de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Advierten multas y aseguramientos tras prohibir rodadas del terror en Irapuato",
+    "fecha": "26/10/2026 14:28",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/26/advierten-multas-y-aseguramientos-tras-prohibir-rodadas-del-terror-en-irapuato-170058.html",
+    "resumen": "Las disposiciones tomadas por autoridades de Irapuato buscan evitar situaciones de riesgo como la estampida humana registrada en el desfile de botargas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Entregan 110 auxiliares auditivos a 61 personas en Irapuato",
+    "fecha": "26/10/2026 14:20",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/entregan-110-auxiliares-auditivos-a-61-personas-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un total de 61 personas de entre 10 y 96 años de edad recibieron 110 auxiliares auditivos mediante el programa Escuchemos Juntos 2026, desarrollado por el Sistema DIF Municipal de Irapuato en colaboración con Tiendas Bara, con una inversión de 662 mil 247 pesos con 63 centavos. Los dispositivos fueron destinados a personas …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado deja dos lesionados en Ignacio Allende, Irapuato",
+    "fecha": "26/10/2026 14:05",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/ataque-armado-deja-dos-lesionados-en-ignacio-allende-irapuato-170057.html",
+    "resumen": "El atentado, aparentemente directo, fue reportado por vecinos de la colonia en Irapuato, tras escuchar detonaciones de arma de fuego"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Caravanas de transportistas guanajuatenses protestan en la federal 45",
     "fecha": "26/10/2026 12:02",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/caravanas-de-transportistas-guanajuatenses-protestan-en-la-federal-45/",
     "resumen": "Guanajuato.- Las manifestaciones de transportistas para exigir mayor seguridad y mejores condiciones de trabajo comenzaron en Guanajuato con caravanas y pancartas en los tramos carreteros que conectan a León, Silao, Salamanca e Irapuato. Con corte a las 11:30, se registraron las movilizaciones que reducen la circulación en: León: Transportistas detenidos a la altura del Arco …"
   },
@@ -75,7 +147,7 @@
     "prioridad": 2,
     "titulo": "Accidente de tráiler en Cuarto Cinturón Vial complica circulación",
     "fecha": "26/10/2026 10:56",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/accidente-de-trailer-en-cuarto-cinturon-vial-complica-circulacion/",
     "resumen": "Irapuato, Guanajuato.- La volcadura de un tráiler en El Cuarto Cinturón Vial de Arandas hacia Plaza Cibeles afectó tres carriles. Al parecer, la caja que transportaba se volteó, quedando en medio de la vialidad la mañana de este lunes. Automovilistas que circulaban por la zona informaron a las autoridades; Policía Municipal y Tránsito atendieron el …"
   },
@@ -86,77 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/trailero-se-salva-de-milagro-tras-volcadura-en-el-cuarto-cinturon-vial-de-irapuato-170043.html",
     "resumen": "Por varios minutos se congestionó la zona, mientras se realizaban las maniobras para retirar la unidad del Cuarto Cinturón Vial en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Seguirá caos vial rumbo a Salamanca: llegan 300 pipas llegan al día a Irapuato y Pemex no da fecha de solución",
-    "fecha": "26/10/2026 08:50",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/seguira-caos-vial-rumbo-a-salamanca-llegan-300-pipas-llegan-al-dia-a-irapuato-y-pemex-no-da-fecha-de-solucion-32805973",
-    "resumen": "Lorena Alfaro García dijo que la petrolera atribuyó la saturación al cierre del poliducto Salamanca–Guadalajara; el municipio pidió apoyo federal ante las filas sobre la carretera 45 y los riesgos asociados a mantener cientos de unidades detenidas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "‘El muerto al pozo y la viuda al gozo’: la obra teatral que conquista al público de Irapuato",
-    "fecha": "26/10/2026 05:10",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/el-muerto-al-pozo-y-la-viuda-al-gozo-la-obra-teatral-que-conquista-al-publico-de-irapuato-32447889",
-    "resumen": "El talentoso reparto encabezado por el profesor Jorge Rafael Martínez Aza, ofreció una actuación de primera que recibió la cálida ovación de los asistentes"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Ver una patrulla nos da miedo”: transportistas protestan en Irapuato por robos y presuntas extorsiones",
-    "fecha": "26/10/2026 04:52",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ver-una-patrulla-nos-da-miedo-transportistas-protestan-en-irapuato-por-robos-y-presuntas-extorsiones-32803561",
-    "resumen": "Operadores partieron desde Castro del Río hacia Silao; denuncian secuestros, presuntos cobros de policías, daños a sus unidades y problemas para hacer válidos los seguros carreteros"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ricardo Gómez Escalante quiere llevar a Morena al terreno histórico del PAN: el empresariado de Irapuato",
-    "fecha": "26/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ricardo-gomez-escalante-quiere-llevar-a-morena-al-terreno-historico-del-pan-el-empresariado-de-irapuato-32795778",
-    "resumen": "El exsecretario de Organización de Morena también plantea sumar perfiles provenientes de otras fuerzas sin ofrecerles candidaturas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De punto de estancia de migrantes a espacio deportivo: transforman bajopuente de la Coca en Irapuato",
-    "fecha": "26/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/de-punto-de-estancia-de-migrantes-a-espacio-deportivo-transforman-bajopuente-de-la-coca-en-irapuato-32789516",
-    "resumen": "Una parte tendrá áreas de práctica de basquetbol y el otro contará con rampas y espacios para skate y bicicletas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "ENSU: León mejora, Irapuato se estanca y Guanajuato capital recupera terreno",
-    "fecha": "26/10/2026 00:12",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/opinion/2026/oct/26/ensu-leon-mejora-irapuato-se-estanca-y-guanajuato-capital-recupera-terreno-170036.html",
-    "resumen": "En los municipios de Guanajuato incluidos en la Encuesta Nacional de Seguridad Pública Urbana (ENSU) del INEGI hay un comportamiento bastante desigual..."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato: atropellan a sargento de la Guardia Nacional en bulevar Díaz Ordaz; conductor es detenido",
-    "fecha": "25/10/2026 21:37",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/irapuato-atropellan-a-sargento-de-la-guardia-nacional-en-bulevar-diaz-ordaz-conductor-es-detenido-170022.html",
-    "resumen": "La sargento Cecilia Marcial fue trasladada a un hospital en estado delicado tras ser arrollada por una camioneta en el bulevar Díaz Ordaz"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Obispo de Irapuato llama a vivir el Día de Muertos desde la fe y la oración",
-    "fecha": "25/10/2026 21:30",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/obispo-de-irapuato-llama-a-vivir-el-dia-de-muertos-desde-la-fe-y-la-oracion-170021.html",
-    "resumen": "Enrique Díaz Díaz, obispo de Irapuato, invitó a las familias a recordar a sus difuntos con oración y a no dejarse invadir por Halloween"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "The Carfest reúne 300 vehículos y espectáculos automotrices en Irapuato",
-    "fecha": "25/10/2026 19:42",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/25/the-carfest-reune-300-vehiculos-y-espectaculos-automotrices-en-irapuato-170010.html",
-    "resumen": "El festival automotriz The Carfest se realizó por primera vez en el Inforum de Irapuato con 300 vehículos en exhibición, derrapes, choques controlados y develaciones de autos modificados"
   }
 ]
