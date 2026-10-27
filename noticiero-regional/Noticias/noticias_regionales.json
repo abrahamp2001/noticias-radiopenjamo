@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Muere Ariel “N” tras balacera en el centro de Pénjamo",
+    "fecha": "26/10/2026 21:48",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/muere-ariel-n-tras-balacera-en-el-centro-de-penjamo-170112.html",
+    "resumen": "La Fiscalía de Guanajuato confirmó la muerte de Ariel “N”, una de las tres personas heridas durante un ataque armado en la calle Independencia"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Esterilizan gratuitamente a 13 perros y gatos en Abasolo",
     "fecha": "26/10/2026 14:39",
     "fuente": "Notus",
@@ -48,12 +56,12 @@
     "resumen": "El presidente municipal, Job Gallardo Santellano, encabezó la entrega de calentadores solares a habitantes de 46 colonias y comunidades del municipio"
   },
   {
-    "prioridad": 0,
-    "titulo": "Volcadura de una pipa de gas LP en la carretera Abasolo-Pénjamo genera alerta",
-    "fecha": "25/10/2026 18:24",
+    "prioridad": 1,
+    "titulo": "Manuel Doblado destina más de un millón de pesos para construir una plaza en Puerta de Laurel",
+    "fecha": "26/10/2026 21:08",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/volcadura-de-una-pipa-de-gas-lp-en-la-carretera-abasolo-penjamo-genera-alerta-170003.html",
-    "resumen": "Una pipa de gas LP volcó en la cuneta de la carretera 1110, cerca de Soledad de Morales, entre Abasolo y Pénjamo; bomberos controlaron el riesgo"
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/26/manuel-doblado-destina-mas-de-un-millon-de-pesos-para-construir-una-plaza-en-puerta-de-laurel-170104.html",
+    "resumen": "La comunidad de Puerta de Laurel, en Manuel Doblado, contará con una plaza principal para fortalecer la convivencia y la seguridad de sus habitantes"
   },
   {
     "prioridad": 1,
@@ -72,20 +80,28 @@
     "resumen": "Un albañil vivió un hecho paranormal tras trabajar en el panteón de Cuerámaro, donde la huella de un niño apareció inexplicablemente de la noche a la mañana"
   },
   {
-    "prioridad": 1,
-    "titulo": "Ante falta de espacio, Cuerámaro ampliará panteón municipal",
-    "fecha": "25/10/2026 21:56",
+    "prioridad": 2,
+    "titulo": "Irapuato clausura hasta ocho establecimientos por operar sin permisos para vender alcohol",
+    "fecha": "26/10/2026 19:29",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/25/ante-falta-de-espacio-cueramaro-ampliara-panteon-municipal-170024.html",
-    "resumen": "El alcalde Humberto Hernández anunció que acondicionarán un área disponible para colocar más gavetas, mientras descartan construir un nuevo cementerio"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/26/irapuato-clausura-hasta-ocho-establecimientos-por-operar-sin-permisos-para-vender-alcohol-170088.html",
+    "resumen": "La clausura en Irapuato alcanzó entre siete y ocho establecimientos que vendían bebidas alcohólicas sin permisos municipales"
   },
   {
-    "prioridad": 1,
-    "titulo": "Motociclista muere en accidente en la carretera Irapuato-Huanímaro",
-    "fecha": "25/10/2026 21:43",
+    "prioridad": 2,
+    "titulo": "Pipas de Pemex agravan la inseguridad en la carretera que conecta Irapuato y Salamanca",
+    "fecha": "26/10/2026 18:21",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/25/motociclista-muere-en-accidente-en-la-carretera-irapuato-huanimaro-170023.html",
-    "resumen": "Miguel Guevara, quien al parecer trabajaba en una granja cercana, murió tras un accidente en motocicleta en la carretera Irapuato-Huanímaro"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/26/pipas-de-pemex-agravan-la-inseguridad-en-la-carretera-que-conecta-irapuato-y-salamanca-170082.html",
+    "resumen": "Las Pipas de Pemex estacionadas en la carretera Irapuato-Salamanca generan problemas viales y preocupación por la inseguridad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "El día que Charlyn Corral jugó en el Estadio Azteca con el uniforme del Irapuato",
+    "fecha": "26/10/2026 17:56",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/el-dia-que-charlyn-corral-jugo-en-el-estadio-azteca-con-el-uniforme-del-irapuato-32814468",
+    "resumen": "La mexicana fue reconocida como Delantera del Año en la gala del Balón de Oro 2026"
   },
   {
     "prioridad": 2,
@@ -137,26 +153,10 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Caravanas de transportistas guanajuatenses protestan en la federal 45",
-    "fecha": "26/10/2026 12:02",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/caravanas-de-transportistas-guanajuatenses-protestan-en-la-federal-45/",
-    "resumen": "Guanajuato.- Las manifestaciones de transportistas para exigir mayor seguridad y mejores condiciones de trabajo comenzaron en Guanajuato con caravanas y pancartas en los tramos carreteros que conectan a León, Silao, Salamanca e Irapuato. Con corte a las 11:30, se registraron las movilizaciones que reducen la circulación en: León: Transportistas detenidos a la altura del Arco …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Accidente de tráiler en Cuarto Cinturón Vial complica circulación",
-    "fecha": "26/10/2026 10:56",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/accidente-de-trailer-en-cuarto-cinturon-vial-complica-circulacion/",
-    "resumen": "Irapuato, Guanajuato.- La volcadura de un tráiler en El Cuarto Cinturón Vial de Arandas hacia Plaza Cibeles afectó tres carriles. Al parecer, la caja que transportaba se volteó, quedando en medio de la vialidad la mañana de este lunes. Automovilistas que circulaban por la zona informaron a las autoridades; Policía Municipal y Tránsito atendieron el …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Trailero se salva de milagro tras volcadura en el Cuarto Cinturón Vial de Irapuato",
-    "fecha": "26/10/2026 10:38",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/trailero-se-salva-de-milagro-tras-volcadura-en-el-cuarto-cinturon-vial-de-irapuato-170043.html",
-    "resumen": "Por varios minutos se congestionó la zona, mientras se realizaban las maniobras para retirar la unidad del Cuarto Cinturón Vial en Irapuato"
+    "titulo": "Alcaldesa de Irapuato pide atender protestas de transportistas y productores",
+    "fecha": "26/10/2026 12:55",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/alcaldesa-de-irapuato-pide-atender-protestas-de-transportistas-y-productores-32808230",
+    "resumen": "La alcaldesa señaló que las demandas deben atenderse en medio de una semana marcada por protestas por inseguridad carretera y por falta de certidumbre para el campo"
   }
 ]
