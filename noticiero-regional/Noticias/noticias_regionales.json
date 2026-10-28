@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abasolo entrega apoyos del programa Ganado Productivo 2026",
+    "fecha": "27/10/2026 16:41",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/abasolo-entrega-apoyos-del-programa-ganado-productivo-2026/",
+    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo, encabezado por el presidente municipal Job Gallardo, realizó la entrega de apoyos del programa Ganado Productivo 2026, en coordinación con el Gobierno del Estado. Los apoyos están destinados a la crianza de ganado bovino y porcino e incluyen sementales, vientres porcinos y dosis de semen bovino y porcino. …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Imparten pláticas sobre prevención de riesgos en redes sociales a estudiantes de Los Ocotes, Pénjamo",
+    "fecha": "27/10/2026 14:41",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/imparten-platicas-sobre-prevencion-de-riesgos-en-redes-sociales-a-estudiantes-de-los-ocotes-penjamo/",
+    "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — Con el objetivo de promover el uso responsable de internet y prevenir situaciones de riesgo entre adolescentes, el Gobierno Municipal de Pénjamo…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Realizan trabajos de rehabilitación del Pozo 3 en Santa Ana Pacueco para mejorar el servicio de agua potable",
+    "fecha": "27/10/2026 14:29",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/realizan-trabajos-de-rehabilitacion-del-pozo-3-en-santa-ana-pacueco-para-mejorar-el-servicio-de-agua-potable/",
+    "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — Con el objetivo de mejorar la infraestructura hidráulica y contribuir a un servicio de agua potable más eficiente, el Gobierno Municipal de…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Feria de la Educación concluye tres días de actividades en escuelas de Abasolo",
     "fecha": "27/10/2026 13:57",
     "fuente": "Pénjamo TV",
@@ -57,41 +81,17 @@
   },
   {
     "prioridad": 0,
-    "titulo": "CBTis 171 de Abasolo celebra su 43 aniversario con el inicio de su Semana Cultural",
-    "fecha": "27/10/2026 13:16",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/cbtis-171-de-abasolo-celebra-su-43-aniversario-con-el-inicio-de-su-semana-cultural/",
-    "resumen": "Abasolo, Guanajuato, 19 de octubre de 2026. — Con una serie de presentaciones artísticas, actividades cívicas y expresiones culturales, el Centro de Bachillerato Tecnológico Industrial y de Servicios (CBTis) No.…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "El danzón reúne a familias de Pénjamo y mantiene viva la tradición del baile y la convivencia",
-    "fecha": "27/10/2026 13:07",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/el-danzon-reune-a-familias-de-penjamo-y-mantiene-viva-la-tradicion-del-baile-y-la-convivencia/",
-    "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — La música, el baile y la convivencia familiar continúan siendo protagonistas de las jornadas de danzón que se realizan cada fin de…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "DIF Pénjamo entrega materiales para mejorar viviendas en la comunidad de Mesa de Méndez",
-    "fecha": "27/10/2026 13:04",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/dif-penjamo-entrega-materiales-para-mejorar-viviendas-en-la-comunidad-de-mesa-de-mendez/",
-    "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — Con el propósito de contribuir al mejoramiento de las condiciones de vivienda de las familias en las comunidades rurales, el Sistema Municipal…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Productores agrícolas cierran carretera Irapuato-Zapotlanejo en Pénjamo",
+    "titulo": "Productores agrícolas realizan caravana en carretera federal 1110 en Pénjamo",
     "fecha": "27/10/2026 11:59",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/27/productores-agricolas-cierran-carretera-irapuato-zapotlanejo-en-penjamo-170138.html",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/27/productores-agricolas-realizan-caravana-en-carretera-federal-1110-en-penjamo-170138.html",
     "resumen": "Las exigencias de mejoras y de rescate al campo por los productores del campo de Guanajuato los llevaron a cerrar la carretera a la altura de Pénjamo"
   },
   {
     "prioridad": 0,
     "titulo": "Campesinos inician marcha pacífica por carretera Pénjamo-La Piedad",
     "fecha": "27/10/2026 11:22",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/campesinos-inician-marcha-pacifica-por-carretera-penjamo-la-piedad/",
     "resumen": "Pénjamo, Guanajuato.- Productores agrícolas se reunieron en el puente de la comunidad La Maraña en Pénjamo e iniciaron una marcha pacífica sobre la carretera federal 110 Pénjamo-La Piedad. Alrededor de 25 tractores se unieron en caravana para un recorrido que al parecer pretende llegar a Santa Ana Pacueco y regresar al punto de partida. Este …"
   },
@@ -112,22 +112,6 @@
     "resumen": "La Fiscalía de Guanajuato confirmó la muerte de Ariel “N”, una de las tres personas heridas durante un ataque armado en la calle Independencia"
   },
   {
-    "prioridad": 0,
-    "titulo": "Esterilizan gratuitamente a 13 perros y gatos en Abasolo",
-    "fecha": "26/10/2026 14:39",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/esterilizan-gratuitamente-a-13-perros-y-gatos-en-abasolo/",
-    "resumen": "Abasolo, Guanajuato.- Un total de 13 perros y gatos fueron esterilizados de manera gratuita durante una jornada de atención veterinaria realizada en la colonia Guadalupe, en Abasolo, como parte de las acciones del Gobierno Municipal para prevenir la sobrepoblación y el abandono de mascotas. La actividad se llevó a cabo en la calle Salamanca, donde …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Concluye Feria de la Educación en Abasolo con actividades para estudiantes",
-    "fecha": "26/10/2026 14:32",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/concluye-feria-de-la-educacion-en-abasolo-con-actividades-para-estudiantes/",
-    "resumen": "Abasolo, Guanajuato.- Después de tres días de actividades informativas y dinámicas dirigidas a estudiantes, el Gobierno Municipal de Abasolo concluyó la Feria de la Educación, una iniciativa enfocada en acercar conocimientos y herramientas para el desarrollo de niñas, niños y jóvenes del municipio. La última jornada se llevó a cabo en la comunidad de Joya …"
-  },
-  {
     "prioridad": 1,
     "titulo": "Manuel Doblado destina más de un millón de pesos para construir una plaza en Puerta de Laurel",
     "fecha": "26/10/2026 21:08",
@@ -136,27 +120,43 @@
     "resumen": "La comunidad de Puerta de Laurel, en Manuel Doblado, contará con una plaza principal para fortalecer la convivencia y la seguridad de sus habitantes"
   },
   {
-    "prioridad": 1,
-    "titulo": "DIF Huanímaro busca a familiares de dos bebés y una adolescente",
-    "fecha": "26/10/2026 16:58",
+    "prioridad": 2,
+    "titulo": "Irapuato convoca a los negocios locales a sumarse al Buen Fin y atraer nuevos clientes",
+    "fecha": "27/10/2026 17:28",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/irapuato-convoca-a-los-negocios-locales-a-sumarse-al-buen-fin-y-atraer-nuevos-clientes-170172.html",
+    "resumen": "El Buen Fin en Irapuato busca impulsar las ventas de las mipymes del 13 al 17 de noviembre, mediante promociones, además de incentivar el consumo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¡Van por nuevo logro a Rumania! Estudiantes de CECyTEG de Irapuato van a RoboChallenge 2026",
+    "fecha": "27/10/2026 15:21",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/27/van-por-nuevo-logro-a-rumania-estudiantes-de-cecyteg-de-irapuato-van-a-robochallenge-2026-170159.html",
+    "resumen": "Tiffany Rodríguez y Alberto Pérez, junto al asesor Erick Ortiz de Irapuato I, representarán a Guanajuato en la competencia con su robot “Vinder Jr”."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Feria del Alfeñique de Irapuato mantiene viva una tradición de más de 70 años",
+    "fecha": "27/10/2026 15:03",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/dif-huanimaro-busca-a-familiares-de-dos-bebes-y-una-adolescente/",
-    "resumen": "Huanímaro, Guanajuato.- El DIF de Huanímaro solicita ayuda para localizar a los familiares de 3 menores de edad que se encuentran bajo su resguardo. La dependencia realiza una búsqueda de red familiar materna y/o paterna de Karol Jozes, una adolescente de 16 años; Lian Jesús, un bebé de 2 meses; y un recién nacido de …"
+    "url": "https://notus.com.mx/feria-del-alfenique-de-irapuato-mantiene-viva-una-tradicion-de-mas-de-70-anos/",
+    "resumen": "Irapuato, Guanajuato.- La Feria del Alfeñique de Irapuato, una tradición de más de 70 años, permanecerá instalada hasta el 4 de noviembre en la explanada de la Plaza del Comercio Popular, con dulces típicos, artículos para altares de muertos, flores y gastronomía mexicana. La presidenta municipal, Lorena Alfaro García, realizó un recorrido por la feria …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Secundaria Técnica 51 alcanza niveles esperados y avanzados en RIMA",
+    "fecha": "27/10/2026 14:21",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/secundaria-tecnica-51-alcanza-niveles-esperados-y-avanzados-en-rima/",
+    "resumen": "Irapuato, Guanajuato.- Más del 60% de los estudiantes de la Secundaria Técnica No. 51 de Irapuato alcanzó niveles esperado y avanzado de aprendizaje en Español, Matemáticas y Ciencias, de acuerdo con la evaluación RIMA, informó Juan Luis Saldaña López, delegado regional IV de Educación. El dato se dio a conocer durante la visita de la …"
   },
   {
     "prioridad": 2,
     "titulo": "Irapuato anuncia rutas alternativas por obras de puente Calzada de Guadalupe",
     "fecha": "27/10/2026 13:37",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-anuncia-rutas-alternativas-por-obras-de-puente-calzada-de-guadalupe/",
     "resumen": "Irapuato, Guanajuato.- Ante el inicio de la construcción del puente vehicular sobre las vías del ferrocarril en Calzada de Guadalupe, el Gobierno de Irapuato informa a la ciudadanía sobre las rutas alternas que podrán utilizarse para desplazarse hacia Salamanca, ingresar a la ciudad o trasladarse al Centro Histórico. Será a partir del próximo 30 de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Parque Irekua de Irapuato obtiene certificación internacional Green Flag Award",
-    "fecha": "27/10/2026 12:14",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/parque-irekua-de-irapuato-obtiene-certificacion-internacional-green-flag-award/",
-    "resumen": "Irapuato, Guanajuato.- El Parque Irekua de Irapuato obtuvo por primera vez la certificación internacional Green Flag Award 2026-2027, un distintivo que reconoce la calidad en la gestión, el mantenimiento, la seguridad y la sustentabilidad de los parques y áreas verdes. La distinción fue entregada por la Asociación Nacional de Parques y Recreación de México (ANPR …"
   }
 ]
