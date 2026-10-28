@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Los “Mortalikos” convierten carreteras de Abasolo en pistas de carreras y acrobacias",
+    "fecha": "28/10/2026 10:24",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/los-mortalikos-convierten-carreteras-de-abasolo-en-pistas-de-carreras-y-acrobacias/",
+    "resumen": "Abasolo, Guanajuato.- Las carreteras estatales de Abasolo se han convertido en escenarios de riesgo por las conductas de algunos grupos de motociclistas, conocidos como los “Mortalikos”, que circulan a altas velocidades, en grupos y sin utilizar casco, una combinación que puede tener consecuencias graves en caso de accidente. La situación se observa en vialidades que …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Instituciones coordinan acciones para prevenir y atender la violencia de género en Abasolo",
+    "fecha": "28/10/2026 06:09",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/instituciones-coordinan-acciones-para-prevenir-y-atender-la-violencia-de-genero-32836384",
+    "resumen": "La Mesa Interinstitucional de la Unidad Policial Especializada de Prevención y Atención de la Violencia de Género reunió a representantes de distintas instituciones para abordar la coordinación de acciones dirigidas a la prevención, atención y protección de las mujeres"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Impulsan la reproducción ganadera en Abasolo con el programa Ganado Productivo 2026",
+    "fecha": "28/10/2026 05:49",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/impulsan-la-reproduccion-ganadera-en-abasolo-con-el-programa-ganado-productivo-2026-32836069",
+    "resumen": "A través del programa Ganado Productivo 2026, autoridades municipales y estatales distribuyeron apoyos para la reproducción de ganado bovino y porcino"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Entregan apoyos a ganaderos de Abasolo mediante el programa Ganado Productivo 2026",
     "fecha": "27/10/2026 22:59",
     "fuente": "Pénjamo TV",
@@ -27,7 +51,7 @@
     "prioridad": 0,
     "titulo": "Abasolo entrega apoyos del programa Ganado Productivo 2026",
     "fecha": "27/10/2026 16:41",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/abasolo-entrega-apoyos-del-programa-ganado-productivo-2026/",
     "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo, encabezado por el presidente municipal Job Gallardo, realizó la entrega de apoyos del programa Ganado Productivo 2026, en coordinación con el Gobierno del Estado. Los apoyos están destinados a la crianza de ganado bovino y porcino e incluyen sementales, vientres porcinos y dosis de semen bovino y porcino. …"
   },
@@ -48,115 +72,91 @@
     "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — Con el objetivo de mejorar la infraestructura hidráulica y contribuir a un servicio de agua potable más eficiente, el Gobierno Municipal de…"
   },
   {
-    "prioridad": 0,
-    "titulo": "Feria de la Educación concluye tres días de actividades en escuelas de Abasolo",
-    "fecha": "27/10/2026 13:57",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/feria-de-la-educacion-concluye-tres-dias-de-actividades-en-escuelas-de-abasolo/",
-    "resumen": "Abasolo, Guanajuato, 26 de octubre de 2026. — Con actividades informativas, dinámicas educativas y la participación de diversas dependencias municipales, concluyó la Feria de la Educación en Abasolo, una iniciativa…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "CBTis 171 de Abasolo cierra Semana de la Ciencia y la Tecnología con Carrera Apache y pasarela de disfraces",
-    "fecha": "27/10/2026 13:55",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/cbtis-171-de-abasolo-cierra-semana-de-la-ciencia-y-la-tecnologia-con-carrera-apache-y-pasarela-de-disfraces/",
-    "resumen": "Abasolo, Guanajuato, 23 de octubre de 2026. — Con actividades deportivas, expresiones artísticas y una amplia participación estudiantil, el CBTis 171 de Abasolo concluyó su Semana de la Ciencia y…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Realizan 13 esterilizaciones gratuitas de perros y gatos en la colonia Guadalupe de Abasolo",
-    "fecha": "27/10/2026 13:53",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/realizan-13-esterilizaciones-gratuitas-de-perros-y-gatos-en-la-colonia-guadalupe-de-abasolo/",
-    "resumen": "Abasolo, Guanajuato, 26 de octubre de 2026. — Como parte de las acciones para prevenir la sobrepoblación animal, reducir el abandono de mascotas y promover la tenencia responsable, el Gobierno…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Abasolo destina más de 1.7 millones de pesos a calentadores solares para beneficiar a 227 familias",
-    "fecha": "27/10/2026 13:31",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/abasolo-destina-mas-de-1-7-millones-de-pesos-a-calentadores-solares-para-beneficiar-a-227-familias/",
-    "resumen": "Abasolo, Guanajuato, 22 de octubre de 2026. — Con una inversión de 1 millón 748 mil 503 pesos con 82 centavos, el Gobierno Municipal de Abasolo impulsa un programa de…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Gobierno de Abasolo entrega 590 tinacos para mejorar el almacenamiento de agua en los hogares",
-    "fecha": "27/10/2026 13:27",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/gobierno-de-abasolo-entrega-590-tinacos-para-mejorar-el-almacenamiento-de-agua-en-los-hogares/",
-    "resumen": "Abasolo, Guanajuato, 21 de octubre de 2026. — Con el objetivo de contribuir al bienestar de las familias y mejorar las condiciones de almacenamiento de agua en los hogares, el…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Concluye regularización de 33 lotes en Jardines de San Telmo, Abasolo; beneficiará a 80 habitantes",
-    "fecha": "27/10/2026 13:23",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/concluye-regularizacion-de-33-lotes-en-jardines-de-san-telmo-abasolo-beneficiara-a-80-habitantes/",
-    "resumen": "Abasolo, Guanajuato, 21 de octubre de 2026. — Un total de 80 habitantes de la colonia Jardines de San Telmo se beneficiarán con la conclusión del proceso de regularización de…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Productores agrícolas realizan caravana en carretera federal 1110 en Pénjamo",
-    "fecha": "27/10/2026 11:59",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/27/productores-agricolas-realizan-caravana-en-carretera-federal-1110-en-penjamo-170138.html",
-    "resumen": "Las exigencias de mejoras y de rescate al campo por los productores del campo de Guanajuato los llevaron a cerrar la carretera a la altura de Pénjamo"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Campesinos inician marcha pacífica por carretera Pénjamo-La Piedad",
-    "fecha": "27/10/2026 11:22",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/campesinos-inician-marcha-pacifica-por-carretera-penjamo-la-piedad/",
-    "resumen": "Pénjamo, Guanajuato.- Productores agrícolas se reunieron en el puente de la comunidad La Maraña en Pénjamo e iniciaron una marcha pacífica sobre la carretera federal 110 Pénjamo-La Piedad. Alrededor de 25 tractores se unieron en caravana para un recorrido que al parecer pretende llegar a Santa Ana Pacueco y regresar al punto de partida. Este …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "“Esto es un ensayo”: Campesinos protestan en la carretera Pénjamo-La Piedad y advierten paro, si no hay respuesta",
-    "fecha": "27/10/2026 06:34",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/esto-es-un-ensayo-campesinos-protestan-en-la-carretera-penjamo-la-piedad-y-advierten-paro-si-no-hay-respuesta-32819290",
-    "resumen": "Productores del Movimiento Agrícola Campesino dejaron un carril abierto por sentido; reclaman que el maíz se paga alrededor de cinco mil 200 pesos por tonelada, denuncian que continúan las importaciones y exigen respuesta para los afectados por granizo"
+    "prioridad": 1,
+    "titulo": "Cuerámaro arranca pavimentación de dos calles con inversión de 7.8 millones de pesos",
+    "fecha": "28/10/2026 13:13",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cueramaro-arranca-pavimentacion-de-dos-calles-con-inversion-de-7-8-millones-de-pesos/",
+    "resumen": "Cuerámaro, Guanajuato.- La gobernadora de Guanajuato, Libia Dennise García Muñoz Ledo, encabezó el arranque de la pavimentación de dos calles en el municipio de Cuerámaro, con una inversión conjunta de 7 millones 813 mil 179 pesos para mejorar la movilidad y las condiciones de seguridad de las familias. Una de las obras se realizará en …"
   },
   {
     "prioridad": 1,
-    "titulo": "La Gobernadora de Guanajuato pone en marcha obras viales en Cuerámaro",
-    "fecha": "27/10/2026 13:57",
+    "titulo": "Adultos mayores de Huanímaro concluyen curso de preparación de jugos y ensaladas",
+    "fecha": "28/10/2026 07:07",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/la-gobernadora-de-guanajuato-ponen-en-marcha-obras-viales-en-cueramaro-32826015",
-    "resumen": "Libia Dennise García Muñoz Ledo y el presidente municipal Humberto Hernández Martínez dieron el banderazo de inicio a los trabajos de pavimentación de las calles Adolfo López Mateos, en la comunidad Puerta de la Reserva, y de la calle 16 de Septiembre, en la zona centro"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/adultos-mayores-de-huanimaro-concluyen-curso-de-preparacion-de-jugos-y-ensaladas-32837320",
+    "resumen": "Veinte integrantes del Centro Gerontológico de Huanímaro finalizaron una capacitación en preparación de jugos y ensaladas y recibieron sus constancias de participación"
   },
   {
     "prioridad": 2,
-    "titulo": "Tráiler provoca choque múltiple en el Cuarto Cinturón Vial de Irapuato",
-    "fecha": "27/10/2026 22:38",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/27/trailer-provoca-choque-multiple-en-el-cuarto-cinturon-vial-de-irapuato-170216.html",
-    "resumen": "Diez vehículos resultaron dañados, algunos con pérdida total, y siete personas quedaron lesionadas, ninguna de gravedad en Irapuato"
+    "titulo": "Condenan a 60 años al asesino de la maestra Lupita de Irapuato",
+    "fecha": "28/10/2026 12:59",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/condenan-a-60-anos-al-asesino-de-la-maestra-lupita-de-irapuato/",
+    "resumen": "Guanajuato, Guanajuato.- Carlos Manuel, prófugo y cuarto responsable de la desaparición y muerte de la maestra Lupita de Irapuato en 2020, fue condenado a 60 años de prisión. La Fiscalía del Estado continúa investigando su relación con las fosas clandestinas localizadas en octubre de 2020 en el Barrio de San Juan, en Salvatierra, donde fueron …"
   },
   {
     "prioridad": 2,
-    "titulo": "¿Qué se sabe de los planteles Margarita Maza de Juárez que llegarán a Irapuato?",
-    "fecha": "27/10/2026 20:57",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/que-se-sabe-de-los-planteles-margarita-maza-de-juarez-que-llegaran-a-irapuato-170205.html",
-    "resumen": "Los planteles Margarita Maza se construirán en dos predios de Irapuato con una inversión federal de 34 millones de pesos"
+    "titulo": "‘Abuelita’ pierde la vida tras ser embestida por camioneta en Irapuato",
+    "fecha": "28/10/2026 11:33",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/abuelita-pierde-la-vida-tras-ser-embestida-por-camioneta-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Una adulta mayor fue víctima mortal colateral de un accidente entre una camioneta y una motocicleta en la avenida Reforma de Irapuato. La mujer de 70 años caminaba, presuntamente hacia el templo de San Judas Tadeo de la colonia La Hacienda, cuando fue impactada. El hecho ocurrió cerca del mercado Reforma y según …"
   },
   {
     "prioridad": 2,
-    "titulo": "Bajan homicidios dolosos en Irapuato, pero aumentan 11% en el acumulado de 2026",
-    "fecha": "27/10/2026 20:50",
+    "titulo": "Camioneta impacta a motociclistas en Irapuato; causa que estos arrollen y maten a adulta mayor",
+    "fecha": "28/10/2026 10:56",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/bajan-homicidios-dolosos-en-irapuato-pero-aumentan-11-en-el-acumulado-de-2026-170203.html",
-    "resumen": "El municipio también reunió 24% de las investigaciones estatales por robo a transeúnte y 22% por robo a negocio, según el reporte de septiembre"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/28/camioneta-impacta-a-motociclistas-en-irapuato-causa-que-estos-arrollen-y-maten-a-adulta-mayor-170232.html",
+    "resumen": "La tragedia ocurrió en medio de los festejos a San Judas Tadeo en la colonia La Hacienda, en Irapuato, a metros de su templo"
   },
   {
     "prioridad": 2,
-    "titulo": "Vecinos de Colinas del Río en Irapuato reportan errores en los recibos de la CFE",
-    "fecha": "27/10/2026 20:48",
+    "titulo": "Irapuato: Ante brote de aguas negras en las alcantarillas de Los Presidentes, habitantes urgen intervención",
+    "fecha": "28/10/2026 09:17",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/vecinos-de-colinas-del-rio-en-irapuato-reportan-errores-en-los-recibos-de-la-cfe-170202.html",
-    "resumen": "Vecinos de Colinas del Río en Irapuato reportaron errores en los recibos de la CFE, cobros que superan sus pagos habituales"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/28/irapuato-ante-brote-de-aguas-negras-en-las-alcantarillas-de-los-presidentes-habitantes-urgen-intervencion-170229.html",
+    "resumen": "La salida de aguas negras en la colonia de Irapuato genera malos olores que se intensifican durante el calor, afectando la vida de los habitantes de la zona"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Piden a empresarios anticipar el cierre fiscal y revisar su patrimonio rumbo a 2027",
+    "fecha": "28/10/2026 07:36",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/piden-a-empresarios-anticipar-el-cierre-fiscal-y-revisar-su-patrimonio-rumbo-a-2027-32837873",
+    "resumen": "Franco Padilla Fuerte, delegado de la CNEMCO en Irapuato recomendó simular los pagos provisionales del próximo año, revisar el régimen fiscal y contrastar las propiedades adquiridas con las declaraciones de los últimos cinco ejercicios"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato enfrenta el reto de generar más riqueza más allá de las fábricas",
+    "fecha": "28/10/2026 07:10",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-enfrenta-el-reto-de-generar-mas-riqueza-mas-alla-de-las-fabricas-32836994",
+    "resumen": "La nueva delegación del CNEMCO en Irapuato apuesta por fortalecer la consultoría, la innovación y la formación especializada; su presidente nacional advierte que México aún tiene terreno por avanzar para generar mayor valor agregado"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Milagros, promesas y agradecimiento marcan la devoción a San Judas Tadeo en Irapuato",
+    "fecha": "28/10/2026 06:03",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/milagros-promesas-y-agradecimiento-marcan-la-devocion-a-san-judas-tadeo-en-irapuato-32836275",
+    "resumen": "Familias acudieron a celebrar al santo de las causas difíciles; algunas agradecieron por la recuperación de sus hijos, mientras devotos compartieron tamales y champurrado como parte de sus promesas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Buscan que mil comercios de Irapuato participen en El Buen Fin 2026",
+    "fecha": "28/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/buscan-que-mil-comercios-de-irapuato-participen-en-el-buen-fin-2026-32822531",
+    "resumen": "Canaco Servytur pretende aumentar de 820 a mil los establecimientos registrados para la edición que se realizará del 13 al 17 de noviembre. En Irapuato hay más de 27 mil 600 unidades económicas, mientras que autoridades llaman a los negocios a formalizar su participación y a los consumidores a comparar precios"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Parque Irekua obtiene certificación internacional Green Flag Award",
+    "fecha": "28/10/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/parque-irekua-obtiene-certificacion-internacional-green-flag-award-32822922",
+    "resumen": "El parque de Irapuato recibió por primera vez el distintivo para el periodo 2026-2027, que reconoce la gestión, el mantenimiento y la calidad de los espacios públicos."
   }
 ]
