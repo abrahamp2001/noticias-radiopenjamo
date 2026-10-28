@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Concluyen bloqueos en Silao y caravana en Pénjamo tras manifestaciones en Guanajuato",
+    "fecha": "27/10/2026 20:01",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/27/concluyen-bloqueos-en-silao-y-caravana-en-penjamo-tras-manifestaciones-en-guanajuato-170192.html",
+    "resumen": "Los bloqueos en Guanajuato concluyeron tras el retiro de manifestantes de las carreteras federales 45, en Silao, y 90, en Pénjamo"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo entrega apoyos del programa Ganado Productivo 2026",
     "fecha": "27/10/2026 16:41",
     "fuente": "Notus",
@@ -104,20 +112,44 @@
     "resumen": "Productores del Movimiento Agrícola Campesino dejaron un carril abierto por sentido; reclaman que el maíz se paga alrededor de cinco mil 200 pesos por tonelada, denuncian que continúan las importaciones y exigen respuesta para los afectados por granizo"
   },
   {
-    "prioridad": 0,
-    "titulo": "Muere Ariel “N” tras balacera en el centro de Pénjamo",
-    "fecha": "26/10/2026 21:48",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/26/muere-ariel-n-tras-balacera-en-el-centro-de-penjamo-170112.html",
-    "resumen": "La Fiscalía de Guanajuato confirmó la muerte de Ariel “N”, una de las tres personas heridas durante un ataque armado en la calle Independencia"
+    "prioridad": 1,
+    "titulo": "La Gobernadora de Guanajuato pone en marcha obras viales en Cuerámaro",
+    "fecha": "27/10/2026 13:57",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/la-gobernadora-de-guanajuato-ponen-en-marcha-obras-viales-en-cueramaro-32826015",
+    "resumen": "Libia Dennise García Muñoz Ledo y el presidente municipal Humberto Hernández Martínez dieron el banderazo de inicio a los trabajos de pavimentación de las calles Adolfo López Mateos, en la comunidad Puerta de la Reserva, y de la calle 16 de Septiembre, en la zona centro"
   },
   {
-    "prioridad": 1,
-    "titulo": "Manuel Doblado destina más de un millón de pesos para construir una plaza en Puerta de Laurel",
-    "fecha": "26/10/2026 21:08",
+    "prioridad": 2,
+    "titulo": "¿Qué se sabe de los planteles Margarita Maza de Juárez que llegarán a Irapuato?",
+    "fecha": "27/10/2026 20:57",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/26/manuel-doblado-destina-mas-de-un-millon-de-pesos-para-construir-una-plaza-en-puerta-de-laurel-170104.html",
-    "resumen": "La comunidad de Puerta de Laurel, en Manuel Doblado, contará con una plaza principal para fortalecer la convivencia y la seguridad de sus habitantes"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/que-se-sabe-de-los-planteles-margarita-maza-de-juarez-que-llegaran-a-irapuato-170205.html",
+    "resumen": "Los planteles Margarita Maza se construirán en dos predios de Irapuato con una inversión federal de 34 millones de pesos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Bajan homicidios dolosos en Irapuato, pero aumentan 11% en el acumulado de 2026",
+    "fecha": "27/10/2026 20:50",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/bajan-homicidios-dolosos-en-irapuato-pero-aumentan-11-en-el-acumulado-de-2026-170203.html",
+    "resumen": "El municipio también reunió 24% de las investigaciones estatales por robo a transeúnte y 22% por robo a negocio, según el reporte de septiembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Vecinos de Colinas del Río en Irapuato reportan errores en los recibos de la CFE",
+    "fecha": "27/10/2026 20:48",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/vecinos-de-colinas-del-rio-en-irapuato-reportan-errores-en-los-recibos-de-la-cfe-170202.html",
+    "resumen": "Vecinos de Colinas del Río en Irapuato reportaron errores en los recibos de la CFE, cobros que superan sus pagos habituales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Parque Irekua de Irapuato obtiene el Green Flag Award 2026-2027",
+    "fecha": "27/10/2026 20:40",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/parque-irekua-de-irapuato-obtiene-el-green-flag-award-2026-2027-170200.html",
+    "resumen": "El Parque Irekua recibió por primera vez la certificación internacional Green Flag Award, entregada por la ANPR México durante el Encuentro Parques 2026"
   },
   {
     "prioridad": 2,
@@ -126,37 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/irapuato-convoca-a-los-negocios-locales-a-sumarse-al-buen-fin-y-atraer-nuevos-clientes-170172.html",
     "resumen": "El Buen Fin en Irapuato busca impulsar las ventas de las mipymes del 13 al 17 de noviembre, mediante promociones, además de incentivar el consumo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡Van por nuevo logro a Rumania! Estudiantes de CECyTEG de Irapuato van a RoboChallenge 2026",
-    "fecha": "27/10/2026 15:21",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/27/van-por-nuevo-logro-a-rumania-estudiantes-de-cecyteg-de-irapuato-van-a-robochallenge-2026-170159.html",
-    "resumen": "Tiffany Rodríguez y Alberto Pérez, junto al asesor Erick Ortiz de Irapuato I, representarán a Guanajuato en la competencia con su robot “Vinder Jr”."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Feria del Alfeñique de Irapuato mantiene viva una tradición de más de 70 años",
-    "fecha": "27/10/2026 15:03",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/feria-del-alfenique-de-irapuato-mantiene-viva-una-tradicion-de-mas-de-70-anos/",
-    "resumen": "Irapuato, Guanajuato.- La Feria del Alfeñique de Irapuato, una tradición de más de 70 años, permanecerá instalada hasta el 4 de noviembre en la explanada de la Plaza del Comercio Popular, con dulces típicos, artículos para altares de muertos, flores y gastronomía mexicana. La presidenta municipal, Lorena Alfaro García, realizó un recorrido por la feria …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Secundaria Técnica 51 alcanza niveles esperados y avanzados en RIMA",
-    "fecha": "27/10/2026 14:21",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/secundaria-tecnica-51-alcanza-niveles-esperados-y-avanzados-en-rima/",
-    "resumen": "Irapuato, Guanajuato.- Más del 60% de los estudiantes de la Secundaria Técnica No. 51 de Irapuato alcanzó niveles esperado y avanzado de aprendizaje en Español, Matemáticas y Ciencias, de acuerdo con la evaluación RIMA, informó Juan Luis Saldaña López, delegado regional IV de Educación. El dato se dio a conocer durante la visita de la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato anuncia rutas alternativas por obras de puente Calzada de Guadalupe",
-    "fecha": "27/10/2026 13:37",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-anuncia-rutas-alternativas-por-obras-de-puente-calzada-de-guadalupe/",
-    "resumen": "Irapuato, Guanajuato.- Ante el inicio de la construcción del puente vehicular sobre las vías del ferrocarril en Calzada de Guadalupe, el Gobierno de Irapuato informa a la ciudadanía sobre las rutas alternas que podrán utilizarse para desplazarse hacia Salamanca, ingresar a la ciudad o trasladarse al Centro Histórico. Será a partir del próximo 30 de …"
   }
 ]
