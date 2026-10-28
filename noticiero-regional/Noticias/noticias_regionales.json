@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Entregan apoyos a ganaderos de Abasolo mediante el programa Ganado Productivo 2026",
+    "fecha": "27/10/2026 22:59",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/entregan-apoyos-a-ganaderos-de-abasolo-mediante-el-programa-ganado-productivo-2026/",
+    "resumen": "Productores recibieron sementales, vientres porcinos y dosis de semen para impulsar el mejoramiento genético de sus hatos. Abasolo, Guanajuato, 27 de octubre de 2026. El Gobierno Municipal de Abasolo, en…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Por más de 20 años, Erica Ríos mantiene viva la tradición de las coronas de muertos en Pénjamo",
+    "fecha": "27/10/2026 21:35",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/27/por-mas-de-20-anos-erica-rios-mantiene-viva-la-tradicion-de-las-coronas-de-muertos-en-penjamo-170211.html",
+    "resumen": "Erica Ríos elabora coronas de muertos en Pénjamo desde agosto y espera vender las 150 piezas que fabricó junto con su esposo"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Concluyen bloqueos en Silao y caravana en Pénjamo tras manifestaciones en Guanajuato",
     "fecha": "27/10/2026 20:01",
     "fuente": "Periódico Correo",
@@ -81,14 +97,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Inician construcción de vialidad en Nombre de Dios, Abasolo; intervendrán 189 metros de calle",
-    "fecha": "27/10/2026 13:19",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/inician-construccion-de-vialidad-en-nombre-de-dios-abasolo-intervendran-189-metros-de-calle/",
-    "resumen": "Abasolo, Guanajuato, 19 de octubre de 2026. — Con el objetivo de mejorar las condiciones de movilidad y facilitar el tránsito de los habitantes, el Gobierno Municipal de Abasolo inició…"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Productores agrícolas realizan caravana en carretera federal 1110 en Pénjamo",
     "fecha": "27/10/2026 11:59",
     "fuente": "Periódico Correo",
@@ -121,6 +129,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Tráiler provoca choque múltiple en el Cuarto Cinturón Vial de Irapuato",
+    "fecha": "27/10/2026 22:38",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/27/trailer-provoca-choque-multiple-en-el-cuarto-cinturon-vial-de-irapuato-170216.html",
+    "resumen": "Diez vehículos resultaron dañados, algunos con pérdida total, y siete personas quedaron lesionadas, ninguna de gravedad en Irapuato"
+  },
+  {
+    "prioridad": 2,
     "titulo": "¿Qué se sabe de los planteles Margarita Maza de Juárez que llegarán a Irapuato?",
     "fecha": "27/10/2026 20:57",
     "fuente": "Periódico Correo",
@@ -142,21 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/vecinos-de-colinas-del-rio-en-irapuato-reportan-errores-en-los-recibos-de-la-cfe-170202.html",
     "resumen": "Vecinos de Colinas del Río en Irapuato reportaron errores en los recibos de la CFE, cobros que superan sus pagos habituales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Parque Irekua de Irapuato obtiene el Green Flag Award 2026-2027",
-    "fecha": "27/10/2026 20:40",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/parque-irekua-de-irapuato-obtiene-el-green-flag-award-2026-2027-170200.html",
-    "resumen": "El Parque Irekua recibió por primera vez la certificación internacional Green Flag Award, entregada por la ANPR México durante el Encuentro Parques 2026"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato convoca a los negocios locales a sumarse al Buen Fin y atraer nuevos clientes",
-    "fecha": "27/10/2026 17:28",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/27/irapuato-convoca-a-los-negocios-locales-a-sumarse-al-buen-fin-y-atraer-nuevos-clientes-170172.html",
-    "resumen": "El Buen Fin en Irapuato busca impulsar las ventas de las mipymes del 13 al 17 de noviembre, mediante promociones, además de incentivar el consumo"
   }
 ]
