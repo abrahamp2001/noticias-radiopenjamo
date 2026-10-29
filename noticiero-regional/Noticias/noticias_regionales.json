@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Regidor de Pénjamo “vive” del oportunismo: del PAN a MORENA",
+    "fecha": "28/10/2026 20:05",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/regidor-de-penjamo-vive-del-oportunismo-del-pan-a-morena/",
+    "resumen": "Pénjamo, Guanajuato.- El regidor Luis Alberto Reyes Valle conocido como “Luisito Valle” al parecer la fidelidad hacía al partido que le dio una oportunidad, ya se acabó. De ser “asistente” de la actual dirigente de Movimiento Ciudadano Yulma Rocha Aguilar cuando era del PRI, llegó al PAN y al parecer ya se quiere integrar a …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Por falta de apoyos y los bajos precios, productores de trigo en Pénjamo abandonan el cultivo",
+    "fecha": "28/10/2026 19:31",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/28/por-falta-de-apoyos-y-los-bajos-precios-productores-de-trigo-en-penjamo-abandonan-el-cultivo-170281.html",
+    "resumen": "Productores de trigo en Pénjamo abandonan el cultivo por los bajos precios y la falta de rentabilidad, mientras enfrentan adeudos"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Niño de 4 años fallece en accidente familiar en Pénjamo",
     "fecha": "28/10/2026 16:16",
     "fuente": "Notus",
@@ -32,30 +48,6 @@
     "resumen": "A través del programa Ganado Productivo 2026, autoridades municipales y estatales distribuyeron apoyos para la reproducción de ganado bovino y porcino"
   },
   {
-    "prioridad": 0,
-    "titulo": "Entregan apoyos a ganaderos de Abasolo mediante el programa Ganado Productivo 2026",
-    "fecha": "27/10/2026 22:59",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/entregan-apoyos-a-ganaderos-de-abasolo-mediante-el-programa-ganado-productivo-2026/",
-    "resumen": "Productores recibieron sementales, vientres porcinos y dosis de semen para impulsar el mejoramiento genético de sus hatos. Abasolo, Guanajuato, 27 de octubre de 2026. El Gobierno Municipal de Abasolo, en…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Por más de 20 años, Erica Ríos mantiene viva la tradición de las coronas de muertos en Pénjamo",
-    "fecha": "27/10/2026 21:35",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/27/por-mas-de-20-anos-erica-rios-mantiene-viva-la-tradicion-de-las-coronas-de-muertos-en-penjamo-170211.html",
-    "resumen": "Erica Ríos elabora coronas de muertos en Pénjamo desde agosto y espera vender las 150 piezas que fabricó junto con su esposo"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Concluyen bloqueos en Silao y caravana en Pénjamo tras manifestaciones en Guanajuato",
-    "fecha": "27/10/2026 20:01",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/27/concluyen-bloqueos-en-silao-y-caravana-en-penjamo-tras-manifestaciones-en-guanajuato-170192.html",
-    "resumen": "Los bloqueos en Guanajuato concluyeron tras el retiro de manifestantes de las carreteras federales 45, en Silao, y 90, en Pénjamo"
-  },
-  {
     "prioridad": 1,
     "titulo": "Capacitan a 25 comerciantes de Manuel Doblado en higiene y manejo de alimentos",
     "fecha": "28/10/2026 15:11",
@@ -78,6 +70,54 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/adultos-mayores-de-huanimaro-concluyen-curso-de-preparacion-de-jugos-y-ensaladas-32837320",
     "resumen": "Veinte integrantes del Centro Gerontológico de Huanímaro finalizaron una capacitación en preparación de jugos y ensaladas y recibieron sus constancias de participación"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Regidor Gerardo Barroso nuevo Secretario de Ayuntamiento en Irapuato",
+    "fecha": "29/10/2026 00:41",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/regidor-gerardo-barroso-nuevo-secretario-de-ayuntamiento-en-irapuato/",
+    "resumen": "Irapuato, Gto. Durante la sesión ordinaria de Ayuntamiento, número 56, integrantes del Cabildo aprobaron la propuesta de la presidenta municipal, Lorena Alfaro García, para que Gerardo Barroso Rangel, asuma la titularidad de la Secretaría del Ayuntamiento. Para hacer efectiva esta encomienda en la política interna del municipio, el Regidor presentó un escrito mediante el cual …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato: dos accidentes en el Cuarto Cinturón exhiben paso irregular de camiones pesados",
+    "fecha": "28/10/2026 23:30",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/28/irapuato-dos-accidentes-en-el-cuarto-cinturon-exhiben-paso-irregular-de-camiones-pesados-170313.html",
+    "resumen": "En dos días ocurrieron accidentes con vehículos de carga en esta vialidad. Transportistas denunciaron presuntas mordidas de agentes de Tránsito"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a balazos a un hombre en la colonia Benito Juárez de Irapuato",
+    "fecha": "28/10/2026 22:23",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/28/asesinan-a-balazos-a-un-hombre-en-la-colonia-benito-juarez-de-irapuato-170305.html",
+    "resumen": "Un hombre murió tras ser atacado a balazos por sujetos en motocicleta en la calle José Ortiz Rico, en la colonia Benito Juárez, en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato alista más de 35 nuevos policías y prevé otra generación para 2027",
+    "fecha": "28/10/2026 20:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-alista-mas-de-35-nuevos-policias-y-preve-otra-generacion-para-2027-32840770",
+    "resumen": "La Secretaría de Seguridad Ciudadana mantiene abierta la convocatoria para reclutar elementos y ya evalúa a aspirantes para integrar un nuevo grupo de cadetes el próximo año"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en la colonia Azteca de Irapuato deja dos muertos",
+    "fecha": "28/10/2026 19:31",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/28/ataque-armado-en-la-colonia-azteca-de-irapuato-deja-dos-muertos-170282.html",
+    "resumen": "Un ataque armado en la colonia Azteca, Irapuato, dejó dos hombres muertos: uno falleció tras derrapar en motocicleta cuando era trasladado a un hospital"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Usuarios de la CFE en Irapuato reportan fallas en cajeros que rechazan pagos en efectivo",
+    "fecha": "28/10/2026 18:27",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/28/usuarios-de-la-cfe-en-irapuato-reportan-fallas-en-cajeros-que-rechazan-pagos-en-efectivo-170275.html",
+    "resumen": "Usuarios de la CFE en Irapuato reportaron dificultades para pagar sus recibos en cajeros automáticos que rechazan efectivo"
   },
   {
     "prioridad": 2,
@@ -107,7 +147,7 @@
     "prioridad": 2,
     "titulo": "Condenan a 60 años al asesino de la maestra Lupita de Irapuato",
     "fecha": "28/10/2026 12:59",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/condenan-a-60-anos-al-asesino-de-la-maestra-lupita-de-irapuato/",
     "resumen": "Guanajuato, Guanajuato.- Carlos Manuel, prófugo y cuarto responsable de la desaparición y muerte de la maestra Lupita de Irapuato en 2020, fue condenado a 60 años de prisión. La Fiscalía del Estado continúa investigando su relación con las fosas clandestinas localizadas en octubre de 2020 en el Barrio de San Juan, en Salvatierra, donde fueron …"
   },
@@ -118,45 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-irapuato-deja-dos-muertos-uno-murio-al-ser-trasladado-32844138",
     "resumen": "Uno de los hombres quedó sin vida en la colonia Nuevo Amanecer; el segundo murió durante el traslado por sus familiares, luego de un derrape en el Libramiento Norte"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "‘Abuelita’ pierde la vida tras ser embestida por camioneta en Irapuato",
-    "fecha": "28/10/2026 11:33",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/abuelita-pierde-la-vida-tras-ser-embestida-por-camioneta-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Una adulta mayor fue víctima mortal colateral de un accidente entre una camioneta y una motocicleta en la avenida Reforma de Irapuato. La mujer de 70 años caminaba, presuntamente hacia el templo de San Judas Tadeo de la colonia La Hacienda, cuando fue impactada. El hecho ocurrió cerca del mercado Reforma y según …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Camioneta impacta a motociclistas en Irapuato; causa que estos arrollen y maten a adulta mayor",
-    "fecha": "28/10/2026 10:56",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/28/camioneta-impacta-a-motociclistas-en-irapuato-causa-que-estos-arrollen-y-maten-a-adulta-mayor-170232.html",
-    "resumen": "La tragedia ocurrió en medio de los festejos a San Judas Tadeo en la colonia La Hacienda, en Irapuato, a metros de su templo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Enrique Hernández, médico del Irapuato desde 2003: orgullo de pertenecer a la Trinca",
-    "fecha": "28/10/2026 10:18",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/enrique-hernandez-medico-del-irapuato-desde-2003-orgullo-de-pertenecer-a-la-trinca-32841785",
-    "resumen": "En 2003 llegó a la Trinca, elogiando el gran trabajo que se ha hecho con este nuevo proyecto"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Inteligencia artificial, una herramienta para que mujeres emprendan y alcancen independencia económica",
-    "fecha": "28/10/2026 09:51",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/inteligencia-artificial-una-herramienta-para-que-mujeres-emprendan-y-alcancen-independencia-economica-32840809",
-    "resumen": "Jessica, beneficiaria de la capacitación en Irapuato, destacó que aprender nuevas herramientas puede abrir oportunidades para desarrollar proyectos y construir un mejor futuro para las mujeres y sus familias"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Vigilará Profeco precios y comercios en panteones de Irapuato por Día de Muertos",
-    "fecha": "28/10/2026 09:31",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/vigilara-profeco-precios-y-comercios-en-panteones-de-irapuato-por-dia-de-muertos-32840455",
-    "resumen": "Del 30 de octubre al dos de noviembre, personal de la dependencia realizará recorridos en zonas comerciales, puestos de alfeñiques y alrededores de los cementerios para verificar que se exhiban los precios y se respeten los derechos de los consumidores"
   }
 ]
