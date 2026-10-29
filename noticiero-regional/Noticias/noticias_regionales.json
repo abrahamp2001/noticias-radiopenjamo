@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "¡Sí se puede! Desde Pénjamo, Viviana Ayala insta a mujeres a expandir sus emprendimientos y sus horizontes",
+    "fecha": "29/10/2026 09:16",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/29/si-se-puede-desde-penjamo-viviana-ayala-insta-a-mujeres-a-expandir-sus-emprendimientos-y-sus-horizontes-170318.html",
+    "resumen": "Viviana Ayala recalca que acceder a labores como carpintería, plomería y mecánica es una realidad en Pénjamo, incentivando a las mujeres a la autosuficiencia"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Regidor de Pénjamo “vive” del oportunismo: del PAN a MORENA",
     "fecha": "28/10/2026 20:05",
     "fuente": "Notus",
@@ -19,33 +27,9 @@
     "prioridad": 0,
     "titulo": "Niño de 4 años fallece en accidente familiar en Pénjamo",
     "fecha": "28/10/2026 16:16",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/nino-de-4-anos-fallece-en-accidente-familiar-en-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- Un niño de apenas 4 años perdió la vida y cinco personas más resultaron lesionadas en un accidente sobre la carretera federal 1110 Pénjamo-La Piedad. Tras el incidente familiar, 4 de los heridos fueron trasladados a recibir atención médica en vehículos particulares, de acuerdo con Bomberos de Pénjamo. En el accidente, al menos …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Los “Mortalikos” convierten carreteras de Abasolo en pistas de carreras y acrobacias",
-    "fecha": "28/10/2026 10:24",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/los-mortalikos-convierten-carreteras-de-abasolo-en-pistas-de-carreras-y-acrobacias/",
-    "resumen": "Abasolo, Guanajuato.- Las carreteras estatales de Abasolo se han convertido en escenarios de riesgo por las conductas de algunos grupos de motociclistas, conocidos como los “Mortalikos”, que circulan a altas velocidades, en grupos y sin utilizar casco, una combinación que puede tener consecuencias graves en caso de accidente. La situación se observa en vialidades que …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Instituciones coordinan acciones para prevenir y atender la violencia de género en Abasolo",
-    "fecha": "28/10/2026 06:09",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/instituciones-coordinan-acciones-para-prevenir-y-atender-la-violencia-de-genero-32836384",
-    "resumen": "La Mesa Interinstitucional de la Unidad Policial Especializada de Prevención y Atención de la Violencia de Género reunió a representantes de distintas instituciones para abordar la coordinación de acciones dirigidas a la prevención, atención y protección de las mujeres"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Impulsan la reproducción ganadera en Abasolo con el programa Ganado Productivo 2026",
-    "fecha": "28/10/2026 05:49",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/impulsan-la-reproduccion-ganadera-en-abasolo-con-el-programa-ganado-productivo-2026-32836069",
-    "resumen": "A través del programa Ganado Productivo 2026, autoridades municipales y estatales distribuyeron apoyos para la reproducción de ganado bovino y porcino"
   },
   {
     "prioridad": 1,
@@ -56,20 +40,44 @@
     "resumen": "Manuel Doblado, Guanajuato.- Ante la conmemoración del Día de Muertos, 25 comerciantes de Manuel Doblado recibieron capacitación sobre el manejo adecuado y la preparación higiénica de alimentos, como parte de las acciones para reforzar la seguridad de los productos que ofrecerán los días 1 y 2 de noviembre. La actividad comenzó a las 10:30 de …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Cuerámaro arranca pavimentación de dos calles con inversión de 7.8 millones de pesos",
-    "fecha": "28/10/2026 13:13",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/cueramaro-arranca-pavimentacion-de-dos-calles-con-inversion-de-7-8-millones-de-pesos/",
-    "resumen": "Cuerámaro, Guanajuato.- La gobernadora de Guanajuato, Libia Dennise García Muñoz Ledo, encabezó el arranque de la pavimentación de dos calles en el municipio de Cuerámaro, con una inversión conjunta de 7 millones 813 mil 179 pesos para mejorar la movilidad y las condiciones de seguridad de las familias. Una de las obras se realizará en …"
+    "prioridad": 2,
+    "titulo": "Zoológico de Irapuato ofrecerá entrada gratis a niños disfrazados este 30 y 31 de octubre",
+    "fecha": "29/10/2026 13:26",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/zoologico-de-irapuato-ofrecera-entrada-gratis-a-ninos-disfrazados-este-30-y-31-de-octubre/",
+    "resumen": "Irapuato, Guanajuato.- El Zoológico de Irapuato ofrecerá promociones especiales los próximos viernes 30 y sábado 31 de octubre, con motivo del Día de Muertos y Halloween. Los niños que acudan disfrazados y midan hasta 1.40 metros de estatura podrán entrar gratis al parque, siempre que estén acompañados de un adulto. Isabel Buenrostro Azúa, gerente de …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Adultos mayores de Huanímaro concluyen curso de preparación de jugos y ensaladas",
-    "fecha": "28/10/2026 07:07",
+    "prioridad": 2,
+    "titulo": "Irapuato inicia pavimentación de calles en dos colonias",
+    "fecha": "29/10/2026 11:49",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-inicia-pavimentacion-de-calles-en-dos-colonias/",
+    "resumen": "Irapuato, Guanajuato.- Con la convicción de que una comunidad progresa y avanza cuando sus habitantes se unen y participan de la mano de las autoridades, el Gobierno de Irapuato puso en marcha la pavimentación de la calle Adolfo López Mateos, en la colonia Juárez, y la calle José López Portillo, en la comunidad Purísima del …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Riña deja 2 hombres y una mujer lesionados en Purísima del Jardín, Irapuato",
+    "fecha": "29/10/2026 10:43",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/29/rina-deja-2-hombres-y-una-mujer-lesionados-en-purisima-del-jardin-irapuato-170324.html",
+    "resumen": "Durante la riña en la calle Jazmín de la colonia Purísima del Jardín de Irapuato incluso hubo detonaciones por arma de fuego"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Buscas trabajo en diciembre? Irapuato abrirá empleos temporales para la Villa Navideña",
+    "fecha": "29/10/2026 08:00",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/adultos-mayores-de-huanimaro-concluyen-curso-de-preparacion-de-jugos-y-ensaladas-32837320",
-    "resumen": "Veinte integrantes del Centro Gerontológico de Huanímaro finalizaron una capacitación en preparación de jugos y ensaladas y recibieron sus constancias de participación"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/buscas-trabajo-en-diciembre-irapuato-abrira-empleos-temporales-para-la-villa-navidena-32857742",
+    "resumen": "Adultos mayores, personas con discapacidad y jóvenes podrán participar; Desarrollo Social prevé publicar las bases a partir de la segunda semana de noviembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Autos 2026 y 4 millones en premios: así será el Torneo de Golf Santa Margarita en Irapuato",
+    "fecha": "29/10/2026 07:49",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/autos-2026-y-4-millones-en-premios-asi-sera-el-torneo-de-golf-santa-margarita-en-irapuato-32857441",
+    "resumen": "La edición 48 se realizará del cinco al siete de noviembre y espera reunir a 200 jugadores; habrá vehículos modelo 2026, premios en efectivo y participantes de diferentes estados del país"
   },
   {
     "prioridad": 2,
@@ -123,7 +131,7 @@
     "prioridad": 2,
     "titulo": "Purísima del Progreso recibe certificación como Comunidad Responsable de sus Mascotas",
     "fecha": "28/10/2026 15:40",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/purisima-del-progreso-recibe-certificacion-como-comunidad-responsable-de-sus-mascotas/",
     "resumen": "Irapuato, Guanajuato.- La comunidad de Purísima del Progreso recibió la certificación como “Comunidad Responsable de sus Mascotas”, como parte de las acciones del Gobierno de Irapuato para fomentar la tenencia responsable, la salud pública y el bienestar animal. La presidenta municipal, Lorena Alfaro García, destacó que la localidad es ahora una comunidad más saludable, limpia …"
   },
@@ -136,27 +144,11 @@
     "resumen": "Irapuato, Guanajuato.- Camila Lizeth Mosqueda Arroyo, de 15 años, desapareció en Irapuato y fue vista por última vez el lunes 26 de octubre de 2026. Las autoridades activaron una Alerta AMBER para localizarla; aunque en una publicación hay un mensaje supuestamente de ella, diciendo que está bien. “Yo Camila Lizeth Mosqueda arroyo salgo a decir …"
   },
   {
-    "prioridad": 2,
-    "titulo": "Gerardo Barroso Rangel asume la Secretaría del Ayuntamiento de Irapuato",
-    "fecha": "28/10/2026 13:09",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/gerardo-barroso-rangel-asume-la-secretaria-del-ayuntamiento-de-irapuato-32844900",
-    "resumen": "El exregidor del PAN fue aprobado por el Ayuntamiento para ocupar el cargo; pidió licencia por tiempo indefinido como integrante del Cabildo y su suplente, Jesús Israel Aguilera Rivera, entrará en su lugar"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Condenan a 60 años al asesino de la maestra Lupita de Irapuato",
-    "fecha": "28/10/2026 12:59",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/condenan-a-60-anos-al-asesino-de-la-maestra-lupita-de-irapuato/",
-    "resumen": "Guanajuato, Guanajuato.- Carlos Manuel, prófugo y cuarto responsable de la desaparición y muerte de la maestra Lupita de Irapuato en 2020, fue condenado a 60 años de prisión. La Fiscalía del Estado continúa investigando su relación con las fosas clandestinas localizadas en octubre de 2020 en el Barrio de San Juan, en Salvatierra, donde fueron …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en Irapuato deja dos muertos; uno murió al ser trasladado",
-    "fecha": "28/10/2026 12:18",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-irapuato-deja-dos-muertos-uno-murio-al-ser-trasladado-32844138",
-    "resumen": "Uno de los hombres quedó sin vida en la colonia Nuevo Amanecer; el segundo murió durante el traslado por sus familiares, luego de un derrape en el Libramiento Norte"
+    "prioridad": 3,
+    "titulo": "Guanajuato: jóvenes piden psicólogos en escuelas y acciones contra la violencia digital",
+    "fecha": "28/10/2026 21:24",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/guanajuato/2026/oct/28/guanajuato-jovenes-piden-psicologos-en-escuelas-y-acciones-contra-la-violencia-digital-170298.html",
+    "resumen": "Alumnos de bachillerato expusieron problemas de seguridad, salud mental y acoso ante autoridades; también cuestionaron si sus propuestas serán tomadas en cuenta"
   }
 ]
