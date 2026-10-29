@@ -1,9 +1,17 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Niño de 4 años fallece en accidente familiar en Pénjamo",
+    "fecha": "28/10/2026 16:16",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/nino-de-4-anos-fallece-en-accidente-familiar-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Un niño de apenas 4 años perdió la vida y cinco personas más resultaron lesionadas en un accidente sobre la carretera federal 1110 Pénjamo-La Piedad. Tras el incidente familiar, 4 de los heridos fueron trasladados a recibir atención médica en vehículos particulares, de acuerdo con Bomberos de Pénjamo. En el accidente, al menos …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Los “Mortalikos” convierten carreteras de Abasolo en pistas de carreras y acrobacias",
     "fecha": "28/10/2026 10:24",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/los-mortalikos-convierten-carreteras-de-abasolo-en-pistas-de-carreras-y-acrobacias/",
     "resumen": "Abasolo, Guanajuato.- Las carreteras estatales de Abasolo se han convertido en escenarios de riesgo por las conductas de algunos grupos de motociclistas, conocidos como los “Mortalikos”, que circulan a altas velocidades, en grupos y sin utilizar casco, una combinación que puede tener consecuencias graves en caso de accidente. La situación se observa en vialidades que …"
   },
@@ -48,34 +56,18 @@
     "resumen": "Los bloqueos en Guanajuato concluyeron tras el retiro de manifestantes de las carreteras federales 45, en Silao, y 90, en Pénjamo"
   },
   {
-    "prioridad": 0,
-    "titulo": "Abasolo entrega apoyos del programa Ganado Productivo 2026",
-    "fecha": "27/10/2026 16:41",
+    "prioridad": 1,
+    "titulo": "Capacitan a 25 comerciantes de Manuel Doblado en higiene y manejo de alimentos",
+    "fecha": "28/10/2026 15:11",
     "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/abasolo-entrega-apoyos-del-programa-ganado-productivo-2026/",
-    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo, encabezado por el presidente municipal Job Gallardo, realizó la entrega de apoyos del programa Ganado Productivo 2026, en coordinación con el Gobierno del Estado. Los apoyos están destinados a la crianza de ganado bovino y porcino e incluyen sementales, vientres porcinos y dosis de semen bovino y porcino. …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Imparten pláticas sobre prevención de riesgos en redes sociales a estudiantes de Los Ocotes, Pénjamo",
-    "fecha": "27/10/2026 14:41",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/imparten-platicas-sobre-prevencion-de-riesgos-en-redes-sociales-a-estudiantes-de-los-ocotes-penjamo/",
-    "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — Con el objetivo de promover el uso responsable de internet y prevenir situaciones de riesgo entre adolescentes, el Gobierno Municipal de Pénjamo…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Realizan trabajos de rehabilitación del Pozo 3 en Santa Ana Pacueco para mejorar el servicio de agua potable",
-    "fecha": "27/10/2026 14:29",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/realizan-trabajos-de-rehabilitacion-del-pozo-3-en-santa-ana-pacueco-para-mejorar-el-servicio-de-agua-potable/",
-    "resumen": "Pénjamo, Guanajuato, 27 de octubre de 2026. — Con el objetivo de mejorar la infraestructura hidráulica y contribuir a un servicio de agua potable más eficiente, el Gobierno Municipal de…"
+    "url": "https://notus.com.mx/capacitan-a-25-comerciantes-de-manuel-doblado-en-higiene-y-manejo-de-alimentos/",
+    "resumen": "Manuel Doblado, Guanajuato.- Ante la conmemoración del Día de Muertos, 25 comerciantes de Manuel Doblado recibieron capacitación sobre el manejo adecuado y la preparación higiénica de alimentos, como parte de las acciones para reforzar la seguridad de los productos que ofrecerán los días 1 y 2 de noviembre. La actividad comenzó a las 10:30 de …"
   },
   {
     "prioridad": 1,
     "titulo": "Cuerámaro arranca pavimentación de dos calles con inversión de 7.8 millones de pesos",
     "fecha": "28/10/2026 13:13",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/cueramaro-arranca-pavimentacion-de-dos-calles-con-inversion-de-7-8-millones-de-pesos/",
     "resumen": "Cuerámaro, Guanajuato.- La gobernadora de Guanajuato, Libia Dennise García Muñoz Ledo, encabezó el arranque de la pavimentación de dos calles en el municipio de Cuerámaro, con una inversión conjunta de 7 millones 813 mil 179 pesos para mejorar la movilidad y las condiciones de seguridad de las familias. Una de las obras se realizará en …"
   },
@@ -89,17 +81,49 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Purísima del Progreso recibe certificación como Comunidad Responsable de sus Mascotas",
+    "fecha": "28/10/2026 15:40",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/purisima-del-progreso-recibe-certificacion-como-comunidad-responsable-de-sus-mascotas/",
+    "resumen": "Irapuato, Guanajuato.- La comunidad de Purísima del Progreso recibió la certificación como “Comunidad Responsable de sus Mascotas”, como parte de las acciones del Gobierno de Irapuato para fomentar la tenencia responsable, la salud pública y el bienestar animal. La presidenta municipal, Lorena Alfaro García, destacó que la localidad es ahora una comunidad más saludable, limpia …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Desaparece adolescente de 15 años en Irapuato",
+    "fecha": "28/10/2026 14:31",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/desaparece-adolescente-de-15-anos-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Camila Lizeth Mosqueda Arroyo, de 15 años, desapareció en Irapuato y fue vista por última vez el lunes 26 de octubre de 2026. Las autoridades activaron una Alerta AMBER para localizarla; aunque en una publicación hay un mensaje supuestamente de ella, diciendo que está bien. “Yo Camila Lizeth Mosqueda arroyo salgo a decir …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Gerardo Barroso Rangel asume la Secretaría del Ayuntamiento de Irapuato",
+    "fecha": "28/10/2026 13:09",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/gerardo-barroso-rangel-asume-la-secretaria-del-ayuntamiento-de-irapuato-32844900",
+    "resumen": "El exregidor del PAN fue aprobado por el Ayuntamiento para ocupar el cargo; pidió licencia por tiempo indefinido como integrante del Cabildo y su suplente, Jesús Israel Aguilera Rivera, entrará en su lugar"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Condenan a 60 años al asesino de la maestra Lupita de Irapuato",
     "fecha": "28/10/2026 12:59",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/condenan-a-60-anos-al-asesino-de-la-maestra-lupita-de-irapuato/",
     "resumen": "Guanajuato, Guanajuato.- Carlos Manuel, prófugo y cuarto responsable de la desaparición y muerte de la maestra Lupita de Irapuato en 2020, fue condenado a 60 años de prisión. La Fiscalía del Estado continúa investigando su relación con las fosas clandestinas localizadas en octubre de 2020 en el Barrio de San Juan, en Salvatierra, donde fueron …"
   },
   {
     "prioridad": 2,
+    "titulo": "Ataque armado en Irapuato deja dos muertos; uno murió al ser trasladado",
+    "fecha": "28/10/2026 12:18",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-irapuato-deja-dos-muertos-uno-murio-al-ser-trasladado-32844138",
+    "resumen": "Uno de los hombres quedó sin vida en la colonia Nuevo Amanecer; el segundo murió durante el traslado por sus familiares, luego de un derrape en el Libramiento Norte"
+  },
+  {
+    "prioridad": 2,
     "titulo": "‘Abuelita’ pierde la vida tras ser embestida por camioneta en Irapuato",
     "fecha": "28/10/2026 11:33",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/abuelita-pierde-la-vida-tras-ser-embestida-por-camioneta-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Una adulta mayor fue víctima mortal colateral de un accidente entre una camioneta y una motocicleta en la avenida Reforma de Irapuato. La mujer de 70 años caminaba, presuntamente hacia el templo de San Judas Tadeo de la colonia La Hacienda, cuando fue impactada. El hecho ocurrió cerca del mercado Reforma y según …"
   },
@@ -113,50 +137,26 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato: Ante brote de aguas negras en las alcantarillas de Los Presidentes, habitantes urgen intervención",
-    "fecha": "28/10/2026 09:17",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/28/irapuato-ante-brote-de-aguas-negras-en-las-alcantarillas-de-los-presidentes-habitantes-urgen-intervencion-170229.html",
-    "resumen": "La salida de aguas negras en la colonia de Irapuato genera malos olores que se intensifican durante el calor, afectando la vida de los habitantes de la zona"
+    "titulo": "Enrique Hernández, médico del Irapuato desde 2003: orgullo de pertenecer a la Trinca",
+    "fecha": "28/10/2026 10:18",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/enrique-hernandez-medico-del-irapuato-desde-2003-orgullo-de-pertenecer-a-la-trinca-32841785",
+    "resumen": "En 2003 llegó a la Trinca, elogiando el gran trabajo que se ha hecho con este nuevo proyecto"
   },
   {
     "prioridad": 2,
-    "titulo": "Piden a empresarios anticipar el cierre fiscal y revisar su patrimonio rumbo a 2027",
-    "fecha": "28/10/2026 07:36",
+    "titulo": "Inteligencia artificial, una herramienta para que mujeres emprendan y alcancen independencia económica",
+    "fecha": "28/10/2026 09:51",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/piden-a-empresarios-anticipar-el-cierre-fiscal-y-revisar-su-patrimonio-rumbo-a-2027-32837873",
-    "resumen": "Franco Padilla Fuerte, delegado de la CNEMCO en Irapuato recomendó simular los pagos provisionales del próximo año, revisar el régimen fiscal y contrastar las propiedades adquiridas con las declaraciones de los últimos cinco ejercicios"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/inteligencia-artificial-una-herramienta-para-que-mujeres-emprendan-y-alcancen-independencia-economica-32840809",
+    "resumen": "Jessica, beneficiaria de la capacitación en Irapuato, destacó que aprender nuevas herramientas puede abrir oportunidades para desarrollar proyectos y construir un mejor futuro para las mujeres y sus familias"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato enfrenta el reto de generar más riqueza más allá de las fábricas",
-    "fecha": "28/10/2026 07:10",
+    "titulo": "Vigilará Profeco precios y comercios en panteones de Irapuato por Día de Muertos",
+    "fecha": "28/10/2026 09:31",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-enfrenta-el-reto-de-generar-mas-riqueza-mas-alla-de-las-fabricas-32836994",
-    "resumen": "La nueva delegación del CNEMCO en Irapuato apuesta por fortalecer la consultoría, la innovación y la formación especializada; su presidente nacional advierte que México aún tiene terreno por avanzar para generar mayor valor agregado"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Milagros, promesas y agradecimiento marcan la devoción a San Judas Tadeo en Irapuato",
-    "fecha": "28/10/2026 06:03",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/milagros-promesas-y-agradecimiento-marcan-la-devocion-a-san-judas-tadeo-en-irapuato-32836275",
-    "resumen": "Familias acudieron a celebrar al santo de las causas difíciles; algunas agradecieron por la recuperación de sus hijos, mientras devotos compartieron tamales y champurrado como parte de sus promesas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Buscan que mil comercios de Irapuato participen en El Buen Fin 2026",
-    "fecha": "28/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/buscan-que-mil-comercios-de-irapuato-participen-en-el-buen-fin-2026-32822531",
-    "resumen": "Canaco Servytur pretende aumentar de 820 a mil los establecimientos registrados para la edición que se realizará del 13 al 17 de noviembre. En Irapuato hay más de 27 mil 600 unidades económicas, mientras que autoridades llaman a los negocios a formalizar su participación y a los consumidores a comparar precios"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Parque Irekua obtiene certificación internacional Green Flag Award",
-    "fecha": "28/10/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/parque-irekua-obtiene-certificacion-internacional-green-flag-award-32822922",
-    "resumen": "El parque de Irapuato recibió por primera vez el distintivo para el periodo 2026-2027, que reconoce la gestión, el mantenimiento y la calidad de los espacios públicos."
+    "url": "https://oem.com.mx/elsoldeirapuato/local/vigilara-profeco-precios-y-comercios-en-panteones-de-irapuato-por-dia-de-muertos-32840455",
+    "resumen": "Del 30 de octubre al dos de noviembre, personal de la dependencia realizará recorridos en zonas comerciales, puestos de alfeñiques y alrededores de los cementerios para verificar que se exhiban los precios y se respeten los derechos de los consumidores"
   }
 ]
