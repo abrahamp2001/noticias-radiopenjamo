@@ -1,3 +1,4 @@
+
 import asyncio
 from pathlib import Path
 import edge_tts
@@ -21,22 +22,43 @@ async def generar():
 
     archivo_temporal = AUDIO.with_suffix(".temporal.mp3")
 
-    try:
-        comunicacion = edge_tts.Communicate(
-            texto,
-            VOZ,
-            rate="+15%"
-        )
-        await comunicacion.save(str(archivo_temporal))
+    for intento in range(1, 4):
+        try:
+            print(f"INTENTO {intento} DE 3")
 
-        if archivo_temporal.stat().st_size < 1000:
-            raise RuntimeError("El audio generado está incompleto.")
+            archivo_temporal.unlink(missing_ok=True)
 
-        archivo_temporal.replace(AUDIO)
-    finally:
-        archivo_temporal.unlink(missing_ok=True)
+            comunicacion = edge_tts.Communicate(
+                texto,
+                VOZ,
+                rate="+15%"
+            )
 
-    print("VOZ DEPORTIVA GENERADA CORRECTAMENTE")
-    print("Archivo:", AUDIO)
+            await comunicacion.save(str(archivo_temporal))
+
+            if not archivo_temporal.exists():
+                raise RuntimeError("No se generó el archivo de audio.")
+
+            if archivo_temporal.stat().st_size < 1000:
+                raise RuntimeError("El audio generado está incompleto.")
+
+            archivo_temporal.replace(AUDIO)
+
+            print("VOZ DEPORTIVA GENERADA CORRECTAMENTE")
+            print("Archivo:", AUDIO)
+            return
+
+        except Exception as error:
+            print(f"ERROR EN INTENTO {intento}: {error}")
+
+            archivo_temporal.unlink(missing_ok=True)
+
+            if intento == 3:
+                raise RuntimeError(
+                    "No se pudo generar la voz después de 3 intentos."
+                ) from error
+
+            print("ESPERANDO 15 SEGUNDOS...")
+            await asyncio.sleep(15)
 
 asyncio.run(generar())
