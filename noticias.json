@@ -1,5 +1,12 @@
 [
   {
+    "titulo": "Inés Gómez Mont es detenida en Florida, Estados Unidos - La Jornada",
+    "descripcion": "Información publicada por La Jornada. Consulta la nota completa.",
+    "fecha": "30/10/2026 21:19",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeWxhaE5wOENsQ3dBTEtkaERPME8taTU0VmFvWnlZMTNQQVBFNUVyOVE3X2IzcUNvQTR4ZmQxbkMyQVRmbmhMM21BQ3kxZC1TZEIzaDEySXpVQ0piTkwzaFVuNm9OUDdlT1BDWFBmSzhFc3RqWmcwVW8taU5hdk81Wk91NUF1OXFzMTJJZUZnZVg5Yk5Icmh6TGx1X0c0OHBnemxqZWM3TXFabzc1?oc=5"
+  },
+  {
     "titulo": "Sheinbaum ‘reprocha’ a Lorenzo Córdova propiciar corrupción en el INE: ‘Él mantuvo contrataciones’ - El Financiero",
     "descripcion": "Información publicada por El Financiero. Consulta la nota completa.",
     "fecha": "30/10/2026 12:30",
@@ -7,39 +14,46 @@
     "enlace": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmpncUo5eUkzcUMwRE9LUl9xYm53Slc3cFdicWJLWTA1Z0NKdlRTY0lBek5ranViZUdTeFM3V0VaZVQzZGFLbDI0a2R3M1k4VERHV0FOd1hIQU92N0lBek4wakpmSmo3eDZId1o0R3V6RVZJNEE4d0xOcmlERlpGZklka2c1SVF5ZnNDS1ljX1c4TkxfcHRzYlhFeGdmMXBKYmZ4dlJKZnVTbTE1eTkyYV9lV3l6R1lDQ2VJ?oc=5"
   },
   {
-    "titulo": "Homenaje de cuerpo presente a Cuauhtémoc Cárdenas en Bellas Artes empezará a las 12:30: Sheinbaum - La Jornada",
-    "descripcion": "Información publicada por La Jornada. Consulta la nota completa.",
-    "fecha": "30/10/2026 14:01",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbnZ4SzlyVDJIcVp1aVpQTGNuanNiNFlCLUtkRVU3bVpQVVFLWGt2QzAySE4tMm9VakFmZGxPcFB2RlotYXF1aHVpX1pLX1VaNzAwRkotN0NKc256Y1dQNTUtNW9yNm1GQWN5bFdTVS1WM2ExVTlYdG9hQWdoRldkSHhXUGY1TmZlYzBwMEFPNnV6Z19fV05rU0lpVlhGQjdPOGU1WmlsN1diN19pS3FHcTZqVmJ5Y0Vac1RsMDFnWm42Qnc2LVJFQzRvMW9TdlNCUWRCWmJlZ2VvQkpRY3pmNTMyYjY?oc=5"
-  },
-  {
-    "titulo": "Detenido un hombre por los perros envenenados de la Condesa - EL PAÍS",
-    "descripcion": "Información publicada por EL PAÍS. Consulta la nota completa.",
-    "fecha": "30/10/2026 14:21",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZE1FdXlZRml1czJDaDhVbWZnaXpTdk01NEpNcFRFTS1sR3hsWEtaNlJMMy1qbGp5ZVlhZGw0dS1VSk5VazlOMWV3ZGVQNTlFdnBOSFZIR1cweEY0UHhiNHNUcDBpSXNZUzlrU01qdm1ON0tNZXhTTlJEeUJVS0owb3dWdm4tbEZZLU9EN0hyRThjcUhUdGlNeWVYRkdJTUhwV3cw0gG3AUFVX3lxTFBOci1MSjhuSXBObWp2bUNKUk1hQTJTb3NkaWI2UzhoanJoam1tRlRlV0g2aDVXblJpSFhTMTYtMEhzbVUtUzN2TF9iNHFJblNSTEtaTXJ0cUtOVHRsSERjT0d6UGtpV3JWeGtCdlQ5NmhnQU5uYldSUWIyZFZ1YWVtZmtIQjVGa3JaN3Y3NHRNcTNTQUxjS2tidTBqVmhOVDhldzZPZ1FjZ1NJYmkwR3hkLV9NblQ3QQ?oc=5"
-  },
-  {
-    "titulo": "En la trinchera del IMSS: “Hemos llegado al hartazgo, por eso nos encontramos en las calles y no en los hospitales” - EL PAÍS",
+    "titulo": "México dice adiós a Cuauhtémoc Cárdenas, el gigante político que marcó el camino a la democracia - EL PAÍS",
     "descripcion": "Información publicada por EL PAÍS. Consulta la nota completa.",
     "fecha": "30/10/2026 09:30",
     "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRzJUTDFGcDRSZEJTd0lNbVZqZXpYNWFPX3NwdDRyQ2NqaS01QTVob3BaSGhiRng0c0l3RjRPSFExWFhvM1pxUVM4UUhHZWN6VldDeEt5QkVIemZRNXdzR0FYNXUyVl80bFBsZ2JyaUlZVnlTaG0tSG5MMkt2OHNEclg4UjRMdzFRMWh0bm5FVHZsTjVYd0toUVQyNEVDWTI2c2dhTTVPV0hQVjAzVnUzdDlWVG9kbTVlVF9RYm80Q1lQOWtRdW1OZm1DN0pwWm9yMjFWbTZSY25XRFRQWjI5ZE9CbHE1WXVkdXlPWUVRR21vZXhYVTA2VkQ4aC05cjBO?oc=5"
+    "enlace": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLWpEa2dEbi1WcnJEcEhPMGFkTUtMZ2RCMFhYWE1TRWVyRWJvREdYNGNzbHptTVRHRnRudEZCV3lVNnJqd2hOa0l3S0liNTdvc1ZlaW96TTNHc3lSMEZHNWl6SkF2cVJweVozTTFYX0x2T25ma3JEOTJXV3NqYUNYc2Y3cU9rdGtheVl3OEM2LUpvd2hpdGxZc2RodTNlUEw4a1ZXRGNESzhYVXpCd1NoOXZ6Y1E4UHlZV09rb09VcU1vaXNzUlFRaXBSdUhJRWhiMHNV0gHnAUFVX3lxTE1nTjdDU29ibmdDaEFvX25SX0Q4ajFUQnlVbzdIc0E5ZHptbFNac0NJU1JrVE9oeUZaYndSdGx5dWt6WXdsYlpvMnh4Qll2R0lqZ01oa0NENXlZWlFkMldKMmx1VktNbWhHdkZweEUtNkh4ZXFxanhZMmRwNU5BVUZLY2Eya2lsZmVfaUI2UlE4QmNYVUQxMEpFbU1mSEJ1Rk9Rd0FmV2FPWFQwNHMzSVVfWjFjbldrOHlmLTdwcEJubTE4czhVM2QxT1p3cFZFc2FiN1ltNXkwT0dsa1Q3akduV1NyQ0tScw?oc=5"
   },
   {
-    "titulo": "Bloque de Netanyahu no logra mayoría, según recuento final de la Comisión Electoral Central de Israel - DW.com",
-    "descripcion": "Información publicada por DW.com. Consulta la nota completa.",
-    "fecha": "30/10/2026 01:41",
+    "titulo": "Sheinbaum defiende a AMLO y niega enemistad con Cuauhtémoc Cárdenas: ‘Tuvieron sus diferencias’ - El Financiero",
+    "descripcion": "Información publicada por El Financiero. Consulta la nota completa.",
+    "fecha": "30/10/2026 16:18",
     "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcWstSGExWXd3MTdnaFRaUklFTTVaMkkxcXFmMVZDRExoUkFMZkx2Qnd1RjhIN29KWlVackY3dmxVN0NzWHBqQTN4TmR5eVlKNEgzX3ZwaWVwU3lXcXV4WUpvc1NWVU93TUNoVFZpanR6SkwwNHZkMmptWC1GakZxU29aWkFIbUVBSElGUnkxTkpiZ01BTG1WQWRqaldYdFJXcTFTTFZuQ05jcERTZ0NiYXd6dVVpV2xacm44c3dQUXlwR1JnbHZUTndTdVRvcGg3WXRkYjBsUzJQMWpQeUx1X0pB0gHiAUFVX3lxTFBRNW05eW8wN1A2aUJzV3N2QXRjYkdQbjRleHlMcE9nOW1MMkZlRzBRWTYxZ3RRYl9XMGhhUWVpMklBT2I1VS11UUtaLVpoN2JMRTJaeXRtMTFaSEJ1UVNQdzNsQWhfa2hvZWNhWEpUVjRXR0ZweE1QeGxwTjB2OHh5UHNGLUZQSVNmX0d0cTdXYmhERFBLOGxNbVpJVnVhVDJ5TmRRWUVudmxaNzVOcXg3VW5VbVBjakJlVTFUNWZnWDkwQkZ4aF94aG9maHJ4QzZ1ZHNnNG1HRHVjeEVPQ2x0cHc?oc=5"
+    "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeG1nYzIyT3hUaVo4RjhOT2lyRUdKRWZmSUFISzFDdjVxT3VETFFfaTg0bXFOZDdHN2pMTk95SlF5SnhtN0lqMFp0QXBnYndtUUc4ZWZLekUxUkxBOWxVYkozY1lOQk9Jd3psZ29EYVNaY1JWQWc2UUtrRWptLWMtZndjSm82Sjd1WGdUR2xKcE9tMlBYQUVoamN6dnh5WlpINUpTSXBTaHNkVWN4c2dhZjMzdl8yazJ2ZzJxSTVkdFFfQ0ZRZkxMTnlySjNOZGJvLW5EeldBSUJlNmJIWUE?oc=5"
   },
   {
-    "titulo": "Reportan muerte del 'Monstruo de Atizapán' en prisión - Aristegui Noticias",
-    "descripcion": "Información publicada por Aristegui Noticias. Consulta la nota completa.",
-    "fecha": "29/10/2026 20:18",
+    "titulo": "Capturan al presunto responsable de envenenar perros en la Condesa - La Jornada",
+    "descripcion": "Información publicada por La Jornada. Consulta la nota completa.",
+    "fecha": "30/10/2026 13:20",
     "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU3ZJajJ5Y0ZIeG1GN0x0c1l4c2JjbFBvdXFsc3ZBemdUSUNtajhzSGREQjlLdlEtTm1ra0N5N3hKUHpyenllZkZXdUhHenpkLUFvMXVvTHhJa2tHdXd2c1ZjZGxqYzJVQ2x3X3lYSjJJbjl4amwwY0ROWEpXd0RNc290cFpHNzR6ekNDenZLbTlRajVvR3ZFN3h3?oc=5"
+    "enlace": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWZ1eXFOX2JVOW9wc0htS210cE12OUQ0WHNIc3VlMkMzZGE0b1VYT3pyNmJsQjR4S0FUc2FIUlJ4Q25LeVExU25QbXJYdFhzb3pNbmFFUlllWlhMbGJKRFR0bk1xcDhCUVVjYTd1UDZhS0dxLWVxa3Y5SW1QOFh6aHZ3Zi1KTmNzSk9aTHBhY3VqT2VfeTFVaTNWcUcxRHRMVGZPdkJpeWZlNDl4VWRuVW9nVUU2N1NkOXZZcg?oc=5"
+  },
+  {
+    "titulo": "Fuerte choque hoy 30 de octubre en Calzada de las Bombas deja una persona muerta y siete heridos ; hay un detenido - Diario de México",
+    "descripcion": "Información publicada por Diario de México. Consulta la nota completa.",
+    "fecha": "30/10/2026 18:04",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT3BzZzdITGFQd2RDMEluazFGRWdXMlhISTVMU18weVFxQ0E3dTE5QVUxZ3ZaM0ltMlB6WkMxR2FLZUN5V2hYQW5PLVUyTUJCNUJ0c1VvVEZwUm5fejRjQkYwWGhWQXNQRUFKbGgybTNJUVhEeUJqbkhyY2ljNkY1bWRYUHlqal9BejJsSEQ4UkNheEpXeVN4bGhZZVlNQ2RPM0NsUWppdUZ4TjFVUTdOTWVmRGZwQVFRSzZCRVlZZTJTM3NaLUZZUnFKdENUNUXSAdQBQVVfeXFMT3NmaHMzUjZieGZDYXFYWkMzekx3UnJ6eWYxMUhxbmVScUpxaWwxLXp2ek56YnF2a2ZDanFjaWY2b1ctazdQVzgzckpGMG9iUzVyMGdkZzUtaWRWUmhuWjNMbXRSRHZyT3NOaGFiOG9xRzlmRWFqQlZYWXgtYjV5ZWpYMU82Y2RscXNDekowUTN6T281VWtwcjZ6UTQzM3UtQlphU1hKT2VJTVlFSFF3UmFlQmZ6aG8wLUYtQ0lWd012OXBOcG4xZVJQcVFTYUJnMmtPNmo?oc=5"
+  },
+  {
+    "titulo": "¿Quién creó el Plan DN-III-E? La estrategia de auxilio cumple seis décadas - López-Dóriga Digital",
+    "descripcion": "Información publicada por López-Dóriga Digital. Consulta la nota completa.",
+    "fecha": "30/10/2026 21:00",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSHEyMVpndHo4YUE4c0hEaUROTGNvenQwZFJ6SFNnVlozaDJEVFZReHFGM1NiQXdRY2xwVy1SOHM0cVpHZF9lc0U3OXBkWUJldGlBT3hsbXdKWlVfTTA0bDlZdjBuUEhtRjlTRXUyUThDUXotN0NUNUpqRmlDOW5GblRHc25BZTVKd19BS2VyWENIeFd2eFdtMkh2N2NVaUhkNmV0ZXpNZzdmdw?oc=5"
+  },
+  {
+    "titulo": "“Añoran la democracia del ‘apapacho’”. Sheinbaum responde a intelectuales y a Zedillo - Sin Embargo",
+    "descripcion": "Información publicada por Sin Embargo. Consulta la nota completa.",
+    "fecha": "30/10/2026 21:43",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUzJENnFiem82WnBLYXN3NDhBMzIwaC1BSFdlTFQ3UlUtRGwwLUIzS01HVTN0a2F6WGNVLVN1YXVXSjhOZHNvbkxmN2ZsaWQ5Sk5fSTluaExvNzZTTVJMeHpTREFKRjgtZHNDekdmU05ERzBZeXNoUjRtdmtyRXlaM2RLTmY2OFkwWnowbDdkRFRHZW5vdkYxQmFLa2YyRTdwdTFnc0NTaWFleG02ekU2aVRreUNrZw?oc=5"
   },
   {
     "titulo": "Intentan 'rescatar' a capo detenido; vive caos Matamoros - El Norte",
@@ -49,53 +63,46 @@
     "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEFWNDZkZ3RxMVJLVGNzQTVJQlZOZ0FDYU14OEtreTJvbDk5Z0RsS1BwSlB6VEdnYkRDYmZHNzVmYXFfVEw4b3pYRnMtYWVSUk1lYmRUbWgzazF3RlFmQ3Vob0hLY2U2cVktcTB6NVVaRzZVNXg3dWtPYWlrV1RhQ0dZaEoyNkl6endEdENSMm8?oc=5"
   },
   {
-    "titulo": "Homenaje a Cárdenas y señalamientos vs Taddei, lo más destacado de La Mañanera del Pueblo este 29 de octubre d - Milenio",
-    "descripcion": "Información publicada por Milenio. Consulta la nota completa.",
-    "fecha": "30/10/2026 02:04",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmNPcUdwWjdNSW5NazNTSjk2eURhaXJ3Sl85TnFmQ3ZwY0tyRTVoejUtcFNuUTJSdUxXNE1nTDJmb2tmdnhnUUtIN0RPSTBPNHNiVTFHQ0NzMTh1U2hsTl9iY2dpREtSWEU0TzJndzZ3NlVaWHl0akhmc3JNZmE0S012bmJtSm9NbG96NWh0cnpsRzhQQkFPcTFPTV9Xd9IBngFBVV95cUxOT2VyLUZmbDJGTV83YnhpRWZUem5UYmdsWTVTNVVFUzNWMjJvbkZ2QnNHVGF2a2dEMmxDVmhnb2EtamExUGFGQzdjQnpTSVo0Um81TW5SaFV1ZG92Si1WdmM0SmxGSjI1YnRQU082aldMNHhMa0dSOGgxMDZ3Z3R4NE94TFNKWFFfdmZoWG5MUFZTQzJfSEJtOWt5YVlTUQ?oc=5"
-  },
-  {
-    "titulo": "Zoé Robledo le deposita dinero de manera inmediata a casi un millón de trabajadores y pensionados del IMSS: montos y desde cuándo - Ambito",
-    "descripcion": "Información publicada por Ambito. Consulta la nota completa.",
-    "fecha": "29/10/2026 12:48",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQM1lTN3RXUThIOHR2MEdWT0p6UWtEVzkyeHlPRlkxMEJIZjBwR2llcFA2SmV2czZ3RnJpempFWGJuNzBKUHVjZTNtSHRCcWJXbktHYjl6YnBhZ1RJLWpKdWFtbG9JWFRMY0VIY3l4X2U1Y3ZvdFRhdDBpWV9Pby14alk5TFNBYnFwQWd5cFR0Z1Z3VmNkRXFTNF94eWZDdjlfdlkwMWZBeVpEek5BalpBX1VScjN5WDRVa0l3VVBfRF9aTU5XdjhDZWxVLU1JaWlfWFV0VlBYd190R0JkU3Y1TmZxUlRvYnlwYkZnUGFlTGpvTDBY0gH6AUFVX3lxTE8wNm1xWWVPa0RoU3RoUC1QOTVoSnNWdWc1M3hQbDNkU0MwVmVkejg5WlVTRmdnaGc5X1kyOFctOHBodF9COEdlUmZmcUdRUTJFMXFENVVPcTJ0U1pZRUpUNG5qS3k3SUphckJ4bHYzSmhnaW1QZnRoQ09BRTBOS201Z1ZGT21MdHhaek41bVZWRU5Pd1FQVzVEMTczc1hKQk5PbTJlLXhXVUlDbkdnOFBMRnZFOG5WZTBSU2hwbWN6cXg3NFNCM3Nhbmh1b2wzT3FSWFl5cFk5MExzOTJVaUNhUG9aR2hmN0d6LWstYWdNTTlUTDFyOFZWR0E?oc=5"
-  },
-  {
-    "titulo": "Desfile Miquixtli en Cuautla: cerrarán estas avenidas el 31 de octubre - El Sol de México",
-    "descripcion": "Información publicada por El Sol de México. Consulta la nota completa.",
-    "fecha": "30/10/2026 07:02",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTlhfRkRYYU1DclZJaVV5Um15Nk1NLXFqOEZaQVB5ekVULWh3N0JIeHdfYVVvMUxFTmxsci0tWlh3ekczMl9aR2dtaWs4aDI1OVpXMGlBUVVzNXFiRFFoWFpGTjJwRHZLNVpxUkVWSEtBUkQxRFItQTFULU9uZ3FzaTdqRmVoaF9FbEpGSnhqV0FMLWtHOFhvSm13aTBrZTNjNllyXzFWeVBTMHBLdWNCMmJEdWxUNkRjUHZvQmVUNlp6Z0lvZUxYWDdqQWFsTHNG?oc=5"
-  },
-  {
-    "titulo": "El papa León XIV hace historia al votar en las elecciones intermedias de EE.UU. - CNN en Español",
-    "descripcion": "Información publicada por CNN en Español. Consulta la nota completa.",
-    "fecha": "30/10/2026 15:12",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGpTSXRCaEEwRlVLc3BucE5FQ082b2pxWWZ3NzZndDVQQmdLODBVY3RCTFNYRllzcEI3VUFpWXdZM1hCZ1lMY25wd2hPTmFSTDEwcUdOZkJJWFFzUll2RVROcTRCQmdpVTZzSzdKME5uc3BqdjRqeHVtWElPUURHNmhSOEh2NUQ1UHd6V0Z6NkRLTWFtQnF4bEY0R08?oc=5"
-  },
-  {
-    "titulo": "Repudio a Trump impulsa el voto anticipado en estados claves de EU - La Jornada",
+    "titulo": "Se recupera crecimiento económico en México, avanza 3.2 por ciento - La Jornada",
     "descripcion": "Información publicada por La Jornada. Consulta la nota completa.",
-    "fecha": "30/10/2026 10:00",
+    "fecha": "30/10/2026 13:02",
     "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hSHd4WHpwVXVndWZPNDlQYjJoS2NUTFp0WnRyZHlaZjlReTQwamU5NEd1WVo2azkwRnpBR3RGZ0wzZjBOSWRIVlJoeFVDN3diYzlEY014VEYybnM2LXFuZXdR?oc=5"
+    "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2JzWnRoUkYyWXpWd1c3X21UdHhNWnNJNHVKSUk3OHVLOWJ1a0JmblFYdmc2ODlIeHhoMUFqYjh3ZVUxMlMzQ21aNTgySVM3QU41anRvRWYzYzdrNWRZR3BHLUJzNjVGQmt5ZWItRUxHTWJQbnpkZ2pyR0tPZFZoUnZZNlVHc3JZaFltbWNiT2JYTDBVb3dDMWpwTkRCd2lNaWNvdXRQenh2YlV6VUFUVHAySHlIRFhoai1aeC13?oc=5"
   },
   {
-    "titulo": "“No ha habido un solo momento desde esa noche que no sienta dolor”: Christa Pike en su primera declaración desde la fallida ejecución - BBC",
+    "titulo": "\"No ha habido un solo momento desde esa noche en que no sienta dolor\": Christa Pike habla por primera vez desde su fallida ejecución por inyección letal - BBC",
     "descripcion": "Información publicada por BBC. Consulta la nota completa.",
     "fecha": "30/10/2026 16:14",
     "imagen": "",
     "enlace": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vejl3T1dweWxVbWhsWDBfTkF2SUFONVljcFllODQ2Q1ZYdnJkZk5tYnpfNHBGNFl1S2JUeV9pLTc1a2JWaGs2Y1lWSGlmbV9oM3VLVDZ1SndVR0Yt0gFiQVVfeXFMTmFTbmM1VDk3TTdJR000eDhyRHVrb0JaT3VjcjBLOVF4ekRRV1FCMXpBSHpRc1dxZDRsYjJsWmVHN2ktamtJSXlfQWx3X0ExNWNmNUlnNTcyTlZORml6ZnRDTEE?oc=5"
   },
   {
-    "titulo": "Francia vivió otro fin de semana de protestas y miles de personas se manifestaron en toda Europa - CNN en Español",
-    "descripcion": "Información publicada por CNN en Español. Consulta la nota completa.",
-    "fecha": "25/10/2026 21:53",
+    "titulo": "Escapó Bolsonaro de Brasil con ayuda de Milei y en avión de narco - La Jornada",
+    "descripcion": "Información publicada por La Jornada. Consulta la nota completa.",
+    "fecha": "30/10/2026 10:00",
     "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckhjLXdGWEIxdUdMWW83MkVNbmYzMFJ3dTZnbHhuVWpHaGJKNW5IWVlmdE1EQ24zbXNVMXM2MEtST2QybmlNd1RBVWh4QUNlUVBwSmJEXzFXNWRMdWhKREh2dk1HQlM5WDhIUndzSkdNVS1oV1BqUGxhVkFUT1JGUlQtZ1NpajRLNFBnb21R?oc=5"
+    "enlace": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XczJZNUJyeXhjYVFTam0xRnBLV3pfSDYxYWZzWGF0dGx2LWpsdlRVdjU1aDV5YjhNRUVaTWphV2JHTVRDUmw3VjJqb25MYTZyQ2NWdU9tRUVYQi1qWnM4RTJR?oc=5"
+  },
+  {
+    "titulo": "Estrategia antiinmigrantes: el tiro por la culata de Trump - El Diario",
+    "descripcion": "Información publicada por El Diario. Consulta la nota completa.",
+    "fecha": "30/10/2026 16:23",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQWVhMkx2bm0xb0R4cmZWWUtyMUVmbXliMXJmRG56TVhETGUxMjRaMzFqcE80ZXlUczdEcnBYQ2R5MkpndnhkelB5MFdjVWg4djVFamdwZmhEUkhhQUxva2pYWVB1ZHliRUQyaHRTOVJKbEh6amlkZmJwRTVxdS0wbGh6cGhXWEl1ZzNqNDd5d2x1bExSbGE3SjRKMnVZMHFPUW1nRUlrT0FWTHNMNGI3NWdpUXQzd9IBuwFBVV95cUxNTEtyWDhzaS0tYnE2cGdEbERsZ3VSNXhCcGNhTl84Vm9reE1Sd2dPVWQwUnJsQk9lOWhUdUtXVmdmeXBiTXRjaTRNd0lDbTZjM1cxdGxQZnNwYUp4eWxWNnVsR2duRjZ0S2RuVV90c3FvUkM2TVVvT25sd0JDR2lvelNkRmxiUl9INm1hWExhTmxmWkF2SWJ6VE1NaUp4bC1NME9JUEpMcWV5UnhOV3d6a2x5eHZMaDktSmFR?oc=5"
+  },
+  {
+    "titulo": "El Papa: Las decisiones que afectan la vida humana nunca deben delegarse - Vatican News",
+    "descripcion": "Información publicada por Vatican News. Consulta la nota completa.",
+    "fecha": "30/10/2026 12:20",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa25TWmw1V0ZjVWFXbGl3RmVwTW0wZmw2azh0dllNMkREVDZoT0JNQmh4bXMwcUJHRHhFclhCUmlTdlNXU1F4Q0E5Uld2emhYVHdjZFRhc3JkS3lRTnZXQUN3RFJYTG5oWDYzNEpnaWZWQXJDRG9pMkdLOW1LVjRhQlRfc3FmeWhyVXdtRXpyUktEQktDTmU0YUhMRHZsMHR2bnhTMFRsTQ?oc=5"
+  },
+  {
+    "titulo": "Plataforma de criptomonedas Binance sufre ciberataque millonario y \"complejo\" - DW.com",
+    "descripcion": "Información publicada por DW.com. Consulta la nota completa.",
+    "fecha": "30/10/2026 11:13",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtGSGZsdWg1aEpVU0FzRkI4R01qMWVKN256UUFtNjYwRGZqVUlDY0c2cTFQUkhTa1dCZ3JvelJfNm0za0V0WVNsUW1FeU1TdXMzcTl3MnRLaEdIR3JEMXBqUUljMW4tS2Z4Z3ZjeFV3cEJYSktnNEd4OS1UMWs4bFNEWUxCN19qMENIVzA4RzVwazJDTVVfZzJnSTdHTnBCRlBrUC1ucTU0Yzlwelo0S3NR0gGyAUFVX3lxTE14ZmlEcmJlVjE1TlowdTljYXJvZnQydEtWaTgyOWpPd1hPT2hLc3RUbWlkemRLc3BmWnM5Rzg0Vm05dTcybzVwVkJzZ1VOeWJ2NnV1d3I4UE9WUkxueDM5WWFOZ3IzMjJYM2QzWklpa0NOMFZfWGFrZlFNOTdSeWpTa1VmMHVuMUMwenBCS2VUckdIVDlzZWJNWTJvVWJjNjRReS1CUWp5b0xHMngzSUE0a3c?oc=5"
   },
   {
     "titulo": "Economía de EU se acelera 3.4% en el 3T y supera pronósticos - El Financiero",
@@ -105,25 +112,18 @@
     "enlace": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWHo5bkQxOVFlN0pyTU53YTgwRkpHRUphdEo5X2l0d1ZQZjFOZnFweWVOU24xUFRDQVFfaGdlR0tRVDN0ZzFlZ1dxLV94RjBFWXo2M1VVbEE3Y3NLbkhIX0pqUnFKS0NuX1R2VE8zYWcwSHpqWEhSeS1fbWpHOEMta2lJcnFmY1FCN2JaRHR6YXFOZG1QdE5YZmhweVB3OWVMM3l1OEVaT2RWa1NPS0lCUQ?oc=5"
   },
   {
-    "titulo": "Plataforma de criptomonedas Binance sufre ciberataque millonario y \"complejo\" - DW.com",
-    "descripcion": "Información publicada por DW.com. Consulta la nota completa.",
-    "fecha": "30/10/2026 11:32",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdmtGSGZsdWg1aEpVU0FzRkI4R01qMWVKN256UUFtNjYwRGZqVUlDY0c2cTFQUkhTa1dCZ3JvelJfNm0za0V0WVNsUW1FeU1TdXMzcTl3MnRLaEdIR3JEMXBqUUljMW4tS2Z4Z3ZjeFV3cEJYSktnNEd4OS1UMWs4bFNEWUxCN19qMENIVzA4RzVwazJDTVVfZzJnSTdHTnBCRlBrUC1ucTU0Yzlwelo0S3NR0gGyAUFVX3lxTE14ZmlEcmJlVjE1TlowdTljYXJvZnQydEtWaTgyOWpPd1hPT2hLc3RUbWlkemRLc3BmWnM5Rzg0Vm05dTcybzVwVkJzZ1VOeWJ2NnV1d3I4UE9WUkxueDM5WWFOZ3IzMjJYM2QzWklpa0NOMFZfWGFrZlFNOTdSeWpTa1VmMHVuMUMwenBCS2VUckdIVDlzZWJNWTJvVWJjNjRReS1CUWp5b0xHMngzSUE0a3c?oc=5"
-  },
-  {
-    "titulo": "Seis de cada 10 trabajadores no alcanzarán pensión - El Sol de México",
-    "descripcion": "Información publicada por El Sol de México. Consulta la nota completa.",
-    "fecha": "30/10/2026 11:12",
-    "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS2M4RC1xWkY4b1k1Wk15LXdNOVdBaWVFVU0yN2FwRnN6azJCNWZ4UWtiSHpQLUx6MVc1ZjR6WDZCSzNzWHVpRVNzOUgyMHNMT21LVjcwY0stUzY0RXFCcTZER2x4MnBUZjlxbEVockZtSkpHNUZvSmNQVl9vWjBOMXJza0NfN0ZQZ3V1SEF1SmpJeENnZFJzZlhSSmtfLVJ4cEg4?oc=5"
-  },
-  {
-    "titulo": "Precio del dólar HOY viernes 30 de octubre de 2026: Peso mexicano cotiza en 18.90 pesos y se dirige a segunda - Milenio",
+    "titulo": "Precio del dólar hoy 30 de octubre: Peso mexicano | Tipo de cambio - Milenio",
     "descripcion": "Información publicada por Milenio. Consulta la nota completa.",
-    "fecha": "30/10/2026 16:50",
+    "fecha": "30/10/2026 21:32",
     "imagen": "",
-    "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdjc3OVBxNUJQQ3NsZ2p5WGRfUGk3V2RHcHh3djFzeTRoVmREMFQwQWNmSzJ0Y1o0NEVGdGJMcm9pYi0yUlZzX2JlQUMzR0VndE43YTVkZDlvcUF5T0JvZmhkamdFZFctdDA1Z2dTOHFEeFdzcFRjdnRSMXQyaWFQeFhuTG4zZDlyOFBheXlMRDhEbEVLaGNRLU9lajFfZ9IBngFBVV95cUxPUFhxSFdfRW11WTZOMWdfUDI4aGd4bzd6RS0wZmtrZU4ydTA5U3V4QkVuY2ZjbDhMLTdfVnV3MGFHU0xlRUI3dFdmbnBxMHNhV29wUkRDU1hWZ2syaWJleHJQNHlfaFFoTUVDTDhaMFlWWUl3TjJrdkk1aEQwVDNtcHRRdzM5N3hKU3JiZlloNFFDYk4yNlJHdmhUYlFfUQ?oc=5"
+    "enlace": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdjc3OVBxNUJQQ3NsZ2p5WGRfUGk3V2RHcHh3djFzeTRoVmREMFQwQWNmSzJ0Y1o0NEVGdGJMcm9pYi0yUlZzX2JlQUMzR0VndE43YTVkZDlvcUF5T0JvZmhkamdFZFctdDA1Z2dTOHFEeFdzcFRjdnRSMXQyaWFQeFhuTG4zZDlyOFBheXlMRDhEbEVLaGNRLU9lajFfZw?oc=5"
+  },
+  {
+    "titulo": "Terremoto en las Bolsas: Amazon, Google e Intel se hunden y crece el miedo a una burbuja de la IA - Euronews.com",
+    "descripcion": "Información publicada por Euronews.com. Consulta la nota completa.",
+    "fecha": "30/10/2026 09:38",
+    "imagen": "",
+    "enlace": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU0tGSEdjQ1UwNkt0SU9mMGtqaElfVHA3NmlKaWJxSE4xQlRvOU1yc3dnZkN6RExxSUkxTVAwUlNFRHVvWVdtSU9kQkFHV24tRmFpMXplZlFEb2Z2R1E0dk9UeUpJR3BlLVV2VGxQZWR2b3NsZXB6SUdwdjJZUkRPMm5adDFaRG9YNzQ3V1d2ZmotalpWMExGTkhsRHpCdnFqN3diT290ZHhualNZ?oc=5"
   },
   {
     "titulo": "Descubren un posible sexto planeta enano más allá de Plutón: mide hasta 1.500 kilómetros y llevaba décadas oculto - National Geographic España",
