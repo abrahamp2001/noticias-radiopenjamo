@@ -1,27 +1,19 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Cateo y ataque armado movilizan a la policía en Pénjamo",
+    "fecha": "29/10/2026 20:01",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/29/cateo-y-ataque-armado-movilizan-a-la-policia-en-penjamo-170385.html",
+    "resumen": "Un cateo en la comunidad Indecco, también conocida como La Tuza, y un ataque armado en el callejón 57 sorprendieron a los vecinos de Pénjamo"
+  },
+  {
+    "prioridad": 0,
     "titulo": "¡Sí se puede! Desde Pénjamo, Viviana Ayala insta a mujeres a expandir sus emprendimientos y sus horizontes",
     "fecha": "29/10/2026 09:16",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/municipios/2026/oct/29/si-se-puede-desde-penjamo-viviana-ayala-insta-a-mujeres-a-expandir-sus-emprendimientos-y-sus-horizontes-170318.html",
     "resumen": "Viviana Ayala recalca que acceder a labores como carpintería, plomería y mecánica es una realidad en Pénjamo, incentivando a las mujeres a la autosuficiencia"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Regidor de Pénjamo “vive” del oportunismo: del PAN a MORENA",
-    "fecha": "28/10/2026 20:05",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/regidor-de-penjamo-vive-del-oportunismo-del-pan-a-morena/",
-    "resumen": "Pénjamo, Guanajuato.- El regidor Luis Alberto Reyes Valle conocido como “Luisito Valle” al parecer la fidelidad hacía al partido que le dio una oportunidad, ya se acabó. De ser “asistente” de la actual dirigente de Movimiento Ciudadano Yulma Rocha Aguilar cuando era del PRI, llegó al PAN y al parecer ya se quiere integrar a …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Por falta de apoyos y los bajos precios, productores de trigo en Pénjamo abandonan el cultivo",
-    "fecha": "28/10/2026 19:31",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/28/por-falta-de-apoyos-y-los-bajos-precios-productores-de-trigo-en-penjamo-abandonan-el-cultivo-170281.html",
-    "resumen": "Productores de trigo en Pénjamo abandonan el cultivo por los bajos precios y la falta de rentabilidad, mientras enfrentan adeudos"
   },
   {
     "prioridad": 1,
@@ -37,7 +29,39 @@
     "fecha": "29/10/2026 12:18",
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/gicela-chavez-rinde-su-segundo-informe-al-frente-del-dif-de-cueramaro-32861778",
-    "resumen": "La presidenta expuso las actividades realizadas al frente del Sistema Municipal DIF, entre las que mencionó servicios de salud, terapias físicas, atención psicológica, apoyo alimentario, inclusión de personas con discapacidad, orientación familiar y traslados para recibir atención especializada"
+    "resumen": "La presidenta expuso las actividades realizadas al frente del Sistema Municipal DIF, entre las que mencionó servicios de salud, terapias físicas, atención psicológica, apoyo alimentario"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Bosco convoca a niños de Irapuato para crear el primer mural infantil de la ciudad",
+    "fecha": "29/10/2026 20:42",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/bosco-convoca-a-ninos-de-irapuato-para-crear-el-primer-mural-infantil-de-la-ciudad-170396.html",
+    "resumen": "El artista urbano Bosco busca a diez niñas y diez niños de entre 6 y 12 años para crear el primer mural infantil de Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato difundirá restricciones de circulación tras accidentes en el Cuarto Cinturón Vial",
+    "fecha": "29/10/2026 20:32",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/irapuato-difundira-restricciones-de-circulacion-tras-accidentes-en-el-cuarto-cinturon-vial-170393.html",
+    "resumen": "El Gobierno de Irapuato realizará una campaña informativa para empresas con vehículos de carga, luego de dos accidentes en el Cuarto Cinturón Vial"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato rehabilita las Fuentes Danzarinas y mejora la techumbre del Mercado Hidalgo",
+    "fecha": "29/10/2026 19:39",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/irapuato-rehabilita-las-fuentes-danzarinas-y-mejora-la-techumbre-del-mercado-hidalgo-170380.html",
+    "resumen": "El Gobierno de Irapuato realiza trabajos de rehabilitación en las Fuentes Danzarinas y mejora la techumbre del Mercado Hidalgo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Jaurías de perros callejeros alarman a vecinos de Colinas del Río en Irapuato",
+    "fecha": "29/10/2026 19:15",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/jaurias-de-perros-callejeros-alarman-a-vecinos-de-colinas-del-rio-en-irapuato-170376.html",
+    "resumen": "Vecinos del fraccionamiento Colinas del Río en Irapuato advierten que jaurías de hasta siete perros merodean cerca de una escuela"
   },
   {
     "prioridad": 2,
@@ -54,6 +78,22 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/comienza-la-rehabilitacion-de-las-fuentes-danzarinas-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato realiza trabajos de rehabilitación de las Fuentes Danzarinas de la Plazuela Miguel Hidalgo y mejoramiento de la techumbre del Mercado Hidalgo, como parte de las acciones para conservar los espacios emblemáticos de la ciudad y fortalecer la imagen urbana. Las obras están a cargo de la Dirección de Obras …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Altares y catrinas llenan de tradición el Centro Histórico de Irapuato",
+    "fecha": "29/10/2026 16:36",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/altares-y-catrinas-llenan-de-tradicion-el-centro-historico-de-irapuato-32866873",
+    "resumen": "Estudiantes de distintas instituciones educativas participaron en la elaboración de altares de muertos y en un concurso de catrinas; la alcaldesa Lorena Alfaro encabezó el encendido de las velas del altar monumental"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Segundo informe de Diego Barroso destaca apoyos en Irapuato y Silao",
+    "fecha": "29/10/2026 14:56",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/diego-barroso-presenta-balance-de-su-trabajo-legislativo-y-gestion-en-favor-de-irapuato-y-silao-32865637",
+    "resumen": "Durante su segundo informe de actividades, el diputado federal del PAN destacó iniciativas, propuestas, gestiones en materia de salud y apoyos sociales; también adelantó que buscará recursos para concretar el nuevo hospital del IMSS en Irapuato"
   },
   {
     "prioridad": 2,
@@ -118,45 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/comerciantes-de-mercados-de-irapuato-tendran-descuentos-de-hasta-70-para-regularizar-adeudos-32861197",
     "resumen": "El programa contempla eliminar recargos, condonar cuotas de abril a diciembre de 2020 y ofrecer convenios de pago; quienes estén regularizados en enero y febrero de 2027 podrán recibir otro descuento"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Riña deja 2 hombres y una mujer lesionados en Purísima del Jardín, Irapuato",
-    "fecha": "29/10/2026 10:43",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/29/rina-deja-2-hombres-y-una-mujer-lesionados-en-purisima-del-jardin-irapuato-170324.html",
-    "resumen": "Durante la riña en la calle Jazmín de la colonia Purísima del Jardín de Irapuato incluso hubo detonaciones por arma de fuego"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Buscas trabajo en diciembre? Irapuato abrirá empleos temporales para la Villa Navideña",
-    "fecha": "29/10/2026 08:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/buscas-trabajo-en-diciembre-irapuato-abrira-empleos-temporales-para-la-villa-navidena-32857742",
-    "resumen": "Adultos mayores, personas con discapacidad y jóvenes podrán participar; Desarrollo Social prevé publicar las bases a partir de la segunda semana de noviembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Autos 2026 y 4 millones en premios: así será el Torneo de Golf Santa Margarita en Irapuato",
-    "fecha": "29/10/2026 07:49",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/autos-2026-y-4-millones-en-premios-asi-sera-el-torneo-de-golf-santa-margarita-en-irapuato-32857441",
-    "resumen": "La edición 48 se realizará del cinco al siete de noviembre y espera reunir a 200 jugadores; habrá vehículos modelo 2026, premios en efectivo y participantes de diferentes estados del país"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Regidor Gerardo Barroso nuevo Secretario de Ayuntamiento en Irapuato",
-    "fecha": "29/10/2026 00:41",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/regidor-gerardo-barroso-nuevo-secretario-de-ayuntamiento-en-irapuato/",
-    "resumen": "Irapuato, Gto. Durante la sesión ordinaria de Ayuntamiento, número 56, integrantes del Cabildo aprobaron la propuesta de la presidenta municipal, Lorena Alfaro García, para que Gerardo Barroso Rangel, asuma la titularidad de la Secretaría del Ayuntamiento. Para hacer efectiva esta encomienda en la política interna del municipio, el Regidor presentó un escrito mediante el cual …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato: dos accidentes en el Cuarto Cinturón exhiben paso irregular de camiones pesados",
-    "fecha": "28/10/2026 23:30",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/28/irapuato-dos-accidentes-en-el-cuarto-cinturon-exhiben-paso-irregular-de-camiones-pesados-170313.html",
-    "resumen": "En dos días ocurrieron accidentes con vehículos de carga en esta vialidad. Transportistas denunciaron presuntas mordidas de agentes de Tránsito"
   }
 ]
