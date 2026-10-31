@@ -1,11 +1,43 @@
 [
   {
     "prioridad": 0,
+    "titulo": "“Una luz para no olvidar”: festival de Día de Muertos en Abasolo",
+    "fecha": "30/10/2026 17:19",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/una-luz-para-no-olvidar-festival-de-dia-de-muertos-en-abasolo/",
+    "resumen": "Abasolo, Guanajuato.- Con una noche llena de color, creatividad y tradición, el municipio de Abasolo dio inicio al Tercer Festival de Día de Muertos “Una Luz para no Olvidar”, con actividades que reunieron a las familias para celebrar una de las costumbres más representativas de nuestra cultura. Como parte de esta apertura se llevó a …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Cateo y ataque armado movilizan a la policía en Pénjamo",
     "fecha": "29/10/2026 20:01",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/29/cateo-y-ataque-armado-movilizan-a-la-policia-en-penjamo-170385.html",
     "resumen": "Un cateo en la comunidad Indecco, también conocida como La Tuza, y un ataque armado en el callejón 57 sorprendieron a los vecinos de Pénjamo"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Realizan supervisión en panteones de Manuel Doblado",
+    "fecha": "30/10/2026 17:48",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/realizan-supervision-en-panteones-de-manuel-doblado/",
+    "resumen": "Manuel Doblado, Guanajuato.-  A través del área de Protección Civil (PC) de Manuel Doblado se llevaron a cabo visitas de inspección en los 3 panteones que existen en el municipio para detectar espacios que pudieran representar un riesgo para los visitantes. Tomando en cuenta que los días primero y 2 de noviembre se conmemora nuestros …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Muere motociclista en la carretera León–Manuel Doblado",
+    "fecha": "30/10/2026 15:37",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/muere-motociclista-en-la-carretera-leon-manuel-doblado/",
+    "resumen": "San Francisco del Rincón, Guanajuato.- Un motociclista identificado como Édgar Daniel murió tras chocar contra una camioneta en la carretera León–Manuel Doblado. El hecho ocurrió a la altura de la comunidad El Maguey, a unos metros del crucero conocido como Cuatro Caminos. Vecinos de la zona pidieron ayuda al 911 alrededor de las 10 de …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Joroches celebra 43 años de devoción al Señor de la Misericordia",
+    "fecha": "30/10/2026 12:22",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/joroches-celebra-43-anos-de-devocion-al-senor-de-la-misericordia-32878564",
+    "resumen": "La comunidad de Joroches, en el municipio de Huanímaro, realiza su tradicional fiesta patronal en honor al Señor de la Misericordia, una imagen que desde hace 43 años forma parte de las celebraciones religiosas de sus habitantes"
   },
   {
     "prioridad": 1,
@@ -17,9 +49,49 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Sheinbaum vuelve a Guanajuato: Becas y supervisión del tren",
+    "fecha": "30/10/2026 17:08",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/sheinbaum-vuelve-a-guanajuato-becas-y-supervision-del-tren/",
+    "resumen": "Celaya, Guanajuato.- La presidenta de México, Claudia Sheinbaum Pardo, realizará este sábado 31 de octubre una gira de trabajo por Guanajuato. La agenda de la mandataria incluye la entrega de Becas para el Bienestar en Celaya y la supervisión de las obras del tren de pasajeros Querétaro–Irapuato. De acuerdo con la agenda difundida, la primera …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Morena cuestiona resultados de seguridad en Irapuato y recursos para 2027; propondrán reajuste",
+    "fecha": "30/10/2026 16:08",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/morena-cuestiona-resultados-de-seguridad-en-irapuato-y-recursos-para-2027-propondran-reajuste-170447.html",
+    "resumen": "Diputados de Morena señalaron que Irapuato debe destinar un mayor presupuesto a seguridad ante la incidencia delictiva y la percepción de seguridad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Mujer policía auxilia parto en bodega de Bellavista, Irapuato",
+    "fecha": "30/10/2026 14:51",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/mujer-policia-auxilia-parto-en-bodega-de-bellavista-irapuato-170443.html",
+    "resumen": "Un reporte a emergencias en Irapuato alertó sobre una mujer que estaba a punto de dar a luz en una bodega con acceso elevado, complicando su traslado"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Cae célula criminal en Irapuato por asesinar a una persona y tirar restos en Barrio de la Calzada de Guadalupe",
+    "fecha": "30/10/2026 14:31",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/30/cae-celula-criminal-en-irapuato-por-asesinar-a-una-persona-y-tirar-restos-en-barrio-de-la-calzada-de-guadalupe-170439.html",
+    "resumen": "Cinco integrantes de un grupo criminal fueron detenidas y vinculadas a un proceso penal en Irapuato por hechos registrados en septiembre de este año"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Trinca Fresera pierde a una de sus más grandes fanáticas: muere Sonia Mireles a los 69 años en Irapuato",
+    "fecha": "30/10/2026 13:49",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/trinca-fresera-pierde-a-una-de-sus-mas-grandes-fanaticas-muere-sonia-mireles-a-los-69-anos-en-irapuato-170436.html",
+    "resumen": "Sonia Mireles Ibarra comenzó a apoyar a la Trinca Fresera a los 15 años y desde entonces era una de sus principales fanáticas pese a todo"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Muere doña Sonia, la histórica aficionada de la Trinca",
     "fecha": "30/10/2026 13:49",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/muere-dona-sonia-la-historica-aficionada-de-la-trinca/",
     "resumen": "Irapuato, Guanajuato.- “Los dejo con Dios y arriba la Trinca. Y chingue su madre el que no grite”, dijo desde el hospital una de las aficionadas más fieles de la Trinca antes de su fallecimiento. Sonia Mireles Ibarra vivió como parte indispensable de la porra fresera desde una butaca en la Puerta 7 del estadio. …"
   },
@@ -27,17 +99,57 @@
     "prioridad": 2,
     "titulo": "Integrantes de célula criminal son vinculados por homicidio y abandono de restos humanos en Irapuato",
     "fecha": "30/10/2026 13:18",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/integrantes-de-celula-criminal-son-vinculados-por-homicidio-y-abandono-de-restos-humanos-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Cinco personas fueron vinculadas a proceso por el delito de homicidio calificado, tras ser señaladas por su presunta participación en la muerte de una persona cuyos restos fueron localizados en septiembre pasado en Irapuato. La Fiscalía General del Estado de Guanajuato informó que, mediante las investigaciones ministeriales y de campo realizadas por la …"
   },
   {
     "prioridad": 2,
+    "titulo": "De 240 a 170 millones: Lorena Alfaro proyecta reducir deuda de Irapuato",
+    "fecha": "30/10/2026 11:59",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-240-a-170-millones-lorena-alfaro-proyecta-reducir-deuda-de-irapuato-32877402",
+    "resumen": "La deuda de Irapuato bajaría de 240 a 170 millones de pesos al cierre de 2027, según la proyección de la alcaldesa Lorena Alfaro"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Hospital del IMSS sigue pendiente en Irapuato; Pepe Aguirre pide reactivar gestión para 2027",
+    "fecha": "30/10/2026 11:41",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/hospital-del-imss-sigue-pendiente-en-irapuato-pepe-aguirre-pide-reactivar-gestion-para-2027-32877187",
+    "resumen": "El hospital del IMSS de Irapuato, proyectado con 216 camas, busca volver a la discusión del presupuesto federal de 2027"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Irapuato ofrece descuentos para regularizar locales en mercados municipales",
     "fecha": "30/10/2026 11:24",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/irapuato-ofrece-descuentos-para-regularizar-locales-en-mercados-municipales/",
     "resumen": "Irapuato, Guanajuato.- Con el liderazgo de la presidenta municipal, Lorena Alfaro García, el Gobierno de Irapuato impulsa acciones que generan beneficios para las familias y los sectores productivos, mediante programas que facilitan los trámites, brindan alternativas de regularización y fortalecen la actividad comercial. Como parte de esta visión de gobierno cercano, de puertas abiertas y …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato busca transparentar cobros de corralones y retirar vehículos abandonados",
+    "fecha": "30/10/2026 10:16",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-transparentar-cobros-de-corralones-y-retirar-vehiculos-abandonados-32876762",
+    "resumen": "Pensiones vehiculares en Irapuato deberán aplicar el mismo tabulador municipal; además, revisan vehículos para liberar espacio en corralones"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Maribel Aguilar acusa a aspirantes de Morena de mentir sobre su trayectoria rumbo a 2027",
+    "fecha": "30/10/2026 10:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/maribel-aguilar-acusa-a-aspirantes-de-morena-de-mentir-sobre-su-trayectoria-rumbo-a-2027-32876621",
+    "resumen": "Morena en Irapuato enfrenta una disputa interna rumbo a 2027: Maribel Aguilar cuestionó a aspirantes que se dicen fundadores del movimiento"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Altares de muertos resisten ante el auge de Halloween; poner uno puede costar hasta 750 pesos",
+    "fecha": "30/10/2026 09:47",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/altar-de-muertos-en-irapuato-cuanto-cuesta-ponerlo-y-por-que-cae-la-venta-de-alfenique-32876463",
+    "resumen": "Comerciantes de Irapuato reportan cambios en los hábitos de compra; mientras algunos advierten una caída en la venta de alfeñique, otros buscan mantener viva una tradición que pasa de generación en generación"
   },
   {
     "prioridad": 2,
@@ -46,117 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/cursos-de-verano-comudaj-en-irapuato-proponen-descuento-del-50-para-ninos-del-campo-32874180",
     "resumen": "La Comudaj propuso descuentos de 50% para niñas y niños de comunidades rurales en cursos de verano, además de ajustes a tarifas deportivas para 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Policías de Irapuato auxilian parto de emergencia dentro de una bodega en la colonia Bellavista",
-    "fecha": "30/10/2026 07:24",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/policias-de-irapuato-auxilian-parto-de-emergencia-dentro-de-una-bodega-en-la-colonia-bellavista-32873749",
-    "resumen": "Una elemento del Grupo Lobos asistió un parto de emergencia en Irapuato; bomberos bajaron a la madre y su bebé de una bodega"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "La porra le compuso un cántico hace 25 años: fallece Sonia Mireles, aficionada del Club Irapuato",
-    "fecha": "30/10/2026 07:09",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/sonia-mireles-la-aficionada-fresera-a-quien-la-tribuna-le-cantara-por-siempre-32873429",
-    "resumen": "Sonia Mireles Ibarra, aficionada del Club Irapuato, falleció a los 69 años; la tribuna y el club la despidieron con canciones y mensajes"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Bosco convoca a niños de Irapuato para crear el primer mural infantil de la ciudad",
-    "fecha": "29/10/2026 20:42",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/bosco-convoca-a-ninos-de-irapuato-para-crear-el-primer-mural-infantil-de-la-ciudad-170396.html",
-    "resumen": "El artista urbano Bosco busca a diez niñas y diez niños de entre 6 y 12 años para crear el primer mural infantil de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Comerciantes de mercados en Irapuato podrán reducir hasta 70% sus recargos por adeudos",
-    "fecha": "29/10/2026 20:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/comerciantes-de-mercados-en-irapuato-podran-reducir-hasta-70-sus-recargos-por-adeudos-170395.html",
-    "resumen": "La campaña durará tres meses y beneficiará a titulares de los 700 espacios comerciales, la mayoría con atrasos en sus pagos municipales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato difundirá restricciones de circulación tras accidentes en el Cuarto Cinturón Vial",
-    "fecha": "29/10/2026 20:32",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/irapuato-difundira-restricciones-de-circulacion-tras-accidentes-en-el-cuarto-cinturon-vial-170393.html",
-    "resumen": "El Gobierno de Irapuato realizará una campaña informativa para empresas con vehículos de carga, luego de dos accidentes en el Cuarto Cinturón Vial"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato rehabilita las Fuentes Danzarinas y mejora la techumbre del Mercado Hidalgo",
-    "fecha": "29/10/2026 19:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/irapuato-rehabilita-las-fuentes-danzarinas-y-mejora-la-techumbre-del-mercado-hidalgo-170380.html",
-    "resumen": "El Gobierno de Irapuato realiza trabajos de rehabilitación en las Fuentes Danzarinas y mejora la techumbre del Mercado Hidalgo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Jaurías de perros callejeros alarman a vecinos de Colinas del Río en Irapuato",
-    "fecha": "29/10/2026 19:15",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/29/jaurias-de-perros-callejeros-alarman-a-vecinos-de-colinas-del-rio-en-irapuato-170376.html",
-    "resumen": "Vecinos del fraccionamiento Colinas del Río en Irapuato advierten que jaurías de hasta siete perros merodean cerca de una escuela"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en el Libramiento Sur de Irapuato deja dos lesionados",
-    "fecha": "29/10/2026 17:10",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/29/ataque-armado-en-el-libramiento-sur-de-irapuato-deja-dos-lesionados-170363.html",
-    "resumen": "Un ataque armado en el Libramiento Sur, Irapuato, dejó a un hombre herido por arma de fuego y a otro lesionado tras derrapar su motocicleta"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Comienza la rehabilitación de las Fuentes Danzarinas en Irapuato",
-    "fecha": "29/10/2026 16:51",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/comienza-la-rehabilitacion-de-las-fuentes-danzarinas-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato realiza trabajos de rehabilitación de las Fuentes Danzarinas de la Plazuela Miguel Hidalgo y mejoramiento de la techumbre del Mercado Hidalgo, como parte de las acciones para conservar los espacios emblemáticos de la ciudad y fortalecer la imagen urbana. Las obras están a cargo de la Dirección de Obras …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Altares y catrinas llenan de tradición el Centro Histórico de Irapuato",
-    "fecha": "29/10/2026 16:36",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/altares-y-catrinas-llenan-de-tradicion-el-centro-historico-de-irapuato-32866873",
-    "resumen": "Estudiantes de distintas instituciones educativas participaron en la elaboración de altares de muertos y en un concurso de catrinas; la alcaldesa Lorena Alfaro encabezó el encendido de las velas del altar monumental"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Segundo informe de Diego Barroso destaca apoyos en Irapuato y Silao",
-    "fecha": "29/10/2026 14:56",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/diego-barroso-presenta-balance-de-su-trabajo-legislativo-y-gestion-en-favor-de-irapuato-y-silao-32865637",
-    "resumen": "Durante su segundo informe de actividades, el diputado federal del PAN destacó iniciativas, propuestas, gestiones en materia de salud y apoyos sociales; también adelantó que buscará recursos para concretar el nuevo hospital del IMSS en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Alcaldesa de Irapuato “no descarta” buscar un cargo político en 2027",
-    "fecha": "29/10/2026 14:48",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/alcaldesa-de-irapuato-no-descarta-buscar-un-cargo-politico-en-2027/",
-    "resumen": "Irapuato, Guanajuato.- “Ya vendrán los momentos en los que se tengan que tomar decisiones políticas”, dijo la presidenta de Irapuato al ser cuestionada sobre buscar un cargo político en 2027. Aunque Lorena Alfaro también expresó que “no descarta” la idea al término de su gobierno municipal. Alfaro precisó que por ahora quiere concluir su periodo …"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Se desploma 7.7% actividad del campo en Guanajuato: Inegi",
-    "fecha": "29/10/2026 23:53",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/oct/29/se-desploma-77-actividad-del-campo-en-guanajuato-inegi-170414.html",
-    "resumen": "La agricultura, ganadería y demás actividades primarias resintieron los efectos de las condiciones climáticas y dificultades del sector; la economía estatal apenas creció 0.4% en el segundo trimestre"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "SEG otorga 393 apoyos académicos a docentes de Guanajuato para el ciclo escolar 2026-2027",
-    "fecha": "29/10/2026 16:37",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/seg-otorga-393-apoyos-academicos-a-docentes-de-guanajuato-para-el-ciclo-escolar-2026-2027/",
-    "resumen": "Silao, Guanajuato.- La Secretaría de Educación de Guanajuato (SEG) otorgó 393 apoyos académicos a figuras educativas de la entidad para el ciclo escolar 2026-2027, con el propósito de fortalecer la preparación del magisterio y generar nuevas oportunidades de aprendizaje para niñas, niños y adolescentes. Del total, 250 corresponden a Becas-Comisión, de las cuales 118 son …"
   }
 ]
