@@ -24,28 +24,20 @@
     "resumen": "La agresión ocurrió a unos metros de la entrada de la comunidad, cuando ambos hombres viajaban en una motocicleta y fueron interceptados por personas armadas"
   },
   {
-    "prioridad": 0,
-    "titulo": "“Una luz para no olvidar”: festival de Día de Muertos en Abasolo",
-    "fecha": "30/10/2026 17:19",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/una-luz-para-no-olvidar-festival-de-dia-de-muertos-en-abasolo/",
-    "resumen": "Abasolo, Guanajuato.- Con una noche llena de color, creatividad y tradición, el municipio de Abasolo dio inicio al Tercer Festival de Día de Muertos “Una Luz para no Olvidar”, con actividades que reunieron a las familias para celebrar una de las costumbres más representativas de nuestra cultura. Como parte de esta apertura se llevó a …"
+    "prioridad": 1,
+    "titulo": "¿Conoces al duende del panteón de Cuerámaro? Esta es su historia",
+    "fecha": "31/10/2026 13:37",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/conoces-al-duende-del-panteon-de-cueramaro-esta-es-su-historia-170505.html",
+    "resumen": "La criatura se aparecía en un árbol que ha sido talado, ahora habitantes del municipio se preguntan ¿qué ha pasado con este duende?"
   },
   {
-    "prioridad": 1,
-    "titulo": "Realizan supervisión en panteones de Manuel Doblado",
-    "fecha": "30/10/2026 17:48",
+    "prioridad": 2,
+    "titulo": "ZooIra abrirá sus puertas este lunes día de muertos",
+    "fecha": "31/10/2026 16:05",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/realizan-supervision-en-panteones-de-manuel-doblado/",
-    "resumen": "Manuel Doblado, Guanajuato.-  A través del área de Protección Civil (PC) de Manuel Doblado se llevaron a cabo visitas de inspección en los 3 panteones que existen en el municipio para detectar espacios que pudieran representar un riesgo para los visitantes. Tomando en cuenta que los días primero y 2 de noviembre se conmemora nuestros …"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Muere motociclista en la carretera León–Manuel Doblado",
-    "fecha": "30/10/2026 15:37",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/muere-motociclista-en-la-carretera-leon-manuel-doblado/",
-    "resumen": "San Francisco del Rincón, Guanajuato.- Un motociclista identificado como Édgar Daniel murió tras chocar contra una camioneta en la carretera León–Manuel Doblado. El hecho ocurrió a la altura de la comunidad El Maguey, a unos metros del crucero conocido como Cuatro Caminos. Vecinos de la zona pidieron ayuda al 911 alrededor de las 10 de …"
+    "url": "https://notus.com.mx/zooira-abrira-sus-puertas-este-lunes-dia-de-muertos/",
+    "resumen": "Irapuato, Guanajuato.- Para que puedas disfrutar al máximo este fin de semana largo por el Día de Muertos, el Zoológico de Irapuato abrirá sus puertas el próximo lunes 2 de noviembre, en su horario habitual de 9 de la mañana a 6 de la tarde. En este día, podrás recorrer todas las instalaciones del parque, incluyendo …"
   },
   {
     "prioridad": 2,
@@ -81,6 +73,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Irapuato acompaña a 200 menores afectados por la violencia; concluye tercera generación de programa",
+    "fecha": "31/10/2026 09:07",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-acompana-a-200-menores-afectados-por-la-violencia-concluye-tercera-generacion-de-programa-32893422",
+    "resumen": "”Creciendo con Valores” brinda atención a niñas, niños y adolescentes que han enfrentado desapariciones, muertes y otros hechos traumáticos; también incorpora a sus familias en el proceso de recuperación"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Policía de Irapuato tendrá atención individual para cuidar la salud mental de sus elementos",
     "fecha": "31/10/2026 07:55",
     "fuente": "El Sol de Irapuato",
@@ -110,53 +110,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/morena-irapuato-cuestiona-seguridad-concesiones-y-aumento-al-agua-170472.html",
     "resumen": "La diputada Maribel Aguilar y el regidor Ignacio Morales criticaron las decisiones del Gobierno Municipal de Irapuato en seguridad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sheinbaum vuelve a Guanajuato: Becas y supervisión del tren",
-    "fecha": "30/10/2026 17:08",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/sheinbaum-vuelve-a-guanajuato-becas-y-supervision-del-tren/",
-    "resumen": "Celaya, Guanajuato.- La presidenta de México, Claudia Sheinbaum Pardo, realizará este sábado 31 de octubre una gira de trabajo por Guanajuato. La agenda de la mandataria incluye la entrega de Becas para el Bienestar en Celaya y la supervisión de las obras del tren de pasajeros Querétaro–Irapuato. De acuerdo con la agenda difundida, la primera …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Morena cuestiona resultados de seguridad en Irapuato y recursos para 2027; propondrán reajuste",
-    "fecha": "30/10/2026 16:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/morena-cuestiona-resultados-de-seguridad-en-irapuato-y-recursos-para-2027-propondran-reajuste-170447.html",
-    "resumen": "Diputados de Morena señalaron que Irapuato debe destinar un mayor presupuesto a seguridad ante la incidencia delictiva y la percepción de seguridad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Mujer policía auxilia parto en bodega de Bellavista, Irapuato",
-    "fecha": "30/10/2026 14:51",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/mujer-policia-auxilia-parto-en-bodega-de-bellavista-irapuato-170443.html",
-    "resumen": "Un reporte a emergencias en Irapuato alertó sobre una mujer que estaba a punto de dar a luz en una bodega con acceso elevado, complicando su traslado"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cae célula criminal en Irapuato por asesinar a una persona y tirar restos en Barrio de la Calzada de Guadalupe",
-    "fecha": "30/10/2026 14:31",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/30/cae-celula-criminal-en-irapuato-por-asesinar-a-una-persona-y-tirar-restos-en-barrio-de-la-calzada-de-guadalupe-170439.html",
-    "resumen": "Cinco integrantes de un grupo criminal fueron detenidas y vinculadas a un proceso penal en Irapuato por hechos registrados en septiembre de este año"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Trinca Fresera pierde a una de sus más grandes fanáticas: muere Sonia Mireles a los 69 años en Irapuato",
-    "fecha": "30/10/2026 13:49",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/trinca-fresera-pierde-a-una-de-sus-mas-grandes-fanaticas-muere-sonia-mireles-a-los-69-anos-en-irapuato-170436.html",
-    "resumen": "Sonia Mireles Ibarra comenzó a apoyar a la Trinca Fresera a los 15 años y desde entonces era una de sus principales fanáticas pese a todo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere doña Sonia, la histórica aficionada de la Trinca",
-    "fecha": "30/10/2026 13:49",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/muere-dona-sonia-la-historica-aficionada-de-la-trinca/",
-    "resumen": "Irapuato, Guanajuato.- “Los dejo con Dios y arriba la Trinca. Y chingue su madre el que no grite”, dijo desde el hospital una de las aficionadas más fieles de la Trinca antes de su fallecimiento. Sonia Mireles Ibarra vivió como parte indispensable de la porra fresera desde una butaca en la Puerta 7 del estadio. …"
   }
 ]
