@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Comunidad de Huitzarito en Abasolo moderniza servicios e inicia pavimentación",
+    "fecha": "31/10/2026 12:12",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/comunidad-de-huitzarito-en-abasolo-moderniza-servicios-e-inicia-pavimentacion/",
+    "resumen": "Abasolo, Guanajuato.- El presidente municipal, Job Gallardo, encabezó el arranque de la obra municipal de construcción con concreto hidráulico en las calles Eucaliptos y Primavera (2.ª etapa), en la comunidad de Huitzatarito, un proyecto que permitirá mejorar las condiciones de movilidad y los servicios básicos para las familias de esta localidad. La intervención, realizada con …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Enjambre de abejas ataca a cinco personas en Pénjamo; una murió y cuatro fueron hospitalizadas",
     "fecha": "30/10/2026 21:44",
     "fuente": "Periódico Correo",
@@ -40,20 +48,52 @@
     "resumen": "San Francisco del Rincón, Guanajuato.- Un motociclista identificado como Édgar Daniel murió tras chocar contra una camioneta en la carretera León–Manuel Doblado. El hecho ocurrió a la altura de la comunidad El Maguey, a unos metros del crucero conocido como Cuatro Caminos. Vecinos de la zona pidieron ayuda al 911 alrededor de las 10 de …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Joroches celebra 43 años de devoción al Señor de la Misericordia",
-    "fecha": "30/10/2026 12:22",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/joroches-celebra-43-anos-de-devocion-al-senor-de-la-misericordia-32878564",
-    "resumen": "La comunidad de Joroches, en el municipio de Huanímaro, realiza su tradicional fiesta patronal en honor al Señor de la Misericordia, una imagen que desde hace 43 años forma parte de las celebraciones religiosas de sus habitantes"
+    "prioridad": 2,
+    "titulo": "‘El brujo’ desapareció y asesinó a joven irapuatense; lo condenan a cárcel",
+    "fecha": "31/10/2026 12:49",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/el-brujo-desaparecio-y-asesino-a-joven-irapuatense-lo-condenan-a-carcel/",
+    "resumen": "Irapuato, Guanajuato.- La Fiscalía General del Estado de Guanajuato esclareció la desaparición de un hombre ocurrida en septiembre de 2022 y logró una sentencia condenatoria de 18 años de prisión en contra de JESÚS FELIPE “N”, alias “el brujo”, por el delito de desaparición cometida por particulares. La condena se obtuvo mediante un procedimiento abreviado, …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Cuerámaro: Pese a dejar su labor como docente, María del Rosario supera los retos de vivir con artrosis",
-    "fecha": "30/10/2026 10:18",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/30/cueramaro-pese-a-dejar-su-labor-como-docente-maria-del-rosario-supera-los-retos-de-vivir-con-artrosis-170420.html",
-    "resumen": "Después de desempeñarse por 40 años como maestra en Cuerámaro, María del Rosario fue diagnosticada con artritis, enfermedad que cambió toda su vida"
+    "prioridad": 2,
+    "titulo": "Solicitan donación de silla de ruedas para hombre en el Centro de Irapuato",
+    "fecha": "31/10/2026 12:01",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/solicitan-donacion-de-silla-de-ruedas-para-hombre-en-el-centro-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- A través de una solicitud de apoyo comunitario, ciudadanos buscan conseguir una silla de ruedas para un hombre que permanece en la zona Centro de Irapuato y que actualmente enfrenta dificultades para trasladarse, luego de que el equipo que utilizaba se descompusiera. De acuerdo con la información compartida, el hombre se encuentra afuera …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a ‘abuela’ por presunto robo de chiles en vinagre en Irapuato",
+    "fecha": "31/10/2026 11:01",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/detienen-a-abuela-por-presunto-robo-de-chiles-en-vinagre-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Una mujer de la tercera edad, a quien en redes sociales identificaron como una “abuela”, habría sido detenida tras ser señalada por el presunto robo de chiles en vinagre y aguacates en una tienda Walmart ubicada en la zona de Paseo Irapuato. De acuerdo con la información difundida, el incidente ocurrió en el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Hombre mata a su madre dentro de una vivienda en Irapuato",
+    "fecha": "31/10/2026 10:36",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/hombre-mata-a-su-madre-dentro-de-una-vivienda-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Una mujer de la tercera edad, identificada de manera preliminar como Lupita, fue asesinada la noche del viernes al interior de su vivienda, ubicada en la colonia San Pedro, en Irapuato. De acuerdo con los primeros reportes, su hijo, identificado como Héctor Emmanuel Martínez, sería el presunto responsable del crimen y habría escapado …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Policía de Irapuato tendrá atención individual para cuidar la salud mental de sus elementos",
+    "fecha": "31/10/2026 07:55",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/policia-de-irapuato-tendra-atencion-individual-para-cuidar-la-salud-mental-de-sus-elementos-32892048",
+    "resumen": "La Secretaría de Seguridad Ciudadana busca detectar a tiempo situaciones emocionales o familiares que puedan afectar a los policías; el acompañamiento será permanente y no dependerá de citas programadas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Secuestran a hombre en restaurante de Irapuato y lo sentencian a 18 años de prisión",
+    "fecha": "31/10/2026 07:23",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/secuestran-a-hombre-en-restaurante-de-irapuato-y-lo-sentencian-a-18-anos-de-prision-32891471",
+    "resumen": "La víctima fue privada de la libertad en septiembre de 2022, en el bulevar Gómez Morín; ese mismo día fue localizada sin vida en una comunidad de Silao"
   },
   {
     "prioridad": 2,
@@ -75,7 +115,7 @@
     "prioridad": 2,
     "titulo": "Sheinbaum vuelve a Guanajuato: Becas y supervisión del tren",
     "fecha": "30/10/2026 17:08",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/sheinbaum-vuelve-a-guanajuato-becas-y-supervision-del-tren/",
     "resumen": "Celaya, Guanajuato.- La presidenta de México, Claudia Sheinbaum Pardo, realizará este sábado 31 de octubre una gira de trabajo por Guanajuato. La agenda de la mandataria incluye la entrega de Becas para el Bienestar en Celaya y la supervisión de las obras del tren de pasajeros Querétaro–Irapuato. De acuerdo con la agenda difundida, la primera …"
   },
@@ -115,48 +155,8 @@
     "prioridad": 2,
     "titulo": "Muere doña Sonia, la histórica aficionada de la Trinca",
     "fecha": "30/10/2026 13:49",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/muere-dona-sonia-la-historica-aficionada-de-la-trinca/",
     "resumen": "Irapuato, Guanajuato.- “Los dejo con Dios y arriba la Trinca. Y chingue su madre el que no grite”, dijo desde el hospital una de las aficionadas más fieles de la Trinca antes de su fallecimiento. Sonia Mireles Ibarra vivió como parte indispensable de la porra fresera desde una butaca en la Puerta 7 del estadio. …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Integrantes de célula criminal son vinculados por homicidio y abandono de restos humanos en Irapuato",
-    "fecha": "30/10/2026 13:18",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/integrantes-de-celula-criminal-son-vinculados-por-homicidio-y-abandono-de-restos-humanos-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Cinco personas fueron vinculadas a proceso por el delito de homicidio calificado, tras ser señaladas por su presunta participación en la muerte de una persona cuyos restos fueron localizados en septiembre pasado en Irapuato. La Fiscalía General del Estado de Guanajuato informó que, mediante las investigaciones ministeriales y de campo realizadas por la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De 240 a 170 millones: Lorena Alfaro proyecta reducir deuda de Irapuato",
-    "fecha": "30/10/2026 11:59",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/de-240-a-170-millones-lorena-alfaro-proyecta-reducir-deuda-de-irapuato-32877402",
-    "resumen": "La deuda de Irapuato bajaría de 240 a 170 millones de pesos al cierre de 2027, según la proyección de la alcaldesa Lorena Alfaro"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hospital del IMSS sigue pendiente en Irapuato; Pepe Aguirre pide reactivar gestión para 2027",
-    "fecha": "30/10/2026 11:41",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/hospital-del-imss-sigue-pendiente-en-irapuato-pepe-aguirre-pide-reactivar-gestion-para-2027-32877187",
-    "resumen": "El hospital del IMSS de Irapuato, proyectado con 216 camas, busca volver a la discusión del presupuesto federal de 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato ofrece descuentos para regularizar locales en mercados municipales",
-    "fecha": "30/10/2026 11:24",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/irapuato-ofrece-descuentos-para-regularizar-locales-en-mercados-municipales/",
-    "resumen": "Irapuato, Guanajuato.- Con el liderazgo de la presidenta municipal, Lorena Alfaro García, el Gobierno de Irapuato impulsa acciones que generan beneficios para las familias y los sectores productivos, mediante programas que facilitan los trámites, brindan alternativas de regularización y fortalecen la actividad comercial. Como parte de esta visión de gobierno cercano, de puertas abiertas y …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato busca transparentar cobros de corralones y retirar vehículos abandonados",
-    "fecha": "30/10/2026 10:16",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-transparentar-cobros-de-corralones-y-retirar-vehiculos-abandonados-32876762",
-    "resumen": "Pensiones vehiculares en Irapuato deberán aplicar el mismo tabulador municipal; además, revisan vehículos para liberar espacio en corralones"
   }
 ]
