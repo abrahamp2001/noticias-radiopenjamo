@@ -1,19 +1,27 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Enjambre de abejas ataca a cinco personas en Pénjamo; una murió y cuatro fueron hospitalizadas",
+    "fecha": "30/10/2026 21:44",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/30/enjambre-de-abejas-ataca-a-cinco-personas-en-penjamo-una-murio-y-cuatro-fueron-hospitalizadas-170484.html",
+    "resumen": "La agresión ocurrió en Colonia Morelos, presuntamente por un enjambre que salió de control de un criadero; investigan las causas"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Ataque armado en la comunidad de Zapote de Cestau deja un muerto y un herido en Pénjamo",
+    "fecha": "30/10/2026 21:24",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/30/ataque-armado-en-la-comunidad-de-zapote-de-cestau-deja-un-muerto-y-un-herido-en-penjamo-170483.html",
+    "resumen": "La agresión ocurrió a unos metros de la entrada de la comunidad, cuando ambos hombres viajaban en una motocicleta y fueron interceptados por personas armadas"
+  },
+  {
+    "prioridad": 0,
     "titulo": "“Una luz para no olvidar”: festival de Día de Muertos en Abasolo",
     "fecha": "30/10/2026 17:19",
     "fuente": "Notus",
     "url": "https://notus.com.mx/una-luz-para-no-olvidar-festival-de-dia-de-muertos-en-abasolo/",
     "resumen": "Abasolo, Guanajuato.- Con una noche llena de color, creatividad y tradición, el municipio de Abasolo dio inicio al Tercer Festival de Día de Muertos “Una Luz para no Olvidar”, con actividades que reunieron a las familias para celebrar una de las costumbres más representativas de nuestra cultura. Como parte de esta apertura se llevó a …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Cateo y ataque armado movilizan a la policía en Pénjamo",
-    "fecha": "29/10/2026 20:01",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/29/cateo-y-ataque-armado-movilizan-a-la-policia-en-penjamo-170385.html",
-    "resumen": "Un cateo en la comunidad Indecco, también conocida como La Tuza, y un ataque armado en el callejón 57 sorprendieron a los vecinos de Pénjamo"
   },
   {
     "prioridad": 1,
@@ -46,6 +54,22 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/municipios/2026/oct/30/cueramaro-pese-a-dejar-su-labor-como-docente-maria-del-rosario-supera-los-retos-de-vivir-con-artrosis-170420.html",
     "resumen": "Después de desempeñarse por 40 años como maestra en Cuerámaro, María del Rosario fue diagnosticada con artritis, enfermedad que cambió toda su vida"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Presunto ataque de su hijastro termina con la vida de una adulta mayor en Irapuato",
+    "fecha": "31/10/2026 00:53",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/31/presunto-ataque-de-su-hijastro-termina-con-la-vida-de-una-adulta-mayor-en-irapuato-170494.html",
+    "resumen": "La mujer fue localizada con lesiones provocadas aparentemente con un bastón; paramédicos confirmaron que ya no contaba con signos vitales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Morena Irapuato cuestiona seguridad, concesiones y aumento al agua",
+    "fecha": "30/10/2026 20:13",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/30/morena-irapuato-cuestiona-seguridad-concesiones-y-aumento-al-agua-170472.html",
+    "resumen": "La diputada Maribel Aguilar y el regidor Ignacio Morales criticaron las decisiones del Gobierno Municipal de Irapuato en seguridad"
   },
   {
     "prioridad": 2,
@@ -134,29 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-transparentar-cobros-de-corralones-y-retirar-vehiculos-abandonados-32876762",
     "resumen": "Pensiones vehiculares en Irapuato deberán aplicar el mismo tabulador municipal; además, revisan vehículos para liberar espacio en corralones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Maribel Aguilar acusa a aspirantes de Morena de mentir sobre su trayectoria rumbo a 2027",
-    "fecha": "30/10/2026 10:05",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/maribel-aguilar-acusa-a-aspirantes-de-morena-de-mentir-sobre-su-trayectoria-rumbo-a-2027-32876621",
-    "resumen": "Morena en Irapuato enfrenta una disputa interna rumbo a 2027: Maribel Aguilar cuestionó a aspirantes que se dicen fundadores del movimiento"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Altares de muertos resisten ante el auge de Halloween; poner uno puede costar hasta 750 pesos",
-    "fecha": "30/10/2026 09:47",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/altar-de-muertos-en-irapuato-cuanto-cuesta-ponerlo-y-por-que-cae-la-venta-de-alfenique-32876463",
-    "resumen": "Comerciantes de Irapuato reportan cambios en los hábitos de compra; mientras algunos advierten una caída en la venta de alfeñique, otros buscan mantener viva una tradición que pasa de generación en generación"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Niños de zonas rurales de Irapuato pagarían la mitad en los próximos cursos de verano",
-    "fecha": "30/10/2026 08:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cursos-de-verano-comudaj-en-irapuato-proponen-descuento-del-50-para-ninos-del-campo-32874180",
-    "resumen": "La Comudaj propuso descuentos de 50% para niñas y niños de comunidades rurales en cursos de verano, además de ajustes a tarifas deportivas para 2027"
   }
 ]
