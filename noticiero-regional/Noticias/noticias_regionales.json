@@ -1,11 +1,35 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Tráiler choca contra camioneta y tractor en la carretera Abasolo–Pénjamo",
+    "fecha": "01/11/2026 14:44",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/trailer-choca-contra-camioneta-y-tractor-en-la-carretera-abasolo-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Tres personas resultaron con lesiones leves en un choque entre un tráiler, una camioneta y un tractor agrícola. El accidente ocurrió en la carretera federal Abasolo–Pénjamo, a la altura de la Universidad Politécnica de Pénjamo. El choque fue alrededor de las 15:20 horas, cuando al parecer, el tráiler invadió el carril por donde …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Tradiciones del Día de Muertos recorren las calles de Pénjamo, Cuerámaro y Abasolo",
+    "fecha": "01/11/2026 08:46",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tradiciones-del-dia-de-muertos-recorren-las-calles-de-penjamo-y-cueramaro-32908297",
+    "resumen": "Desfiles, disfraces, contingentes y representaciones relacionadas con la muerte formaron parte de las tradiciones realizadas en Pénjamo, Cuerámaro y Abasolo con motivo del Día de Muertos"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Morir en Abasolo cuesta al menos 30 mil pesos; panteón y funeraria elevan la cuenta",
     "fecha": "31/10/2026 23:40",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/morir-en-abasolo-cuesta-al-menos-30-mil-pesos-panteon-y-funeraria-elevan-la-cuenta-170542.html",
     "resumen": "Los servicios funerarios parten de 26 mil pesos y el precio aumenta si la familia debe comprar un lote, contratar flores o repatriar los restos"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "“Ya no voy a sembrar”: campesinos de Guanajuato consideran abandonar el campo en 2027",
+    "fecha": "01/11/2026 09:25",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/ya-no-voy-a-sembrar-campesinos-de-guanajuato-consideran-abandonar-el-campo-en-2027-32908981",
+    "resumen": "Productores de Abasolo, Pénjamo y Cuerámaro dijeron al obispo de Irapuato que ya no recuperan lo invertido, enfrentan bajos precios y problemas de inseguridad; algunos incluso contemplan buscar trabajo en Estados Unidos"
   },
   {
     "prioridad": 1,
@@ -16,12 +40,44 @@
     "resumen": "Las afectaciones por granizadas, los precios de los granos y el incremento de los costos de producción mantienen al sector agrícola con problemas de capitalización"
   },
   {
-    "prioridad": 1,
-    "titulo": "¿Conoces al duende del panteón de Cuerámaro? Esta es su historia",
-    "fecha": "31/10/2026 13:37",
+    "prioridad": 2,
+    "titulo": "Irapuato alista la Semana de Cultura Laboral para empresarios ¿cómo inscribirse?",
+    "fecha": "01/11/2026 15:34",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/conoces-al-duende-del-panteon-de-cueramaro-esta-es-su-historia-170505.html",
-    "resumen": "La criatura se aparecía en un árbol que ha sido talado, ahora habitantes del municipio se preguntan ¿qué ha pasado con este duende?"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/irapuato-alista-la-semana-de-cultura-laboral-para-empresarios-como-inscribirse-170564.html",
+    "resumen": "Las  jornadas forman parte de una estrategia para dinamizar la economía local de Irapuato y dotar a las empresas de mejores herramientas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a un motociclista en la colonia Pronasol de Irapuato",
+    "fecha": "01/11/2026 14:46",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/asesinan-a-un-motociclista-en-la-colonia-pronasol-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un motociclista fue asesinado a balazos en la colonia Pronasol, en Irapuato. La víctima fue interceptada por hombres armados en el cruce de las calles 14 de Febrero y 24 de Junio, detrás del templo del Señor Misericordioso. El ataque ocurrió cerca de la 1:30 horas, cuando el hombre circulaba por el cruce, …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Obispo de Irapuato llama a no venerar a la Santa Muerte ante aumento de seguidores",
+    "fecha": "01/11/2026 14:43",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/obispo-de-irapuato-llama-a-no-venerar-a-la-santa-muerte-ante-aumento-de-seguidores-170562.html",
+    "resumen": "En el Día de Todos los Santos, el obispo de Irapuato hizo un llamado a la población para evitar honrar a la muerte como una deidad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“No identificado”: las gavetas sin nombre que permanecen en el panteón de Irapuato",
+    "fecha": "01/11/2026 10:50",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/no-identificado-las-gavetas-sin-nombre-que-permanecen-en-el-panteon-de-irapuato-32911612",
+    "resumen": "Mientras las familias acudieron durante Día de Muertos a colocar flores y recordar a sus seres queridos, en otra zona del Panteón Municipal permanecen gavetas que nadie visitó"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato visita al Racing de Veracruz por su décimo triunfo",
+    "fecha": "01/11/2026 10:23",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-defiende-su-liderato-ante-el-racing-de-veracruz-32910999",
+    "resumen": "Quiere seguir haciendo historia en la Liga Premier buscando su décimo triunfo el sábado"
   },
   {
     "prioridad": 2,
@@ -30,6 +86,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/01/muere-automovilista-tras-volcar-en-el-bulevar-los-reyes-irapuato-170554.html",
     "resumen": "El accidente en Irapuato se registró cuando el automovilista se impactó contra el camellón central en la colonia Los Reyes y terminó volcado en la vialidad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "No todo es futbol: comunidades de Irapuato piden beisbol y el estado lo incorpora en nuevo torneo",
+    "fecha": "01/11/2026 08:55",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/no-todo-es-futbol-comunidades-de-irapuato-piden-beisbol-y-el-estado-lo-incorpora-en-nuevo-torneo-32908844",
+    "resumen": "Ocho localidades ya participaron en actividades de fútbol y otras 10 entrarán a un torneo de béisbol durante noviembre; la estrategia busca responder a las disciplinas que practican los habitantes de cada comunidad"
   },
   {
     "prioridad": 2,
@@ -83,7 +147,7 @@
     "prioridad": 2,
     "titulo": "“Smaly Alvarado” del barrio al ring, busca alejar a los jóvenes de las drogas a través del boxeo",
     "fecha": "31/10/2026 19:26",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/smaly-alvarado-del-barrio-al-ring-busca-alejar-a-los-jovenes-de-las-drogas-a-traves-del-boxeo/",
     "resumen": "Irapuato, Guanajuato.- Lo que comenzó como una decisión inesperada para cambiar su condición física terminó convirtiéndose en una pasión que hoy busca transmitir a las nuevas generaciones. Smaly Alvarado, boxeador y entrenador de 27 años, quiere aprovechar su experiencia en el ring para ayudar a jóvenes de colonias populares a encontrar en el deporte una …"
   },
@@ -94,21 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/31/detienen-a-hombre-intentando-robar-la-tienda-de-su-madre-luego-de-que-fuera-asesinada-en-irapuato-170522.html",
     "resumen": "La adulta mayor fue asesinada este viernes en la colonia Miguel Hidalgo, en Irapuato su feminicidio pudo ser por arma blanca o por asfixia"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato rescata el triunfo en el último suspiro y consigue su novena victoria consecutiva",
-    "fecha": "31/10/2026 17:56",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/club-irapuato-logra-su-novena-victoria-consecutiva-con-gol-de-alatorre-32901710",
-    "resumen": "La Trinca Fresera venció 2-1 a Deportiva Venados en el estadio Sergio León Chávez; Tito García y Jacobo Alatorre marcaron en un cierre dramático, en un encuentro que también tuvo expulsiones y tensión entre los cuerpos técnicos."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "ZooIra abrirá sus puertas este lunes día de muertos",
-    "fecha": "31/10/2026 16:05",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/zooira-abrira-sus-puertas-este-lunes-dia-de-muertos/",
-    "resumen": "Irapuato, Guanajuato.- Para que puedas disfrutar al máximo este fin de semana largo por el Día de Muertos, el Zoológico de Irapuato abrirá sus puertas el próximo lunes 2 de noviembre, en su horario habitual de 9 de la mañana a 6 de la tarde. En este día, podrás recorrer todas las instalaciones del parque, incluyendo …"
   }
 ]
