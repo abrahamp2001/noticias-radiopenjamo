@@ -1,6 +1,38 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Recuerdan a ‘Bosho’ del Grupo Dorado de Abasolo a un año de su muerte",
+    "fecha": "02/11/2026 16:40",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/recuerdan-a-bosho-del-grupo-dorado-de-abasolo-a-un-ano-de-su-muerte/",
+    "resumen": "Abasolo, Guanajuato.- “Hoy todos esperamos tu llegada. Todos te seguimos recordando”: los integrantes del Grupo Dorado de Abasolo conmemoran a Juan Luis tras un año de su muerte este día de muertos. ‘Bosho’ fue un miembro muy querido por su carisma y su entrega en el escenario. El pasado lunes 26 de octubre, los seres queridos …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Mujer de Abasolo denuncia presuntas amenazas y agresiones contra su familia",
+    "fecha": "02/11/2026 15:25",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/mujer-de-abasolo-denuncia-presuntas-amenazas-y-agresiones-contra-su-familia/",
+    "resumen": "Las acusaciones corresponden al testimonio difundido por Galilea Frías en redes sociales y no se cuenta con información sobre una postura de las personas señaladas, como medio informativo, Periódico Notus mantiene abierto el espacio para su derecho de réplica. Abasolo, Guanajuato.- Una ciudadana identificada como Galilea Frías denunció públicamente presuntas amenazas de muerte y agresiones …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Cae presunto transportista de huachicol en la carretera Pénjamo-La Piedad",
+    "fecha": "02/11/2026 13:29",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/cae-presunto-transportista-de-huachicol-en-la-carretera-penjamo-la-piedad-170597.html",
+    "resumen": "Detienen en Pénjamo a un hombre que transportaba 54 mil litros de posible hidrocarburo y tenía dos mandamientos judiciales pendientes."
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Auto choca contra muro de contención en la Pénjamo-Abasolo",
+    "fecha": "02/11/2026 12:56",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/auto-choca-contra-muro-de-contencion-en-la-penjamo-abasolo/",
+    "resumen": "Pénjamo Guanajuato.- Un automóvil chocó contra la barra de contención de la carretera Federal Pénjamo-Abasolo. Al parecer, dos personas resultaron lesionadas en la zona del entronque de San Gabriel y el puente del Río Turbio; el carril de baja velocidad fue cerrado por elementos de emergencia. Al lugar acudieron paramédicos, Protección Civil, Policía Municipal y …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Accidente en la carretera Abasolo-Pénjamo: taxi queda atravesado en el carril izquierdo",
     "fecha": "02/11/2026 11:43",
     "fuente": "Periódico Correo",
@@ -17,11 +49,19 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Tráiler choca contra camioneta y tractor en la carretera Abasolo–Pénjamo",
-    "fecha": "01/11/2026 14:44",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/trailer-choca-contra-camioneta-y-tractor-en-la-carretera-abasolo-penjamo/",
-    "resumen": "Pénjamo, Guanajuato.- Tres personas resultaron con lesiones leves en un choque entre un tráiler, una camioneta y un tractor agrícola. El accidente ocurrió en la carretera federal Abasolo–Pénjamo, a la altura de la Universidad Politécnica de Pénjamo. El choque fue alrededor de las 15:20 horas, cuando al parecer, el tráiler invadió el carril por donde …"
+    "titulo": "Más de 4 mil personas acuden al panteón municipal de Abasolo para recordar a sus difuntos",
+    "fecha": "02/11/2026 09:26",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/mas-de-4-mil-personas-acuden-al-panteon-municipal-de-abasolo-para-recordar-a-sus-difuntos-32926576",
+    "resumen": "Flores de cempasúchil, ofrendas y canciones dedicadas a quienes ya no están formaron parte de las visitas al panteón municipal de Abasolo durante el Día de Muertos. Familias acudieron para recordar a sus seres queridos, visitar sus tumbas y mantener presentes las historias compartidas durante su vida"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Arranca pavimentación en Huitzatarito con inversión de 3.4 millones de pesos en Abasolo",
+    "fecha": "02/11/2026 08:54",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/arranca-pavimentacion-en-huitzatarito-con-inversion-de-3-4-millones-de-pesos-en-abasolo-32925826",
+    "resumen": "La obra contempla la intervención de las calles Primavera y Eucaliptos, con una longitud total aproximada de 264 metros y un plazo de ejecución de tres meses"
   },
   {
     "prioridad": 1,
@@ -38,6 +78,38 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/guanajuato-vive-jornada-violenta-en-dia-de-muertos-nueve-personas-asesinadas-en-distintos-municipios-170592.html",
     "resumen": "Ataques armados se registran en distintos municipios de Guanajuato, dejando alrededor de 9 personas en León, Irapuato, Silao, Salamanca y Celaya"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Las Fénix y Amigos del Backlog conquistan la Liga SMX 2026 en Irapuato",
+    "fecha": "02/11/2026 10:27",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/liga-smx-2026-schaeffler-corona-a-sus-campeones-en-las-canchas-myura-32926448",
+    "resumen": "Las Fénix y Amigos del backlog se convierten en los campeones de la rama femenil y varonil"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Sepultan a Doña Lupita Murillo; familia pide justicia y asegura: “Ella ya lo perdonó, nosotros no”",
+    "fecha": "02/11/2026 10:12",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/sepultan-a-dona-lupita-murillo-familia-pide-justicia-y-asegura-ella-ya-lo-perdono-nosotros-no-32927569",
+    "resumen": "Familiares, vecinos y amigos acompañaron el último recorrido de Lupita Murillo hasta el Panteón Municipal de Irapuato; en medio de la despedida pidieron que la justicia determine la responsabilidad por su muerte"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "No basta con el drenaje: comunidades rurales de Irapuato ahora sanearán sus aguas",
+    "fecha": "02/11/2026 09:19",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/no-basta-con-el-drenaje-comunidades-rurales-de-irapuato-ahora-sanearan-sus-aguas-32926595",
+    "resumen": "El municipio reporta más de 100 acciones de drenaje en localidades rurales y una inversión superior a 200 millones de pesos en infraestructura hidrosanitaria"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Grupo Siglo XXI del Club Españita de Irapuato celebra su amistad entre disfraces y convivencia",
+    "fecha": "02/11/2026 07:59",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/grupo-siglo-xxi-del-club-espanita-de-irapuato-celebra-su-amistad-entre-disfraces-y-convivencia-32924301",
+    "resumen": "Los anfitriones del agradable encuentro fueron Sergio Olmos Almanza y su esposa, Lupita Temois de Olmos, quienes ofrecieron una atención de primera a los invitados"
   },
   {
     "prioridad": 2,
@@ -78,53 +150,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/zoologico-de-irapuato-abrira-este-lunes-2-de-noviembre-170574.html",
     "resumen": "Zoológico de Irapuato abrirá este fin de semana largo en su horario habitual de 9:00 a 18:00 horas, con todas sus atracciones disponibles"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en Playa Azul deja un hombre sin vida y otro lesionado",
-    "fecha": "01/11/2026 16:57",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-playa-azul-deja-un-hombre-sin-vida-y-otro-lesionado-32917626",
-    "resumen": "El ataque armado en Playa Azul, Irapuato, dejó un hombre muerto y otro lesionado; autoridades acordonaron la zona y buscan esclarecer los hechos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Comerciantes del Alfeñique esperan compras de última hora para el Día de Muertos",
-    "fecha": "01/11/2026 16:18",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/comerciantes-del-alfenique-esperan-compras-de-ultima-hora-para-el-dia-de-muertos-32917132",
-    "resumen": "La Feria del Alfeñique de Irapuato recibió a familias que buscaban completar sus altares, mientras una comerciante describió ventas tranquilas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato alista la Semana de Cultura Laboral para empresarios ¿cómo inscribirse?",
-    "fecha": "01/11/2026 15:34",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/irapuato-alista-la-semana-de-cultura-laboral-para-empresarios-como-inscribirse-170564.html",
-    "resumen": "Las  jornadas forman parte de una estrategia para dinamizar la economía local de Irapuato y dotar a las empresas de mejores herramientas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a un motociclista en la colonia Pronasol de Irapuato",
-    "fecha": "01/11/2026 14:46",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/asesinan-a-un-motociclista-en-la-colonia-pronasol-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un motociclista fue asesinado a balazos en la colonia Pronasol, en Irapuato. La víctima fue interceptada por hombres armados en el cruce de las calles 14 de Febrero y 24 de Junio, detrás del templo del Señor Misericordioso. El ataque ocurrió cerca de la 1:30 horas, cuando el hombre circulaba por el cruce, …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Obispo de Irapuato llama a no venerar a la Santa Muerte ante aumento de seguidores",
-    "fecha": "01/11/2026 14:43",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/obispo-de-irapuato-llama-a-no-venerar-a-la-santa-muerte-ante-aumento-de-seguidores-170562.html",
-    "resumen": "En el Día de Todos los Santos, el obispo de Irapuato hizo un llamado a la población para evitar honrar a la muerte como una deidad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hallan sin vida a Sabino en Santiaguito; presuntamente estaba maniatado y golpeado",
-    "fecha": "01/11/2026 14:08",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/hallan-sin-vida-a-sabino-en-santiaguito-presuntamente-estaba-maniatado-y-golpeado-32915603",
-    "resumen": "Un adulto mayor de alrededor de 80 años fue hallado sin vida y presuntamente maniatado en una vivienda de la colonia Santiaguito, Irapuato"
   }
 ]
