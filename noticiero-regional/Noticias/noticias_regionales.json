@@ -1,27 +1,27 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Accidente en la carretera Abasolo-Pénjamo: taxi queda atravesado en el carril izquierdo",
+    "fecha": "02/11/2026 11:43",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/accidente-en-la-carretera-abasolo-penjamo-taxi-queda-atravesado-en-el-carril-izquierdo-170591.html",
+    "resumen": "El taxi que conducía el hombre quedó invadiendo el carril de la extrema izquierda en el tramo de la carretera Abasolo- Pénjamo"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Aseguran en Pénjamo tractocamión con 54 mil litros de presunto hidrocarburo",
+    "fecha": "02/11/2026 10:15",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/aseguran-en-penjamo-tractocamion-con-54-mil-litros-de-presunto-hidrocarburo/",
+    "resumen": "Pénjamo, Guanajuato.- Integrantes de las Fuerzas de Seguridad Pública del Estado (FSPE), en coordinación con la Secretaría de la Defensa Nacional (Defensa), aseguraron un tractocamión de doble remolque que transportaba aproximadamente 54 mil litros de líquido con características de hidrocarburo. El aseguramiento ocurrió el 6 de octubre, sobre la carretera federal 90, en el tramo …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Tráiler choca contra camioneta y tractor en la carretera Abasolo–Pénjamo",
     "fecha": "01/11/2026 14:44",
     "fuente": "Notus",
     "url": "https://notus.com.mx/trailer-choca-contra-camioneta-y-tractor-en-la-carretera-abasolo-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- Tres personas resultaron con lesiones leves en un choque entre un tráiler, una camioneta y un tractor agrícola. El accidente ocurrió en la carretera federal Abasolo–Pénjamo, a la altura de la Universidad Politécnica de Pénjamo. El choque fue alrededor de las 15:20 horas, cuando al parecer, el tráiler invadió el carril por donde …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Tradiciones del Día de Muertos recorren las calles de Pénjamo, Cuerámaro y Abasolo",
-    "fecha": "01/11/2026 08:46",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/tradiciones-del-dia-de-muertos-recorren-las-calles-de-penjamo-y-cueramaro-32908297",
-    "resumen": "Desfiles, disfraces, contingentes y representaciones relacionadas con la muerte formaron parte de las tradiciones realizadas en Pénjamo, Cuerámaro y Abasolo con motivo del Día de Muertos"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "“Ya no voy a sembrar”: campesinos de Guanajuato consideran abandonar el campo en 2027",
-    "fecha": "01/11/2026 09:25",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ya-no-voy-a-sembrar-campesinos-de-guanajuato-consideran-abandonar-el-campo-en-2027-32908981",
-    "resumen": "Productores de Abasolo, Pénjamo y Cuerámaro dijeron al obispo de Irapuato que ya no recuperan lo invertido, enfrentan bajos precios y problemas de inseguridad; algunos incluso contemplan buscar trabajo en Estados Unidos"
   },
   {
     "prioridad": 1,
@@ -32,12 +32,36 @@
     "resumen": "Las presas del municipio no fueron abastecidas por las lluvias y trabajadores del campo, como Eliseo Preciado, batallan para mantener a sus animales"
   },
   {
-    "prioridad": 1,
-    "titulo": "Agricultores de Cuerámaro enfrentan pérdidas, falta de rentabilidad y abandono del campo",
-    "fecha": "01/11/2026 07:50",
+    "prioridad": 2,
+    "titulo": "Guanajuato vive jornada violenta en Día de Muertos: nueve personas asesinadas en distintos municipios",
+    "fecha": "02/11/2026 12:05",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/guanajuato-vive-jornada-violenta-en-dia-de-muertos-nueve-personas-asesinadas-en-distintos-municipios-170592.html",
+    "resumen": "Ataques armados se registran en distintos municipios de Guanajuato, dejando alrededor de 9 personas en León, Irapuato, Silao, Salamanca y Celaya"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Entre tradición y color, Secundaria Técnica 32 de Irapuato festeja el Día de Muertos con el festival ‘Raíces que viven’",
+    "fecha": "02/11/2026 05:04",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/agricultores-de-cueramaro-enfrentan-perdidas-falta-de-rentabilidad-y-abandono-del-campo-32907336",
-    "resumen": "Las afectaciones por granizadas, los precios de los granos y el incremento de los costos de producción mantienen al sector agrícola con problemas de capitalización"
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/entre-tradicion-y-color-secundaria-tecnica-32-de-irapuato-festeja-el-dia-de-muertos-con-el-festival-raices-que-viven-32876577",
+    "resumen": "Alumnos, padres de familia, personal docente y el director del plantel, Eduardo Francisco Cardona, participaron en la organización de este festejo de la cultura mexicana"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Yo le canto a los muertos para que lloren los vivos”: Armando, el cantor del panteón de Irapuato",
+    "fecha": "02/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/yo-le-canto-a-los-muertos-para-que-lloren-los-vivos-armando-el-cantor-del-panteon-de-irapuato-32908346",
+    "resumen": "A sus 58 años, recorre el Panteón Municipal de Irapuato con una guitarra; no cobra por canción y acompaña con música a familias que llegan para despedir a sus muertos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Ya déjame trabajar, no me estés molestando”: Arturo, 44 años de andar entre tumbas en Irapuato",
+    "fecha": "02/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/ya-dejame-trabajar-no-me-estes-molestando-arturo-44-anos-de-andar-entre-tumbas-en-irapuato-32908642",
+    "resumen": "Es el trabajador con mayor antigüedad del lugar y entre inhumaciones, exhumaciones y mantenimiento sacó adelante a sus dos hijos"
   },
   {
     "prioridad": 2,
@@ -102,61 +126,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/policiaca/hallan-sin-vida-a-sabino-en-santiaguito-presuntamente-estaba-maniatado-y-golpeado-32915603",
     "resumen": "Un adulto mayor de alrededor de 80 años fue hallado sin vida y presuntamente maniatado en una vivienda de la colonia Santiaguito, Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“No identificado”: las gavetas sin nombre que permanecen en el panteón de Irapuato",
-    "fecha": "01/11/2026 10:50",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/no-identificado-las-gavetas-sin-nombre-que-permanecen-en-el-panteon-de-irapuato-32911612",
-    "resumen": "Mientras las familias acudieron durante Día de Muertos a colocar flores y recordar a sus seres queridos, en otra zona del Panteón Municipal permanecen gavetas que nadie visitó"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato visita al Racing de Veracruz por su décimo triunfo",
-    "fecha": "01/11/2026 10:23",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-defiende-su-liderato-ante-el-racing-de-veracruz-32910999",
-    "resumen": "Quiere seguir haciendo historia en la Liga Premier buscando su décimo triunfo el sábado"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere automovilista tras volcar en el bulevar Los Reyes, Irapuato",
-    "fecha": "01/11/2026 10:22",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/01/muere-automovilista-tras-volcar-en-el-bulevar-los-reyes-irapuato-170554.html",
-    "resumen": "El accidente en Irapuato se registró cuando el automovilista se impactó contra el camellón central en la colonia Los Reyes y terminó volcado en la vialidad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "No todo es futbol: comunidades de Irapuato piden beisbol y el estado lo incorpora en nuevo torneo",
-    "fecha": "01/11/2026 08:55",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/no-todo-es-futbol-comunidades-de-irapuato-piden-beisbol-y-el-estado-lo-incorpora-en-nuevo-torneo-32908844",
-    "resumen": "Ocho localidades ya participaron en actividades de fútbol y otras 10 entrarán a un torneo de béisbol durante noviembre; la estrategia busca responder a las disciplinas que practican los habitantes de cada comunidad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Vengo a saludar a mi héroe”: Lupita visita la tumba del bombero Fabián Cisneros en Irapuato",
-    "fecha": "01/11/2026 07:26",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/vengo-a-saludar-a-mi-heroe-lupita-visita-la-tumba-del-bombero-fabian-cisneros-en-irapuato-32907566",
-    "resumen": "A un año y siete meses de la muerte de su esposo, Lupita Barroso continúa visitando su gaveta para limpiarla, cambiar las flores y contarle cómo están sus hijos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "El mundo blanco donde el mármol cobra vida para recordar a los muertos en Irapuato",
-    "fecha": "01/11/2026 07:07",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/el-mundo-blanco-donde-el-marmol-cobra-vida-para-recordar-a-los-muertos-en-irapuato-32907184",
-    "resumen": "Entre polvo, martillo y cincel, artesanos de Irapuato mantienen un oficio en el que bloques de mármol y granito terminan convertidos en lápidas, esculturas, gavetas y nombres destinados a permanecer en los cementerios"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Lo esperó toda su vida, pero él jamás volvió: la historia escrita en la tumba de María Victoria en Irapuato",
-    "fecha": "01/11/2026 06:45",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/lo-espero-toda-su-vida-pero-el-jamas-volvio-la-historia-escrita-en-la-tumba-de-maria-victoria-en-irapuato-32906817",
-    "resumen": "En una de las zonas menos visitadas del Panteón Municipal de Irapuato permanece la sepultura de María Victoria Cisneros de Arredondo, donde un epitafio conserva la historia de una mujer que, según quedó grabado en piedra, murió esperando el regreso de un amor"
   }
 ]
