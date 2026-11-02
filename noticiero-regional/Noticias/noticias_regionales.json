@@ -17,14 +17,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Morir en Abasolo cuesta al menos 30 mil pesos; panteón y funeraria elevan la cuenta",
-    "fecha": "31/10/2026 23:40",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/morir-en-abasolo-cuesta-al-menos-30-mil-pesos-panteon-y-funeraria-elevan-la-cuenta-170542.html",
-    "resumen": "Los servicios funerarios parten de 26 mil pesos y el precio aumenta si la familia debe comprar un lote, contratar flores o repatriar los restos"
-  },
-  {
-    "prioridad": 0,
     "titulo": "“Ya no voy a sembrar”: campesinos de Guanajuato consideran abandonar el campo en 2027",
     "fecha": "01/11/2026 09:25",
     "fuente": "El Sol de Irapuato",
@@ -33,11 +25,51 @@
   },
   {
     "prioridad": 1,
+    "titulo": "Sequía afecta a agricultores y ganaderos de Manuel Doblado",
+    "fecha": "01/11/2026 23:21",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/01/sequia-afecta-a-agricultores-y-ganaderos-de-manuel-doblado-170583.html",
+    "resumen": "Las presas del municipio no fueron abastecidas por las lluvias y trabajadores del campo, como Eliseo Preciado, batallan para mantener a sus animales"
+  },
+  {
+    "prioridad": 1,
     "titulo": "Agricultores de Cuerámaro enfrentan pérdidas, falta de rentabilidad y abandono del campo",
     "fecha": "01/11/2026 07:50",
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/agricultores-de-cueramaro-enfrentan-perdidas-falta-de-rentabilidad-y-abandono-del-campo-32907336",
     "resumen": "Las afectaciones por granizadas, los precios de los granos y el incremento de los costos de producción mantienen al sector agrícola con problemas de capitalización"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en la colonia Playa Azul de Irapuato deja un muerto y un herido",
+    "fecha": "01/11/2026 22:31",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/01/ataque-armado-en-la-colonia-playa-azul-de-irapuato-deja-un-muerto-y-un-herido-170579.html",
+    "resumen": "Un hombre murió y otro resultó lesionado tras un ataque armado registrado la noche del domingo en las calles Joaquín Herrera, Gustavo Díaz Ordaz y David Alfaro Siqueiros, en la colonia Playa Azul, en la zona sur de Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Zoológico de Irapuato abrirá este lunes 2 de noviembre",
+    "fecha": "01/11/2026 19:53",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/zoologico-de-irapuato-abrira-este-lunes-2-de-noviembre-170574.html",
+    "resumen": "Zoológico de Irapuato abrirá este fin de semana largo en su horario habitual de 9:00 a 18:00 horas, con todas sus atracciones disponibles"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en Playa Azul deja un hombre sin vida y otro lesionado",
+    "fecha": "01/11/2026 16:57",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-playa-azul-deja-un-hombre-sin-vida-y-otro-lesionado-32917626",
+    "resumen": "El ataque armado en Playa Azul, Irapuato, dejó un hombre muerto y otro lesionado; autoridades acordonaron la zona y buscan esclarecer los hechos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Comerciantes del Alfeñique esperan compras de última hora para el Día de Muertos",
+    "fecha": "01/11/2026 16:18",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/comerciantes-del-alfenique-esperan-compras-de-ultima-hora-para-el-dia-de-muertos-32917132",
+    "resumen": "La Feria del Alfeñique de Irapuato recibió a familias que buscaban completar sus altares, mientras una comerciante describió ventas tranquilas"
   },
   {
     "prioridad": 2,
@@ -62,6 +94,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/obispo-de-irapuato-llama-a-no-venerar-a-la-santa-muerte-ante-aumento-de-seguidores-170562.html",
     "resumen": "En el Día de Todos los Santos, el obispo de Irapuato hizo un llamado a la población para evitar honrar a la muerte como una deidad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Hallan sin vida a Sabino en Santiaguito; presuntamente estaba maniatado y golpeado",
+    "fecha": "01/11/2026 14:08",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/hallan-sin-vida-a-sabino-en-santiaguito-presuntamente-estaba-maniatado-y-golpeado-32915603",
+    "resumen": "Un adulto mayor de alrededor de 80 años fue hallado sin vida y presuntamente maniatado en una vivienda de la colonia Santiaguito, Irapuato"
   },
   {
     "prioridad": 2,
@@ -118,45 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/lo-espero-toda-su-vida-pero-el-jamas-volvio-la-historia-escrita-en-la-tumba-de-maria-victoria-en-irapuato-32906817",
     "resumen": "En una de las zonas menos visitadas del Panteón Municipal de Irapuato permanece la sepultura de María Victoria Cisneros de Arredondo, donde un epitafio conserva la historia de una mujer que, según quedó grabado en piedra, murió esperando el regreso de un amor"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Croquetón en Irapuato apoyará a rescatistas de los 46 municipios",
-    "fecha": "31/10/2026 21:59",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/31/croqueton-en-irapuato-apoyara-a-rescatistas-de-los-46-municipios-170537.html",
-    "resumen": "La colecta distribuirá alimento entre personas y grupos que atienden animales abandonados, incluidos rescatistas que no cuentan con recursos ni difusión"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato busca replicar programa \"Creciendo con Valores\" en otros municipios",
-    "fecha": "31/10/2026 21:45",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/oct/31/irapuato-busca-replicar-programa-creciendo-con-valores-en-otros-municipios-170536.html",
-    "resumen": "La tercera generación de Creciendo con Valores brindó acompañamiento psicológico a niñas, niños y adolescentes que enfrentaron situaciones difíciles"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tren Querétaro-Irapuato: viaducto de Apaseo el Grande está cerca de concluir",
-    "fecha": "31/10/2026 20:46",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/oct/31/tren-queretaro-irapuato-viaducto-de-apaseo-el-grande-esta-cerca-de-concluir-170531.html",
-    "resumen": "La estructura registra un avance físico del 86%. La presidenta Claudia Sheinbaum realizó un recorrido para revisar el desarrollo de las obras ferroviarias"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Smaly Alvarado” del barrio al ring, busca alejar a los jóvenes de las drogas a través del boxeo",
-    "fecha": "31/10/2026 19:26",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/smaly-alvarado-del-barrio-al-ring-busca-alejar-a-los-jovenes-de-las-drogas-a-traves-del-boxeo/",
-    "resumen": "Irapuato, Guanajuato.- Lo que comenzó como una decisión inesperada para cambiar su condición física terminó convirtiéndose en una pasión que hoy busca transmitir a las nuevas generaciones. Smaly Alvarado, boxeador y entrenador de 27 años, quiere aprovechar su experiencia en el ring para ayudar a jóvenes de colonias populares a encontrar en el deporte una …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a hombre intentando robar la tienda de su madre luego de que fuera asesinada en Irapuato",
-    "fecha": "31/10/2026 18:35",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/oct/31/detienen-a-hombre-intentando-robar-la-tienda-de-su-madre-luego-de-que-fuera-asesinada-en-irapuato-170522.html",
-    "resumen": "La adulta mayor fue asesinada este viernes en la colonia Miguel Hidalgo, en Irapuato su feminicidio pudo ser por arma blanca o por asfixia"
   }
 ]
