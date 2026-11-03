@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "¿Sabías que José Alfredo Jiménez estuvo en la cárcel de Abasolo?",
+    "fecha": "03/11/2026 10:45",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/sabias-que-jose-alfredo-jimenez-estuvo-en-la-carcel-de-abasolo/",
+    "resumen": "Abasolo, Guanajuato.- Hay una escena poco conocida en la historia de Abasolo que tiene como protagonista a uno de los grandes nombres de la música mexicana: José Alfredo Jiménez Sandoval. En 1965, el cantautor guanajuatense apareció dentro de la cárcel municipal, acompañado de su guitarra y entonando una canción. Pero no se trataba de una …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Job Gallardo plantea cerrar el año con más obras y ampliar los programas de apoyo en Abasolo",
+    "fecha": "03/11/2026 08:21",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/job-gallardo-plantea-cerrar-el-ano-con-mas-obras-y-ampliar-los-programas-de-apoyo-en-abasolo-32944591",
+    "resumen": "A dos meses de concluir 2026, el presidente municipal habla de los compromisos de su administración, la continuidad de los trabajos de infraestructura y los programas de apoyo que fueron incorporados durante su gestión"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Integrante de familia señalada por amenazas y agresiones en Abasolo da su versión",
     "fecha": "02/11/2026 17:10",
     "fuente": "Notus",
@@ -11,7 +27,7 @@
     "prioridad": 0,
     "titulo": "Recuerdan a ‘Bosho’ del Grupo Dorado de Abasolo a un año de su muerte",
     "fecha": "02/11/2026 16:40",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/recuerdan-a-bosho-del-grupo-dorado-de-abasolo-a-un-ano-de-su-muerte/",
     "resumen": "Abasolo, Guanajuato.- “Hoy todos esperamos tu llegada. Todos te seguimos recordando”: los integrantes del Grupo Dorado de Abasolo conmemoran a Juan Luis tras un año de su muerte este día de muertos. ‘Bosho’ fue un miembro muy querido por su carisma y su entrega en el escenario. El pasado lunes 26 de octubre, los seres queridos …"
   },
@@ -19,57 +35,89 @@
     "prioridad": 0,
     "titulo": "Mujer de Abasolo denuncia presuntas amenazas y agresiones contra su familia",
     "fecha": "02/11/2026 15:25",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/mujer-de-abasolo-denuncia-presuntas-amenazas-y-agresiones-contra-su-familia/",
     "resumen": "Las acusaciones corresponden al testimonio difundido por Galilea Frías en redes sociales y no se cuenta con información sobre una postura de las personas señaladas, como medio informativo, Periódico Notus mantiene abierto el espacio para su derecho de réplica. Abasolo, Guanajuato.- Una ciudadana identificada como Galilea Frías denunció públicamente presuntas amenazas de muerte y agresiones …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Cae presunto transportista de huachicol en la carretera Pénjamo-La Piedad",
-    "fecha": "02/11/2026 13:29",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/cae-presunto-transportista-de-huachicol-en-la-carretera-penjamo-la-piedad-170597.html",
-    "resumen": "Detienen en Pénjamo a un hombre que transportaba 54 mil litros de posible hidrocarburo y tenía dos mandamientos judiciales pendientes."
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Auto choca contra muro de contención en la Pénjamo-Abasolo",
-    "fecha": "02/11/2026 12:56",
+    "prioridad": 1,
+    "titulo": "Más de 15 mil dobladenses visitaron los panteones durante Día de Muertos",
+    "fecha": "03/11/2026 13:19",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/auto-choca-contra-muro-de-contencion-en-la-penjamo-abasolo/",
-    "resumen": "Pénjamo Guanajuato.- Un automóvil chocó contra la barra de contención de la carretera Federal Pénjamo-Abasolo. Al parecer, dos personas resultaron lesionadas en la zona del entronque de San Gabriel y el puente del Río Turbio; el carril de baja velocidad fue cerrado por elementos de emergencia. Al lugar acudieron paramédicos, Protección Civil, Policía Municipal y …"
+    "url": "https://notus.com.mx/mas-de-15-mil-dobladenses-visitaron-los-panteones-durante-dia-de-muertos/",
+    "resumen": "Manuel Doblado, Guanajuato.- Más de 15 mil personas visitaron los panteones de Manuel Doblado durante las celebraciones de Día de Muertos. De acuerdo con el registro de Protección Civil (PC), los tres cementerios del municipio recibieron un total de 15 mil 214 visitantes durante los días de conmemoración. La cifra corresponde a los panteones de …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Accidente en la carretera Abasolo-Pénjamo: taxi queda atravesado en el carril izquierdo",
-    "fecha": "02/11/2026 11:43",
+    "prioridad": 2,
+    "titulo": "Pese a obstáculos para viajar a Rumania, estudiante del ITESI Irapuato brilla en RoboChallenge 2026",
+    "fecha": "03/11/2026 14:26",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/accidente-en-la-carretera-abasolo-penjamo-taxi-queda-atravesado-en-el-carril-izquierdo-170591.html",
-    "resumen": "El taxi que conducía el hombre quedó invadiendo el carril de la extrema izquierda en el tramo de la carretera Abasolo- Pénjamo"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/03/pese-a-obstaculos-para-viajar-a-rumania-estudiante-del-itesi-irapuato-brilla-en-robochallenge-2026-170669.html",
+    "resumen": "Luis Edgar Velázquez Godínez logró posicionarse dentro del top 10 de la competencia internacional, poniendo en alto a Irapuato y  México"
   },
   {
-    "prioridad": 0,
-    "titulo": "Aseguran en Pénjamo tractocamión con 54 mil litros de presunto hidrocarburo",
-    "fecha": "02/11/2026 10:15",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/aseguran-en-penjamo-tractocamion-con-54-mil-litros-de-presunto-hidrocarburo/",
-    "resumen": "Pénjamo, Guanajuato.- Integrantes de las Fuerzas de Seguridad Pública del Estado (FSPE), en coordinación con la Secretaría de la Defensa Nacional (Defensa), aseguraron un tractocamión de doble remolque que transportaba aproximadamente 54 mil litros de líquido con características de hidrocarburo. El aseguramiento ocurrió el 6 de octubre, sobre la carretera federal 90, en el tramo …"
+    "prioridad": 2,
+    "titulo": "Desaparece menor de 13 años en Irapuato: podría dirigirse a Monterrey",
+    "fecha": "03/11/2026 14:10",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/desaparece-menor-de-13-anos-en-irapuato-podria-dirigirse-a-monterrey/",
+    "resumen": "Irapuato, Guanajuato.- La alerta Amber por Kendra Monserrat Mendoza Gómez, adolescente de 13 años originaria de Irapuato, se encuentra activa tras su desaparición el 2 de noviembre. El Colectivo NO te olvidamos Te buscamos señaló que aparentemente se dirige a Monterrey, el mismo destino al que otra menor de Celaya planeaba viajar por una supuesta …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Más de 4 mil personas acuden al panteón municipal de Abasolo para recordar a sus difuntos",
-    "fecha": "02/11/2026 09:26",
+    "prioridad": 2,
+    "titulo": "Preocupa cierre de acceso a comunidades en Salamanca por obras del tren hacia Irapuato",
+    "fecha": "03/11/2026 13:51",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/salamanca/2026/nov/03/preocupa-cierre-de-acceso-a-comunidades-en-salamanca-por-obras-del-tren-hacia-irapuato-170664.html",
+    "resumen": "Aunque reconocen que la obra traerá beneficios, habitantes de comunidades en Salamanca señalan complicaciones por el cierre del camino a la colonia Cipreses"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "CECyTEG obtiene 20 reconocimientos en competencia de Inteligencia Artificial",
+    "fecha": "03/11/2026 13:11",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cecyteg-obtiene-20-reconocimientos-en-competencia-de-inteligencia-artificial/",
+    "resumen": "Irapuato, Guanajuato.- Estudiantes del Colegio de Estudios Científicos y Tecnológicos del Estado de Guanajuato (CECyTEG) obtuvieron 20 reconocimientos en TRACK TALENTS 2026, encuentro enfocado en el desarrollo de soluciones innovadoras mediante Inteligencia Artificial y tecnologías emergentes para atender los retos de la sociedad del futuro. En esta edición, realizada bajo la temática “Desarrollando Inteligencia Artificial …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Juan Diego, joven irapuatense, salva vidas tras donación de órganos",
+    "fecha": "03/11/2026 11:47",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/juan-diego-joven-irapuatense-salva-vidas-tras-donacion-de-organos/",
+    "resumen": "Irapuato, Guanajuato.- La Secretaría de Salud de Guanajuato reconoce el acto de amor y generosidad de la familia de Juan Diego, un joven de 21 años originario de Irapuato, quien, a través de la procuración de órganos y tejidos, brindó una nueva esperanza de vida a otras personas. En el Hospital General de Irapuato se …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De aprender un oficio a buscar apoyo emocional: el taller de Irapuato que pasó de 30 a 120 participantes",
+    "fecha": "03/11/2026 08:58",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/mas-de-4-mil-personas-acuden-al-panteon-municipal-de-abasolo-para-recordar-a-sus-difuntos-32926576",
-    "resumen": "Flores de cempasúchil, ofrendas y canciones dedicadas a quienes ya no están formaron parte de las visitas al panteón municipal de Abasolo durante el Día de Muertos. Familias acudieron para recordar a sus seres queridos, visitar sus tumbas y mantener presentes las historias compartidas durante su vida"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-aprender-un-oficio-a-buscar-apoyo-emocional-el-taller-de-irapuato-que-paso-de-30-a-120-participantes-32945536",
+    "resumen": "Personas que acudían a cursos de carpintería, cocina o costura comenzaron a expresar problemas emocionales y familiares; Desarrollo Social abrió un taller de salud mental y que ahora forma parte de sus actividades permanentes"
   },
   {
-    "prioridad": 0,
-    "titulo": "Arranca pavimentación en Huitzatarito con inversión de 3.4 millones de pesos en Abasolo",
-    "fecha": "02/11/2026 08:54",
+    "prioridad": 2,
+    "titulo": "Irapuato concentra 25% de las extorsiones de todo Guanajuato",
+    "fecha": "03/11/2026 08:38",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/arranca-pavimentacion-en-huitzatarito-con-inversion-de-3-4-millones-de-pesos-en-abasolo-32925826",
-    "resumen": "La obra contempla la intervención de las calles Primavera y Eucaliptos, con una longitud total aproximada de 264 metros y un plazo de ejecución de tres meses"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-concentra-25-de-las-extorsiones-de-todo-guanajuato-32945028",
+    "resumen": "Aunque algunos robos disminuyeron, los homicidios y otros delitos mantienen la preocupación por la seguridad en el municipio"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Escuela de Educación Secundaria de Talentos Irapuato celebra el Festival  “Entre el Mictlán y la Eternidad”",
+    "fecha": "03/11/2026 07:09",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/escuela-de-educacion-secundaria-de-talentos-irapuato-celebra-el-festival-entre-el-mictlan-y-la-eternidad-32942878",
+    "resumen": "Con altares, catrinas, bailes tradicionales y expresiones artísticas, estudiantes, docentes y padres de familia se unieron para preservar las tradiciones mexicanas y celebrar la riqueza cultural del Día de Muertos en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Policías sancionados y otros deslindados: así funcionan las investigaciones internas en Irapuato",
+    "fecha": "03/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/policias-sancionados-y-otros-deslindados-asi-funcionan-las-investigaciones-internas-en-irapuato-32926746",
+    "resumen": "La secretaria de Seguridad Ciudadana de Irapuato confirmó que ya ha habido sanciones a policías, pero también casos en los que los señalamientos fueron descartados"
   },
   {
     "prioridad": 2,
@@ -102,53 +150,5 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/gran-manzana-de-irapuato-tendra-dos-pasos-desnivel/",
     "resumen": "Irapuato, Guanajuato.- El proyecto de la Gran Manzana de Irapuato contempla dos pasos a desnivel para mitigar el caos vial en avenidas principales de la zona entre el parque Irekua y el estadio Sergio León Chávez. La propuesta del Plan de Desarrollo Irapuato 27 incluye un paso vehicular inferior en avenida Revolución y un paso …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Guanajuato vive jornada violenta en Día de Muertos: nueve personas asesinadas en distintos municipios",
-    "fecha": "02/11/2026 12:05",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/guanajuato-vive-jornada-violenta-en-dia-de-muertos-nueve-personas-asesinadas-en-distintos-municipios-170592.html",
-    "resumen": "Ataques armados se registran en distintos municipios de Guanajuato, dejando alrededor de 9 personas en León, Irapuato, Silao, Salamanca y Celaya"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Las Fénix y Amigos del Backlog conquistan la Liga SMX 2026 en Irapuato",
-    "fecha": "02/11/2026 10:27",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/liga-smx-2026-schaeffler-corona-a-sus-campeones-en-las-canchas-myura-32926448",
-    "resumen": "Las Fénix y Amigos del backlog se convierten en los campeones de la rama femenil y varonil"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sepultan a Doña Lupita Murillo; familia pide justicia y asegura: “Ella ya lo perdonó, nosotros no”",
-    "fecha": "02/11/2026 10:12",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/sepultan-a-dona-lupita-murillo-familia-pide-justicia-y-asegura-ella-ya-lo-perdono-nosotros-no-32927569",
-    "resumen": "Familiares, vecinos y amigos acompañaron el último recorrido de Lupita Murillo hasta el Panteón Municipal de Irapuato; en medio de la despedida pidieron que la justicia determine la responsabilidad por su muerte"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "No basta con el drenaje: comunidades rurales de Irapuato ahora sanearán sus aguas",
-    "fecha": "02/11/2026 09:19",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/no-basta-con-el-drenaje-comunidades-rurales-de-irapuato-ahora-sanearan-sus-aguas-32926595",
-    "resumen": "El municipio reporta más de 100 acciones de drenaje en localidades rurales y una inversión superior a 200 millones de pesos en infraestructura hidrosanitaria"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Grupo Siglo XXI del Club Españita de Irapuato celebra su amistad entre disfraces y convivencia",
-    "fecha": "02/11/2026 07:59",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/grupo-siglo-xxi-del-club-espanita-de-irapuato-celebra-su-amistad-entre-disfraces-y-convivencia-32924301",
-    "resumen": "Los anfitriones del agradable encuentro fueron Sergio Olmos Almanza y su esposa, Lupita Temois de Olmos, quienes ofrecieron una atención de primera a los invitados"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Entre tradición y color, Secundaria Técnica 32 de Irapuato festeja el Día de Muertos con el festival ‘Raíces que viven’",
-    "fecha": "02/11/2026 05:04",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/entre-tradicion-y-color-secundaria-tecnica-32-de-irapuato-festeja-el-dia-de-muertos-con-el-festival-raices-que-viven-32876577",
-    "resumen": "Alumnos, padres de familia, personal docente y el director del plantel, Eduardo Francisco Cardona, participaron en la organización de este festejo de la cultura mexicana"
   }
 ]
