@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Integrante de familia señalada por amenazas y agresiones en Abasolo da su versión",
+    "fecha": "02/11/2026 17:10",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/integrante-de-familia-senalada-por-amenazas-y-agresiones-en-abasolo-da-su-version/",
+    "resumen": "Esta declaración representa la postura de Xóchitl Diosdado Villa frente a las acusaciones de Galilea Frías. Como medio informativo, Periódico Notus mantiene abierto el espacio para el derecho de réplica. Abasolo, Guanajuato.- Luego de que una abasolense denunciara públicamente presuntas amenazas de muerte y agresiones contra su familia, Xóchitl integrante de la familia acusada difundió …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Recuerdan a ‘Bosho’ del Grupo Dorado de Abasolo a un año de su muerte",
     "fecha": "02/11/2026 16:40",
     "fuente": "Notus",
@@ -43,7 +51,7 @@
     "prioridad": 0,
     "titulo": "Aseguran en Pénjamo tractocamión con 54 mil litros de presunto hidrocarburo",
     "fecha": "02/11/2026 10:15",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/aseguran-en-penjamo-tractocamion-con-54-mil-litros-de-presunto-hidrocarburo/",
     "resumen": "Pénjamo, Guanajuato.- Integrantes de las Fuerzas de Seguridad Pública del Estado (FSPE), en coordinación con la Secretaría de la Defensa Nacional (Defensa), aseguraron un tractocamión de doble remolque que transportaba aproximadamente 54 mil litros de líquido con características de hidrocarburo. El aseguramiento ocurrió el 6 de octubre, sobre la carretera federal 90, en el tramo …"
   },
@@ -64,12 +72,36 @@
     "resumen": "La obra contempla la intervención de las calles Primavera y Eucaliptos, con una longitud total aproximada de 264 metros y un plazo de ejecución de tres meses"
   },
   {
-    "prioridad": 1,
-    "titulo": "Sequía afecta a agricultores y ganaderos de Manuel Doblado",
-    "fecha": "01/11/2026 23:21",
+    "prioridad": 2,
+    "titulo": "Irapuato se rezagó por falta de coordinación y necesita experiencia rumbo a 2027: Pepe Aguirre",
+    "fecha": "02/11/2026 23:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-se-rezago-por-falta-de-coordinacion-y-necesita-experiencia-rumbo-a-2027-pepe-aguirre-32927961",
+    "resumen": "El diputado federal de Morena sostiene que el municipio perdió oportunidades y por ello requiere un nuevo rumbo político; sostiene que los empresarios ya no temen a que Morena gobierne"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Choque entre motociclista y ciclista deja dos lesionados en carretera de Irapuato a Pueblo Nuevo",
+    "fecha": "02/11/2026 21:32",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/01/sequia-afecta-a-agricultores-y-ganaderos-de-manuel-doblado-170583.html",
-    "resumen": "Las presas del municipio no fueron abastecidas por las lluvias y trabajadores del campo, como Eliseo Preciado, batallan para mantener a sus animales"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/choque-entre-motociclista-y-ciclista-deja-dos-lesionados-en-carretera-de-irapuato-a-pueblo-nuevo-170636.html",
+    "resumen": "Un choque en Irapuato entre un motociclista y un ciclista dejó dos personas lesionadas sobre la carretera a Pueblo Nuevo, a la altura de la comunidad El Carmen"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Cada semana, bomberos de Irapuato retiran hasta seis cilindros de gas LP en malas condiciones",
+    "fecha": "02/11/2026 18:22",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/02/cada-semana-bomberos-de-irapuato-retiran-hasta-seis-cilindros-de-gas-lp-en-malas-condiciones-170619.html",
+    "resumen": "Protección Civil de Irapuato asegura hasta seis cilindros de gas LP en malas condiciones cada semana, como parte de un programa de prevención"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Gran Manzana de Irapuato tendrá dos pasos desnivel",
+    "fecha": "02/11/2026 17:14",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/gran-manzana-de-irapuato-tendra-dos-pasos-desnivel/",
+    "resumen": "Irapuato, Guanajuato.- El proyecto de la Gran Manzana de Irapuato contempla dos pasos a desnivel para mitigar el caos vial en avenidas principales de la zona entre el parque Irekua y el estadio Sergio León Chávez. La propuesta del Plan de Desarrollo Irapuato 27 incluye un paso vehicular inferior en avenida Revolución y un paso …"
   },
   {
     "prioridad": 2,
@@ -118,37 +150,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/gossip/entre-tradicion-y-color-secundaria-tecnica-32-de-irapuato-festeja-el-dia-de-muertos-con-el-festival-raices-que-viven-32876577",
     "resumen": "Alumnos, padres de familia, personal docente y el director del plantel, Eduardo Francisco Cardona, participaron en la organización de este festejo de la cultura mexicana"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Yo le canto a los muertos para que lloren los vivos”: Armando, el cantor del panteón de Irapuato",
-    "fecha": "02/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/yo-le-canto-a-los-muertos-para-que-lloren-los-vivos-armando-el-cantor-del-panteon-de-irapuato-32908346",
-    "resumen": "A sus 58 años, recorre el Panteón Municipal de Irapuato con una guitarra; no cobra por canción y acompaña con música a familias que llegan para despedir a sus muertos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Ya déjame trabajar, no me estés molestando”: Arturo, 44 años de andar entre tumbas en Irapuato",
-    "fecha": "02/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ya-dejame-trabajar-no-me-estes-molestando-arturo-44-anos-de-andar-entre-tumbas-en-irapuato-32908642",
-    "resumen": "Es el trabajador con mayor antigüedad del lugar y entre inhumaciones, exhumaciones y mantenimiento sacó adelante a sus dos hijos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en la colonia Playa Azul de Irapuato deja un muerto y un herido",
-    "fecha": "01/11/2026 22:31",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/01/ataque-armado-en-la-colonia-playa-azul-de-irapuato-deja-un-muerto-y-un-herido-170579.html",
-    "resumen": "Un hombre murió y otro resultó lesionado tras un ataque armado registrado la noche del domingo en las calles Joaquín Herrera, Gustavo Díaz Ordaz y David Alfaro Siqueiros, en la colonia Playa Azul, en la zona sur de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Zoológico de Irapuato abrirá este lunes 2 de noviembre",
-    "fecha": "01/11/2026 19:53",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/01/zoologico-de-irapuato-abrira-este-lunes-2-de-noviembre-170574.html",
-    "resumen": "Zoológico de Irapuato abrirá este fin de semana largo en su horario habitual de 9:00 a 18:00 horas, con todas sus atracciones disponibles"
   }
 ]
