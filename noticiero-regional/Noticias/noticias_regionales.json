@@ -3,7 +3,7 @@
     "prioridad": 0,
     "titulo": "¿Sabías que José Alfredo Jiménez estuvo en la cárcel de Abasolo?",
     "fecha": "03/11/2026 10:45",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/sabias-que-jose-alfredo-jimenez-estuvo-en-la-carcel-de-abasolo/",
     "resumen": "Abasolo, Guanajuato.- Hay una escena poco conocida en la historia de Abasolo que tiene como protagonista a uno de los grandes nombres de la música mexicana: José Alfredo Jiménez Sandoval. En 1965, el cantautor guanajuatense apareció dentro de la cárcel municipal, acompañado de su guitarra y entonando una canción. Pero no se trataba de una …"
   },
@@ -17,35 +17,59 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Integrante de familia señalada por amenazas y agresiones en Abasolo da su versión",
-    "fecha": "02/11/2026 17:10",
+    "titulo": "Disfrutan cine en la capital: hasta el panteón de Sangre de Cristo",
+    "fecha": "03/11/2026 15:00",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/integrante-de-familia-senalada-por-amenazas-y-agresiones-en-abasolo-da-su-version/",
-    "resumen": "Esta declaración representa la postura de Xóchitl Diosdado Villa frente a las acusaciones de Galilea Frías. Como medio informativo, Periódico Notus mantiene abierto el espacio para el derecho de réplica. Abasolo, Guanajuato.- Luego de que una abasolense denunciara públicamente presuntas amenazas de muerte y agresiones contra su familia, Xóchitl integrante de la familia acusada difundió …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Recuerdan a ‘Bosho’ del Grupo Dorado de Abasolo a un año de su muerte",
-    "fecha": "02/11/2026 16:40",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/recuerdan-a-bosho-del-grupo-dorado-de-abasolo-a-un-ano-de-su-muerte/",
-    "resumen": "Abasolo, Guanajuato.- “Hoy todos esperamos tu llegada. Todos te seguimos recordando”: los integrantes del Grupo Dorado de Abasolo conmemoran a Juan Luis tras un año de su muerte este día de muertos. ‘Bosho’ fue un miembro muy querido por su carisma y su entrega en el escenario. El pasado lunes 26 de octubre, los seres queridos …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Mujer de Abasolo denuncia presuntas amenazas y agresiones contra su familia",
-    "fecha": "02/11/2026 15:25",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/mujer-de-abasolo-denuncia-presuntas-amenazas-y-agresiones-contra-su-familia/",
-    "resumen": "Las acusaciones corresponden al testimonio difundido por Galilea Frías en redes sociales y no se cuenta con información sobre una postura de las personas señaladas, como medio informativo, Periódico Notus mantiene abierto el espacio para su derecho de réplica. Abasolo, Guanajuato.- Una ciudadana identificada como Galilea Frías denunció públicamente presuntas amenazas de muerte y agresiones …"
+    "url": "https://notus.com.mx/disfrutan-cine-en-la-capital-hasta-el-panteon-de-sangre-de-cristo/",
+    "resumen": "Guanajuato, Guanajuato.- Entre la víspera de San Judas Tadeo, una noche de leyendas en Abasolo y cientos de personas reunidas afuera de un panteón en Día de Muertos, el programa de Cine La Mina culminó con cientos de personas que se reunieron afuera del Panteón de Sangre de Cristo para ver Macario, de Roberto Gavaldón, …"
   },
   {
     "prioridad": 1,
     "titulo": "Más de 15 mil dobladenses visitaron los panteones durante Día de Muertos",
     "fecha": "03/11/2026 13:19",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/mas-de-15-mil-dobladenses-visitaron-los-panteones-durante-dia-de-muertos/",
     "resumen": "Manuel Doblado, Guanajuato.- Más de 15 mil personas visitaron los panteones de Manuel Doblado durante las celebraciones de Día de Muertos. De acuerdo con el registro de Protección Civil (PC), los tres cementerios del municipio recibieron un total de 15 mil 214 visitantes durante los días de conmemoración. La cifra corresponde a los panteones de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en el bulevar Gómez Morín de Irapuato deja un hombre muerto",
+    "fecha": "03/11/2026 18:09",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/03/ataque-armado-en-el-bulevar-gomez-morin-de-irapuato-deja-un-hombre-muerto-170692.html",
+    "resumen": "Un hombre sin identificar murió tras un ataque armado registrado en el bulevar Gómez Morín, en la zona norte de Irapuato, cerca del pozo de Japami"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Bajan los homicidios dolosos en Irapuato durante octubre",
+    "fecha": "03/11/2026 17:40",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/03/bajan-los-homicidios-dolosos-en-irapuato-durante-octubre-170689.html",
+    "resumen": "El Observatorio Ciudadano Irapuato reportó 25 eventos de homicidio doloso y 31 víctimas en octubre, una reducción de 7% y 14% respectivamente frente a 2025"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Crimen organizado en Irapuato lidera homicidios",
+    "fecha": "03/11/2026 17:11",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/crimen-organizado-en-irapuato-lidera-homicidios/",
+    "resumen": "Irapuato, Guanajuato.- Octubre cerró con 31 asesinatos en Irapuato: de 25 ataques, 24 fueron consecuencia del crimen organizado, de acuerdo con el Observatorio Ciudadano Irapuato ¿Cómo vamos? El 96 por ciento de los hechos violentos presentó un patrón característico de grupos delictivos. Pese a que comparado con el año anterior se presentó una baja tanto …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Profesor de la UG obtiene segundo lugar nacional en concurso de innovación biomédica",
+    "fecha": "03/11/2026 15:37",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/profesor-de-la-ug-obtiene-segundo-lugar-nacional-en-concurso-de-innovacion-biomedica/",
+    "resumen": "Guanajuato, Gto.- El Dr. Agustín Vidal Lesso, profesor del Departamento de Ingeniería Mecánica del Campus Irapuato-Salamanca de la Universidad de Guanajuato (UG), obtuvo el segundo lugar en la Sesión de Pósters del Concurso de Innovación Biomédica Emergente, organizado por la Sociedad Mexicana de Ingeniería Biomédica (SOMIB). El reconocimiento fue otorgado por el proyecto titulado “Cuantificando …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Lorena Alfaro supervisa pavimentación de la calle Crisantemos en Valle Verde, Irapuato",
+    "fecha": "03/11/2026 15:22",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/lorena-alfaro-supervisa-pavimentacion-de-la-calle-crisantemos-en-valle-verde-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- La presidenta municipal de Irapuato, Lorena Alfaro García, supervisó los trabajos de pavimentación integral de la calle Crisantemos, en la colonia Valle Verde, donde se realizan obras para mejorar la movilidad, la infraestructura y las condiciones de vida de sus habitantes. El proyecto contempla pavimentación, rehabilitación del sistema de drenaje, instalación de alumbrado …"
   },
   {
     "prioridad": 2,
@@ -59,7 +83,7 @@
     "prioridad": 2,
     "titulo": "Desaparece menor de 13 años en Irapuato: podría dirigirse a Monterrey",
     "fecha": "03/11/2026 14:10",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/desaparece-menor-de-13-anos-en-irapuato-podria-dirigirse-a-monterrey/",
     "resumen": "Irapuato, Guanajuato.- La alerta Amber por Kendra Monserrat Mendoza Gómez, adolescente de 13 años originaria de Irapuato, se encuentra activa tras su desaparición el 2 de noviembre. El Colectivo NO te olvidamos Te buscamos señaló que aparentemente se dirige a Monterrey, el mismo destino al que otra menor de Celaya planeaba viajar por una supuesta …"
   },
@@ -75,15 +99,23 @@
     "prioridad": 2,
     "titulo": "CECyTEG obtiene 20 reconocimientos en competencia de Inteligencia Artificial",
     "fecha": "03/11/2026 13:11",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/cecyteg-obtiene-20-reconocimientos-en-competencia-de-inteligencia-artificial/",
     "resumen": "Irapuato, Guanajuato.- Estudiantes del Colegio de Estudios Científicos y Tecnológicos del Estado de Guanajuato (CECyTEG) obtuvieron 20 reconocimientos en TRACK TALENTS 2026, encuentro enfocado en el desarrollo de soluciones innovadoras mediante Inteligencia Artificial y tecnologías emergentes para atender los retos de la sociedad del futuro. En esta edición, realizada bajo la temática “Desarrollando Inteligencia Artificial …"
   },
   {
     "prioridad": 2,
+    "titulo": "Víctor Zanella reconoce diferencias en el PAN de Irapuato, pero asegura que el partido está unido",
+    "fecha": "03/11/2026 12:19",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/victor-zanella-afirma-que-el-pan-en-irapuato-esta-unido-rumbo-a-2027-32948307",
+    "resumen": "El diputado local comparó las distintas posturas del panismo con las diferencias que existen en una familia; sostuvo que Acción Nacional está preparado para 2027 y mantiene recorridos por colonias y comunidades de Irapuato"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Juan Diego, joven irapuatense, salva vidas tras donación de órganos",
     "fecha": "03/11/2026 11:47",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/juan-diego-joven-irapuatense-salva-vidas-tras-donacion-de-organos/",
     "resumen": "Irapuato, Guanajuato.- La Secretaría de Salud de Guanajuato reconoce el acto de amor y generosidad de la familia de Juan Diego, un joven de 21 años originario de Irapuato, quien, a través de la procuración de órganos y tejidos, brindó una nueva esperanza de vida a otras personas. En el Hospital General de Irapuato se …"
   },
@@ -126,29 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-se-rezago-por-falta-de-coordinacion-y-necesita-experiencia-rumbo-a-2027-pepe-aguirre-32927961",
     "resumen": "El diputado federal de Morena sostiene que el municipio perdió oportunidades y por ello requiere un nuevo rumbo político; sostiene que los empresarios ya no temen a que Morena gobierne"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Choque entre motociclista y ciclista deja dos lesionados en carretera de Irapuato a Pueblo Nuevo",
-    "fecha": "02/11/2026 21:32",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/02/choque-entre-motociclista-y-ciclista-deja-dos-lesionados-en-carretera-de-irapuato-a-pueblo-nuevo-170636.html",
-    "resumen": "Un choque en Irapuato entre un motociclista y un ciclista dejó dos personas lesionadas sobre la carretera a Pueblo Nuevo, a la altura de la comunidad El Carmen"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cada semana, bomberos de Irapuato retiran hasta seis cilindros de gas LP en malas condiciones",
-    "fecha": "02/11/2026 18:22",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/02/cada-semana-bomberos-de-irapuato-retiran-hasta-seis-cilindros-de-gas-lp-en-malas-condiciones-170619.html",
-    "resumen": "Protección Civil de Irapuato asegura hasta seis cilindros de gas LP en malas condiciones cada semana, como parte de un programa de prevención"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Gran Manzana de Irapuato tendrá dos pasos desnivel",
-    "fecha": "02/11/2026 17:14",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/gran-manzana-de-irapuato-tendra-dos-pasos-desnivel/",
-    "resumen": "Irapuato, Guanajuato.- El proyecto de la Gran Manzana de Irapuato contempla dos pasos a desnivel para mitigar el caos vial en avenidas principales de la zona entre el parque Irekua y el estadio Sergio León Chávez. La propuesta del Plan de Desarrollo Irapuato 27 incluye un paso vehicular inferior en avenida Revolución y un paso …"
   }
 ]
