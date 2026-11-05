@@ -1,6 +1,46 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Sentencian a dos hombres por portar armas y tener droga en León y Pénjamo",
+    "fecha": "04/11/2026 21:14",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/04/sentencian-a-dos-hombres-por-portar-armas-y-tener-droga-en-leon-y-penjamo-170825.html",
+    "resumen": "Jorge “N” recibió seis años de cárcel y Carol “N” nueve, tras ser detenidos en hechos distintos con armas de fuego, cartuchos y metanfetamina"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Ataque armado en la zona centro de Pénjamo deja un hombre muerto y dos personas heridas",
+    "fecha": "04/11/2026 21:10",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/04/ataque-armado-en-la-zona-centro-de-penjamo-deja-un-hombre-muerto-y-dos-personas-heridas-170824.html",
+    "resumen": "Un ataque en Pénjamo, cerca del Jardín Ana María Gallaga, dejó a un hombre sin vida y a dos personas heridas. Hombres armados dispararon contra las víctimas"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "En medio de crisis de seguridad, Pénjamo celebrará 484 años de fundación",
+    "fecha": "04/11/2026 20:02",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/04/en-medio-de-crisis-de-seguridad-penjamo-celebrara-484-anos-de-fundacion-170811.html",
+    "resumen": "Pénjamo celebrará el 484 aniversario de su fundación con el Festival del Globo, actividades para mujeres emprendedoras y un concierto de Banda Cuisillos"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Comerciantes de Pénjamo temen quedar fuera del mercado Hidalgo por nuevo reglamento",
+    "fecha": "04/11/2026 19:39",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/04/comerciantes-de-penjamo-temen-quedar-fuera-del-mercado-hidalgo-por-nuevo-reglamento-170804.html",
+    "resumen": "Vendedores desconocen si podrán conservar sus espacios tras la rehabilitación del comercio ambulante; uno reportó una caída de hasta 50% en sus ventas"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Ataque armado en puesto de gelatinas deja un joven sin vida y dos lesionados en Pénjamo",
+    "fecha": "04/11/2026 16:56",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-puesto-de-gelatinas-deja-un-joven-sin-vida-y-dos-lesionados-en-penjamo-32973072",
+    "resumen": "La agresión ocurrió en pleno Centro de la ciudad, en el cruce de las calles Orizaba y Degollado, una mujer y un hombre fueron trasladados a un hospital"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Piden respetar horarios de recolección de basura en Abasolo",
     "fecha": "04/11/2026 16:34",
     "fuente": "Notus",
@@ -27,7 +67,7 @@
     "prioridad": 0,
     "titulo": "Pénjamo inicia pavimentación en Calle de las Escuelas en La Cal Grande",
     "fecha": "04/11/2026 15:27",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/penjamo-inicia-pavimentacion-en-calle-de-las-escuelas-en-la-cal-grande/",
     "resumen": "Pénjamo, Guanajuato.- Para garantizar entornos escolares seguros, dignos y accesibles, la Presidenta Municipal de Pénjamo, Yozajamby Molina, encabezó el arranque de la construcción de pavimento con empedrado en la Calle de las Escuelas (Primera Etapa), en la comunidad de La Cal Grande. Esta obra, ejecutada con una inversión de 3.5 millones de pesos, representa una …"
   },
@@ -104,14 +144,6 @@
     "resumen": "En el jardín principal, autoridades municipales presentaron el programa de actividades deportivas, culturales y recreativas que formarán parte de la celebración, en la que también se busca recuperar la identidad y el sentido de pertenencia de los penjamenses"
   },
   {
-    "prioridad": 0,
-    "titulo": "Pénjamo registra más de 17 accidentes de motocicleta durante el puente de Día de Muertos",
-    "fecha": "03/11/2026 19:38",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/03/penjamo-registra-mas-de-17-accidentes-de-motocicleta-durante-el-puente-de-dia-de-muertos-170700.html",
-    "resumen": "Los accidentes en Pénjamo aumentaron durante el puente vacacional de Día de Muertos, con 17 percances en el municipio registrados"
-  },
-  {
     "prioridad": 1,
     "titulo": "Judith enfrenta cáncer de mama y busca salir adelante con su venta de menudo en Huanímaro",
     "fecha": "04/11/2026 09:58",
@@ -126,37 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/gestionan-instalacion-de-modulo-del-issste-para-jubilados-y-pensionados-en-huanimaro-32962199",
     "resumen": "La alcaldesa Laura Villalpando Arroyo sostuvo una reunión con representantes de la delegación estatal del ISSSTE en Guanajuato y organizaciones sindicales para revisar la instalación de un consultorio médico y un espacio de atención en el municipio"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Calle Cafetal entra en su etapa final tras trabajos de rehabilitación en Cuerámaro",
-    "fecha": "04/11/2026 05:30",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/calle-cafetal-entra-en-su-etapa-final-tras-trabajos-de-rehabilitacion-en-cueramaro-32961751",
-    "resumen": "La intervención incluyó la renovación de las líneas de drenaje y agua potable, además de la rehabilitación de la superficie de rodamiento para mejorar la conexión entre los habitantes de la comunidad"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Artistas locales presentan Brava, un musical que celebra los 450 años de León",
-    "fecha": "03/11/2026 20:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/leon/2026/nov/03/artistas-locales-presentan-brava-un-musical-que-celebra-los-450-anos-de-leon-170714.html",
-    "resumen": "Artistas presentarán Brava: El musical el próximo 19 de noviembre en el Teatro Manuel Doblado, una producción original que rendirá homenaje a su historia"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡Que no te sorprenda! Estas serán las vías alternas ante las nuevas obras del puente en Irapuato",
-    "fecha": "04/11/2026 18:53",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/04/que-no-te-sorprenda-estas-seran-las-vias-alternas-ante-las-nuevas-obras-del-puente-en-irapuato-170795.html",
-    "resumen": "Iniciarán el cierre vial el 9 de noviembre por la construcción del nuevo puente en Irapuato; para mantener la movilidad, habilitarán tres vías alternas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tren Querétaro-Irapuato para junio de 2027",
-    "fecha": "04/11/2026 17:24",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/tren-queretaro-irapuato-para-junio-de-2027/",
-    "resumen": "Irapuato, Guanajuato.- El primer tren de pasajeros Querétaro-Irapuato está previsto para junio de 2027. El recorrido será de 108 kilómetros y en Guanajuato cruzará Apaseo el Grande, Celaya, Cortazar, Salamanca e Irapuato. Proyecto del tren de pasajeros El proyecto del tren de pasajeros, incluye 10 viaductos, 13 estructuras viales y un túnel ferroviario de más …"
   }
 ]
