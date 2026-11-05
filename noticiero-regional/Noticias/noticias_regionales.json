@@ -1,6 +1,38 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Pénjamo entrega pavimentación de calle Aldama en San Antonio de Aceves",
+    "fecha": "05/11/2026 14:27",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/penjamo-entrega-pavimentacion-de-calle-aldama-en-san-antonio-de-aceves/",
+    "resumen": "Pénjamo, Guanajuato.- Con una inversión de 2 millones 134 mil 664 pesos, el Gobierno de Pénjamo entregó la pavimentación de la calle Aldama, en la comunidad de San Antonio de Aceves, obra que beneficia directamente a 100 habitantes y mejora las condiciones de movilidad y servicios básicos. La entrega fue encabezada por la presidenta municipal, …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "DIF Pénjamo entrega bastones a habitantes de San Antonio de Aceves",
+    "fecha": "05/11/2026 12:18",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/dif-penjamo-entrega-bastones-a-habitantes-de-san-antonio-de-aceves/",
+    "resumen": "Los apoyos buscan facilitar la movilidad y favorecer la autonomía de las personas beneficiadas. Pénjamo, Guanajuato. El Sistema DIF Municipal de Pénjamo realizó una entrega de bastones en la comunidad…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Identifican a jóvenes víctimas de ataque a puesto de gelatinas en Pénjamo: dos hermanos y una vecina",
+    "fecha": "05/11/2026 10:05",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/05/identifican-a-jovenes-victimas-de-ataque-a-puesto-de-gelatinas-en-penjamo-dos-hermanos-y-una-vecina-170845.html",
+    "resumen": "En el lugar quedó sin vida el hermano mayor, mientras que el menor y la joven vecina de la colonia Villas Casas Blancas fueron llevados a un hospital de Pénjamo"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Pénjamo tendrá monumento en homenaje a sus migrantes y sus familias",
+    "fecha": "05/11/2026 06:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-tendra-monumento-en-homenaje-a-sus-migrantes-y-sus-familias-32979692",
+    "resumen": "La obra reconocerá a las mujeres y hombres que han salido del municipio para buscar mejores condiciones de vida para sus familias, así como a quienes permanecen en sus hogares y enfrentan la ausencia de sus seres queridos"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Sentencian a dos hombres por portar armas y tener droga en León y Pénjamo",
     "fecha": "04/11/2026 21:14",
     "fuente": "Periódico Correo",
@@ -43,7 +75,7 @@
     "prioridad": 0,
     "titulo": "Piden respetar horarios de recolección de basura en Abasolo",
     "fecha": "04/11/2026 16:34",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/piden-respetar-horarios-de-recoleccion-de-basura-en-abasolo/",
     "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo pidió a la ciudadanía respetar los horarios y días del servicio de recolección de basura, con el propósito de evitar la acumulación de residuos en la vía pública y mantener limpias las calles del municipio. En la cabecera municipal, los camiones recolectores brindan el servicio de lunes a …"
   },
@@ -51,7 +83,7 @@
     "prioridad": 0,
     "titulo": "Abasolo mantiene cuota mínima en el pago del predial durante noviembre para ciertos sectores",
     "fecha": "04/11/2026 16:24",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/abasolo-mantiene-cuota-minima-en-el-pago-del-predial-durante-noviembre-para-ciertos-sectores/",
     "resumen": "Abasolo, Guanajuato.- Personas de 60 años o más, jubiladas y pensionadas, así como propietarios de viviendas adquiridas mediante créditos de interés social vigentes, pueden acceder a una cuota mínima en el pago del impuesto predial durante noviembre en Abasolo, siempre que cumplan con los requisitos establecidos. El Gobierno Municipal informó que este beneficio busca apoyar …"
   },
@@ -59,7 +91,7 @@
     "prioridad": 0,
     "titulo": "Abasolo celebra el Tercer Festival de Día de Muertos con desfile de catrinas y actividades culturales",
     "fecha": "04/11/2026 16:14",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/abasolo-celebra-el-tercer-festival-de-dia-de-muertos-con-desfile-de-catrinas-y-actividades-culturales/",
     "resumen": "Abasolo, Guanajuato.- Con actividades culturales, artísticas y recreativas, el municipio de Abasolo celebró el Tercer Festival de Día de Muertos «Una luz para no olvidar», que durante varios días reunió a familias y visitantes en torno a las tradiciones mexicanas y el recuerdo de sus seres queridos. Uno de los eventos principales fue el Tradicional …"
   },
@@ -67,96 +99,64 @@
     "prioridad": 0,
     "titulo": "Pénjamo inicia pavimentación en Calle de las Escuelas en La Cal Grande",
     "fecha": "04/11/2026 15:27",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/penjamo-inicia-pavimentacion-en-calle-de-las-escuelas-en-la-cal-grande/",
     "resumen": "Pénjamo, Guanajuato.- Para garantizar entornos escolares seguros, dignos y accesibles, la Presidenta Municipal de Pénjamo, Yozajamby Molina, encabezó el arranque de la construcción de pavimento con empedrado en la Calle de las Escuelas (Primera Etapa), en la comunidad de La Cal Grande. Esta obra, ejecutada con una inversión de 3.5 millones de pesos, representa una …"
   },
   {
     "prioridad": 0,
-    "titulo": "En Pénjamo develan el Bando Solemne por los 484 años de su fundación",
-    "fecha": "04/11/2026 13:23",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/en-penjamo-develan-el-bando-solemne-por-los-484-anos-de-su-fundacion/",
-    "resumen": "Pénjamo, Guanajuato.- El municipio de Pénjamo celebrará el 484 aniversario de su fundación del 7 al 13 de noviembre con una semana de actividades gratuitas que incluirán el Festival del Globo, exposiciones, eventos deportivos, conciertos y el tradicional Desfile de Fundación. El programa fue presentado durante la develación del Bando Solemne, encabezada por la presidenta …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Pénjamo inicia construcción del Monumento al Migrante y rehabilitación de plazuela",
-    "fecha": "04/11/2026 13:06",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/penjamo-inicia-construccion-del-monumento-al-migrante-y-rehabilitacion-de-plazuela/",
-    "resumen": "Pénjamo, Guanajuato.- El Gobierno de Pénjamo inició los trabajos para construir el Monumento al Migrante y rehabilitar integralmente la Plazuela de las Fuentes Saltarinas, ubicada sobre la calle Orizaba, como un reconocimiento a los habitantes que han emigrado en busca de mejores oportunidades para sus familias. El arranque de los trabajos fue encabezado por la …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "DIF Pénjamo y Derechos Humanos capacitan a adultos mayores y servidores públicos para prevenir la violencia",
-    "fecha": "04/11/2026 11:12",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/dif-penjamo-y-derechos-humanos-capacitan-a-adultos-mayores-y-servidores-publicos-para-prevenir-la-violencia/",
-    "resumen": "Personal de la Procuraduría de los Derechos Humanos del Estado de Guanajuato impartió charlas sobre el derecho de las personas mayores a vivir libres de violencia y la importancia de…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "DIF Pénjamo promueve hábitos de alimentación saludable entre madres de familia y estudiantes",
-    "fecha": "04/11/2026 11:07",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/dif-penjamo-promueve-habitos-de-alimentacion-saludable-entre-madres-de-familia-y-estudiantes/",
-    "resumen": "Mediante actividades de orientación alimentaria, el organismo municipal busca fomentar una nutrición equilibrada y fortalecer el bienestar de las familias penjamenses. Pénjamo, Guanajuato, 4 de noviembre de 2026. — Con…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "DIF Pénjamo entrega refrigerador a preescolar de Lagunillas para fortalecer la alimentación de 31 estudiantes",
-    "fecha": "04/11/2026 10:56",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/dif-penjamo-entrega-refrigerador-a-preescolar-de-lagunillas-para-fortalecer-la-alimentacion-de-31-estudiantes/",
-    "resumen": "Además del apoyo alimentario, padres de familia y alumnos participaron en la elaboración de pan de muerto como parte de las actividades para preservar las tradiciones mexicanas. Pénjamo, Guanajuato, 4…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Preparan nuevo parque recreativo en Mesa de Méndez, Pénjamo, para beneficio de las familias",
-    "fecha": "04/11/2026 10:51",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/preparan-nuevo-parque-recreativo-en-mesa-de-mendez-penjamo-para-beneficio-de-las-familias/",
-    "resumen": "A través del programa Red Móvil, DIF Pénjamo y DIF Estatal trabajan en el acondicionamiento de un espacio destinado a la recreación infantil y la convivencia comunitaria. Pénjamo, Guanajuato, 4…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Inicia pavimentación de la Calle de las Escuelas en La Cal Grande, Pénjamo; invertirán más de 3.5 millones de pesos",
-    "fecha": "04/11/2026 10:48",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/inicia-pavimentacion-de-la-calle-de-las-escuelas-en-la-cal-grande-penjamo-invertiran-mas-de-3-5-millones-de-pesos/",
-    "resumen": "La obra beneficiará el acceso a tres planteles educativos de la comunidad: un jardín de niños, una escuela primaria y la Telesecundaria 651. Pénjamo, Guanajuato, 4 de noviembre de 2026.…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Inicia construcción del Monumento al Migrante en Pénjamo; invertirán cerca de medio millón de pesos",
-    "fecha": "04/11/2026 10:43",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/inicia-construccion-del-monumento-al-migrante-en-penjamo-invertiran-cerca-de-medio-millon-de-pesos/",
-    "resumen": "La obra se realizará en la Plazuela de las Fuentes Saltarinas e incluirá la rehabilitación del espacio público, modernización de la fuente y la instalación de esculturas de cantera a…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Pénjamo, 484 años de historia que permanecen en la memoria de sus habitantes",
-    "fecha": "04/11/2026 05:02",
+    "titulo": "Transforman la calle Aldama de San Antonio de Aceves con pavimentación y nuevas redes de servicios",
+    "fecha": "05/11/2026 09:00",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-484-anos-de-historia-que-permanecen-en-la-memoria-de-sus-habitantes-32961117",
-    "resumen": "En el jardín principal, autoridades municipales presentaron el programa de actividades deportivas, culturales y recreativas que formarán parte de la celebración, en la que también se busca recuperar la identidad y el sentido de pertenencia de los penjamenses"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/transforman-la-calle-aldama-de-san-antonio-de-aceves-con-pavimentacion-y-nuevas-redes-de-servicios-32982356",
+    "resumen": "La presidenta municipal de Pénjamo, Yozajamby Molina, encabezó la entrega de la obra que contempla más de 166 metros lineales de concreto estampado"
   },
   {
     "prioridad": 1,
-    "titulo": "Judith enfrenta cáncer de mama y busca salir adelante con su venta de menudo en Huanímaro",
-    "fecha": "04/11/2026 09:58",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/judith-enfrenta-cancer-de-mama-y-busca-salir-adelante-con-su-venta-de-menudo-en-huanimaro-32966986",
-    "resumen": "Cada domingo vende menudo frente a su casa, en la comunidad de San Juan Grande; con un apoyo de siete mil pesos del programa Creemos en Ti, de Tú Puedes Guanajuato, podrá comprar ollas, cazuelas y una parrilla para fortalecer su negocio"
+    "titulo": "Entregan segundo pago de becas en Manuel Doblado",
+    "fecha": "05/11/2026 12:59",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/entregan-segundo-pago-de-becas-en-manuel-doblado/",
+    "resumen": "Manuel Doblado, Guanajuato.- La entrega del segundo pago de becas en Manuel Doblado se llevará a cabo en la casa de cultura Ramón Torres Franco hasta las 4 de la tarde. El municipio instó a los beneficiarios a acudir a la dependencia. El pasado 5 de octubre se entregó el primer pago tanto para beca …"
   },
   {
     "prioridad": 1,
-    "titulo": "Gestionan instalación de módulo del ISSSTE para jubilados y pensionados en Huanímaro",
-    "fecha": "04/11/2026 06:51",
+    "titulo": "Cuerámaro alista su feria 2026 esta es la cartelera musical",
+    "fecha": "05/11/2026 05:08",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/gestionan-instalacion-de-modulo-del-issste-para-jubilados-y-pensionados-en-huanimaro-32962199",
-    "resumen": "La alcaldesa Laura Villalpando Arroyo sostuvo una reunión con representantes de la delegación estatal del ISSSTE en Guanajuato y organizaciones sindicales para revisar la instalación de un consultorio médico y un espacio de atención en el municipio"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-alista-su-feria-2026-esta-es-la-cartelera-musical-32978049",
+    "resumen": "El municipio presenta la cartelera musical del Teatro del Pueblo como parte de la celebración por el 157 aniversario de su fundación y contempla presentaciones musicales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Exponen en foro proyectos de movilidad, agua y sostenibilidad para el desarrollo urbano de Irapuato",
+    "fecha": "05/11/2026 15:03",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/exponen-en-foro-proyectos-de-movilidad-agua-y-sostenibilidad-para-el-desarrollo-urbano-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Autoridades municipales, especialistas, representantes empresariales y ciudadanos participaron en el Foro de Futuro Urbano: “Ciudades Inteligentes y Derecho a la Ciudad”, organizado por el Gobierno de Irapuato para analizar la planeación urbana, la innovación y el crecimiento sostenible del municipio. El encuentro, realizado a través de la Dirección General de Desarrollo Urbano, reunió …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato presenta 19 convocatorias culturales para 2027; buscan impulsar el talento artístico",
+    "fecha": "05/11/2026 14:12",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-presenta-19-convocatorias-culturales-para-2027-buscan-impulsar-el-talento-artistico/",
+    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato presentó la oferta del Sistema Municipal de Convocatorias Culturales 2027, que contempla 19 convocatorias anuales en disciplinas como danza, teatro, literatura, artes visuales, música y gastronomía, con el objetivo de impulsar el talento artístico del municipio. Durante el anuncio, realizado junto con la premiación de la primera edición del …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Carrera Nocturna de Irapuato espera reunir a mil 500 participantes este 7 de noviembre",
+    "fecha": "05/11/2026 13:54",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/carrera-nocturna-de-irapuato-espera-reunir-a-mil-500-participantes-este-7-de-noviembre/",
+    "resumen": "Irapuato, Guanajuato.- La Carrera Nocturna “Entre la Vida y la Muerte” 2026 se realizará este sábado 7 de noviembre en Irapuato, con una expectativa de reunir a mil 500 corredoras y corredores, informó el Gobierno Local. A través de la Comisión del Deporte y Atención a la Juventud del Municipio de Irapuato (COMUDAJ), se invitó …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Albergue Infantil AIDI alista cuarta carrera con causa en Irapuato ¿cómo registrarse?",
+    "fecha": "05/11/2026 12:03",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/05/albergue-infantil-aidi-alista-cuarta-carrera-con-causa-en-irapuato-como-registrarse-170853.html",
+    "resumen": "El 29 de noviembre desde el parque Irekua, Irapuato se realizará la edición número cuatro de la carrera que busca recaudar fondos para el recinto"
   }
 ]
