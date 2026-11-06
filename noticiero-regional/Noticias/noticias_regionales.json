@@ -33,38 +33,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Sentencian a dos hombres por portar armas y tener droga en León y Pénjamo",
-    "fecha": "04/11/2026 21:14",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/04/sentencian-a-dos-hombres-por-portar-armas-y-tener-droga-en-leon-y-penjamo-170825.html",
-    "resumen": "Jorge “N” recibió seis años de cárcel y Carol “N” nueve, tras ser detenidos en hechos distintos con armas de fuego, cartuchos y metanfetamina"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Ataque armado en la zona centro de Pénjamo deja un hombre muerto y dos personas heridas",
-    "fecha": "04/11/2026 21:10",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/04/ataque-armado-en-la-zona-centro-de-penjamo-deja-un-hombre-muerto-y-dos-personas-heridas-170824.html",
-    "resumen": "Un ataque en Pénjamo, cerca del Jardín Ana María Gallaga, dejó a un hombre sin vida y a dos personas heridas. Hombres armados dispararon contra las víctimas"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "En medio de crisis de seguridad, Pénjamo celebrará 484 años de fundación",
-    "fecha": "04/11/2026 20:02",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/04/en-medio-de-crisis-de-seguridad-penjamo-celebrara-484-anos-de-fundacion-170811.html",
-    "resumen": "Pénjamo celebrará el 484 aniversario de su fundación con el Festival del Globo, actividades para mujeres emprendedoras y un concierto de Banda Cuisillos"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Comerciantes de Pénjamo temen quedar fuera del mercado Hidalgo por nuevo reglamento",
-    "fecha": "04/11/2026 19:39",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/04/comerciantes-de-penjamo-temen-quedar-fuera-del-mercado-hidalgo-por-nuevo-reglamento-170804.html",
-    "resumen": "Vendedores desconocen si podrán conservar sus espacios tras la rehabilitación del comercio ambulante; uno reportó una caída de hasta 50% en sus ventas"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Transforman la calle Aldama de San Antonio de Aceves con pavimentación y nuevas redes de servicios",
     "fecha": "05/11/2026 09:00",
     "fuente": "El Sol de Irapuato",
@@ -83,7 +51,7 @@
     "prioridad": 1,
     "titulo": "Entregan segundo pago de becas en Manuel Doblado",
     "fecha": "05/11/2026 12:59",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/entregan-segundo-pago-de-becas-en-manuel-doblado/",
     "resumen": "Manuel Doblado, Guanajuato.- La entrega del segundo pago de becas en Manuel Doblado se llevará a cabo en la casa de cultura Ramón Torres Franco hasta las 4 de la tarde. El municipio instó a los beneficiarios a acudir a la dependencia. El pasado 5 de octubre se entregó el primer pago tanto para beca …"
   },
@@ -94,6 +62,38 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-alista-su-feria-2026-esta-es-la-cartelera-musical-32978049",
     "resumen": "El municipio presenta la cartelera musical del Teatro del Pueblo como parte de la celebración por el 157 aniversario de su fundación y contempla presentaciones musicales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Viejito” y un colombiano detenidos por robo a farmacia en Irapuato",
+    "fecha": "05/11/2026 23:49",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/viejito-y-un-colombiano-detenidos-por-robo-a-farmacia-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Ernesto de 72 años, originario del Estado de México, y Mauricio de 32 años, de origen colombiano, fueron detenidos como los presuntos responsables de entrar a robar una farmacia, en Irapuato. Los supuestos delincuentes tenían tarjetas y varias terminales bancarias. La policía municipal desplegó un operativo de búsqueda, luego de que recibieron un …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato advierte opacidad federal sobre el tren de pasajeros",
+    "fecha": "05/11/2026 22:08",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/05/irapuato-advierte-opacidad-federal-sobre-el-tren-de-pasajeros-170928.html",
+    "resumen": "Lorena Alfaro García señaló que el gobierno federal cambió el viaducto por vías a nivel de tierra sin informar a Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¡Toma precauciones! Obras del tren de pasajeros cerrarán parcialmente la carretera Querétaro-Irapuato",
+    "fecha": "05/11/2026 19:38",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/05/toma-precauciones-obras-del-tren-de-pasajeros-cerraran-parcialmente-la-carretera-queretaro-irapuato-170905.html",
+    "resumen": "Las obras del tren de pasajeros provocarán cierres parciales nocturnos en la carretera Querétaro-Irapuato del 5 al 22 de noviembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a dos hombres por robo a una farmacia en La Valencianita, Irapuato",
+    "fecha": "05/11/2026 19:09",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/05/detienen-a-dos-hombres-por-robo-a-una-farmacia-en-la-valencianita-irapuato-170903.html",
+    "resumen": "La Policía Municipal de Irapuato detuvo a Ernesto \"N\" y a José Mauricio \"N\" por su probable participación en un robo a una farmacia"
   },
   {
     "prioridad": 2,
