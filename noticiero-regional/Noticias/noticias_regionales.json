@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Pénjamo inicia los festejos por su 484 aniversario con el Festival del Globo",
+    "fecha": "07/11/2026 11:38",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/penjamo-inicia-los-festejos-por-su-484-aniversario-con-el-festival-del-globo/",
+    "resumen": "Pénjamo, Guanajuato.- Con globos, ambiente festivo y una importante participación ciudadana, Pénjamo dio inicio a las actividades conmemorativas por el 484 aniversario de su fundación, teniendo como primer evento el Festival del Globo. Desde temprana hora, cientos de familias se dieron cita en la Unidad Deportiva del municipio para disfrutar de una mañana diferente y …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Canaco advierte fraude con cobros de afiliación en Pénjamo",
     "fecha": "06/11/2026 19:50",
     "fuente": "Periódico Correo",
@@ -8,36 +16,36 @@
     "resumen": "La Cámara alertó sobre personas que se presentan como trabajadores y solicitan pagos a negocios de Santa Ana Pacueco; pidió realizar trámites en sus oficinas"
   },
   {
-    "prioridad": 0,
-    "titulo": "Alcanza Partido Verde las 8 mil afiliaciones en Pénjamo; Javier Pérez no descarta candidatura",
-    "fecha": "06/11/2026 07:18",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/alcanza-partido-verde-las-8-mil-afiliaciones-en-penjamo-javier-perez-no-descarta-candidatura-32996478",
-    "resumen": "El Partido Verde en Pénjamo reporta entre 7 mil y 8 mil afiliaciones y prepara equipos territoriales rumbo a los próximos procesos electorales"
-  },
-  {
     "prioridad": 1,
     "titulo": "Encuentran a don José, adulto mayor perdido en Manuel Doblado",
     "fecha": "06/11/2026 16:27",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/encuentran-a-don-jose-adulto-mayor-perdido-en-manuel-doblado/",
     "resumen": "Manuel Doblado, Guanajuato.- Después de un día buscándolo, el dobladense don José de 94 años fue encontrado y reunido con su familia en la comunidad San Antonio de la Presa. El adulto mayor recibió atención médica y se encuentra estable. Bomberos del municipio informaron que, tras realizar cuadrillas de búsqueda, se logró localizar al hombre. …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Abuelito de 94 años está desaparecido en Manuel Doblado",
-    "fecha": "06/11/2026 10:54",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/abuelito-de-94-anos-esta-desaparecido-en-manuel-doblado/",
-    "resumen": "Manuel Doblado, Guanajuato.- El señor José de 94 años, habitante de la comunidad San Antonio de la Presa, se extravió el 5 de noviembre. Elementos de seguridad de Manuel Doblado desplegaron un operativo de búsqueda y piden apoyo de la población para localizarlo. Don José vestía camisa azul a cuadros y pantalón beige, sombrero blanco …"
+    "prioridad": 2,
+    "titulo": "Detienen a mujer tras ‘robar’ farmacia en Irapuato; trató de huir en moto",
+    "fecha": "07/11/2026 11:22",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/detienen-a-mujer-tras-robar-farmacia-en-irapuato-trato-de-huir-en-moto/",
+    "resumen": "Irapuato, Guanajuato.– Una mujer de 24 años fue detenida por elementos de la Policía Municipal de Irapuato, luego de ser señalada por su probable participación en el robo a una farmacia ubicada en la colonia Benito Juárez. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal (SSCM), los elementos policiales atendieron un reporte de …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Inician rehabilitación del dreaje en la colonia Maravillas de Cuerámaro con una inversión de más de 3 millones de pesos",
-    "fecha": "06/11/2026 08:32",
+    "prioridad": 2,
+    "titulo": "Ayuntamiento de Irapuato aprueba Ley de ingresos 2027",
+    "fecha": "07/11/2026 10:43",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/ayuntamiento-de-irapuato-aprueba-ley-de-ingresos-2027/",
+    "resumen": "Irapuato, Guajuato.- Con el objetivo de apoyar la economía de las familias irapuatenses y mantener el acceso gratuito a espacios de recreación y deporte, el Ayuntamiento de Irapuato aprobó por mayoría el proyecto de Ley de Ingresos y el pronóstico de disposiciones administrativas para el ejercicio fiscal 2027, que contempla una proyección de ingresos de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ubican caimán de 58 centímetros en el río Silao; piden no acercarse a buscarlo",
+    "fecha": "07/11/2026 07:24",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/inician-rehabilitacion-del-dreaje-en-la-coloia-maravillas-de-cueramaro-con-una-inversion-de-mas-de-3-millones-de-pesos-32997573",
-    "resumen": "Cuerámaro rehabilita el drenaje de la colonia Maravillas con una inversión superior a 3 millones de pesos para atender una red colapsada"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/ubican-caiman-de-58-centimetros-en-el-rio-silao-piden-no-acercarse-a-buscarlo-33012613",
+    "resumen": "Protección Civil mantiene vigilancia cerca de Villas de Irapuato y espera indicaciones para capturarlo y ponerlo a resguardo"
   },
   {
     "prioridad": 2,
@@ -75,7 +83,7 @@
     "prioridad": 2,
     "titulo": "UG realizará seminario de musicología en tres campus de Guanajuato",
     "fecha": "06/11/2026 16:50",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/ug-realizara-seminario-de-musicologia-en-tres-campus-de-guanajuato/",
     "resumen": "Guanajuato, Gto.- La Universidad de Guanajuato (UG) realizará del 9 al 11 de noviembre la segunda edición del “Seminario Permanente de Musicología” 2026, con actividades presenciales, virtuales e híbridas en sus campus Guanajuato, Irapuato-Salamanca y León. El encuentro reunirá a docentes, investigadores, estudiantes y profesionales vinculados con la música y las artes, mediante conferencias, talleres, …"
   },
@@ -83,7 +91,7 @@
     "prioridad": 2,
     "titulo": "Zona IV de Educación Especial cumple 50 años en Irapuato",
     "fecha": "06/11/2026 14:47",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/zona-iv-de-educacion-especial-cumple-50-anos-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- La Zona IV de Educación Especial cumplió 50 años de trabajo en Irapuato, periodo durante el cual ha brindado atención a más de 175 mil estudiantes. La conmemoración se realizó en el Teatro de la Ciudad, con la participación de autoridades educativas, docentes, estudiantes y familias. Durante la ceremonia, Valeria Alfaro, presidenta del Sistema …"
   },
@@ -96,67 +104,19 @@
     "resumen": "El Ayuntamiento aprobó una propuesta de ajuste de 0.6% mensual a partir de febrero; el Congreso del Estado deberá revisar los montos"
   },
   {
-    "prioridad": 2,
-    "titulo": "Ruta 6 de Irapuato atropella a persona frente al estadio",
-    "fecha": "06/11/2026 13:06",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/ruta-6-de-irapuato-atropella-a-persona-frente-al-estadio/",
-    "resumen": "Irapuato, Guanajuato.- Una persona, aparentemente motociclista, fue atropellada por un camión de la ruta 6 en el bulevar Lázaro Cárdenas de Irapuato. El accidente ocurrió a metros del estadio Sergio León Chávez. De acuerdo con información extraoficial, la víctima se atravesó sin que el conductor del transporte urbano pudiera detenerse en su trayecto. Protección Civil …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Predial en Irapuato 2027: proponen cuota mínima de 580 pesos y estos descuentos",
-    "fecha": "06/11/2026 12:23",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/predial-en-irapuato-cuota-minima-subiria-a-580-10-pesos-en-2027-33001700",
-    "resumen": "El municipio prevé recaudar dos mil 898 millones de pesos durante el próximo año"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Choque de pipa y dos tráileres obstruye Libramiento Norte de Irapuato",
-    "fecha": "06/11/2026 12:02",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/choque-de-pipa-y-dos-traileres-obstruye-libramiento-norte-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Una pipa y dos tráileres se vieron involucrados en un choque en el Libramiento Norte de Irapuato, en la zona aledaña a las gasolineras Las Gemelas. El accidente provocó un bloqueo parcial en la carretera federal 45 con dirección a Salamanca, dejando sólo el carril de alta velocidad disponible. De acuerdo con los …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Se salva trailero de milagro tras chocar con pipa de Pemex y otro vehículo pesado en Irapuato",
-    "fecha": "06/11/2026 11:32",
+    "prioridad": 3,
+    "titulo": "¿Cómo funciona la restricción de celulares en escuelas de Guanajuato? Así es la nueva medida",
+    "fecha": "06/11/2026 18:53",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/06/se-salva-trailero-de-milagro-tras-chocar-con-pipa-de-pemex-y-otro-vehiculo-pesado-en-irapuato-170945.html",
-    "resumen": "A unos metros de la gasolinera en Irapuato, el conductor del tráiler se impactó contra un vehículo pesado y una pipa de Pemex estacionados"
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/06/como-funciona-la-restriccion-de-celulares-en-escuelas-de-guanajuato-asi-es-la-nueva-medida-170985.html",
+    "resumen": "La Secretaría de Educación de Guanajuato confirmó que los maestros retirarán los celulares en escuelas de Guanajuato a los alumnos que los utilicen"
   },
   {
-    "prioridad": 2,
-    "titulo": "Irapuato modifica rutas de transporte por puente de la Bimbo",
-    "fecha": "06/11/2026 11:21",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-modifica-rutas-de-transporte-por-puente-de-la-bimbo/",
-    "resumen": "Irapuato, Guanajuato.- Con motivo del inicio de la construcción del puente vehicular de Calzada de Guadalupe, el Gobierno de Irapuato, a través de la Dirección General de Movilidad y Transporte, implementará modificaciones temporales en los recorridos de diversas rutas del transporte público, con el objetivo de garantizar la continuidad del servicio y facilitar los traslados …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "El título se queda en casa: Alex Ramos gana el Torneo de Día de Muertos de billar en Irapuato",
-    "fecha": "06/11/2026 11:02",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/alex-ramos-gana-el-torneo-de-billar-de-dia-de-muertos-en-irapuato-32999617",
-    "resumen": "Alex Ramos, de Irapuato, ganó el torneo de Día de Muertos en carambola a tres bandas tras vencer en la final a Bruno Torres"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Analizan rehabilitar hasta 193 calles en Irapuato; proyecto del Centro Histórico costaría hasta 400 millones",
-    "fecha": "06/11/2026 10:48",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/analizan-rehabilitar-hasta-193-calles-en-irapuato-proyecto-del-centro-historico-costaria-hasta-400-millones-32999435",
-    "resumen": "La rehabilitación de calles en Irapuato podría incluir hasta 193 vialidades del Centro Histórico y la periferia, según dos diagnósticos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato busca abrir oportunidades de trabajo y preparatoria para jóvenes con discapacidad",
-    "fecha": "06/11/2026 10:24",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-abrir-oportunidades-de-trabajo-y-preparatoria-para-jovenes-con-discapacidad-32999102",
-    "resumen": "La capacitación laboral para jóvenes con discapacidad en Irapuato y el acceso a preparatoria se plantearon durante los 50 años de Educación Especial"
+    "prioridad": 3,
+    "titulo": "Guanajuato tendrá 3 meses de adaptación para prohibir celulares en escuelas",
+    "fecha": "06/11/2026 16:50",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/guanajuato-tendra-3-meses-de-adaptacion-para-prohibir-celulares-en-escuelas/",
+    "resumen": "Guanajuato.- El uso de celulares dentro de las aulas quedó restringido para estudiantes guanajuatenses al igual que en el resto del país desde el 3 de noviembre. Pese a ello, la Secretaría de Educación del estado estableció un periodo de adaptación de hasta 3 meses para aplicar medidas en cada institución, ya sea pública o …"
   }
 ]
