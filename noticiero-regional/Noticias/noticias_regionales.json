@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Canaco advierte fraude con cobros de afiliación en Pénjamo",
+    "fecha": "06/11/2026 19:50",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/06/canaco-advierte-fraude-con-cobros-de-afiliacion-en-penjamo-170989.html",
+    "resumen": "La Cámara alertó sobre personas que se presentan como trabajadores y solicitan pagos a negocios de Santa Ana Pacueco; pidió realizar trámites en sus oficinas"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Alcanza Partido Verde las 8 mil afiliaciones en Pénjamo; Javier Pérez no descarta candidatura",
     "fecha": "06/11/2026 07:18",
     "fuente": "El Sol de Irapuato",
@@ -33,6 +41,30 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Accidente en la avenida Insurgentes de Irapuato deja un lesionado y un poste derribado",
+    "fecha": "06/11/2026 22:52",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/06/accidente-en-la-avenida-insurgentes-de-irapuato-deja-un-lesionado-y-un-poste-derribado-171008.html",
+    "resumen": "El conductor de un Chevrolet Aveo azul que aparentemente circulaba bajo los efectos del alcohol perdió el control en la avenida Insurgentes de Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Incremento al agua en Irapuato responde a compromisos financieros de Japami, señala especialista",
+    "fecha": "06/11/2026 18:43",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/06/incremento-al-agua-en-irapuato-responde-a-compromisos-financieros-de-japami-senala-especialista-170984.html",
+    "resumen": "Presidente del Colegio de Ingenieros del Agua de Guanajuato, consideró que el alza tarifaria busca cubrir compromisos de Japami"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Pide crear un CAM en Irapuato para la vida laboral de los alumnos con discapacidad",
+    "fecha": "06/11/2026 18:08",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/06/pide-crear-un-cam-en-irapuato-para-la-vida-laboral-de-los-alumnos-con-discapacidad-170981.html",
+    "resumen": "La Zona IV de Educación Especial conmemoró 50 años de servicio en Irapuato y solicitó la creación de un CAM en Irapuato para dar oportunidades laborales"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Cerrarán calles del centro de Irapuato este sábado",
     "fecha": "06/11/2026 17:51",
     "fuente": "Notus",
@@ -54,6 +86,14 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/zona-iv-de-educacion-especial-cumple-50-anos-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- La Zona IV de Educación Especial cumplió 50 años de trabajo en Irapuato, periodo durante el cual ha brindado atención a más de 175 mil estudiantes. La conmemoración se realizó en el Teatro de la Ciudad, con la participación de autoridades educativas, docentes, estudiantes y familias. Durante la ceremonia, Valeria Alfaro, presidenta del Sistema …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Pagarás más por el agua en Irapuato? Así cambiarían las tarifas de Japami en 2027",
+    "fecha": "06/11/2026 13:27",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tarifas-de-japami-podrian-subir-0-6-mensual-en-2027-33001794",
+    "resumen": "El Ayuntamiento aprobó una propuesta de ajuste de 0.6% mensual a partir de febrero; el Congreso del Estado deberá revisar los montos"
   },
   {
     "prioridad": 2,
@@ -118,45 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-abrir-oportunidades-de-trabajo-y-preparatoria-para-jovenes-con-discapacidad-32999102",
     "resumen": "La capacitación laboral para jóvenes con discapacidad en Irapuato y el acceso a preparatoria se plantearon durante los 50 años de Educación Especial"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a El Rica tras robo a tienda en Irapuato; tenía antecedentes, según Policía",
-    "fecha": "06/11/2026 10:08",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-el-rica-tras-robo-a-tienda-en-irapuato-tenia-antecedentes-segun-policia-32999665",
-    "resumen": "Ricardo N., alias El Rica, fue detenido en Irapuato tras un reporte de amenazas en una tienda; el C4 apoyó su localización"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Empresas mantienen confianza en Irapuato: invierten 110 millones de dólares y generan mil 300 nuevos empleos",
-    "fecha": "06/11/2026 09:58",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/empresas-mantienen-confianza-en-irapuato-invierten-110-millones-de-dolares-y-generan-mil-300-nuevos-empleos-32999415",
-    "resumen": "Inversiones en Irapuato suman 110 millones de dólares en 2026 y proyectan mil 300 empleos con cuatro ampliaciones empresariales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Adulta mayor muere atropellada en la Irapuato-Salamanca",
-    "fecha": "06/11/2026 09:55",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/06/adulta-mayor-muere-atropellada-en-la-irapuato-salamanca-170941.html",
-    "resumen": "La adulta mayor al parecer habría sido atropellada en la carretera federal a unos metros de la colonia Malvas Revolución de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Usas la R-21 o R-26? Así cambiará tu recorrido por las obras del Puente de la Bimbo",
-    "fecha": "06/11/2026 09:36",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/usas-la-r-21-o-r-26-asi-cambiara-tu-recorrido-por-las-obras-del-puente-de-la-bimbo-32998755",
-    "resumen": "El transporte público de Irapuato tendrá cambios por las obras del Puente de la Bimbo; R-21 y R-26 modificarán su regreso y ocho rutas podrían desviarse"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Feria de las Fresas 2027: Irapuato busca recursos para mantener espectáculos gratuitos",
-    "fecha": "06/11/2026 09:12",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/feria-de-las-fresas-2027-irapuato-busca-recursos-para-mantener-espectaculos-gratuitos-32998394",
-    "resumen": "Lorena Alfaro García aseguró que su administración gestionará apoyo estatal para conservar la oferta artística y familiar de la feria"
   }
 ]
