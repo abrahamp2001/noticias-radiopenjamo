@@ -9,11 +9,19 @@
   },
   {
     "prioridad": 1,
+    "titulo": "Encuentran a don José, adulto mayor perdido en Manuel Doblado",
+    "fecha": "06/11/2026 16:27",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/encuentran-a-don-jose-adulto-mayor-perdido-en-manuel-doblado/",
+    "resumen": "Manuel Doblado, Guanajuato.- Después de un día buscándolo, el dobladense don José de 94 años fue encontrado y reunido con su familia en la comunidad San Antonio de la Presa. El adulto mayor recibió atención médica y se encuentra estable. Bomberos del municipio informaron que, tras realizar cuadrillas de búsqueda, se logró localizar al hombre. …"
+  },
+  {
+    "prioridad": 1,
     "titulo": "Abuelito de 94 años está desaparecido en Manuel Doblado",
     "fecha": "06/11/2026 10:54",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/abuelito-de-94-anos-esta-desaparecido-en-manuel-doblado/",
-    "resumen": "Manuel Doblado, Guanajuato.- El señor Juan de 94 años, habitante de la comunidad San Antonio de la Presa, se extravió el 5 de noviembre. Elementos de seguridad de Manuel Doblado desplegaron un operativo de búsqueda y piden apoyo de la población para localizarlo. Don Juan vestía camisa azul a cuadros y pantalón beige, sombrero blanco …"
+    "resumen": "Manuel Doblado, Guanajuato.- El señor José de 94 años, habitante de la comunidad San Antonio de la Presa, se extravió el 5 de noviembre. Elementos de seguridad de Manuel Doblado desplegaron un operativo de búsqueda y piden apoyo de la población para localizarlo. Don José vestía camisa azul a cuadros y pantalón beige, sombrero blanco …"
   },
   {
     "prioridad": 1,
@@ -24,26 +32,50 @@
     "resumen": "Cuerámaro rehabilita el drenaje de la colonia Maravillas con una inversión superior a 3 millones de pesos para atender una red colapsada"
   },
   {
-    "prioridad": 1,
-    "titulo": "Pavimentarán acceso a Cerrito de Santiago con inversión de 2.4 millones de pesos",
-    "fecha": "05/11/2026 16:21",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/pavimentaran-acceso-a-cerrito-de-santiago-con-inversion-de-2-4-millones-de-pesos/",
-    "resumen": "Manuel Doblado, Guanajuato.- El acceso a la comunidad de Cerrito de Santiago, en Manuel Doblado, será mejorado con 370 metros lineales de carpeta asfáltica, mediante una obra que tendrá una inversión municipal de 2 millones 468 mil 601.42 pesos y que también contempla la atención de una de las vialidades hacia San Antonio de la …"
+    "prioridad": 2,
+    "titulo": "Cerrarán calles del centro de Irapuato este sábado",
+    "fecha": "06/11/2026 17:51",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cerraran-calles-del-centro-de-irapuato-este-sabado/",
+    "resumen": "Irapuato, Guanajuato. Varias calles del centro de Irapuato se cerrarán a la circulación este sábado 7 de noviembre, de las 18:00 a las 20:00 horas, por la Carrera Nocturna COMUDAJ 2026. De acuerdo con la información de las autoridades municipales, la competencia tendrá tres recorridos: 650 metros, 3 kilómetros y 7 kilómetros; todos saldrán y …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "UG realizará seminario de musicología en tres campus de Guanajuato",
+    "fecha": "06/11/2026 16:50",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/ug-realizara-seminario-de-musicologia-en-tres-campus-de-guanajuato/",
+    "resumen": "Guanajuato, Gto.- La Universidad de Guanajuato (UG) realizará del 9 al 11 de noviembre la segunda edición del “Seminario Permanente de Musicología” 2026, con actividades presenciales, virtuales e híbridas en sus campus Guanajuato, Irapuato-Salamanca y León. El encuentro reunirá a docentes, investigadores, estudiantes y profesionales vinculados con la música y las artes, mediante conferencias, talleres, …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Zona IV de Educación Especial cumple 50 años en Irapuato",
+    "fecha": "06/11/2026 14:47",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/zona-iv-de-educacion-especial-cumple-50-anos-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- La Zona IV de Educación Especial cumplió 50 años de trabajo en Irapuato, periodo durante el cual ha brindado atención a más de 175 mil estudiantes. La conmemoración se realizó en el Teatro de la Ciudad, con la participación de autoridades educativas, docentes, estudiantes y familias. Durante la ceremonia, Valeria Alfaro, presidenta del Sistema …"
   },
   {
     "prioridad": 2,
     "titulo": "Ruta 6 de Irapuato atropella a persona frente al estadio",
     "fecha": "06/11/2026 13:06",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/ruta-6-de-irapuato-atropella-a-persona-frente-al-estadio/",
     "resumen": "Irapuato, Guanajuato.- Una persona, aparentemente motociclista, fue atropellada por un camión de la ruta 6 en el bulevar Lázaro Cárdenas de Irapuato. El accidente ocurrió a metros del estadio Sergio León Chávez. De acuerdo con información extraoficial, la víctima se atravesó sin que el conductor del transporte urbano pudiera detenerse en su trayecto. Protección Civil …"
   },
   {
     "prioridad": 2,
+    "titulo": "Predial en Irapuato 2027: proponen cuota mínima de 580 pesos y estos descuentos",
+    "fecha": "06/11/2026 12:23",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/predial-en-irapuato-cuota-minima-subiria-a-580-10-pesos-en-2027-33001700",
+    "resumen": "El municipio prevé recaudar dos mil 898 millones de pesos durante el próximo año"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Choque de pipa y dos tráileres obstruye Libramiento Norte de Irapuato",
     "fecha": "06/11/2026 12:02",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/choque-de-pipa-y-dos-traileres-obstruye-libramiento-norte-de-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Una pipa y dos tráileres se vieron involucrados en un choque en el Libramiento Norte de Irapuato, en la zona aledaña a las gasolineras Las Gemelas. El accidente provocó un bloqueo parcial en la carretera federal 45 con dirección a Salamanca, dejando sólo el carril de alta velocidad disponible. De acuerdo con los …"
   },
@@ -59,9 +91,49 @@
     "prioridad": 2,
     "titulo": "Irapuato modifica rutas de transporte por puente de la Bimbo",
     "fecha": "06/11/2026 11:21",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-modifica-rutas-de-transporte-por-puente-de-la-bimbo/",
     "resumen": "Irapuato, Guanajuato.- Con motivo del inicio de la construcción del puente vehicular de Calzada de Guadalupe, el Gobierno de Irapuato, a través de la Dirección General de Movilidad y Transporte, implementará modificaciones temporales en los recorridos de diversas rutas del transporte público, con el objetivo de garantizar la continuidad del servicio y facilitar los traslados …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "El título se queda en casa: Alex Ramos gana el Torneo de Día de Muertos de billar en Irapuato",
+    "fecha": "06/11/2026 11:02",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/alex-ramos-gana-el-torneo-de-billar-de-dia-de-muertos-en-irapuato-32999617",
+    "resumen": "Alex Ramos, de Irapuato, ganó el torneo de Día de Muertos en carambola a tres bandas tras vencer en la final a Bruno Torres"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Analizan rehabilitar hasta 193 calles en Irapuato; proyecto del Centro Histórico costaría hasta 400 millones",
+    "fecha": "06/11/2026 10:48",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/analizan-rehabilitar-hasta-193-calles-en-irapuato-proyecto-del-centro-historico-costaria-hasta-400-millones-32999435",
+    "resumen": "La rehabilitación de calles en Irapuato podría incluir hasta 193 vialidades del Centro Histórico y la periferia, según dos diagnósticos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato busca abrir oportunidades de trabajo y preparatoria para jóvenes con discapacidad",
+    "fecha": "06/11/2026 10:24",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-busca-abrir-oportunidades-de-trabajo-y-preparatoria-para-jovenes-con-discapacidad-32999102",
+    "resumen": "La capacitación laboral para jóvenes con discapacidad en Irapuato y el acceso a preparatoria se plantearon durante los 50 años de Educación Especial"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a El Rica tras robo a tienda en Irapuato; tenía antecedentes, según Policía",
+    "fecha": "06/11/2026 10:08",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-el-rica-tras-robo-a-tienda-en-irapuato-tenia-antecedentes-segun-policia-32999665",
+    "resumen": "Ricardo N., alias El Rica, fue detenido en Irapuato tras un reporte de amenazas en una tienda; el C4 apoyó su localización"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Empresas mantienen confianza en Irapuato: invierten 110 millones de dólares y generan mil 300 nuevos empleos",
+    "fecha": "06/11/2026 09:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/empresas-mantienen-confianza-en-irapuato-invierten-110-millones-de-dolares-y-generan-mil-300-nuevos-empleos-32999415",
+    "resumen": "Inversiones en Irapuato suman 110 millones de dólares en 2026 y proyectan mil 300 empleos con cuatro ampliaciones empresariales"
   },
   {
     "prioridad": 2,
@@ -86,77 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/feria-de-las-fresas-2027-irapuato-busca-recursos-para-mantener-espectaculos-gratuitos-32998394",
     "resumen": "Lorena Alfaro García aseguró que su administración gestionará apoyo estatal para conservar la oferta artística y familiar de la feria"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere mujer atropellada al intentar cruzar la carretera cerca de la comunidad de Malvas en Irapuato",
-    "fecha": "06/11/2026 06:06",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/muere-mujer-atropellada-al-intentar-cruzar-la-carretera-cerca-de-la-comunidad-de-malvas-en-irapuato-32996028",
-    "resumen": "El accidente ocurrió durante la madrugada del viernes, a la altura de la colonia Malvas Revolución. Paramédicos confirmaron el fallecimiento de la víctima y la Guardia Nacional quedó a cargo del hecho"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Nos salvamos de milagro”: bajaron a desayunar y un tráiler chocó contra sus unidades en Irapuato",
-    "fecha": "06/11/2026 05:57",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/nos-salvamos-de-milagro-bajaron-a-desayunar-y-un-trailer-choco-contra-sus-unidades-en-irapuato-32995809",
-    "resumen": "Un tractocamión impactó a otros dos estacionados cerca de las gasolineras gemelas del libramiento norte"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Intentó huir tras chocar a un motociclista en Irapuato, pero un policía la alcanzó cuadras adelante",
-    "fecha": "06/11/2026 04:06",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-en-irapuato-a-conductora-que-intento-huir-tras-chocar-a-motociclista-32994559",
-    "resumen": "El accidente ocurrió sobre el bulevar Mariano J. García; el joven sufrió probable fractura y fue salvado por el casco de protección antes de ser trasladado al hospital"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Lorena Alfaro teme que el tren de pasajeros parta Irapuato en dos; exige que llegue por viaducto",
-    "fecha": "06/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/lorena-alfaro-teme-que-el-tren-de-pasajeros-parta-irapuato-en-dos-exige-que-llegue-por-viaducto-32984022",
-    "resumen": "La alcaldesa advirtió que el proyecto ferroviario podría haber cambiado y que ahora se contempla una llegada a nivel hasta la estación. Solicitó una reunión urgente con autoridades federales para conocer el impacto urbano y defender el viaducto"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“La estrategia se cambia cada semana”: Seguridad ajusta operativos ante nuevas formas de operar del crimen en Irapuato",
-    "fecha": "06/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/la-estrategia-se-cambia-cada-semana-seguridad-ajusta-operativos-ante-nuevas-formas-de-operar-del-crimen-en-irapuato-32983802",
-    "resumen": "Entre los detenidos, han vinculado personas de otros estados y países, incluidos ciudadanos de Perú, Cuba, Colombia y Venezuela"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Viejito” y un colombiano detenidos por robo a farmacia en Irapuato",
-    "fecha": "05/11/2026 23:49",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/viejito-y-un-colombiano-detenidos-por-robo-a-farmacia-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Ernesto de 72 años, originario del Estado de México, y Mauricio de 32 años, de origen colombiano, fueron detenidos como los presuntos responsables de entrar a robar una farmacia, en Irapuato. Los supuestos delincuentes tenían tarjetas y varias terminales bancarias. La policía municipal desplegó un operativo de búsqueda, luego de que recibieron un …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato advierte opacidad federal sobre el tren de pasajeros",
-    "fecha": "05/11/2026 22:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/05/irapuato-advierte-opacidad-federal-sobre-el-tren-de-pasajeros-170928.html",
-    "resumen": "Lorena Alfaro García señaló que el gobierno federal cambió el viaducto por vías a nivel de tierra sin informar a Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡Toma precauciones! Obras del tren de pasajeros cerrarán parcialmente la carretera Querétaro-Irapuato",
-    "fecha": "05/11/2026 19:38",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/05/toma-precauciones-obras-del-tren-de-pasajeros-cerraran-parcialmente-la-carretera-queretaro-irapuato-170905.html",
-    "resumen": "Las obras del tren de pasajeros provocarán cierres parciales nocturnos en la carretera Querétaro-Irapuato del 5 al 22 de noviembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a dos hombres por robo a una farmacia en La Valencianita, Irapuato",
-    "fecha": "05/11/2026 19:09",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/05/detienen-a-dos-hombres-por-robo-a-una-farmacia-en-la-valencianita-irapuato-170903.html",
-    "resumen": "La Policía Municipal de Irapuato detuvo a Ernesto \"N\" y a José Mauricio \"N\" por su probable participación en un robo a una farmacia"
   }
 ]
