@@ -24,12 +24,12 @@
     "resumen": "Pénjamo, Guanajuato.- Con globos, ambiente festivo y una importante participación ciudadana, Pénjamo dio inicio a las actividades conmemorativas por el 484 aniversario de su fundación, teniendo como primer evento el Festival del Globo. Desde temprana hora, cientos de familias se dieron cita en la Unidad Deportiva del municipio para disfrutar de una mañana diferente y …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Canaco advierte fraude con cobros de afiliación en Pénjamo",
-    "fecha": "06/11/2026 19:50",
+    "prioridad": 1,
+    "titulo": "Empresarios del Rincón buscan integrar a Manuel Doblado a su asociación",
+    "fecha": "07/11/2026 20:17",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/06/canaco-advierte-fraude-con-cobros-de-afiliacion-en-penjamo-170989.html",
-    "resumen": "La Cámara alertó sobre personas que se presentan como trabajadores y solicitan pagos a negocios de Santa Ana Pacueco; pidió realizar trámites en sus oficinas"
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/07/empresarios-del-rincon-buscan-integrar-a-manuel-doblado-a-su-asociacion-171051.html",
+    "resumen": "Los Empresarios del Rincón buscan integrar al sector productivo de Manuel Doblado a su asociación regional, además de incorporar a las nuevas generaciones"
   },
   {
     "prioridad": 1,
@@ -46,6 +46,14 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/comandante-de-cueramaro-se-priva-de-la-vida-dentro-de-las-oficinas-de-seguridad/",
     "resumen": "Cuerámaro, Guanajuato.- Un elemento de la corporación policíaca de Cuerámaro decidió privarse de la vida dentro de las oficinas de seguridad. Al parecer fue identificado como el comandante Chava, que murió luego de dispararse con su arma. Los primeros reportes indicaron que Salvador decidió terminar con su vida mientras aún se encontraba dentro de la …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque en Villas de San Cayetano deja a dos menores lesionados en Irapuato",
+    "fecha": "07/11/2026 23:52",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/07/ataque-en-villas-de-san-cayetano-deja-a-dos-menores-lesionados-en-irapuato-171070.html",
+    "resumen": "El ataque en Villas de San Cayetano dejó a dos menores de edad lesionados, luego de que sujetos armados les dispararan mientras acomodaban una motocicleta"
   },
   {
     "prioridad": 2,
@@ -81,6 +89,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "¡Hazaña fresera! Irapuato vence a Racing con nueve hombres y consigue su décima victoria consecutiva",
+    "fecha": "07/11/2026 14:39",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-0-1-a-racing-con-nueve-jugadores-y-suma-10-triunfos-33019618",
+    "resumen": "El cojunto fresero se impuso 0-1 en su visita a Tuxtepec, Oaxaca, con anotación de Heriberto de la Rosa; el conjunto guanajuatense resistió los ataques del rival después de sufrir dos expulsiones."
+  },
+  {
+    "prioridad": 2,
     "titulo": "Detienen a mujer tras ‘robar’ farmacia en Irapuato; trató de huir en moto",
     "fecha": "07/11/2026 11:22",
     "fuente": "Notus página 2",
@@ -112,35 +128,11 @@
     "resumen": "Protección Civil mantiene vigilancia cerca de Villas de Irapuato y espera indicaciones para capturarlo y ponerlo a resguardo"
   },
   {
-    "prioridad": 2,
-    "titulo": "Accidente en la avenida Insurgentes de Irapuato deja un lesionado y un poste derribado",
-    "fecha": "06/11/2026 22:52",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/06/accidente-en-la-avenida-insurgentes-de-irapuato-deja-un-lesionado-y-un-poste-derribado-171008.html",
-    "resumen": "El conductor de un Chevrolet Aveo azul que aparentemente circulaba bajo los efectos del alcohol perdió el control en la avenida Insurgentes de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Incremento al agua en Irapuato responde a compromisos financieros de Japami, señala especialista",
-    "fecha": "06/11/2026 18:43",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/06/incremento-al-agua-en-irapuato-responde-a-compromisos-financieros-de-japami-senala-especialista-170984.html",
-    "resumen": "Presidente del Colegio de Ingenieros del Agua de Guanajuato, consideró que el alza tarifaria busca cubrir compromisos de Japami"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Pide crear un CAM en Irapuato para la vida laboral de los alumnos con discapacidad",
-    "fecha": "06/11/2026 18:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/06/pide-crear-un-cam-en-irapuato-para-la-vida-laboral-de-los-alumnos-con-discapacidad-170981.html",
-    "resumen": "La Zona IV de Educación Especial conmemoró 50 años de servicio en Irapuato y solicitó la creación de un CAM en Irapuato para dar oportunidades laborales"
-  },
-  {
     "prioridad": 3,
-    "titulo": "¿Cómo funciona la restricción de celulares en escuelas de Guanajuato? Así es la nueva medida",
-    "fecha": "06/11/2026 18:53",
+    "titulo": "Clínica de salud para la diversidad en Guanajuato sigue en pie, pero no ofrecerá tratamientos de hormonización",
+    "fecha": "07/11/2026 17:47",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/06/como-funciona-la-restriccion-de-celulares-en-escuelas-de-guanajuato-asi-es-la-nueva-medida-170985.html",
-    "resumen": "La Secretaría de Educación de Guanajuato confirmó que los maestros retirarán los celulares en escuelas de Guanajuato a los alumnos que los utilicen"
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/07/clinica-de-salud-para-la-diversidad-en-guanajuato-sigue-en-pie-pero-no-ofrecera-tratamientos-de-hormonizacion-171042.html",
+    "resumen": "El titular de Salud de Guanajuato señaló que la clínica no contará con tratamiento de hormonización ni se contratará personal especializado"
   }
 ]
