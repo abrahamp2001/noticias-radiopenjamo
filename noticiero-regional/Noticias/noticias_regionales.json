@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Inicia pavimentación de la calle Francisco Zarco en Abasolo con inversión superior a 2 millones de pesos",
+    "fecha": "08/11/2026 08:52",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/inicia-pavimentacion-de-la-calle-francisco-zarco-en-abasolo-con-inversion-superior-a-2-millones-de-pesos/",
+    "resumen": "La primera etapa comprende más de 160 metros lineales; el Gobierno Municipal prevé concluir la totalidad de la vialidad en enero de 2027. Abasolo, Guanajuato. Con una inversión superior a…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Abasolo celebra su tercer Festival de Día de Muertos “Una luz para no olvidar”",
+    "fecha": "08/11/2026 08:46",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/abasolo-celebra-su-tercer-festival-de-dia-de-muertos-una-luz-para-no-olvidar/",
+    "resumen": "Desfile de catrinas, conciertos, danza y actividades con mascotas formaron parte de la programación que reunió a familias y visitantes. Abasolo, Guanajuato. Con actividades culturales, artísticas y recreativas en distintos…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Job Gallardo destaca obras que benefician a todos; arrancan trabajos en la calle Francisco Zarco de Abasolo",
+    "fecha": "08/11/2026 05:55",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/pavimentaran-calle-francisco-zarco-en-la-colonia-san-juan-de-abasolo-con-2-7-mdp-33027695",
+    "resumen": "Con una inversión de 2 millones 785 mil pesos, provenientes en su totalidad de recursos municipales, comenzó la primera etapa de pavimentación de la calle Francisco Zarco, en la colonia San Juan"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Job Gallardo arranca nueva pavimentación en la colonia San Juan de Abasolo",
     "fecha": "07/11/2026 17:10",
     "fuente": "Notus",
@@ -17,11 +41,11 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Pénjamo inicia los festejos por su 484 aniversario con el Festival del Globo",
-    "fecha": "07/11/2026 11:38",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/penjamo-inicia-los-festejos-por-su-484-aniversario-con-el-festival-del-globo/",
-    "resumen": "Pénjamo, Guanajuato.- Con globos, ambiente festivo y una importante participación ciudadana, Pénjamo dio inicio a las actividades conmemorativas por el 484 aniversario de su fundación, teniendo como primer evento el Festival del Globo. Desde temprana hora, cientos de familias se dieron cita en la Unidad Deportiva del municipio para disfrutar de una mañana diferente y …"
+    "titulo": "Inician pavimentación y renovación de servicios en dos calles de Huitzatarito",
+    "fecha": "08/11/2026 08:22",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/inician-pavimentacion-y-renovacion-de-servicios-en-dos-calles-de-huitzatarito/",
+    "resumen": "La obra comprende 264.25 metros de vialidad en las calles Eucaliptos y Primavera, además de trabajos en las redes de agua potable y drenaje sanitario. Abasolo, Guanajuato. El presidente municipal…"
   },
   {
     "prioridad": 1,
@@ -35,7 +59,7 @@
     "prioridad": 1,
     "titulo": "Oficial de Cuerámaro no murió en Seguridad Pública",
     "fecha": "07/11/2026 15:42",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/oficial-de-cueramaro-no-murio-en-seguridad-publica/",
     "resumen": "Cuerámaro, Guanajuato.- Ante la información preliminar del caso de la muerte del policía Salvador Gabriel Serrano Sánchez, el  gobierno de Cuerámaro aclaró que no perdió la vida dentro de las instalaciones de seguridad pública. Sin embargo, evitó precisar el lugar de los hechos asegurando que será la Fiscalía General quien lleve a cabo las diligencias …"
   },
@@ -43,96 +67,96 @@
     "prioridad": 1,
     "titulo": "Comandante de Cuerámaro se priva de la vida dentro de las oficinas de seguridad",
     "fecha": "07/11/2026 14:41",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/comandante-de-cueramaro-se-priva-de-la-vida-dentro-de-las-oficinas-de-seguridad/",
     "resumen": "Cuerámaro, Guanajuato.- Un elemento de la corporación policíaca de Cuerámaro decidió privarse de la vida dentro de las oficinas de seguridad. Al parecer fue identificado como el comandante Chava, que murió luego de dispararse con su arma. Los primeros reportes indicaron que Salvador decidió terminar con su vida mientras aún se encontraba dentro de la …"
   },
   {
     "prioridad": 2,
-    "titulo": "Ataque en Villas de San Cayetano deja a dos menores lesionados en Irapuato",
-    "fecha": "07/11/2026 23:52",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/07/ataque-en-villas-de-san-cayetano-deja-a-dos-menores-lesionados-en-irapuato-171070.html",
-    "resumen": "El ataque en Villas de San Cayetano dejó a dos menores de edad lesionados, luego de que sujetos armados les dispararan mientras acomodaban una motocicleta"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato arranca colector pluvial en Los Encinos y pavimentación en Revolución",
-    "fecha": "07/11/2026 17:05",
+    "titulo": "Más de 2 mil personas corren en la Carrera Nocturna “Entre la Vida y la Muerte” en Irapuato",
+    "fecha": "08/11/2026 13:13",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/irapuato-arranca-colector-pluvial-en-los-encinos-y-pavimentacion-en-revolucion/",
-    "resumen": "Irapuato, Guanajuato.- Escuchar a las familias, mantener la cercanía con la ciudadanía y atender sus necesidades son parte de las acciones que impulsa el Gobierno de Irapuato. Como muestra de ello, la presidenta municipal, Lorena Alfaro García, encabezó el arranque de obras de infraestructura hidráulica en la colonia Los Encinos y supervisó los trabajos de pavimentación …"
+    "url": "https://notus.com.mx/mas-de-2-mil-personas-corren-en-la-carrera-nocturna-entre-la-vida-y-la-muerte-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Más de 2 mil personas participaron en la tercera Carrera Nocturna “Entre la Vida y la Muerte” 2026, que recorrió las calles de Irapuato en una noche de deporte, tradición y convivencia. La competencia concluyó con saldo blanco, informó el Gobierno municipal. Organizada por la Comisión del Deporte y Atención a la Juventud …"
   },
   {
     "prioridad": 2,
-    "titulo": "A dos años de ser atacada con un machete y perder tres dedos, Marta y su familia aún esperan justicia en Irapuato",
-    "fecha": "07/11/2026 15:41",
+    "titulo": "Volcadura en autopista Querétaro-Irapuato causa intensa movilización en Celaya",
+    "fecha": "08/11/2026 13:03",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/07/a-dos-anos-de-ser-atacada-con-un-machete-y-perder-tres-dedos-marta-y-su-familia-aun-esperan-justicia-en-irapuato-171037.html",
-    "resumen": "En noviembre de 2024, Marta y su familia fue atacada por tres hombres que siguen libres en Irapuato, por lo que piden ayuda para acelerar el caso"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/08/volcadura-en-autopista-queretaro-irapuato-causa-intensa-movilizacion-en-celaya-171081.html",
+    "resumen": "Afortunadamente, la volcadura a la altura de Celaya de los viajeros que venían de CDMX a Irapuato no dejó heridos ni víctimas mortales"
   },
   {
     "prioridad": 2,
-    "titulo": "Obras del puente en la Calzada de Guadalupe modificarán circulación y rutas de transporte público en Irapuato",
-    "fecha": "07/11/2026 15:19",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/07/obras-del-puente-en-la-calzada-de-guadalupe-modificaran-circulacion-y-rutas-de-transporte-publico-en-irapuato-171036.html",
-    "resumen": "Autoridades de Irapuato señalaron que este lunes iniciarán las obras en la Calzada de Guadalupe, ocasionando algunas modificaciones temporales de circulación"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Zooira te invita a conocer al Tucán Pico de Canoa, especie protegida",
-    "fecha": "07/11/2026 15:19",
+    "titulo": "La Caravana de Emprendedores de Irapuato celebra su edición 50 con 79 marcas locales",
+    "fecha": "08/11/2026 13:00",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/zooira-te-invita-a-conocer-al-tucan-pico-de-canoa-especie-protegida/",
-    "resumen": "Irapuato, Guanajuato.- Una de las especies de aves más llamativas que hay en el aviario del Zoológico de Irapuato, es el Tucán Pico Iris, también conocido como Tucán Pico de Canoa. Esta especie habita en el sur de México y también en zonas como Colombia y Venezuela. El doctor Gustavo Graciano, miembro del equipo de …"
+    "url": "https://notus.com.mx/la-caravana-de-emprendedores-de-irapuato-celebra-su-edicion-50-con-79-marcas-locales/",
+    "resumen": "Irapuato, Guanajuato.- La Caravana de Emprendedores de Irapuato inauguró su edición número 50 con la participación de 79 marcas locales, instaladas en el Jardín Principal del Centro Histórico para ofrecer sus productos este fin de semana. La muestra, organizada por el Gobierno municipal a través de la Dirección de Desarrollo Económico, busca impulsar los negocios …"
   },
   {
     "prioridad": 2,
-    "titulo": "¡Hazaña fresera! Irapuato vence a Racing con nueve hombres y consigue su décima victoria consecutiva",
-    "fecha": "07/11/2026 14:39",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-0-1-a-racing-con-nueve-jugadores-y-suma-10-triunfos-33019618",
-    "resumen": "El cojunto fresero se impuso 0-1 en su visita a Tuxtepec, Oaxaca, con anotación de Heriberto de la Rosa; el conjunto guanajuatense resistió los ataques del rival después de sufrir dos expulsiones."
+    "titulo": "Balacera deja un hombre sin vida y dos personas lesionadas en Las Huertas, Irapuato",
+    "fecha": "08/11/2026 12:48",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/balacera-deja-un-hombre-sin-vida-y-dos-personas-lesionadas-en-las-huertas-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un hombre sin vida y dos personas lesionadas fue el saldo de un ataque armado registrado la tarde de este domingo en la colonia Las Huertas Primera Sección, en Irapuato. De acuerdo con los primeros reportes, al sistema de emergencias 9-1-1 se notificaron detonaciones de arma sobre la calle Americana, por lo que …"
   },
   {
     "prioridad": 2,
-    "titulo": "Detienen a mujer tras ‘robar’ farmacia en Irapuato; trató de huir en moto",
-    "fecha": "07/11/2026 11:22",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/detienen-a-mujer-tras-robar-farmacia-en-irapuato-trato-de-huir-en-moto/",
-    "resumen": "Irapuato, Guanajuato.– Una mujer de 24 años fue detenida por elementos de la Policía Municipal de Irapuato, luego de ser señalada por su probable participación en el robo a una farmacia ubicada en la colonia Benito Juárez. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal (SSCM), los elementos policiales atendieron un reporte de …"
+    "titulo": "Muere mujer tras ser atropellada junto con otros cuatro motociclistas en Irapuato",
+    "fecha": "08/11/2026 12:02",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/muere-mujer-tras-ser-atropellada-junto-con-otros-cuatro-motociclistas-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Una mujer perdió la vida luego de ser atropellada junto con otros motociclistas por un vehículo sobre la avenida Guanajuato, en Irapuato, durante la noche de este sábado. El conductor involucrado fue detenido posteriormente, luego de que presuntamente escapara del lugar. De acuerdo con los primeros reportes, el accidente ocurrió en distintos puntos …"
   },
   {
     "prioridad": 2,
-    "titulo": "Ayuntamiento de Irapuato aprueba Ley de ingresos 2027",
-    "fecha": "07/11/2026 10:43",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/ayuntamiento-de-irapuato-aprueba-ley-de-ingresos-2027/",
-    "resumen": "Irapuato, Guajuato.- Con el objetivo de apoyar la economía de las familias irapuatenses y mantener el acceso gratuito a espacios de recreación y deporte, el Ayuntamiento de Irapuato aprobó por mayoría el proyecto de Ley de Ingresos y el pronóstico de disposiciones administrativas para el ejercicio fiscal 2027, que contempla una proyección de ingresos de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Unión Irapuato gana con marcador de 2-1 en la Liga Luis Hernández",
-    "fecha": "07/11/2026 09:51",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/union-irapuato-vence-2-1-al-sotanero-mantenimiento-el-chicas-33013940",
-    "resumen": "Tuvo algunos problemas para doblegar al sotanero del torneo, Mantenimiento El Chicas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ubican caimán de 58 centímetros en el río Silao; piden no acercarse a buscarlo",
-    "fecha": "07/11/2026 07:24",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ubican-caiman-de-58-centimetros-en-el-rio-silao-piden-no-acercarse-a-buscarlo-33012613",
-    "resumen": "Protección Civil mantiene vigilancia cerca de Villas de Irapuato y espera indicaciones para capturarlo y ponerlo a resguardo"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Clínica de salud para la diversidad en Guanajuato sigue en pie, pero no ofrecerá tratamientos de hormonización",
-    "fecha": "07/11/2026 17:47",
+    "titulo": "Ataque deja un muerto y 2 heridos en Las Huertas Primera Sección de Irapuato",
+    "fecha": "08/11/2026 11:17",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/07/clinica-de-salud-para-la-diversidad-en-guanajuato-sigue-en-pie-pero-no-ofrecera-tratamientos-de-hormonizacion-171042.html",
-    "resumen": "El titular de Salud de Guanajuato señaló que la clínica no contará con tratamiento de hormonización ni se contratará personal especializado"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/08/ataque-deja-un-muerto-y-2-heridos-en-las-huertas-primera-seccion-de-irapuato-171076.html",
+    "resumen": "El ataque en Las Huertas Primera Sección en Irapuato habría sido cometido por hombres armados que viajaban a bordo de una motocicleta"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¡La Trinca sigue imparable! y mantiene su invicto",
+    "fecha": "08/11/2026 11:09",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/la-trinca-sigue-imparable-y-mantiene-su-invicto/",
+    "resumen": "Irapuato, Guanajuato La Trinca sigue haciendo historia, el Club Deportivo Irapuato consiguió una importante victoria de 1-0 frente a Racing de Veracruz, resultado que le permite mantener su paso invicto y permanecer en lo más alto de la clasificación de la Liga Premier. El encuentro se definió al minuto 60, cuando De la Rosa apareció …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Más de 2 mil personas participaron en la Carrera Nocturna “Entre la Vida y la Muerte” 2026, en un ambiente de fiesta, tradición y sana convivencia",
+    "fecha": "08/11/2026 11:04",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/mas-de-2-mil-personas-participaron-en-la-carrera-nocturna-entre-la-vida-y-la-muerte-2026-en-un-ambiente-de-fiesta-tradicion-y-sana-convivencia/",
+    "resumen": "Irapuato, Gto. Familias, deportistas y grupos de amigos de distintas edades se dieron cita para formar parte de esta competencia, que combinó la actividad física con las tradiciones y el ambiente festivo del Centro Histórico de Irapuato. Las y los corredores participaron en tres modalidades: la categoría infantil de 650 metros, así como los recorridos …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Video | Captan a policías de Irapuato golpeando a hombre y dañando motos",
+    "fecha": "08/11/2026 09:33",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/08/video-captan-a-policias-de-irapuato-golpeando-a-hombre-y-danando-motos-171072.html",
+    "resumen": "Presuntamente los policías de Irapuato perseguían a un grupo de motociclistas y al no lograr detenerlos actuaron violentamente con los vecinos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato busca su onceavo triunfo consecutivo ante los Toros del Celaya",
+    "fecha": "08/11/2026 07:46",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-llega-con-paso-perfecto-al-clasico-guanajuatense-contra-celaya-33029739",
+    "resumen": "Viene una semana larga de trabajo, ya que su siguiente juego es el lunes 16 de noviembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Perdiste cultivos en Irapuato? El seguro catastrófico todavía depende de una inspección",
+    "fecha": "08/11/2026 07:32",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/perdiste-cultivos-en-irapuato-el-seguro-catastrofico-todavia-depende-de-una-inspeccion-33029707",
+    "resumen": "Desarrollo Rural entregó a la Secretaría del Campo un padrón de agricultores que reportaron daños durante 2026; La aseguradora deberá revisar las parcelas antes de determinar quiénes recibirán una indemnización"
   }
 ]
