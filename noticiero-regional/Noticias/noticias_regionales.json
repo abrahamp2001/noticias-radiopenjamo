@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Festival del Globo abre los festejos por los 484 años de la fundación de Pénjamo",
+    "fecha": "08/11/2026 09:04",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/festival-del-globo-abre-los-festejos-por-los-484-anos-de-la-fundacion-de-penjamo-33030461",
+    "resumen": "Cientos de familias se dieron cita para presenciar las elevaciones de cuatro globos aerostáticos, en una jornada que también incluyó música, actividades deportivas y espacios para impulsar el comercio local"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Inicia pavimentación de la calle Francisco Zarco en Abasolo con inversión superior a 2 millones de pesos",
     "fecha": "08/11/2026 08:52",
     "fuente": "Pénjamo TV",
@@ -25,19 +33,11 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Job Gallardo arranca nueva pavimentación en la colonia San Juan de Abasolo",
-    "fecha": "07/11/2026 17:10",
+    "titulo": "Ciclistas llenan las calles de Cuerámaro antes de adentrarse en la Sierra",
+    "fecha": "08/11/2026 14:52",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/job-gallardo-arranca-nueva-pavimentacion-en-la-colonia-san-juan-de-abasolo/",
-    "resumen": "Abasolo, Guanajuato.- Una nueva obra de pavimentación comenzó en la colonia San Juan, en el municipio de Abasolo, como parte de los trabajos de infraestructura que impulsa el gobierno encabezado por el alcalde Job Gallardo. Fue el propio presidente municipal quien dio a conocer el arranque de esta obra a través de sus redes sociales, …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Pénjamo y Gobierno del Estado pavimentan 3 vialidades en la cabecera",
-    "fecha": "07/11/2026 13:53",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/penjamo-y-gobierno-del-estado-pavimentan-3-vialidades-en-la-cabecera/",
-    "resumen": "Pénjamo, Guanajuato.- Al refrendar que cuando se gobierna con honestidad, transparencia y en estrecho equipo con la ciudadanía las obras verdaderamente transforman vidas, el Gobierno Municipal de Pénjamo y el Gobierno del Estado pusieron en marcha tres magnas obras de pavimentación con concreto hidráulico en cabecera municipal, consolidando un paquete de infraestructura urbana de alto …"
+    "url": "https://notus.com.mx/ciclistas-llenan-las-calles-de-cueramaro-antes-de-adentrarse-en-la-sierra/",
+    "resumen": "Cuerámaro, Guanajuato.- Un total de 160 ciclistas participaron en la ruta organizada por el Club Alas Caídas Cuerámaro. El recorrido fue por senderos en la Sierra de Pénjamo. Las principales calles de Cuerámaro y montañas se llenaron de ciclistas que “degustan” los paisajes y la majestuosa naturaleza de la Sierra de Pénjamo con una jornada …"
   },
   {
     "prioridad": 0,
@@ -56,20 +56,36 @@
     "resumen": "Los Empresarios del Rincón buscan integrar al sector productivo de Manuel Doblado a su asociación regional, además de incorporar a las nuevas generaciones"
   },
   {
-    "prioridad": 1,
-    "titulo": "Oficial de Cuerámaro no murió en Seguridad Pública",
-    "fecha": "07/11/2026 15:42",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/oficial-de-cueramaro-no-murio-en-seguridad-publica/",
-    "resumen": "Cuerámaro, Guanajuato.- Ante la información preliminar del caso de la muerte del policía Salvador Gabriel Serrano Sánchez, el  gobierno de Cuerámaro aclaró que no perdió la vida dentro de las instalaciones de seguridad pública. Sin embargo, evitó precisar el lugar de los hechos asegurando que será la Fiscalía General quien lleve a cabo las diligencias …"
+    "prioridad": 2,
+    "titulo": "Advierten riesgos para el agua de Irapuato y piden un plan de seguridad hídrica",
+    "fecha": "08/11/2026 17:26",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/08/advierten-riesgos-para-el-agua-de-irapuato-y-piden-un-plan-de-seguridad-hidrica-171100.html",
+    "resumen": "Especialista pide estudios actualizados sobre contaminantes y un plan de seguridad hídrica ante el crecimiento urbano y la demanda de agua en Irapuato"
   },
   {
-    "prioridad": 1,
-    "titulo": "Comandante de Cuerámaro se priva de la vida dentro de las oficinas de seguridad",
-    "fecha": "07/11/2026 14:41",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/comandante-de-cueramaro-se-priva-de-la-vida-dentro-de-las-oficinas-de-seguridad/",
-    "resumen": "Cuerámaro, Guanajuato.- Un elemento de la corporación policíaca de Cuerámaro decidió privarse de la vida dentro de las oficinas de seguridad. Al parecer fue identificado como el comandante Chava, que murió luego de dispararse con su arma. Los primeros reportes indicaron que Salvador decidió terminar con su vida mientras aún se encontraba dentro de la …"
+    "prioridad": 2,
+    "titulo": "Desaparece Abril de 19 años, en Irapuato",
+    "fecha": "08/11/2026 15:00",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/desaparece-abril-de-19-anos-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- La Fiscalía General del Estado de Guanajuato activó el Protocolo Alba para localizar a Jessica Abril Rocha Esquivel, de 19 años. La joven fue vista por última vez el viernes 6 de noviembre en Irapuato. De acuerdo con la ficha oficial, Jessica Abril mide 1.60 metros, tiene cabello negro y ondulado y ojos …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "DIF Irapuato reporta más de 38 niñas, niños y adolescentes fuera de los cruceros",
+    "fecha": "08/11/2026 14:12",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/dif-irapuato-reporta-mas-de-38-ninas-ninos-y-adolescentes-fuera-de-los-cruceros/",
+    "resumen": "Irapuato, Guanajuato.- Más de 38 niñas, niños y adolescentes han dejado de realizar actividades en cruceros de Irapuato, informó el Sistema DIF municipal, que mantiene acciones para prevenir el trabajo infantil y proteger los derechos de la infancia. La estrategia se reforzó en junio de 2025 con la campaña permanente “Mis Sueños No Están en …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Amenazas e intentos de extorsión dejaron sin fiestas religiosas a comunidades de Irapuato: Obispo",
+    "fecha": "08/11/2026 13:38",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/08/amenazas-e-intentos-de-extorsion-dejaron-sin-fiestas-religiosas-a-comunidades-de-irapuato-obispo-171084.html",
+    "resumen": "Este 2026 varias comunidades de Irapuato tuvieron que suspender sus fiestas religiosas por el miedo y desconfianza ante presuntas extorsiones"
   },
   {
     "prioridad": 2,
@@ -113,6 +129,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "“Tu número se va contigo”: despiden a Luis González, conductor de Irapuato que donó sus órganos",
+    "fecha": "08/11/2026 11:57",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tu-numero-se-va-contigo-despiden-a-luis-gonzalez-conductor-de-irapuato-que-dono-sus-organos-33035305",
+    "resumen": "Alrededor de 100 automóviles y motocicletas acompañaron hasta el panteón Guadalupano al conductor de plataforma fallecido a los 35 años"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Ataque deja un muerto y 2 heridos en Las Huertas Primera Sección de Irapuato",
     "fecha": "08/11/2026 11:17",
     "fuente": "Periódico Correo",
@@ -123,7 +147,7 @@
     "prioridad": 2,
     "titulo": "¡La Trinca sigue imparable! y mantiene su invicto",
     "fecha": "08/11/2026 11:09",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/la-trinca-sigue-imparable-y-mantiene-su-invicto/",
     "resumen": "Irapuato, Guanajuato La Trinca sigue haciendo historia, el Club Deportivo Irapuato consiguió una importante victoria de 1-0 frente a Racing de Veracruz, resultado que le permite mantener su paso invicto y permanecer en lo más alto de la clasificación de la Liga Premier. El encuentro se definió al minuto 60, cuando De la Rosa apareció …"
   },
@@ -131,32 +155,8 @@
     "prioridad": 2,
     "titulo": "Más de 2 mil personas participaron en la Carrera Nocturna “Entre la Vida y la Muerte” 2026, en un ambiente de fiesta, tradición y sana convivencia",
     "fecha": "08/11/2026 11:04",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/mas-de-2-mil-personas-participaron-en-la-carrera-nocturna-entre-la-vida-y-la-muerte-2026-en-un-ambiente-de-fiesta-tradicion-y-sana-convivencia/",
     "resumen": "Irapuato, Gto. Familias, deportistas y grupos de amigos de distintas edades se dieron cita para formar parte de esta competencia, que combinó la actividad física con las tradiciones y el ambiente festivo del Centro Histórico de Irapuato. Las y los corredores participaron en tres modalidades: la categoría infantil de 650 metros, así como los recorridos …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Video | Captan a policías de Irapuato golpeando a hombre y dañando motos",
-    "fecha": "08/11/2026 09:33",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/08/video-captan-a-policias-de-irapuato-golpeando-a-hombre-y-danando-motos-171072.html",
-    "resumen": "Presuntamente los policías de Irapuato perseguían a un grupo de motociclistas y al no lograr detenerlos actuaron violentamente con los vecinos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato busca su onceavo triunfo consecutivo ante los Toros del Celaya",
-    "fecha": "08/11/2026 07:46",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-llega-con-paso-perfecto-al-clasico-guanajuatense-contra-celaya-33029739",
-    "resumen": "Viene una semana larga de trabajo, ya que su siguiente juego es el lunes 16 de noviembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Perdiste cultivos en Irapuato? El seguro catastrófico todavía depende de una inspección",
-    "fecha": "08/11/2026 07:32",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/perdiste-cultivos-en-irapuato-el-seguro-catastrofico-todavia-depende-de-una-inspeccion-33029707",
-    "resumen": "Desarrollo Rural entregó a la Secretaría del Campo un padrón de agricultores que reportaron daños durante 2026; La aseguradora deberá revisar las parcelas antes de determinar quiénes recibirán una indemnización"
   }
 ]
