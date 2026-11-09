@@ -1,59 +1,139 @@
 [
   {
     "prioridad": 0,
-    "titulo": "Festival del Globo abre los festejos por los 484 años de la fundación de Pénjamo",
-    "fecha": "08/11/2026 09:04",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/festival-del-globo-abre-los-festejos-por-los-484-anos-de-la-fundacion-de-penjamo-33030461",
-    "resumen": "Cientos de familias se dieron cita para presenciar las elevaciones de cuatro globos aerostáticos, en una jornada que también incluyó música, actividades deportivas y espacios para impulsar el comercio local"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Inicia pavimentación de la calle Francisco Zarco en Abasolo con inversión superior a 2 millones de pesos",
-    "fecha": "08/11/2026 08:52",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/inicia-pavimentacion-de-la-calle-francisco-zarco-en-abasolo-con-inversion-superior-a-2-millones-de-pesos/",
-    "resumen": "La primera etapa comprende más de 160 metros lineales; el Gobierno Municipal prevé concluir la totalidad de la vialidad en enero de 2027. Abasolo, Guanajuato. Con una inversión superior a…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Abasolo celebra su tercer Festival de Día de Muertos “Una luz para no olvidar”",
-    "fecha": "08/11/2026 08:46",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/abasolo-celebra-su-tercer-festival-de-dia-de-muertos-una-luz-para-no-olvidar/",
-    "resumen": "Desfile de catrinas, conciertos, danza y actividades con mascotas formaron parte de la programación que reunió a familias y visitantes. Abasolo, Guanajuato. Con actividades culturales, artísticas y recreativas en distintos…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Job Gallardo destaca obras que benefician a todos; arrancan trabajos en la calle Francisco Zarco de Abasolo",
-    "fecha": "08/11/2026 05:55",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/pavimentaran-calle-francisco-zarco-en-la-colonia-san-juan-de-abasolo-con-2-7-mdp-33027695",
-    "resumen": "Con una inversión de 2 millones 785 mil pesos, provenientes en su totalidad de recursos municipales, comenzó la primera etapa de pavimentación de la calle Francisco Zarco, en la colonia San Juan"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Ciclistas llenan las calles de Cuerámaro antes de adentrarse en la Sierra",
-    "fecha": "08/11/2026 14:52",
+    "titulo": "Impulsan la lectura con proyecto “Nos Leemos” en escuela primaria de Abasolo",
+    "fecha": "09/11/2026 15:31",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/ciclistas-llenan-las-calles-de-cueramaro-antes-de-adentrarse-en-la-sierra/",
-    "resumen": "Cuerámaro, Guanajuato.- Un total de 160 ciclistas participaron en la ruta organizada por el Club Alas Caídas Cuerámaro. El recorrido fue por senderos en la Sierra de Pénjamo. Las principales calles de Cuerámaro y montañas se llenaron de ciclistas que “degustan” los paisajes y la majestuosa naturaleza de la Sierra de Pénjamo con una jornada …"
+    "url": "https://notus.com.mx/impulsan-la-lectura-con-proyecto-nos-leemos-en-escuela-primaria-de-abasolo/",
+    "resumen": "Abasolo, Guanajuato.- La Escuela Primaria Belisario Domínguez puso en marcha el proyecto “Nos Leemos: Un mismo libro, infinitas historias”, una iniciativa que busca fomentar el hábito de la lectura entre niñas y niños, además de involucrar a las familias en su formación educativa. En el arranque estuvo presente el presidente municipal, Job Gallardo, quien acompañó …"
   },
   {
     "prioridad": 0,
-    "titulo": "Inician pavimentación y renovación de servicios en dos calles de Huitzatarito",
-    "fecha": "08/11/2026 08:22",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/inician-pavimentacion-y-renovacion-de-servicios-en-dos-calles-de-huitzatarito/",
-    "resumen": "La obra comprende 264.25 metros de vialidad en las calles Eucaliptos y Primavera, además de trabajos en las redes de agua potable y drenaje sanitario. Abasolo, Guanajuato. El presidente municipal…"
+    "titulo": "Incendio destruye vivienda en Abasolo; piden apoyo para la familia",
+    "fecha": "09/11/2026 13:48",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/incendio-destruye-vivienda-en-abasolo-piden-apoyo-para-la-familia/",
+    "resumen": "Abasolo, Guanajuato.- Un fuerte incendio en la comunidad San Bernardo de Peña Blanca dejó en cenizas una vivienda. Los Bomberos de Abasolo solicitaron apoyo tanto económico como en especie para la familia del señor Julio César Vera Díaz, que perdió casi todo su patrimonio. El personal de emergencias atendió el percance que consumió el domicilio, …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Abandonan a joven baleado afuera del Hospital General de Pénjamo",
+    "fecha": "09/11/2026 11:35",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/abandonan-a-joven-baleado-afuera-del-hospital-general-de-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Un joven de 22 años permanece hospitalizado en estado delicado luego de que personas desconocidas lo dejaran afuera del Hospital General de Pénjamo. El lesionado llegó con múltiples heridas de bala la madrugada del domingo. Según la información difundida, el personal del hospital colocó en una camilla a un lesionado que al revisarlo, …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Dan el último adiós al comandante Chavita, tras morir por un disparo en Cuerámaro",
+    "fecha": "09/11/2026 16:05",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/09/dan-el-ultimo-adios-al-comandante-chavita-tras-morir-por-un-disparo-en-cueramaro-171169.html",
+    "resumen": "El comandante fallecido en Cuerámaro fue despedido con guardia de honor y envuelto en la bandera nacional durante el rito fúnebre"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Cuerámaro despide al comandante Salvador Gabriel Serrano Sánchez con homenaje de la corporación",
+    "fecha": "09/11/2026 10:48",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-despide-al-comandante-salvador-gabriel-serrano-sanchez-con-homenaje-de-la-corporacion-33048917",
+    "resumen": "El presidente municipal, Humberto Hernández Martínez, integrantes del Ayuntamiento y elementos de Seguridad Pública acudieron al último adiós del comandante de la Policía Municipal"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Gobierno de Cuerámaro acompaña a familiares del comandante Salvador Gabriel Serrano",
+    "fecha": "09/11/2026 08:40",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/gobierno-de-cueramaro-acompana-a-familiares-del-comandante-salvador-gabriel-serrano-33046651",
+    "resumen": "El presidente municipal de Cuerámaro señaló que la administración esperará los resultados de la investigación de la Fiscalía para fijar una postura sobre los hechos"
   },
   {
     "prioridad": 1,
     "titulo": "Lamentan en Cuerámaro el fallecimiento de Salvador Gabriel Serrano, excomandante de policía",
     "fecha": "08/11/2026 22:40",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/lamentan-en-cueramaro-el-fallecimiento-de-salvador-gabriel-serrano-excomandante-de-policia/",
     "resumen": "Cuerámaro, Gto. La comunidad de Cuerámaro lamenta el fallecimiento de Salvador Gabriel Serrano Sánchez, quien en vida se desempeñó como comandante de la Policía Municipal. A través de redes sociales, cueramarenses expresaron sus condolencias y reconocieron la labor que realizó durante su trayectoria al servicio de la ciudadanía. En el mensaje, destacaron su profesionalismo, vocación …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato registra exportaciones por mil 237 millones de dólares y firma convenio con COFOCE",
+    "fecha": "09/11/2026 16:28",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-registra-exportaciones-por-mil-237-millones-de-dolares-y-firma-convenio-con-cofoce/",
+    "resumen": "Irapuato, Guanajuato.- Irapuato registró exportaciones por mil 237 millones de dólares durante el primer semestre de 2026, un crecimiento cercano al 4% respecto al mismo periodo del año anterior. Para impulsar esta actividad económica, el Gobierno Municipal y la Coordinadora de Fomento al Comercio Exterior del Estado de Guanajuato (COFOCE) firmaron un convenio de colaboración …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato: Inauguran instalaciones de la Compañía Irapuato 2 de la Guardia Nacional",
+    "fecha": "09/11/2026 13:51",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/09/irapuato-inauguran-instalaciones-de-la-compania-irapuato-2-de-la-guardia-nacional-171153.html",
+    "resumen": "El nuevo recinto de la Guardia Nacional en Irapuato tiene el objetivo de fortalecer la presencia operativa del organismo de seguridad federal en la entidad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Fallece militar atacado en emboscada en Salamanca",
+    "fecha": "09/11/2026 12:54",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/fallece-militar-atacado-en-emboscada-en-salamanca/",
+    "resumen": "Salamanca, Guanajuato.- Uno de los dos elementos del Ejército Mexicano que resultaron heridos en un ataque armado en la comunidad de Valtierrilla murió mientras recibía atención médica en un hospital militar de Irapuato. La agresión ocurrió poco antes de las 8 de la noche del sábado, cerca del río Lerma y del camino que conduce …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Seguridad Irapuato responde tras polémica de agresión policiaca",
+    "fecha": "09/11/2026 11:17",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/seguridad-irapuato-responde-tras-polemica-de-agresion-policiaca/",
+    "resumen": "Irapuato, Guanajuato.- Tras la polémica del video de policías de Irapuato presuntamente agrediendo a vecinos de la calle Casuarina, la secretaria de Seguridad de Irapuato, Consuelo Cruz Galindo, señaló que hay que “escuchar la historia completa” de los hechos. Según la titular, los oficiales acudieron a atender un reporte donde fueron atacados por civiles. El …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Inauguran instalaciones de la Guardia Nacional en Irapuato; tendrán capacidad para 120 elementos",
+    "fecha": "09/11/2026 10:25",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/inauguran-instalaciones-de-la-guardia-nacional-en-irapuato-tendran-capacidad-para-120-elementos-33048708",
+    "resumen": "La 14/a Coordinación de Unidad de la Guardia Nacional inauguró sus nuevas instalaciones en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Qué pasó realmente? Irapuato utiliza cámaras corporales para revisar actuaciones policiales",
+    "fecha": "09/11/2026 10:08",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/que-paso-realmente-irapuato-utiliza-camaras-corporales-para-revisar-actuaciones-policiales-33048135",
+    "resumen": "María del Consuelo Cruz Galindo explicó que las grabaciones permiten documentar intervenciones y contrastar señalamientos contra elementos de la Policía Municipal"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Arranca operativo Buen Fin 2026 en Irapuato; desplegarán elementos de seguridad y emergencia en zonas comerciales",
+    "fecha": "09/11/2026 06:26",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/arranca-operativo-buen-fin-2026-en-irapuato-33044557",
+    "resumen": "El operativo Buen Fin 2026 en Irapuato reforzará la vigilancia y ofrecerá acompañamiento para retiros de efectivo durante la temporada"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Alcanza un salario para mantener una familia en Irapuato? Coparmex reconoce que hay rezagos",
+    "fecha": "09/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/alcanza-un-salario-para-mantener-una-familia-en-irapuato-coparmex-reconoce-que-hay-rezagos-33029872",
+    "resumen": "Fernando González, presidente de Coparmex Irapuato-Salamanca, señaló que los aumentos al salario mínimo no garantizan que todas las familias puedan cubrir sus gastos de vivienda, alimentación, transporte, educación y salud"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De paciente a voluntaria: Wendy lleva tamales a familias afuera de hospital en Irapuato",
+    "fecha": "09/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/de-paciente-a-voluntaria-wendy-lleva-tamales-a-familias-afuera-de-hospital-en-irapuato-33031107",
+    "resumen": "Wendy Morales decidió regalar alimentos a familiares de pacientes del Hospital Materno Infantil después de conocer las dificultades que enfrentan quienes pasan horas esperando noticias de sus seres queridos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Lo necesitas o sólo está en oferta? Obispo de Irapuato advierte sobre deudas en el Buen Fin",
+    "fecha": "09/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/lo-necesitas-o-solo-esta-en-oferta-obispo-de-irapuato-advierte-sobre-deudas-en-el-buen-fin-33031793",
+    "resumen": "Enrique Díaz Díaz llamó a las familias a evitar compras impulsivas y revisar su presupuesto ante las promociones comercial"
   },
   {
     "prioridad": 2,
@@ -67,96 +147,16 @@
     "prioridad": 2,
     "titulo": "Detiene a dos hombres armados en distintos puntos de Irapuato",
     "fecha": "08/11/2026 18:21",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/detiene-a-dos-hombres-armados-en-distintos-puntos-de-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Dos hombres fueron detenidos por elementos de la Policía Municipal de Irapuato en distintos hechos, luego de que durante las intervenciones les aseguraran un arma y 11 cartuchos útiles a cada uno. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal (SSCM), uno de los detenidos fue identificado como Humberto “N”, …"
   },
   {
-    "prioridad": 2,
-    "titulo": "Advierten riesgos para el agua de Irapuato y piden un plan de seguridad hídrica",
-    "fecha": "08/11/2026 17:26",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/08/advierten-riesgos-para-el-agua-de-irapuato-y-piden-un-plan-de-seguridad-hidrica-171100.html",
-    "resumen": "Especialista pide estudios actualizados sobre contaminantes y un plan de seguridad hídrica ante el crecimiento urbano y la demanda de agua en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Desaparece Abril de 19 años, en Irapuato",
-    "fecha": "08/11/2026 15:00",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/desaparece-abril-de-19-anos-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- La Fiscalía General del Estado de Guanajuato activó el Protocolo Alba para localizar a Jessica Abril Rocha Esquivel, de 19 años. La joven fue vista por última vez el viernes 6 de noviembre en Irapuato. De acuerdo con la ficha oficial, Jessica Abril mide 1.60 metros, tiene cabello negro y ondulado y ojos …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Se acerca la tradicional corrida de la Revolución",
-    "fecha": "08/11/2026 14:56",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/corrida-de-la-revolucion-en-irapuato-cartel-completo-y-fecha-de-la-corrida-nocturna-33037472",
-    "resumen": "La corrida de la Revolución en Irapuato tendrá conferencia este martes y seis astados de José María Arturo Huerta el 20 de noviembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "DIF Irapuato reporta más de 38 niñas, niños y adolescentes fuera de los cruceros",
-    "fecha": "08/11/2026 14:12",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/dif-irapuato-reporta-mas-de-38-ninas-ninos-y-adolescentes-fuera-de-los-cruceros/",
-    "resumen": "Irapuato, Guanajuato.- Más de 38 niñas, niños y adolescentes han dejado de realizar actividades en cruceros de Irapuato, informó el Sistema DIF municipal, que mantiene acciones para prevenir el trabajo infantil y proteger los derechos de la infancia. La estrategia se reforzó en junio de 2025 con la campaña permanente “Mis Sueños No Están en …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Amenazas e intentos de extorsión dejaron sin fiestas religiosas a comunidades de Irapuato: Obispo",
-    "fecha": "08/11/2026 13:38",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/08/amenazas-e-intentos-de-extorsion-dejaron-sin-fiestas-religiosas-a-comunidades-de-irapuato-obispo-171084.html",
-    "resumen": "Este 2026 varias comunidades de Irapuato tuvieron que suspender sus fiestas religiosas por el miedo y desconfianza ante presuntas extorsiones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Más de 2 mil personas corren en la Carrera Nocturna “Entre la Vida y la Muerte” en Irapuato",
-    "fecha": "08/11/2026 13:13",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/mas-de-2-mil-personas-corren-en-la-carrera-nocturna-entre-la-vida-y-la-muerte-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Más de 2 mil personas participaron en la tercera Carrera Nocturna “Entre la Vida y la Muerte” 2026, que recorrió las calles de Irapuato en una noche de deporte, tradición y convivencia. La competencia concluyó con saldo blanco, informó el Gobierno municipal. Organizada por la Comisión del Deporte y Atención a la Juventud …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De robos a farmacias a portación de armas: Irapuato reporta 84 detenciones en una semana",
-    "fecha": "08/11/2026 13:10",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/de-robos-a-farmacias-a-portacion-de-armas-irapuato-reporta-84-detenciones-en-una-semana-33036436",
-    "resumen": "La Policía Municipal también informó sobre recuperación de vehículos y el decomiso de drogas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Volcadura en autopista Querétaro-Irapuato causa intensa movilización en Celaya",
-    "fecha": "08/11/2026 13:03",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/08/volcadura-en-autopista-queretaro-irapuato-causa-intensa-movilizacion-en-celaya-171081.html",
-    "resumen": "Afortunadamente, la volcadura a la altura de Celaya de los viajeros que venían de CDMX a Irapuato no dejó heridos ni víctimas mortales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "La Caravana de Emprendedores de Irapuato celebra su edición 50 con 79 marcas locales",
-    "fecha": "08/11/2026 13:00",
+    "prioridad": 3,
+    "titulo": "Guanajuato aplica más de 270 mil vacunas contra influenza y COVID-19 en campaña invernal",
+    "fecha": "09/11/2026 14:02",
     "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/la-caravana-de-emprendedores-de-irapuato-celebra-su-edicion-50-con-79-marcas-locales/",
-    "resumen": "Irapuato, Guanajuato.- La Caravana de Emprendedores de Irapuato inauguró su edición número 50 con la participación de 79 marcas locales, instaladas en el Jardín Principal del Centro Histórico para ofrecer sus productos este fin de semana. La muestra, organizada por el Gobierno municipal a través de la Dirección de Desarrollo Económico, busca impulsar los negocios …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Balacera deja un hombre sin vida y dos personas lesionadas en Las Huertas, Irapuato",
-    "fecha": "08/11/2026 12:48",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/balacera-deja-un-hombre-sin-vida-y-dos-personas-lesionadas-en-las-huertas-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un hombre sin vida y dos personas lesionadas fue el saldo de un ataque armado registrado la tarde de este domingo en la colonia Las Huertas Primera Sección, en Irapuato. De acuerdo con los primeros reportes, al sistema de emergencias 9-1-1 se notificaron detonaciones de arma sobre la calle Americana, por lo que …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere mujer tras ser atropellada junto con otros cuatro motociclistas en Irapuato",
-    "fecha": "08/11/2026 12:02",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/muere-mujer-tras-ser-atropellada-junto-con-otros-cuatro-motociclistas-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Una mujer perdió la vida luego de ser atropellada junto con otros motociclistas por un vehículo sobre la avenida Guanajuato, en Irapuato, durante la noche de este sábado. El conductor involucrado fue detenido posteriormente, luego de que presuntamente escapara del lugar. De acuerdo con los primeros reportes, el accidente ocurrió en distintos puntos …"
+    "url": "https://notus.com.mx/guanajuato-aplica-mas-de-270-mil-vacunas-contra-influenza-y-covid-19-en-campana-invernal/",
+    "resumen": "Guanajuato, Gto.- La Secretaría de Salud de Guanajuato ha aplicado más de 270 mil vacunas contra influenza y COVID-19 durante la Campaña de Vacunación Invernal 2026, que comenzó el pasado 12 de octubre y continuará hasta el 2 de abril de 2027. De acuerdo con el reporte de la dependencia, más de 200 mil dosis …"
   }
 ]
