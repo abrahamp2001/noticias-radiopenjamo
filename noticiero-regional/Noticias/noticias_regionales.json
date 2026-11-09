@@ -49,11 +49,27 @@
   },
   {
     "prioridad": 1,
-    "titulo": "Empresarios del Rincón buscan integrar a Manuel Doblado a su asociación",
-    "fecha": "07/11/2026 20:17",
+    "titulo": "Lamentan en Cuerámaro el fallecimiento de Salvador Gabriel Serrano, excomandante de policía",
+    "fecha": "08/11/2026 22:40",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/lamentan-en-cueramaro-el-fallecimiento-de-salvador-gabriel-serrano-excomandante-de-policia/",
+    "resumen": "Cuerámaro, Gto. La comunidad de Cuerámaro lamenta el fallecimiento de Salvador Gabriel Serrano Sánchez, quien en vida se desempeñó como comandante de la Policía Municipal. A través de redes sociales, cueramarenses expresaron sus condolencias y reconocieron la labor que realizó durante su trayectoria al servicio de la ciudadanía. En el mensaje, destacaron su profesionalismo, vocación …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato invertirá 500 mil pesos para renovar 132 carritos semifijos del Centro Histórico",
+    "fecha": "08/11/2026 21:26",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/07/empresarios-del-rincon-buscan-integrar-a-manuel-doblado-a-su-asociacion-171051.html",
-    "resumen": "Los Empresarios del Rincón buscan integrar al sector productivo de Manuel Doblado a su asociación regional, además de incorporar a las nuevas generaciones"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/08/irapuato-invertira-500-mil-pesos-para-renovar-132-carritos-semifijos-del-centro-historico-171123.html",
+    "resumen": "El Gobierno Municipal de Irapuato destinará cerca de 500 mil pesos a la renovación de la imagen de 132 carritos semifijos, casetas de lotería y puestos de boleros del Centro Histórico"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detiene a dos hombres armados en distintos puntos de Irapuato",
+    "fecha": "08/11/2026 18:21",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/detiene-a-dos-hombres-armados-en-distintos-puntos-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Dos hombres fueron detenidos por elementos de la Policía Municipal de Irapuato en distintos hechos, luego de que durante las intervenciones les aseguraran un arma y 11 cartuchos útiles a cada uno. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal (SSCM), uno de los detenidos fue identificado como Humberto “N”, …"
   },
   {
     "prioridad": 2,
@@ -70,6 +86,14 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/desaparece-abril-de-19-anos-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- La Fiscalía General del Estado de Guanajuato activó el Protocolo Alba para localizar a Jessica Abril Rocha Esquivel, de 19 años. La joven fue vista por última vez el viernes 6 de noviembre en Irapuato. De acuerdo con la ficha oficial, Jessica Abril mide 1.60 metros, tiene cabello negro y ondulado y ojos …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Se acerca la tradicional corrida de la Revolución",
+    "fecha": "08/11/2026 14:56",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/corrida-de-la-revolucion-en-irapuato-cartel-completo-y-fecha-de-la-corrida-nocturna-33037472",
+    "resumen": "La corrida de la Revolución en Irapuato tendrá conferencia este martes y seis astados de José María Arturo Huerta el 20 de noviembre"
   },
   {
     "prioridad": 2,
@@ -97,6 +121,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "De robos a farmacias a portación de armas: Irapuato reporta 84 detenciones en una semana",
+    "fecha": "08/11/2026 13:10",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/de-robos-a-farmacias-a-portacion-de-armas-irapuato-reporta-84-detenciones-en-una-semana-33036436",
+    "resumen": "La Policía Municipal también informó sobre recuperación de vehículos y el decomiso de drogas"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Volcadura en autopista Querétaro-Irapuato causa intensa movilización en Celaya",
     "fecha": "08/11/2026 13:03",
     "fuente": "Periódico Correo",
@@ -107,7 +139,7 @@
     "prioridad": 2,
     "titulo": "La Caravana de Emprendedores de Irapuato celebra su edición 50 con 79 marcas locales",
     "fecha": "08/11/2026 13:00",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/la-caravana-de-emprendedores-de-irapuato-celebra-su-edicion-50-con-79-marcas-locales/",
     "resumen": "Irapuato, Guanajuato.- La Caravana de Emprendedores de Irapuato inauguró su edición número 50 con la participación de 79 marcas locales, instaladas en el Jardín Principal del Centro Histórico para ofrecer sus productos este fin de semana. La muestra, organizada por el Gobierno municipal a través de la Dirección de Desarrollo Económico, busca impulsar los negocios …"
   },
@@ -115,7 +147,7 @@
     "prioridad": 2,
     "titulo": "Balacera deja un hombre sin vida y dos personas lesionadas en Las Huertas, Irapuato",
     "fecha": "08/11/2026 12:48",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/balacera-deja-un-hombre-sin-vida-y-dos-personas-lesionadas-en-las-huertas-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Un hombre sin vida y dos personas lesionadas fue el saldo de un ataque armado registrado la tarde de este domingo en la colonia Las Huertas Primera Sección, en Irapuato. De acuerdo con los primeros reportes, al sistema de emergencias 9-1-1 se notificaron detonaciones de arma sobre la calle Americana, por lo que …"
   },
@@ -123,40 +155,8 @@
     "prioridad": 2,
     "titulo": "Muere mujer tras ser atropellada junto con otros cuatro motociclistas en Irapuato",
     "fecha": "08/11/2026 12:02",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/muere-mujer-tras-ser-atropellada-junto-con-otros-cuatro-motociclistas-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Una mujer perdió la vida luego de ser atropellada junto con otros motociclistas por un vehículo sobre la avenida Guanajuato, en Irapuato, durante la noche de este sábado. El conductor involucrado fue detenido posteriormente, luego de que presuntamente escapara del lugar. De acuerdo con los primeros reportes, el accidente ocurrió en distintos puntos …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Tu número se va contigo”: despiden a Luis González, conductor de Irapuato que donó sus órganos",
-    "fecha": "08/11/2026 11:57",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/tu-numero-se-va-contigo-despiden-a-luis-gonzalez-conductor-de-irapuato-que-dono-sus-organos-33035305",
-    "resumen": "Alrededor de 100 automóviles y motocicletas acompañaron hasta el panteón Guadalupano al conductor de plataforma fallecido a los 35 años"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque deja un muerto y 2 heridos en Las Huertas Primera Sección de Irapuato",
-    "fecha": "08/11/2026 11:17",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/08/ataque-deja-un-muerto-y-2-heridos-en-las-huertas-primera-seccion-de-irapuato-171076.html",
-    "resumen": "El ataque en Las Huertas Primera Sección en Irapuato habría sido cometido por hombres armados que viajaban a bordo de una motocicleta"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡La Trinca sigue imparable! y mantiene su invicto",
-    "fecha": "08/11/2026 11:09",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/la-trinca-sigue-imparable-y-mantiene-su-invicto/",
-    "resumen": "Irapuato, Guanajuato La Trinca sigue haciendo historia, el Club Deportivo Irapuato consiguió una importante victoria de 1-0 frente a Racing de Veracruz, resultado que le permite mantener su paso invicto y permanecer en lo más alto de la clasificación de la Liga Premier. El encuentro se definió al minuto 60, cuando De la Rosa apareció …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Más de 2 mil personas participaron en la Carrera Nocturna “Entre la Vida y la Muerte” 2026, en un ambiente de fiesta, tradición y sana convivencia",
-    "fecha": "08/11/2026 11:04",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/mas-de-2-mil-personas-participaron-en-la-carrera-nocturna-entre-la-vida-y-la-muerte-2026-en-un-ambiente-de-fiesta-tradicion-y-sana-convivencia/",
-    "resumen": "Irapuato, Gto. Familias, deportistas y grupos de amigos de distintas edades se dieron cita para formar parte de esta competencia, que combinó la actividad física con las tradiciones y el ambiente festivo del Centro Histórico de Irapuato. Las y los corredores participaron en tres modalidades: la categoría infantil de 650 metros, así como los recorridos …"
   }
 ]
