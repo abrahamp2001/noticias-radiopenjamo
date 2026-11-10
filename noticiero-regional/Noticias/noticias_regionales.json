@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Despojan de camioneta a empleados de empresa de fertilizantes sobre la Irapuato-Abasolo",
+    "fecha": "09/11/2026 15:35",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asaltan-a-trabajadores-y-roban-una-camioneta-en-irapuato-abasolo-33053264",
+    "resumen": "Un trabajador fue privado de su libertad momentáneamente por hombres armados, quienes lo obligaron a subir a la unidad; posteriormente lo abandonaron sobre el Libramiento Sur"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Impulsan la lectura con proyecto “Nos Leemos” en escuela primaria de Abasolo",
     "fecha": "09/11/2026 15:31",
     "fuente": "Notus",
@@ -57,6 +65,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Investigan a policías de Irapuato exhibidos en video por presunto abuso de autoridad",
+    "fecha": "09/11/2026 19:18",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/09/investigan-a-policias-de-irapuato-exhibidos-en-video-por-presunto-abuso-de-autoridad-171189.html",
+    "resumen": "El Gobierno municipal inició una investigación contra policías de Irapuato exhibidos en videos por presunto abuso de autoridad"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Irapuato registra exportaciones por mil 237 millones de dólares y firma convenio con COFOCE",
     "fecha": "09/11/2026 16:28",
     "fuente": "Notus",
@@ -65,11 +81,27 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Irapuato prepara intensa agenda deportiva para el cierre de noviembre",
+    "fecha": "09/11/2026 14:23",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/agenda-deportiva-de-irapuato-concentra-eventos-nacionales-en-noviembre-33051871",
+    "resumen": "Habrá actividad de taekwondo, kickboxing, karate ajedrez y basquetbol, entre otros deportes"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Irapuato: Inauguran instalaciones de la Compañía Irapuato 2 de la Guardia Nacional",
     "fecha": "09/11/2026 13:51",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/09/irapuato-inauguran-instalaciones-de-la-compania-irapuato-2-de-la-guardia-nacional-171153.html",
     "resumen": "El nuevo recinto de la Guardia Nacional en Irapuato tiene el objetivo de fortalecer la presencia operativa del organismo de seguridad federal en la entidad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato presenta playera especial para el juego ante Celaya",
+    "fecha": "09/11/2026 13:25",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-presentara-playera-especial-para-el-lunes-premier-ante-celaya-33051206",
+    "resumen": "Vienen afinando detalles respecto a lo que serán las actividades relativas al Lunes Premier"
   },
   {
     "prioridad": 2,
@@ -126,37 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/de-paciente-a-voluntaria-wendy-lleva-tamales-a-familias-afuera-de-hospital-en-irapuato-33031107",
     "resumen": "Wendy Morales decidió regalar alimentos a familiares de pacientes del Hospital Materno Infantil después de conocer las dificultades que enfrentan quienes pasan horas esperando noticias de sus seres queridos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Lo necesitas o sólo está en oferta? Obispo de Irapuato advierte sobre deudas en el Buen Fin",
-    "fecha": "09/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/lo-necesitas-o-solo-esta-en-oferta-obispo-de-irapuato-advierte-sobre-deudas-en-el-buen-fin-33031793",
-    "resumen": "Enrique Díaz Díaz llamó a las familias a evitar compras impulsivas y revisar su presupuesto ante las promociones comercial"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato invertirá 500 mil pesos para renovar 132 carritos semifijos del Centro Histórico",
-    "fecha": "08/11/2026 21:26",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/08/irapuato-invertira-500-mil-pesos-para-renovar-132-carritos-semifijos-del-centro-historico-171123.html",
-    "resumen": "El Gobierno Municipal de Irapuato destinará cerca de 500 mil pesos a la renovación de la imagen de 132 carritos semifijos, casetas de lotería y puestos de boleros del Centro Histórico"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detiene a dos hombres armados en distintos puntos de Irapuato",
-    "fecha": "08/11/2026 18:21",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/detiene-a-dos-hombres-armados-en-distintos-puntos-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Dos hombres fueron detenidos por elementos de la Policía Municipal de Irapuato en distintos hechos, luego de que durante las intervenciones les aseguraran un arma y 11 cartuchos útiles a cada uno. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal (SSCM), uno de los detenidos fue identificado como Humberto “N”, …"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Guanajuato aplica más de 270 mil vacunas contra influenza y COVID-19 en campaña invernal",
-    "fecha": "09/11/2026 14:02",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/guanajuato-aplica-mas-de-270-mil-vacunas-contra-influenza-y-covid-19-en-campana-invernal/",
-    "resumen": "Guanajuato, Gto.- La Secretaría de Salud de Guanajuato ha aplicado más de 270 mil vacunas contra influenza y COVID-19 durante la Campaña de Vacunación Invernal 2026, que comenzó el pasado 12 de octubre y continuará hasta el 2 de abril de 2027. De acuerdo con el reporte de la dependencia, más de 200 mil dosis …"
   }
 ]
