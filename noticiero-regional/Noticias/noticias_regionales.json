@@ -33,6 +33,14 @@
   },
   {
     "prioridad": 1,
+    "titulo": "Remesas oxigenan economía familiar: Coroneo supera los 54 mil pesos per cápita",
+    "fecha": "09/11/2026 23:06",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/09/remesas-oxigenan-economia-familiar-coroneo-supera-los-54-mil-pesos-per-capita-171215.html",
+    "resumen": "También Manuel Doblado y Moroleón encabezan la recepción de remesas promedio por habitante en los primeros nueve meses de 2026, en contraste con León que concentra el mayor monto de dólares enviados al estado"
+  },
+  {
+    "prioridad": 1,
     "titulo": "Dan el último adiós al comandante Chavita, tras morir por un disparo en Cuerámaro",
     "fecha": "09/11/2026 16:05",
     "fuente": "Periódico Correo",
@@ -56,12 +64,12 @@
     "resumen": "El presidente municipal de Cuerámaro señaló que la administración esperará los resultados de la investigación de la Fiscalía para fijar una postura sobre los hechos"
   },
   {
-    "prioridad": 1,
-    "titulo": "Lamentan en Cuerámaro el fallecimiento de Salvador Gabriel Serrano, excomandante de policía",
-    "fecha": "08/11/2026 22:40",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/lamentan-en-cueramaro-el-fallecimiento-de-salvador-gabriel-serrano-excomandante-de-policia/",
-    "resumen": "Cuerámaro, Gto. La comunidad de Cuerámaro lamenta el fallecimiento de Salvador Gabriel Serrano Sánchez, quien en vida se desempeñó como comandante de la Policía Municipal. A través de redes sociales, cueramarenses expresaron sus condolencias y reconocieron la labor que realizó durante su trayectoria al servicio de la ciudadanía. En el mensaje, destacaron su profesionalismo, vocación …"
+    "prioridad": 2,
+    "titulo": "Ataque armado deja dos heridos en colonia Constitución de Apatzingán, Irapuato",
+    "fecha": "09/11/2026 23:49",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/09/ataque-armado-deja-dos-heridos-en-colonia-constitucion-de-apatzingan-irapuato-171217.html",
+    "resumen": "Los dos hombres recibieron impactos de bala en un brazo y una pierna. El ataque ocurrió a espaldas de la zona militar"
   },
   {
     "prioridad": 2,
@@ -144,19 +152,11 @@
     "resumen": "El operativo Buen Fin 2026 en Irapuato reforzará la vigilancia y ofrecerá acompañamiento para retiros de efectivo durante la temporada"
   },
   {
-    "prioridad": 2,
-    "titulo": "¿Alcanza un salario para mantener una familia en Irapuato? Coparmex reconoce que hay rezagos",
-    "fecha": "09/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/alcanza-un-salario-para-mantener-una-familia-en-irapuato-coparmex-reconoce-que-hay-rezagos-33029872",
-    "resumen": "Fernando González, presidente de Coparmex Irapuato-Salamanca, señaló que los aumentos al salario mínimo no garantizan que todas las familias puedan cubrir sus gastos de vivienda, alimentación, transporte, educación y salud"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De paciente a voluntaria: Wendy lleva tamales a familias afuera de hospital en Irapuato",
-    "fecha": "09/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/de-paciente-a-voluntaria-wendy-lleva-tamales-a-familias-afuera-de-hospital-en-irapuato-33031107",
-    "resumen": "Wendy Morales decidió regalar alimentos a familiares de pacientes del Hospital Materno Infantil después de conocer las dificultades que enfrentan quienes pasan horas esperando noticias de sus seres queridos"
+    "prioridad": 3,
+    "titulo": "Guanajuato aplica más de 270 mil vacunas contra influenza y COVID-19 en campaña invernal",
+    "fecha": "09/11/2026 14:02",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/guanajuato-aplica-mas-de-270-mil-vacunas-contra-influenza-y-covid-19-en-campana-invernal/",
+    "resumen": "Guanajuato, Gto.- La Secretaría de Salud de Guanajuato ha aplicado más de 270 mil vacunas contra influenza y COVID-19 durante la Campaña de Vacunación Invernal 2026, que comenzó el pasado 12 de octubre y continuará hasta el 2 de abril de 2027. De acuerdo con el reporte de la dependencia, más de 200 mil dosis …"
   }
 ]
