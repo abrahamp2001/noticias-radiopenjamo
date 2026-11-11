@@ -1,19 +1,11 @@
 [
   {
-    "prioridad": 0,
-    "titulo": "Despojan de camioneta a empleados de empresa de fertilizantes sobre la Irapuato-Abasolo",
-    "fecha": "09/11/2026 15:35",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asaltan-a-trabajadores-y-roban-una-camioneta-en-irapuato-abasolo-33053264",
-    "resumen": "Un trabajador fue privado de su libertad momentáneamente por hombres armados, quienes lo obligaron a subir a la unidad; posteriormente lo abandonaron sobre el Libramiento Sur"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Impulsan la lectura con proyecto “Nos Leemos” en escuela primaria de Abasolo",
-    "fecha": "09/11/2026 15:31",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/impulsan-la-lectura-con-proyecto-nos-leemos-en-escuela-primaria-de-abasolo/",
-    "resumen": "Abasolo, Guanajuato.- La Escuela Primaria Belisario Domínguez puso en marcha el proyecto “Nos Leemos: Un mismo libro, infinitas historias”, una iniciativa que busca fomentar el hábito de la lectura entre niñas y niños, además de involucrar a las familias en su formación educativa. En el arranque estuvo presente el presidente municipal, Job Gallardo, quien acompañó …"
+    "prioridad": 1,
+    "titulo": "Remesas impulsan consumo y el comercio en municipios de Guanajuato",
+    "fecha": "10/11/2026 17:55",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/10/remesas-impulsan-consumo-y-el-comercio-en-municipios-de-guanajuato-171266.html",
+    "resumen": "Las remesas en Guanajuato fortalecen la economía de municipios como Coroneo, Manuel Doblado y Huanímaro, donde estos recursos impulsan el comercio"
   },
   {
     "prioridad": 1,
@@ -40,18 +32,58 @@
     "resumen": "También Manuel Doblado y Moroleón encabezan la recepción de remesas promedio por habitante en los primeros nueve meses de 2026, en contraste con León que concentra el mayor monto de dólares enviados al estado"
   },
   {
-    "prioridad": 1,
-    "titulo": "Dan el último adiós al comandante Chavita, tras morir por un disparo en Cuerámaro",
-    "fecha": "09/11/2026 16:05",
+    "prioridad": 2,
+    "titulo": "Inauguran la edición 31 de la Expo Agroalimentaria Guanajuato en Irapuato",
+    "fecha": "10/11/2026 18:46",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/09/dan-el-ultimo-adios-al-comandante-chavita-tras-morir-por-un-disparo-en-cueramaro-171169.html",
-    "resumen": "El comandante fallecido en Cuerámaro fue despedido con guardia de honor y envuelto en la bandera nacional durante el rito fúnebre"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/10/inauguran-la-edicion-31-de-la-expo-agroalimentaria-guanajuato-en-irapuato-171272.html",
+    "resumen": "Con 750 expositores nacionales e internacionales y la expectativa de 126 mil visitantes, se inauguró en Irapuato la edición 31 de la Expo Agroalimentaria Guanajuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Reconoce Gobierno estatal la fuerza de las familias del campo y fortalece la proyección agrícola de Guanajuato",
+    "fecha": "10/11/2026 16:51",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/reconoce-gobierno-estatal-la-fuerza-de-las-familias-del-campo-y-fortalece-la-proyeccion-agricola-de-guanajuato/",
+    "resumen": "Irapuato, Guanajuato.- Con un llamado a colocar a las familias productoras, la innovación tecnológica y el desarrollo rural en el centro de las políticas públicas, la gobernadora Libia Dennise García Muñoz Ledo destacó la relevancia de la actividad agrícola y pecuaria como pilar fundamental de la economía y la identidad en la entidad. Durante el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Vinculan a proceso a Daniel \"N\" por extorsión agravada a un conductor de plataforma en Irapuato",
+    "fecha": "10/11/2026 16:42",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/vinculan-a-proceso-a-daniel-n-por-extorsion-agravada-a-un-conductor-de-plataforma-en-irapuato-171260.html",
+    "resumen": "Daniel \"N\" rentó un auto a un conductor de plataforma digital y luego lo amenazó con pertenecer a un grupo delictivo y conocer su domicilio para exigirle dinero"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Bloquean Ubers vialidades de Irapuato tras detención de conductor en León",
+    "fecha": "10/11/2026 15:58",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/bloquean-ubers-vialidades-de-irapuato-tras-detencion-de-conductor-en-leon/",
+    "resumen": "Irapuato, Guanajuato.- Taxis de aplicación bloquearon el paso en el cruce entre el bulevar Solidaridad y el Cuarto Cinturón, a la salida León en Irapuato. Presuntamente se trata de vehículos Uber que se manifestaron tras la detención de un compañero en León por parte de Movilidad y transporte. Según información preliminar, el conductor de una …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "De las canchas a los tribunales: detienen en EU a Pedro Hernández Calderón, exarquero del Atlas e Irapuato",
+    "fecha": "10/11/2026 15:32",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/marcador/2026/nov/10/de-las-canchas-a-los-tribunales-detienen-en-eu-a-pedro-hernandez-calderon-exarquero-del-atlas-e-irapuato-171254.html",
+    "resumen": "Pedro Hernández Calderón, experotero del Atlas, Club Irapuato, Santos Laguna y Necaxa fue detenido en Texas por tráfico de relojes falsos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Suman más de 14 mil apoyos e intervenciones integrales en el DIF Irapuato durante los últimos cinco años",
+    "fecha": "10/11/2026 15:29",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/suman-mas-de-14-mil-apoyos-e-intervenciones-integrales-en-el-dif-irapuato-durante-los-ultimos-cinco-anos/",
+    "resumen": "Irapuato, Guanajuato.- Con la entrega de más de 14 mil apoyos y servicios integrales a sectores prioritarios, el Sistema DIF Irapuato consolidó su red de asistencia social durante los últimos cinco años de trabajo, según dio a conocer el propio organismo municipal. Bajo la titularidad de Valeria Alfaro, la institución implementó un modelo de trabajo …"
   },
   {
     "prioridad": 2,
     "titulo": "Muere joven atropellada en Irapuato; piden apoyo para gastos médicos",
     "fecha": "10/11/2026 14:10",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/muere-joven-atropellada-en-irapuato-piden-apoyo-para-gastos-medicos/",
     "resumen": "Irapuato, Guanajuato.– Diana Paulina fue atropellada por un automovilista junto con otras 4 personas. La irapuatense perdió la vida poco después y su familia solicita ayuda para cubrir los gastos médicos debido a que, al parecer, se tiene un adeudo de más de 80 mil pesos en la clínica donde fue internada. El sábado 7 …"
   },
@@ -59,7 +91,7 @@
     "prioridad": 2,
     "titulo": "Arranca construcción del puente en Calzada de Guadalupe en Irapuato",
     "fecha": "10/11/2026 14:10",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/arranca-construccion-del-puente-en-calzada-de-guadalupe-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Con el banderazo oficial por parte de autoridades municipales y estatales, dio inicio la construcción del paso superior vehicular en la Calzada de Guadalupe, una obra estratégica de infraestructura orientada a resolver uno de los puntos de mayor congestión vial en la zona sur de la ciudad. El proyecto, que facilitará el tránsito …"
   },
@@ -67,7 +99,7 @@
     "prioridad": 2,
     "titulo": "Enfrentamiento en la León-Salamanca deja Guardia Nacional muerto",
     "fecha": "10/11/2026 11:00",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/enfrentamiento-en-la-leon-salamanca-deja-guardia-nacional-muerto/",
     "resumen": "Irapuato, Guanajuato.- Una presunta persecución entre Guardia Nacional y hombres armados provocó el cierre total hacia Irapuato en la carretera federal León–Salamanca, a la altura de Nueva Colonia Copalillo. El ataque dejó al parecer un elemento de la Guardia sin vida, al menos dos civiles heridos y varios detenidos. De acuerdo con los primeros reportes, …"
   },
@@ -126,21 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/09/ataque-armado-deja-dos-heridos-en-colonia-constitucion-de-apatzingan-irapuato-171217.html",
     "resumen": "Los dos hombres recibieron impactos de bala en un brazo y una pierna. El ataque ocurrió a espaldas de la zona militar"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Investigan a policías de Irapuato exhibidos en video por presunto abuso de autoridad",
-    "fecha": "09/11/2026 19:18",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/09/investigan-a-policias-de-irapuato-exhibidos-en-video-por-presunto-abuso-de-autoridad-171189.html",
-    "resumen": "El Gobierno municipal inició una investigación contra policías de Irapuato exhibidos en videos por presunto abuso de autoridad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato registra exportaciones por mil 237 millones de dólares y firma convenio con COFOCE",
-    "fecha": "09/11/2026 16:28",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-registra-exportaciones-por-mil-237-millones-de-dolares-y-firma-convenio-con-cofoce/",
-    "resumen": "Irapuato, Guanajuato.- Irapuato registró exportaciones por mil 237 millones de dólares durante el primer semestre de 2026, un crecimiento cercano al 4% respecto al mismo periodo del año anterior. Para impulsar esta actividad económica, el Gobierno Municipal y la Coordinadora de Fomento al Comercio Exterior del Estado de Guanajuato (COFOCE) firmaron un convenio de colaboración …"
   }
 ]
