@@ -1,11 +1,75 @@
 [
   {
     "prioridad": 0,
+    "titulo": "María Ana, adulta mayor, busca a sus familiares en Pénjamo",
+    "fecha": "11/11/2026 14:36",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/maria-ana-adulta-mayor-busca-a-sus-familiares-en-penjamo/",
+    "resumen": "Michoacán.- La señora María Ana Vargas Ramos es una adulta mayor que vive en el municipio de Sahuayo en Michoacán que busca a su familia de Pénjamo. La abuelita asegura haber nacido en el municipio guanajuatense y espera reunirse con sus seres queridos a través de la ayuda del DIF. María Ana actualmente tiene su …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Dos trabajadores de empresa en Pénjamo sufren descarga eléctrica",
+    "fecha": "11/11/2026 12:43",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/dos-trabajadores-de-empresa-en-penjamo-sufren-descarga-electrica/",
+    "resumen": "Pénjamo, Guanajuato.- Dos trabajadores de una empresa de la comunidad Varal de Morales en Pénjamo fueron trasladados al Hospital General luego de sufrir una descarga eléctrica. Personal de emergencias atendió a los hombres. Oxi-Medic Emergencias AC informó que en coordinación con Cruz Roja y Protección Civil se acudió a las instalaciones para valorar a las …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Carambola entre 6 vehículos causa caos vial en la Irapuato-Abasolo",
+    "fecha": "11/11/2026 11:04",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/carambola-entre-6-vehiculos-causa-caos-vial-en-la-irapuato-abasolo/",
+    "resumen": "Irapuato, Guanajuato.- Una carambola que involucró 6 vehículos en la carretera Irapuato-Abasolo provocó un congestionamiento vial a la altura de la Expo Agroalimentaria. El percance no dejó lesionados, pero sí afectaciones materiales. El accidente ocurrió alrededor de las 6 y media de la mañana, cerca de la comunidad Santa Elena, donde vehículos particulares se estamparon …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Aspirantes de Morena intensifican promoción en Pénjamo; convocatoria interna establece límites a la propaganda",
+    "fecha": "11/11/2026 10:25",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/aspirantes-de-morena-intensifican-promocion-en-penjamo-convocatoria-interna-establece-limites-a-la-propaganda/",
+    "resumen": "Raúl Cisneros, Ramiro Zaragoza y Heliot Rizo difunden sus aspiraciones a la coordinación municipal. Sus publicaciones abren interrogantes sobre los alcances de la promoción política y las reglas del proceso…"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Tres accidentes por alcance en la carretera federal 90 Irapuato-Abasolo dejan daños materiales",
+    "fecha": "11/11/2026 09:22",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/tres-accidentes-por-alcance-en-la-carretera-federal-90-irapuato-abasolo-dejan-danos-materiales-33081306",
+    "resumen": "Los accidentes registrado por la mañana de este miércoles en la carretera federal 90 Irapuato-Abasolo provocaron el cierre momentáneo de la circulación hacia Abasolo y generaron largas filas de vehículos"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Historiadores analizan la fundación de Pénjamo en la Ex Hacienda de Santa Ana Pacueco",
+    "fecha": "11/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/historiadores-analizan-los-antecedentes-de-penjamo-en-la-ex-hacienda-de-santa-ana-pacueco-33064148",
+    "resumen": "Realizaron en la Ex Hacienda de Santa Ana Pacueco la presentación del Archivo Histórico Municipal, firma de convenio de colaboración con el Archivo del Valle de Pénjamo y el foro “La fundación de Pénjamo, mitos y realidades”"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Incendio en una vivienda de La Tinaja, Abasolo, deja dos adultos mayores con quemaduras",
     "fecha": "10/11/2026 22:49",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/incendio-en-una-vivienda-de-la-tinaja-abasolo-deja-dos-adultos-mayores-con-quemaduras-171309.html",
     "resumen": "Un incendio presuntamente causado por una concentración de gas LP consumió una vivienda en la comunidad de La Tinaja, en Abasolo"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Arrancan pavimentación de cinco calles en Manuel Doblado",
+    "fecha": "11/11/2026 14:26",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/arrancan-pavimentacion-de-cinco-calles-en-manuel-doblado/",
+    "resumen": "Manuel Doblado, Guanajuato.- Con una inversión compartida dedicada al desarrollo urbano local, autoridades estatales y municipales dieron el banderazo oficial de arranque a cinco obras de pavimentación en colonias de este municipio, las cuales forman parte del programa Manos a la Obra. El evento de inicio se realizó en la colonia Juan Cayetano Gómez de …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Capacitan a 15 mujeres en Belleza e Innovación Digital para impulsar el autoempleo en Manuel Doblado",
+    "fecha": "11/11/2026 12:30",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/capacitan-a-15-mujeres-en-belleza-e-innovacion-digital-para-impulsar-el-autoempleo-en-manuel-doblado/",
+    "resumen": "Manuel Doblado, Guanajuato.- Con el propósito de generar nuevas herramientas de desarrollo profesional e ingresos para las familias locales, arrancó en el municipio el curso de capacitación en Belleza Integral y Emprendimiento Digital, en el que se integró un grupo de 15 mujeres beneficiarias. La formación se desarrolla bajo el esquema del programa BÉCAT, mecanismo …"
   },
   {
     "prioridad": 1,
@@ -24,139 +88,75 @@
     "resumen": "Las remesas en Guanajuato fortalecen la economía de municipios como Coroneo, Manuel Doblado y Huanímaro, donde estos recursos impulsan el comercio"
   },
   {
-    "prioridad": 1,
-    "titulo": "Cuerámaro beneficia a 228 familias con calentadores solares y techos firmes",
-    "fecha": "10/11/2026 08:36",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-beneficia-a-228-familias-con-calentadores-solares-y-techos-firmes-33062567",
-    "resumen": "Con una inversión conjunta de 2 millones 497 mil pesos entre el Gobierno del Estado y el municipio, se entregaron 175 calentadores solares y se realizaron acciones para la construcción de 53 techos firmes"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Productores de Cuerámaro se sumarán a protestas nacionales ante falta de acuerdos para el campo",
-    "fecha": "10/11/2026 06:59",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/productores-de-cueramaro-se-sumaran-a-bloqueos-carreteros-el-17-de-noviembre-33061060",
-    "resumen": "Joaquín Vargas Ortega informó que se realizará una reunión con ejidatarios y pequeños propietarios del municipio para organizar su representación, ante la falta de acuerdos sobre el pago del maíz y las demandas pendientes del sector agrícola"
-  },
-  {
     "prioridad": 2,
-    "titulo": "Arrancan obras del puente de la Calzada de Guadalupe en Irapuato con inversión de 400 mdp",
-    "fecha": "10/11/2026 20:49",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/10/arrancan-obras-del-puente-de-la-calzada-de-guadalupe-en-irapuato-con-inversion-de-400-mdp-171294.html",
-    "resumen": "El puente de la Calzada de Guadalupe en Irapuato comenzó a construirse con una inversión superior a 400 millones de pesos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Arranca construcción del puente de la Calzada de Guadalupe",
-    "fecha": "10/11/2026 20:17",
+    "titulo": "Desaparece en Irapuato Jessica Abril antes de graduarse como policía",
+    "fecha": "11/11/2026 15:27",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/arranca-construccion-del-puente-de-la-calzada-de-guadalupe/",
-    "resumen": "Irapuato, Guanajuato.- La Gobernadora de la Gente, Libia Dennise García Muñoz Ledo, dio arranque a los trabajos de construcción del Paso Superior Vehicular de la Av. Calzada de Guadalupe, en Irapuato.  El puente consistirá en un paso superior vehicular sobre las vías del ferrocarril, en el cruce con la Calzada de Guadalupe mejor conocida como …"
+    "url": "https://notus.com.mx/desaparece-en-irapuato-jessica-abril-antes-de-graduarse-como-policia/",
+    "resumen": "Irapuato, Guanajuato.- Jessica Abril Rocha Esquivel desapareció el 6 de noviembre en Irapuato. La joven de 19 años era cadete y estaba a punto de graduarse este viernes 13 para convertirse en policía. Su familia solicita apoyo de la comunidad para encontrarla con vida. Jessica Abril vestía una playera negra y un pantalón de mezclilla …"
   },
   {
     "prioridad": 2,
-    "titulo": "Tráiler vuelca cerca de la Expo Agroalimentaria y provoca caos vial en Irapuato",
-    "fecha": "10/11/2026 20:14",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/trailer-vuelca-cerca-de-la-expo-agroalimentaria-y-provoca-caos-vial-en-irapuato-171285.html",
-    "resumen": "Una volcadura en Irapuato, cerca de las instalaciones de la Expo Agroalimentaria, dejó daños materiales en un tráiler y provocó caos vial"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Inauguran la edición 31 de la Expo Agroalimentaria Guanajuato en Irapuato",
-    "fecha": "10/11/2026 18:46",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/10/inauguran-la-edicion-31-de-la-expo-agroalimentaria-guanajuato-en-irapuato-171272.html",
-    "resumen": "Con 750 expositores nacionales e internacionales y la expectativa de 126 mil visitantes, se inauguró en Irapuato la edición 31 de la Expo Agroalimentaria Guanajuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Reconoce Gobierno estatal la fuerza de las familias del campo y fortalece la proyección agrícola de Guanajuato",
-    "fecha": "10/11/2026 16:51",
+    "titulo": "Expo Agroalimentaria: vitrina de ricos, campo de pobres",
+    "fecha": "11/11/2026 14:07",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/reconoce-gobierno-estatal-la-fuerza-de-las-familias-del-campo-y-fortalece-la-proyeccion-agricola-de-guanajuato/",
-    "resumen": "Irapuato, Guanajuato.- Con un llamado a colocar a las familias productoras, la innovación tecnológica y el desarrollo rural en el centro de las políticas públicas, la gobernadora Libia Dennise García Muñoz Ledo destacó la relevancia de la actividad agrícola y pecuaria como pilar fundamental de la economía y la identidad en la entidad. Durante el …"
+    "url": "https://notus.com.mx/expo-agroalimentaria-vitrina-de-ricos-campo-de-pobres/",
+    "resumen": "Irapuato, Guanajuato.- Para un campesino de Guanajuato ir a la Expoagrolimentaria le cuesta aproximadamente 385 kilos de maíz, es decir, darse un lujo de 4 días, por meses de trabajo, bajo el sol. Mientras en Irapuato se exhiben tractores, drones e invernaderos de alta tecnología en la Expo Agrolimentaria, los productores de maíz de Guanajuato …"
   },
   {
     "prioridad": 2,
-    "titulo": "Vinculan a proceso a Daniel \"N\" por extorsión agravada a un conductor de plataforma en Irapuato",
-    "fecha": "10/11/2026 16:42",
+    "titulo": "Celebrarán 25 años del Festival de Jazz en Irapuato con conciertos en el Parque Irekua",
+    "fecha": "11/11/2026 12:09",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/celebraran-25-anos-del-festival-de-jazz-en-irapuato-con-conciertos-en-el-parque-irekua/",
+    "resumen": "Irapuato, Guanajuato.- Con una programación conmemorativa que combina talento local, proyecciones internacionales y actividades culturales, Irapuato celebrará las bodas de plata del Festival de Jazz del 26 al 29 de noviembre, consolidándose como uno de los encuentros musicales de mayor permanencia en el país. El evento, coordinado por el Gobierno Municipal a través del Instituto …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a presunto extorsionador de chofer de aplicación en Irapuato",
+    "fecha": "11/11/2026 12:06",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/detienen-a-presunto-extorsionador-de-chofer-de-aplicacion-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Daniel “N” habría asegurado que pertenecía a un grupo delictivo y que conocía el domicilio de un chofer de aplicación a quien le había solicitado la renta de su vehículo en Irapuato. Tras obtener el automóvil, Daniel no lo devolvió y lo convirtió en el medio para amenazar y exigir dinero a la …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Caravana de Emprendedores deja una derrama económica de más de 534 mil pesos en Irapuato",
+    "fecha": "11/11/2026 11:37",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/caravana-de-emprendedores-deja-una-derrama-economica-de-mas-de-534-mil-pesos-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Con una derrama económica acumulada de 534 mil 489 pesos, concluyó la edición número 50 de la Caravana de Emprendedores, jornada comercial impulsada por la administración municipal para promover la producción local y diversificar las fuentes de ingreso familiar. El encuentro, realizado los días 6, 7 y 8 de noviembre en el Jardín …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Cinco años en el DIF Irapuato: Más servicios para las familias y retos que todavía no terminan",
+    "fecha": "11/11/2026 10:21",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/cinco-anos-en-el-dif-irapuato-mas-servicios-para-las-familias-y-retos-que-todavia-no-terminan-33081590",
+    "resumen": "El Sistema DIF presentó un balance de la atención a la niñez, personas con discapacidad y adultos mayores; anunció dos nuevos espacios de rehabilitación y reconoció que todavía falta fortalecer la prevención y ampliar las oportunidades de inclusión"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Cierran la Salamanca-Valle de Santiago y evacuan comunidades por fuga en ducto de CENAGAS; tras 9 horas reabren",
+    "fecha": "11/11/2026 08:58",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/vinculan-a-proceso-a-daniel-n-por-extorsion-agravada-a-un-conductor-de-plataforma-en-irapuato-171260.html",
-    "resumen": "Daniel \"N\" rentó un auto a un conductor de plataforma digital y luego lo amenazó con pertenecer a un grupo delictivo y conocer su domicilio para exigirle dinero"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/11/cierran-la-salamanca-valle-de-santiago-y-evacuan-comunidades-por-fuga-en-ducto-de-cenagas-tras-9-horas-reabren-171317.html",
+    "resumen": "Además de la evacuación de comunidades y el cierre de la carretera, el Campus Irapuato- Salamanca de la UG suspendió labores de forma preventiva"
   },
   {
     "prioridad": 2,
-    "titulo": "Lorena Alfaro acusa a Morena de dejar sin presupuesto al nuevo hospital del IMSS de Irapuato",
-    "fecha": "10/11/2026 16:00",
+    "titulo": "Caravana de Emprendedores deja más de 534 mil pesos en ventas durante su edición 50",
+    "fecha": "11/11/2026 07:41",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/hospital-del-imss-en-irapuato-queda-sin-partida-en-presupuesto-2027-33070399",
-    "resumen": "La alcaldesa afirmó que los legisladores federales demostraron que la salud no está entre sus prioridades"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/caravana-de-emprendedores-deja-mas-de-534-mil-pesos-en-ventas-durante-su-edicion-50-33079420",
+    "resumen": "El encuentro reunió a 79 marcas locales en el Centro Histórico de Irapuato; 30 negocios participaron por primera vez y 273 personas fueron beneficiadas directamente"
   },
   {
     "prioridad": 2,
-    "titulo": "Bloquean Ubers vialidades de Irapuato tras detención de conductor en León",
-    "fecha": "10/11/2026 15:58",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/bloquean-ubers-vialidades-de-irapuato-tras-detencion-de-conductor-en-leon/",
-    "resumen": "Irapuato, Guanajuato.- Taxis de aplicación bloquearon el paso en el cruce entre el bulevar Solidaridad y el Cuarto Cinturón, a la salida León en Irapuato. Presuntamente se trata de vehículos Uber que se manifestaron tras la detención de un compañero en León por parte de Movilidad y transporte. Según información preliminar, el conductor de una …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "De las canchas a los tribunales: detienen en EU a Pedro Hernández Calderón, exarquero del Atlas e Irapuato",
-    "fecha": "10/11/2026 15:32",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/marcador/2026/nov/10/de-las-canchas-a-los-tribunales-detienen-en-eu-a-pedro-hernandez-calderon-exarquero-del-atlas-e-irapuato-171254.html",
-    "resumen": "Pedro Hernández Calderón, experotero del Atlas, Club Irapuato, Santos Laguna y Necaxa fue detenido en Texas por tráfico de relojes falsos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Suman más de 14 mil apoyos e intervenciones integrales en el DIF Irapuato durante los últimos cinco años",
-    "fecha": "10/11/2026 15:29",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/suman-mas-de-14-mil-apoyos-e-intervenciones-integrales-en-el-dif-irapuato-durante-los-ultimos-cinco-anos/",
-    "resumen": "Irapuato, Guanajuato.- Con la entrega de más de 14 mil apoyos y servicios integrales a sectores prioritarios, el Sistema DIF Irapuato consolidó su red de asistencia social durante los últimos cinco años de trabajo, según dio a conocer el propio organismo municipal. Bajo la titularidad de Valeria Alfaro, la institución implementó un modelo de trabajo …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere joven atropellada en Irapuato; piden apoyo para gastos médicos",
-    "fecha": "10/11/2026 14:10",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/muere-joven-atropellada-en-irapuato-piden-apoyo-para-gastos-medicos/",
-    "resumen": "Irapuato, Guanajuato.– Diana Paulina fue atropellada por un automovilista junto con otras 4 personas. La irapuatense perdió la vida poco después y su familia solicita ayuda para cubrir los gastos médicos debido a que, al parecer, se tiene un adeudo de más de 80 mil pesos en la clínica donde fue internada. El sábado 7 …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Arranca construcción del puente en Calzada de Guadalupe en Irapuato",
-    "fecha": "10/11/2026 14:10",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/arranca-construccion-del-puente-en-calzada-de-guadalupe-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Con el banderazo oficial por parte de autoridades municipales y estatales, dio inicio la construcción del paso superior vehicular en la Calzada de Guadalupe, una obra estratégica de infraestructura orientada a resolver uno de los puntos de mayor congestión vial en la zona sur de la ciudad. El proyecto, que facilitará el tránsito …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato se prepara para la Corrida de la Revolución; anuncian cartel internacional para el 20 de noviembre",
-    "fecha": "10/11/2026 13:58",
+    "titulo": "El jazz cumple 25 años en Irapuato: músicos internacionales, talento local y cuatro días de celebración",
+    "fecha": "11/11/2026 07:30",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/plaza-revolucion-alista-la-tradicional-corrida-de-la-revolucion-en-irapuato-33068574",
-    "resumen": "Guillermo Hermoso de Mendoza, Diego San Román e Isaac Fonseca integran el festejo taurino que se realizará a las 8 de la noche en la Plaza de Toros Revolución; la ganadería estará a cargo de José María Arturo Huerta."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Enfrentamiento en la León-Salamanca deja Guardia Nacional muerto",
-    "fecha": "10/11/2026 11:00",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/enfrentamiento-en-la-leon-salamanca-deja-guardia-nacional-muerto/",
-    "resumen": "Irapuato, Guanajuato.- Una presunta persecución entre Guardia Nacional y hombres armados provocó el cierre total hacia Irapuato en la carretera federal León–Salamanca, a la altura de Nueva Colonia Copalillo. El ataque dejó al parecer un elemento de la Guardia sin vida, al menos dos civiles heridos y varios detenidos. De acuerdo con los primeros reportes, …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Arranca Expo Agroalimentaria Guanajuato 2026 en Irapuato: cuatro días de negocios y tecnología para el campo",
-    "fecha": "10/11/2026 09:51",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/arranca-expo-agroalimentaria-guanajuato-2026-en-irapuato-cuatro-dias-de-negocios-y-tecnologia-para-el-campo-33064262",
-    "resumen": "La edición 31 reúne a productores, compradores, empresarios y proveedores nacionales e internacionales"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/el-jazz-cumple-25-anos-en-irapuato-musicos-internacionales-talento-local-y-cuatro-dias-de-celebracion-33079200",
+    "resumen": "Big Walker, Olson Joseph, Dorrey Lyles y agrupaciones mexicanas integran la cartelera del XXV Festival de Jazz, que se realizará del 26 al 29 de noviembre con conciertos, exposiciones, charlas y actividades en distintos espacios de la ciudad"
   }
 ]
