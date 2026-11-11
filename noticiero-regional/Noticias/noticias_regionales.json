@@ -1,5 +1,21 @@
 [
   {
+    "prioridad": 0,
+    "titulo": "Incendio en una vivienda de La Tinaja, Abasolo, deja dos adultos mayores con quemaduras",
+    "fecha": "10/11/2026 22:49",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/incendio-en-una-vivienda-de-la-tinaja-abasolo-deja-dos-adultos-mayores-con-quemaduras-171309.html",
+    "resumen": "Un incendio presuntamente causado por una concentración de gas LP consumió una vivienda en la comunidad de La Tinaja, en Abasolo"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "“Estados Unidos nos quitó el hambre”: remesas que sostienen a familias de Guanajuato",
+    "fecha": "10/11/2026 22:22",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/10/estados-unidos-nos-quito-el-hambre-remesas-que-sostienen-a-familias-de-guanajuato-171303.html",
+    "resumen": "Tarimoro, Coroneo, Manuel Doblado y Moroleón reflejan el peso de la migración en la economía familiar, aunque los envíos enfrentan reducciones y mayores costos"
+  },
+  {
     "prioridad": 1,
     "titulo": "Remesas impulsan consumo y el comercio en municipios de Guanajuato",
     "fecha": "10/11/2026 17:55",
@@ -24,12 +40,28 @@
     "resumen": "Joaquín Vargas Ortega informó que se realizará una reunión con ejidatarios y pequeños propietarios del municipio para organizar su representación, ante la falta de acuerdos sobre el pago del maíz y las demandas pendientes del sector agrícola"
   },
   {
-    "prioridad": 1,
-    "titulo": "Remesas oxigenan economía familiar: Coroneo supera los 54 mil pesos per cápita",
-    "fecha": "09/11/2026 23:06",
+    "prioridad": 2,
+    "titulo": "Arrancan obras del puente de la Calzada de Guadalupe en Irapuato con inversión de 400 mdp",
+    "fecha": "10/11/2026 20:49",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/09/remesas-oxigenan-economia-familiar-coroneo-supera-los-54-mil-pesos-per-capita-171215.html",
-    "resumen": "También Manuel Doblado y Moroleón encabezan la recepción de remesas promedio por habitante en los primeros nueve meses de 2026, en contraste con León que concentra el mayor monto de dólares enviados al estado"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/10/arrancan-obras-del-puente-de-la-calzada-de-guadalupe-en-irapuato-con-inversion-de-400-mdp-171294.html",
+    "resumen": "El puente de la Calzada de Guadalupe en Irapuato comenzó a construirse con una inversión superior a 400 millones de pesos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Arranca construcción del puente de la Calzada de Guadalupe",
+    "fecha": "10/11/2026 20:17",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/arranca-construccion-del-puente-de-la-calzada-de-guadalupe/",
+    "resumen": "Irapuato, Guanajuato.- La Gobernadora de la Gente, Libia Dennise García Muñoz Ledo, dio arranque a los trabajos de construcción del Paso Superior Vehicular de la Av. Calzada de Guadalupe, en Irapuato.  El puente consistirá en un paso superior vehicular sobre las vías del ferrocarril, en el cruce con la Calzada de Guadalupe mejor conocida como …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Tráiler vuelca cerca de la Expo Agroalimentaria y provoca caos vial en Irapuato",
+    "fecha": "10/11/2026 20:14",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/trailer-vuelca-cerca-de-la-expo-agroalimentaria-y-provoca-caos-vial-en-irapuato-171285.html",
+    "resumen": "Una volcadura en Irapuato, cerca de las instalaciones de la Expo Agroalimentaria, dejó daños materiales en un tráiler y provocó caos vial"
   },
   {
     "prioridad": 2,
@@ -57,6 +89,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Lorena Alfaro acusa a Morena de dejar sin presupuesto al nuevo hospital del IMSS de Irapuato",
+    "fecha": "10/11/2026 16:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/hospital-del-imss-en-irapuato-queda-sin-partida-en-presupuesto-2027-33070399",
+    "resumen": "La alcaldesa afirmó que los legisladores federales demostraron que la salud no está entre sus prioridades"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Bloquean Ubers vialidades de Irapuato tras detención de conductor en León",
     "fecha": "10/11/2026 15:58",
     "fuente": "Notus",
@@ -75,7 +115,7 @@
     "prioridad": 2,
     "titulo": "Suman más de 14 mil apoyos e intervenciones integrales en el DIF Irapuato durante los últimos cinco años",
     "fecha": "10/11/2026 15:29",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/suman-mas-de-14-mil-apoyos-e-intervenciones-integrales-en-el-dif-irapuato-durante-los-ultimos-cinco-anos/",
     "resumen": "Irapuato, Guanajuato.- Con la entrega de más de 14 mil apoyos y servicios integrales a sectores prioritarios, el Sistema DIF Irapuato consolidó su red de asistencia social durante los últimos cinco años de trabajo, según dio a conocer el propio organismo municipal. Bajo la titularidad de Valeria Alfaro, la institución implementó un modelo de trabajo …"
   },
@@ -97,6 +137,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Irapuato se prepara para la Corrida de la Revolución; anuncian cartel internacional para el 20 de noviembre",
+    "fecha": "10/11/2026 13:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/plaza-revolucion-alista-la-tradicional-corrida-de-la-revolucion-en-irapuato-33068574",
+    "resumen": "Guillermo Hermoso de Mendoza, Diego San Román e Isaac Fonseca integran el festejo taurino que se realizará a las 8 de la noche en la Plaza de Toros Revolución; la ganadería estará a cargo de José María Arturo Huerta."
+  },
+  {
+    "prioridad": 2,
     "titulo": "Enfrentamiento en la León-Salamanca deja Guardia Nacional muerto",
     "fecha": "10/11/2026 11:00",
     "fuente": "Notus página 3",
@@ -110,53 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/arranca-expo-agroalimentaria-guanajuato-2026-en-irapuato-cuatro-dias-de-negocios-y-tecnologia-para-el-campo-33064262",
     "resumen": "La edición 31 reúne a productores, compradores, empresarios y proveedores nacionales e internacionales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Aquí tendremos puente”: Libia Dennise reconoce gestiones de Irapuato para obra de Calzada de Guadalupe",
-    "fecha": "10/11/2026 08:05",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/aqui-tendremos-puente-libia-dennise-reconoce-gestiones-de-irapuato-para-obra-de-calzada-de-guadalupe-33062272",
-    "resumen": "La gobernadora destacó que el Ayuntamiento de Irapuato realizó los estudios, trámites y liberación de afectaciones para construir el puente de la Bimbo, con una inversión estatal de 349 millones de pesos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¡Lo lograron! Estudiantes de la UDL plantel Irapuato celebran su graduación",
-    "fecha": "10/11/2026 03:56",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/lo-lograron-estudiantes-de-la-udl-plantel-irapuato-celebran-su-graduacion-32565385",
-    "resumen": "Los nuevos profesionistas, felices, brindaron con su familia y amigos por el fin de su etapa universitaria, por los triunfos alcanzados y los retos venideros"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Van a traicionar a Sheinbaum”: diputado Diego Barroso acusa a Morena de no dar recursos para hospitales de Irapuato y Celaya",
-    "fecha": "10/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/rechazan-3-mil-500-mdp-para-hospital-del-imss-en-irapuato-33053434",
-    "resumen": "El diputado federal del PAN acusó que Morena y sus aliados rechazaron una reserva de tres mil 500 millones de pesos para construir el Hospital General de Zona del IMSS en Irapuato; Claudia Sheinbaum anunció en septiembre la construcción de un hospital en Celaya y confirmó que el de Irapuato estaba en proyecto."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Con el frío, buscan a quienes duermen en las calles de Irapuato; localizan hasta ocho en una noche",
-    "fecha": "10/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/con-el-frio-buscan-a-quienes-duermen-en-las-calles-de-irapuato-localizan-hasta-ocho-en-una-noche-33048473",
-    "resumen": "Los recorridos nocturnos buscan detectar a personas vulnerables por las bajas temperaturas, atender problemas de salud y restablecer vínculos familiares con apoyo de Proximidad Ciudadana"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Estados Unidos concentra 88% de las exportaciones de Irapuato; buscan abrir nuevos mercados",
-    "fecha": "10/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/estados-unidos-concentra-88-de-las-exportaciones-de-irapuato-buscan-abrir-nuevos-mercados-33048330",
-    "resumen": "El municipio y COFOCE firmaron un convenio para preparar a más empresas locales para vender en el extranjero; entre los objetivos está una misión comercial a McAllen en 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado deja dos heridos en colonia Constitución de Apatzingán, Irapuato",
-    "fecha": "09/11/2026 23:49",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/09/ataque-armado-deja-dos-heridos-en-colonia-constitucion-de-apatzingan-irapuato-171217.html",
-    "resumen": "Los dos hombres recibieron impactos de bala en un brazo y una pierna. El ataque ocurrió a espaldas de la zona militar"
   }
 ]
