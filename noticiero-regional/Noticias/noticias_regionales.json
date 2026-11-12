@@ -11,7 +11,7 @@
     "prioridad": 0,
     "titulo": "Dos trabajadores de empresa en Pénjamo sufren descarga eléctrica",
     "fecha": "11/11/2026 12:43",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/dos-trabajadores-de-empresa-en-penjamo-sufren-descarga-electrica/",
     "resumen": "Pénjamo, Guanajuato.- Dos trabajadores de una empresa de la comunidad Varal de Morales en Pénjamo fueron trasladados al Hospital General luego de sufrir una descarga eléctrica. Personal de emergencias atendió a los hombres. Oxi-Medic Emergencias AC informó que en coordinación con Cruz Roja y Protección Civil se acudió a las instalaciones para valorar a las …"
   },
@@ -56,6 +56,14 @@
     "resumen": "Un incendio presuntamente causado por una concentración de gas LP consumió una vivienda en la comunidad de La Tinaja, en Abasolo"
   },
   {
+    "prioridad": 0,
+    "titulo": "Inician trabajos de perforación de nuevo pozo de agua en San Antonio de Peralta",
+    "fecha": "11/11/2026 17:01",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/inician-trabajos-de-perforacion-de-nuevo-pozo-de-agua-en-san-antonio-de-peralta/",
+    "resumen": "Abasolo, Guanajuato.- Con el objetivo de atender un rezago histórico en materia de servicios básicos, el Gobierno Municipal dio inicio a los trabajos de perforación de un nuevo pozo de agua potable en la comunidad de San Antonio de Peralta. La obra, impulsada por la administración del presidente municipal Job Eduardo Gallardo Santellano, responde a …"
+  },
+  {
     "prioridad": 1,
     "titulo": "Arrancan pavimentación de cinco calles en Manuel Doblado",
     "fecha": "11/11/2026 14:26",
@@ -67,7 +75,7 @@
     "prioridad": 1,
     "titulo": "Capacitan a 15 mujeres en Belleza e Innovación Digital para impulsar el autoempleo en Manuel Doblado",
     "fecha": "11/11/2026 12:30",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/capacitan-a-15-mujeres-en-belleza-e-innovacion-digital-para-impulsar-el-autoempleo-en-manuel-doblado/",
     "resumen": "Manuel Doblado, Guanajuato.- Con el propósito de generar nuevas herramientas de desarrollo profesional e ingresos para las familias locales, arrancó en el municipio el curso de capacitación en Belleza Integral y Emprendimiento Digital, en el que se integró un grupo de 15 mujeres beneficiarias. La formación se desarrolla bajo el esquema del programa BÉCAT, mecanismo …"
   },
@@ -80,12 +88,20 @@
     "resumen": "Tarimoro, Coroneo, Manuel Doblado y Moroleón reflejan el peso de la migración en la economía familiar, aunque los envíos enfrentan reducciones y mayores costos"
   },
   {
-    "prioridad": 1,
-    "titulo": "Remesas impulsan consumo y el comercio en municipios de Guanajuato",
-    "fecha": "10/11/2026 17:55",
+    "prioridad": 2,
+    "titulo": "Operativos en Irapuato y Salamanca dejan detenidos, armas aseguradas y un muerto, ¿qué pasó?",
+    "fecha": "11/11/2026 17:17",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/10/remesas-impulsan-consumo-y-el-comercio-en-municipios-de-guanajuato-171266.html",
-    "resumen": "Las remesas en Guanajuato fortalecen la economía de municipios como Coroneo, Manuel Doblado y Huanímaro, donde estos recursos impulsan el comercio"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/11/operativos-en-irapuato-y-salamanca-dejan-detenidos-armas-aseguradas-y-un-muerto-que-paso-171356.html",
+    "resumen": "Los operativos en Irapuato y Salamanca dejaron detenidos, armas aseguradas y una persona sin vida tras una agresión armada contra elementos de seguridad"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Operativo en Irapuato y Salamanca deja un muerto y varios detenidos",
+    "fecha": "11/11/2026 17:04",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/operativo-en-irapuato-y-salamanca-deja-un-muerto-y-varios-detenidos/",
+    "resumen": "Salamanca, Guanajuato.- Un presunto agresor abatido y múltiples detenciones fueron el resultado de una fuerte movilización de autoridades en la comunidad de San José Temascatío en Salamanca. Elementos de seguridad estatales y federales realizaron un operativo entre el municipio e Irapuato. La Secretaría de Seguridad y Paz informó que Fuerzas de Seguridad Pública del Estado …"
   },
   {
     "prioridad": 2,
@@ -97,11 +113,27 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Lanzará Irapuato playera especial diseñada por aficionados; sólo habrá 300 unidades",
+    "fecha": "11/11/2026 14:46",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-presenta-playera-especial-costara-999-pesos-y-habra-300-33086780",
+    "resumen": "La camiseta tendrá un costo de 999 pesos y estará disponible exclusivamente este lunes, durante el último partido de local de la primera vuelta; el equipo llega con diez victorias consecutivas."
+  },
+  {
+    "prioridad": 2,
     "titulo": "Expo Agroalimentaria: vitrina de ricos, campo de pobres",
     "fecha": "11/11/2026 14:07",
     "fuente": "Notus",
     "url": "https://notus.com.mx/expo-agroalimentaria-vitrina-de-ricos-campo-de-pobres/",
     "resumen": "Irapuato, Guanajuato.- Para un campesino de Guanajuato ir a la Expoagrolimentaria le cuesta aproximadamente 385 kilos de maíz, es decir, darse un lujo de 4 días, por meses de trabajo, bajo el sol. Mientras en Irapuato se exhiben tractores, drones e invernaderos de alta tecnología en la Expo Agrolimentaria, los productores de maíz de Guanajuato …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Operativo en Irapuato y Salamanca deja un abatido y varias personas detenidas",
+    "fecha": "11/11/2026 12:51",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/operativos-en-irapuato-y-salamanca-dejan-un-presunto-agresor-abatido-33084948",
+    "resumen": "Una agresión armada contra elementos de seguridad derivó en un enfrentamiento en la zona limítrofe de ambos municipios; FSPE, Ejército y Guardia Nacional mantienen despliegues coordinados."
   },
   {
     "prioridad": 2,
@@ -126,37 +158,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/caravana-de-emprendedores-deja-una-derrama-economica-de-mas-de-534-mil-pesos-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Con una derrama económica acumulada de 534 mil 489 pesos, concluyó la edición número 50 de la Caravana de Emprendedores, jornada comercial impulsada por la administración municipal para promover la producción local y diversificar las fuentes de ingreso familiar. El encuentro, realizado los días 6, 7 y 8 de noviembre en el Jardín …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cinco años en el DIF Irapuato: Más servicios para las familias y retos que todavía no terminan",
-    "fecha": "11/11/2026 10:21",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cinco-anos-en-el-dif-irapuato-mas-servicios-para-las-familias-y-retos-que-todavia-no-terminan-33081590",
-    "resumen": "El Sistema DIF presentó un balance de la atención a la niñez, personas con discapacidad y adultos mayores; anunció dos nuevos espacios de rehabilitación y reconoció que todavía falta fortalecer la prevención y ampliar las oportunidades de inclusión"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cierran la Salamanca-Valle de Santiago y evacuan comunidades por fuga en ducto de CENAGAS; tras 9 horas reabren",
-    "fecha": "11/11/2026 08:58",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/11/cierran-la-salamanca-valle-de-santiago-y-evacuan-comunidades-por-fuga-en-ducto-de-cenagas-tras-9-horas-reabren-171317.html",
-    "resumen": "Además de la evacuación de comunidades y el cierre de la carretera, el Campus Irapuato- Salamanca de la UG suspendió labores de forma preventiva"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Caravana de Emprendedores deja más de 534 mil pesos en ventas durante su edición 50",
-    "fecha": "11/11/2026 07:41",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/caravana-de-emprendedores-deja-mas-de-534-mil-pesos-en-ventas-durante-su-edicion-50-33079420",
-    "resumen": "El encuentro reunió a 79 marcas locales en el Centro Histórico de Irapuato; 30 negocios participaron por primera vez y 273 personas fueron beneficiadas directamente"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "El jazz cumple 25 años en Irapuato: músicos internacionales, talento local y cuatro días de celebración",
-    "fecha": "11/11/2026 07:30",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/el-jazz-cumple-25-anos-en-irapuato-musicos-internacionales-talento-local-y-cuatro-dias-de-celebracion-33079200",
-    "resumen": "Big Walker, Olson Joseph, Dorrey Lyles y agrupaciones mexicanas integran la cartelera del XXV Festival de Jazz, que se realizará del 26 al 29 de noviembre con conciertos, exposiciones, charlas y actividades en distintos espacios de la ciudad"
   }
 ]
