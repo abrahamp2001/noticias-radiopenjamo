@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Así han vivido sin Agua en San Antonio de Peralta en Pénjamo",
+    "fecha": "11/11/2026 20:20",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/11/asi-han-vivido-sin-agua-en-san-antonio-de-peralta-en-penjamo-171382.html",
+    "resumen": "Los habitantes de San Antonio de Peralta en Pénjamo esperan recuperar el suministro de agua potable con el equipamiento de un pozo"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Dos trabajadores resultan electrocutados en un vivero de Varal de Morales, Pénjamo",
+    "fecha": "11/11/2026 19:52",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/11/dos-trabajadores-resultan-electrocutados-en-un-vivero-de-varal-de-morales-penjamo-171377.html",
+    "resumen": "Dos trabajadores resultaron electrocutados mientras realizaban sus funciones en una empresa, en un vivero de la comunidad de Varal de Morales, en Pénjamo"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Tráfico lento en la carretera Irapuato-Abasolo por peritaje de volcadura de camión y salida de personal de la Expo Agroalimentaria",
+    "fecha": "11/11/2026 15:36",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/trafico-lento-en-la-carretera-irapuato-abasolo-por-volcadura-33087770",
+    "resumen": "La circulación es lenta a la altura de la comunidad La Soledad; autoridades realizan peritajes tras el accidente y se suma la salida del personal de la Expo Agroalimentaria."
+  },
+  {
+    "prioridad": 0,
     "titulo": "María Ana, adulta mayor, busca a sus familiares en Pénjamo",
     "fecha": "11/11/2026 14:36",
     "fuente": "Notus",
@@ -19,7 +43,7 @@
     "prioridad": 0,
     "titulo": "Carambola entre 6 vehículos causa caos vial en la Irapuato-Abasolo",
     "fecha": "11/11/2026 11:04",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/carambola-entre-6-vehiculos-causa-caos-vial-en-la-irapuato-abasolo/",
     "resumen": "Irapuato, Guanajuato.- Una carambola que involucró 6 vehículos en la carretera Irapuato-Abasolo provocó un congestionamiento vial a la altura de la Expo Agroalimentaria. El percance no dejó lesionados, pero sí afectaciones materiales. El accidente ocurrió alrededor de las 6 y media de la mañana, cerca de la comunidad Santa Elena, donde vehículos particulares se estamparon …"
   },
@@ -41,27 +65,19 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Historiadores analizan la fundación de Pénjamo en la Ex Hacienda de Santa Ana Pacueco",
-    "fecha": "11/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/historiadores-analizan-los-antecedentes-de-penjamo-en-la-ex-hacienda-de-santa-ana-pacueco-33064148",
-    "resumen": "Realizaron en la Ex Hacienda de Santa Ana Pacueco la presentación del Archivo Histórico Municipal, firma de convenio de colaboración con el Archivo del Valle de Pénjamo y el foro “La fundación de Pénjamo, mitos y realidades”"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Incendio en una vivienda de La Tinaja, Abasolo, deja dos adultos mayores con quemaduras",
-    "fecha": "10/11/2026 22:49",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/10/incendio-en-una-vivienda-de-la-tinaja-abasolo-deja-dos-adultos-mayores-con-quemaduras-171309.html",
-    "resumen": "Un incendio presuntamente causado por una concentración de gas LP consumió una vivienda en la comunidad de La Tinaja, en Abasolo"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Inician trabajos de perforación de nuevo pozo de agua en San Antonio de Peralta",
     "fecha": "11/11/2026 17:01",
     "fuente": "Notus",
     "url": "https://notus.com.mx/inician-trabajos-de-perforacion-de-nuevo-pozo-de-agua-en-san-antonio-de-peralta/",
     "resumen": "Abasolo, Guanajuato.- Con el objetivo de atender un rezago histórico en materia de servicios básicos, el Gobierno Municipal dio inicio a los trabajos de perforación de un nuevo pozo de agua potable en la comunidad de San Antonio de Peralta. La obra, impulsada por la administración del presidente municipal Job Eduardo Gallardo Santellano, responde a …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Llega nueva Secretaria de Ayuntamiento a Cuerámaro",
+    "fecha": "11/11/2026 23:14",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/llega-nueva-secretaria-de-ayuntamiento-a-cueramaro/",
+    "resumen": "Cuerámaro, Guanajuato.- Sonia Rangel González dejó la Secretaría del Ayuntamiento de Cuerámaro. En su lugar llegó la maestra Reyna Isabel de la Paz Negrete y este es el tercer relevo en esta área durante la Administración 2024–2027. Rangel González fue la segunda persona en ocupar el cargo en este trienio, quien llegó en sustitución de …"
   },
   {
     "prioridad": 1,
@@ -80,12 +96,12 @@
     "resumen": "Manuel Doblado, Guanajuato.- Con el propósito de generar nuevas herramientas de desarrollo profesional e ingresos para las familias locales, arrancó en el municipio el curso de capacitación en Belleza Integral y Emprendimiento Digital, en el que se integró un grupo de 15 mujeres beneficiarias. La formación se desarrolla bajo el esquema del programa BÉCAT, mecanismo …"
   },
   {
-    "prioridad": 1,
-    "titulo": "“Estados Unidos nos quitó el hambre”: remesas que sostienen a familias de Guanajuato",
-    "fecha": "10/11/2026 22:22",
+    "prioridad": 2,
+    "titulo": "Irapuato y Celaya buscan hospitales del IMSS sin recursos federales",
+    "fecha": "11/11/2026 20:14",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/10/estados-unidos-nos-quito-el-hambre-remesas-que-sostienen-a-familias-de-guanajuato-171303.html",
-    "resumen": "Tarimoro, Coroneo, Manuel Doblado y Moroleón reflejan el peso de la migración en la economía familiar, aunque los envíos enfrentan reducciones y mayores costos"
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/11/irapuato-y-celaya-buscan-hospitales-del-imss-sin-recursos-federales-171380.html",
+    "resumen": "La clínica de Irapuato no tiene recursos etiquetados y el municipio descartó recuperar el predio; en Celaya confían en financiar el hospital con cuotas del IMSS"
   },
   {
     "prioridad": 2,
@@ -123,7 +139,7 @@
     "prioridad": 2,
     "titulo": "Expo Agroalimentaria: vitrina de ricos, campo de pobres",
     "fecha": "11/11/2026 14:07",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/expo-agroalimentaria-vitrina-de-ricos-campo-de-pobres/",
     "resumen": "Irapuato, Guanajuato.- Para un campesino de Guanajuato ir a la Expoagrolimentaria le cuesta aproximadamente 385 kilos de maíz, es decir, darse un lujo de 4 días, por meses de trabajo, bajo el sol. Mientras en Irapuato se exhiben tractores, drones e invernaderos de alta tecnología en la Expo Agrolimentaria, los productores de maíz de Guanajuato …"
   },
@@ -142,21 +158,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/celebraran-25-anos-del-festival-de-jazz-en-irapuato-con-conciertos-en-el-parque-irekua/",
     "resumen": "Irapuato, Guanajuato.- Con una programación conmemorativa que combina talento local, proyecciones internacionales y actividades culturales, Irapuato celebrará las bodas de plata del Festival de Jazz del 26 al 29 de noviembre, consolidándose como uno de los encuentros musicales de mayor permanencia en el país. El evento, coordinado por el Gobierno Municipal a través del Instituto …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a presunto extorsionador de chofer de aplicación en Irapuato",
-    "fecha": "11/11/2026 12:06",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/detienen-a-presunto-extorsionador-de-chofer-de-aplicacion-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Daniel “N” habría asegurado que pertenecía a un grupo delictivo y que conocía el domicilio de un chofer de aplicación a quien le había solicitado la renta de su vehículo en Irapuato. Tras obtener el automóvil, Daniel no lo devolvió y lo convirtió en el medio para amenazar y exigir dinero a la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Caravana de Emprendedores deja una derrama económica de más de 534 mil pesos en Irapuato",
-    "fecha": "11/11/2026 11:37",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/caravana-de-emprendedores-deja-una-derrama-economica-de-mas-de-534-mil-pesos-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Con una derrama económica acumulada de 534 mil 489 pesos, concluyó la edición número 50 de la Caravana de Emprendedores, jornada comercial impulsada por la administración municipal para promover la producción local y diversificar las fuentes de ingreso familiar. El encuentro, realizado los días 6, 7 y 8 de noviembre en el Jardín …"
   }
 ]
