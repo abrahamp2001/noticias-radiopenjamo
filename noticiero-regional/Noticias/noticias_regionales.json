@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Color, tradición y alegría recorren las calles de Pénjamo en su 484 aniversario",
+    "fecha": "13/11/2026 04:55",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/color-tradicion-y-alegria-recorren-las-calles-de-penjamo-en-su-484-aniversario-33114926",
+    "resumen": "Miles de familias se congregaron por las principales calles para presenciar el tradicional desfile por el 484 aniversario de la fundación de Pénjamo. Cerca de 30 contingentes participaron en el recorrido, donde la música, los colores y las expresiones culturales acompañaron la celebración"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Siete comunidades de Abasolo tienen pozos contaminados con arsénico y metales pesados",
     "fecha": "12/11/2026 20:07",
     "fuente": "Periódico Correo",
@@ -19,39 +27,39 @@
     "prioridad": 0,
     "titulo": "De “tierra bravía a lugar de identidad: Pénjamo cumple 484 años",
     "fecha": "12/11/2026 15:29",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/de-tierra-bravia-a-lugar-de-identidad-penjamo-cumple-484-anos/",
     "resumen": "Pénjamo, Guanajuato.- Este 12 de noviembre se celebró el 484 aniversario de la fundación de Pénjamo, lugar al que los llamados conquistadores llamaron “territorio chichimeca y poblada de huachichiles, hombres agresivos y peligrosos”. El municipio ha sido participe de eventos como la Independencia, la Revolución y la Guerra Cristera. A través de una reseña histórica …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Pénjamo festeja 484 año de su fundación y destacan su importancia histórica",
-    "fecha": "12/11/2026 12:01",
+    "prioridad": 1,
+    "titulo": "Aseguran más de 28 mil litros de presunto huachicol en carretera La Piedad- Irapuato; hay un detenido",
+    "fecha": "13/11/2026 14:19",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/12/penjamo-festeja-484-ano-de-su-fundacion-y-destacan-su-importancia-historica-171423.html",
-    "resumen": "Varios ciudadanos de Pénjamo han figurado en varios aspectos de la vida nacional y su nombre quedó en la historia de México"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/13/aseguran-mas-de-28-mil-litros-de-presunto-huachicol-en-carretera-la-piedad-irapuato-hay-un-detenido-171521.html",
+    "resumen": "Tras no acreditar la transportación legal del combustible, el conductor del tractocamión, identificado como Francisco Javier ‘N’, fue detenido en Irapuato"
   },
   {
-    "prioridad": 0,
-    "titulo": "Abasolo avanza en obras de agua potable para siete comunidades; beneficiarán a más de 800 habitantes",
-    "fecha": "12/11/2026 10:44",
+    "prioridad": 1,
+    "titulo": "Inicia la Feria de Cuerámaro 2026 entre música, baile y tradición",
+    "fecha": "13/11/2026 07:17",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/abasolo-avanza-en-obras-de-agua-potable-para-siete-comunidades-beneficiaran-a-mas-de-800-habitantes-33101605",
-    "resumen": "El presidente municipal, Job Gallardo Santellano, informó que los trabajos forman parte de una estrategia para atender el rezago en infraestructura hidráulica y garantizar el suministro de agua potable"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/inicia-la-feria-de-cueramaro-2026-entre-musica-baile-y-tradicion-33116579",
+    "resumen": "La Feria Cuerámaro 2026 comenzó con Los Navarro Sax, Cosme Tadeo y Alacranes Musical en el Teatro del Pueblo del Campo de Arriba"
   },
   {
-    "prioridad": 0,
-    "titulo": "Pénjamo conmemora 484 años de fundación y recupera su historia e identidad",
-    "fecha": "12/11/2026 10:05",
+    "prioridad": 1,
+    "titulo": "Cuerámaro se viste de fiesta para celebrar 157 años de historia y 57 como ciudad",
+    "fecha": "13/11/2026 05:44",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-conmemora-484-anos-de-fundacion-y-recupera-su-historia-e-identidad-33100447",
-    "resumen": "La conmemoración del 484 aniversario de la fundación de Pénjamo, la presidenta municipal, Yozajamby Molina Balver, destacó las raíces históricas del municipio y su responsabilidad como primera mujer en encabezar el gobierno local"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-se-viste-de-fiesta-para-celebrar-157-anos-de-historia-y-57-como-ciudad-33115552",
+    "resumen": "Cuerámaro conmemoró 157 años de su fundación y 57 como ciudad, con autoridades, escuelas y habitantes reunidos para recordar su historia"
   },
   {
     "prioridad": 1,
     "titulo": "Con acto cívico, desfile y grupos musicales Cuerámaro celebra aniversario",
     "fecha": "12/11/2026 16:29",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/con-acto-civico-desfile-y-grupos-musicales-cueramaro-celebra-aniversario/",
     "resumen": "Cuerámaro, Guanajuato.- A 157 años de la fundación de Cuerámaro, el gobierno municipal organizó una serie de eventos del 11 al 15 de noviembre que forman parte de la Feria 2026. Este 12 de noviembre, un acto cívico, el desfile conmemorativo y los grupos Conjunto Primavera, La Maguey y Banda Estrelladora rememoran la identidad del …"
   },
@@ -59,9 +67,89 @@
     "prioridad": 1,
     "titulo": "Recibe Manuel Doblado el Distintivo Alva por capacitación en derechos humanos de las mujeres",
     "fecha": "12/11/2026 16:16",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/recibe-manuel-doblado-el-distintivo-alva-por-capacitacion-en-derechos-humanos-de-las-mujeres/",
     "resumen": "Manuel Doblado, Guanajuato.- Tras cumplir con un programa de formación institucional orientado a la prevención y atención de la violencia de género, el Gobierno Municipal de Manuel Doblado recibió la mañana de este jueves el Distintivo Alva, otorgado por la Procuraduría de los Derechos Humanos del Estado de Guanajuato (PRODHEG). La acreditación es resultado de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Desaparece Jessica Abril, cadete de policía de Irapuato, a días de su graduación",
+    "fecha": "13/11/2026 13:50",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/desaparece-jessica-abril-cadete-de-policia-de-irapuato-a-dias-de-su-graduacion-171519.html",
+    "resumen": "La cadete de policía de Irapuato tenía 19 años, estaba por graduarse este viernes, desapareció el pasado 6 de noviembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Alertan por presunto ladrón en centro de Irapuato; lo captan en negocio",
+    "fecha": "13/11/2026 13:50",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/alertan-por-presunto-ladron-en-centro-de-irapuato-lo-captan-en-negocio/",
+    "resumen": "Irapuato, Guanajuato.- Las cámaras de seguridad de un negocio de Irapuato captaron a un hombre mientras aparentemente se llevaba dinero de la caja de cobro. Según un reporte ciudadano, ya se le ha visto varias veces por la calle 20 de Noviembre y por la zona centro del municipio. En el video se ve al …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Sentencian a 11 años de cárcel a hombre por homicidio y robo en carretera en Irapuato",
+    "fecha": "13/11/2026 12:32",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/sentencian-a-11-anos-de-carcel-a-hombre-por-homicidio-y-robo-en-carretera-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- La Fiscalía General del Estado de Guanajuato (FGE) obtuvo una sentencia condenatoria de 11 años de cárcel en contra de Martín “N”, tras acreditar su responsabilidad penal en los delitos de homicidio y robo calificado registrados en el tramo carretero hacia este municipio. De acuerdo con la carpeta de investigación integrada por el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Suman 427 detenidos en Irapuato durante octubre; posesión de drogas encabeza presuntos delitos",
+    "fecha": "13/11/2026 09:53",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/suman-427-detenidos-en-irapuato-durante-octubre-posesion-de-drogas-encabeza-presuntos-delitos-33119310",
+    "resumen": "Detenciones en Irapuato sumaron 427 personas en octubre de 2026; 60% correspondió a faltas administrativas y 40% a presuntos delitos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "550 personas con discapacidad y adultos mayores han conseguido trabajo en Irapuato",
+    "fecha": "13/11/2026 09:34",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/550-personas-con-discapacidad-y-adultos-mayores-han-conseguido-trabajo-en-irapuato-33119281",
+    "resumen": "El DIF de Irapuato colocó a 550 personas con discapacidad y adultos mayores y vinculó sus acciones con 330 empresas en cinco años"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Crece la inversión en Irapuato, pero la vivienda accesible se aleja de los trabajadores",
+    "fecha": "13/11/2026 08:44",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/escasez-de-casas-de-menos-de-2-millones-de-pesos-en-irapuato-frena-compra-con-infonavit-33117861",
+    "resumen": "La vivienda en Irapuato enfrenta una oferta limitada por debajo de dos millones de pesos mientras nueve proyectos prevén 3 mil 173 empleos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Precio del jitomate llega a 45 pesos en Irapuato; familias compran por piezas",
+    "fecha": "13/11/2026 08:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/precio-del-jitomate-llega-a-45-pesos-en-irapuato-familias-compran-por-piezas-33117546",
+    "resumen": "El precio del jitomate en Irapuato bajó de 50 a 45-46 pesos por kilo, pero los clientes aún compran medio kilo, un cuarto o dos piezas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Rodolfo Gómez reaparece en actividades del PAN; dirigencia local busca acercamiento",
+    "fecha": "13/11/2026 07:52",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/rodolfo-gomez-reaparece-en-actividades-del-pan-dirigencia-local-busca-acercamiento-33117581",
+    "resumen": "Rodolfo Gómez Cervantes reaparece en actividades del PAN en Silao y el comité de Irapuato busca sumarlo a sus trabajos rumbo a 2027."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Buscan que mil 100 negocios de Irapuato participen formalmente en el Buen Fin",
+    "fecha": "13/11/2026 07:41",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/buscan-que-mil-100-negocios-de-irapuato-participen-formalmente-en-el-buen-fin-33117498",
+    "resumen": "El Buen Fin en Irapuato podría reunir a mil 100 negocios, mientras comerciantes advierten que vender más no siempre implica mayores ganancias"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Localizan a una persona sin vida junto a camino de terracería en el rancho Los Vázquez, en el municipio de Irapuato",
+    "fecha": "13/11/2026 05:09",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/localizan-a-una-persona-sin-vida-junto-a-camino-de-terraceria-en-el-rancho-los-vazquez-en-el-municipio-de-irapuato-33115266",
+    "resumen": "El hallazgo de un cuerpo en Irapuato ocurrió cerca del rancho Los Vázquez; la Fiscalía investigará las causas y la identidad"
   },
   {
     "prioridad": 2,
@@ -70,93 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/12/arrancara-en-diciembre-construccion-del-tren-irapuato-leon-171495.html",
     "resumen": "El proyecto contempla cinco estaciones ya autorizadas y hay otras dos en evaluación; la primera piedra será colocada en unas semanas más en la zona de Silao"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Exhiben en video a militares golpeando a tres hombres en Irapuato",
-    "fecha": "12/11/2026 21:14",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/exhiben-en-video-a-militares-golpeando-a-tres-hombres-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un video difundido en redes sociales durante la madrugada de este jueves muestra a elementos del Ejército Mexicano golpeando y pateando a hombres dentro de un terreno baldío en la calle Cedro, en la colonia Bajada de San Martín, al sur de la ciudad. De acuerdo con el video difundido, los hechos ocurrieron …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "VIDEO | Militares someten y golpean a hombres en  colonia Bajada de San Martín, en Irapuato",
-    "fecha": "12/11/2026 20:53",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/video-militares-someten-y-golpean-a-hombres-en-colonia-bajada-de-san-martin-en-irapuato-171485.html",
-    "resumen": "La grabación difundida en redes exhibió a un elemento pateando a un hombre sometido en el suelo; hasta ahora no hay postura oficial sobre el operativo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Advierten a familias de Irapuato revisar grietas en viviendas tras las inundaciones",
-    "fecha": "12/11/2026 20:33",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/advierten-a-familias-de-irapuato-revisar-grietas-en-viviendas-tras-las-inundaciones-171482.html",
-    "resumen": "El Colegio de Ingenieros del Agua de Guanajuato recomendó a las familias afectadas por las inundaciones en Irapuato revisar paredes y fachadas de sus viviendas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Parque Irekua en Irapuato supera los 387 mil visitantes y rebasa su meta anual de usuarios",
-    "fecha": "12/11/2026 20:25",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/parque-irekua-en-irapuato-supera-los-387-mil-visitantes-y-rebasa-su-meta-anual-de-usuarios-171481.html",
-    "resumen": "El parque Irekua de Irapuato incrementó su afluencia, con 387 mil 973 visitantes atendidos. Además, el Centro de Educación Ambiental superó su meta"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Congreso de Guanajuato exige recursos para hospital del IMSS en Irapuato",
-    "fecha": "12/11/2026 20:21",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/12/congreso-de-guanajuato-exige-recursos-para-hospital-del-imss-en-irapuato-171478.html",
-    "resumen": "Con 21 votos, el Congreso aprobó un exhorto al IMSS y Hacienda para presupuestar el hospital de Irapuato, proyectado en 3 mil 500 millones de pesos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Autopista Querétaro-Irapuato tendrá nuevo cierre por obras del tren de pasajeros",
-    "fecha": "12/11/2026 19:35",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/12/autopista-queretaro-irapuato-tendra-nuevo-cierre-por-obras-del-tren-de-pasajeros-171469.html",
-    "resumen": "Las obras del tren de pasajeros provocarán un nuevo cierre parcial en la autopista Querétaro-Irapuato, a la altura de Apaseo el Grande"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Pirotecnia afecta a mascotas y vecinos de la colonia Los Presidentes en Irapuato",
-    "fecha": "12/11/2026 17:47",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/pirotecnia-afecta-a-mascotas-y-vecinos-de-la-colonia-los-presidentes-en-irapuato-171458.html",
-    "resumen": "Vecinos de la colonia Los Presidentes denunciaron que la pirotecnia en Irapuato afecta su descanso, provoca miedo en sus mascotas y ocasiona daños"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Congreso de Guanajuato exige a gobierno federal acelerar el nuevo hospital de Irapuato",
-    "fecha": "12/11/2026 16:46",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/congreso-de-guanajuato-exige-a-gobierno-federal-acelerar-el-nuevo-hospital-de-irapuato/",
-    "resumen": "Guanajuato, Guanajuato.- El Pleno de la 66 Legislatura del Congreso del Estado exhortó al Instituto Mexicano del Seguro Social y a la Secretaría de Hacienda y Crédito Público a realizar las gestiones técnicas, administrativas y presupuestarias necesarias para concretar la construcción del nuevo Hospital General de Zona en Irapuato, Guanajuato, a efecto de posibilitar el …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hallan el cuerpo de un hombre con quemaduras en una parcela de Carrizal Grande, Irapuato",
-    "fecha": "12/11/2026 16:40",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/12/hallan-el-cuerpo-de-un-hombre-con-quemaduras-en-una-parcela-de-carrizal-grande-irapuato-171450.html",
-    "resumen": "Elementos de seguridad localizaron el cuerpo sin vida de un hombre junto a un camino de terracería de la comunidad Carrizal Grande, en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sentencian a Martín ‘N’ a 11 años de prisión por homicidio y robo en Irapuato",
-    "fecha": "12/11/2026 14:29",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/12/sentencian-a-martin-n-a-11-anos-de-prision-por-homicidio-y-robo-en-irapuato-171438.html",
-    "resumen": "Los hechos ocurrieron en abril del 2024, cuando las víctimas se encontraban cambiando un neumático en la carretera 45 rumbo a Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "'Hasta Encontrarte' halla nuevas fosas con restos humanos en Irapuato",
-    "fecha": "12/11/2026 13:20",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/hasta-encontrarte-halla-nuevas-fosas-con-restos-humanos-en-irapuato-171429.html",
-    "resumen": "El colectivo Hasta Encontrarte dio con los hallazgos de restos humanos en una brecha entre Cuchichuato y Tamaula en Irapuato"
   }
 ]
