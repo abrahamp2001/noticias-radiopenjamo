@@ -17,6 +17,14 @@
   },
   {
     "prioridad": 0,
+    "titulo": "Abasolo avanza en obras de agua potable para siete comunidades; beneficiarán a más de 800 habitantes",
+    "fecha": "12/11/2026 10:44",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/abasolo-avanza-en-obras-de-agua-potable-para-siete-comunidades-beneficiaran-a-mas-de-800-habitantes-33101605",
+    "resumen": "El presidente municipal, Job Gallardo Santellano, informó que los trabajos forman parte de una estrategia para atender el rezago en infraestructura hidráulica y garantizar el suministro de agua potable"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Pénjamo conmemora 484 años de fundación y recupera su historia e identidad",
     "fecha": "12/11/2026 10:05",
     "fuente": "El Sol de Irapuato",
@@ -40,20 +48,52 @@
     "resumen": "Dos trabajadores resultaron electrocutados mientras realizaban sus funciones en una empresa, en un vivero de la comunidad de Varal de Morales, en Pénjamo"
   },
   {
-    "prioridad": 0,
-    "titulo": "Inician trabajos de perforación de nuevo pozo de agua en San Antonio de Peralta",
-    "fecha": "11/11/2026 17:01",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/inician-trabajos-de-perforacion-de-nuevo-pozo-de-agua-en-san-antonio-de-peralta/",
-    "resumen": "Abasolo, Guanajuato.- Con el objetivo de atender un rezago histórico en materia de servicios básicos, el Gobierno Municipal dio inicio a los trabajos de perforación de un nuevo pozo de agua potable en la comunidad de San Antonio de Peralta. La obra, impulsada por la administración del presidente municipal Job Eduardo Gallardo Santellano, responde a …"
+    "prioridad": 1,
+    "titulo": "Con acto cívico, desfile y grupos musicales Cuerámaro celebra aniversario",
+    "fecha": "12/11/2026 16:29",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/con-acto-civico-desfile-y-grupos-musicales-cueramaro-celebra-aniversario/",
+    "resumen": "Cuerámaro, Guanajuato.- A 157 años de la fundación de Cuerámaro, el gobierno municipal organizó una serie de eventos del 11 al 15 de noviembre que forman parte de la Feria 2026. Este 12 de noviembre, un acto cívico, el desfile conmemorativo y los grupos Conjunto Primavera, La Maguey y Banda Estrelladora rememoran la identidad del …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Recibe Manuel Doblado el Distintivo Alva por capacitación en derechos humanos de las mujeres",
+    "fecha": "12/11/2026 16:16",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/recibe-manuel-doblado-el-distintivo-alva-por-capacitacion-en-derechos-humanos-de-las-mujeres/",
+    "resumen": "Manuel Doblado, Guanajuato.- Tras cumplir con un programa de formación institucional orientado a la prevención y atención de la violencia de género, el Gobierno Municipal de Manuel Doblado recibió la mañana de este jueves el Distintivo Alva, otorgado por la Procuraduría de los Derechos Humanos del Estado de Guanajuato (PRODHEG). La acreditación es resultado de …"
   },
   {
     "prioridad": 1,
     "titulo": "Llega nueva Secretaria de Ayuntamiento a Cuerámaro",
     "fecha": "11/11/2026 23:14",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/llega-nueva-secretaria-de-ayuntamiento-a-cueramaro/",
     "resumen": "Cuerámaro, Guanajuato.- Sonia Rangel González dejó la Secretaría del Ayuntamiento de Cuerámaro. En su lugar llegó la maestra Reyna Isabel de la Paz Negrete y este es el tercer relevo en esta área durante la Administración 2024–2027. Rangel González fue la segunda persona en ocupar el cargo en este trienio, quien llegó en sustitución de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Pirotecnia afecta a mascotas y vecinos de la colonia Los Presidentes en Irapuato",
+    "fecha": "12/11/2026 17:47",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/pirotecnia-afecta-a-mascotas-y-vecinos-de-la-colonia-los-presidentes-en-irapuato-171458.html",
+    "resumen": "Vecinos de la colonia Los Presidentes denunciaron que la pirotecnia en Irapuato afecta su descanso, provoca miedo en sus mascotas y ocasiona daños"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Congreso de Guanajuato exige a gobierno federal acelerar el nuevo hospital de Irapuato",
+    "fecha": "12/11/2026 16:46",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/congreso-de-guanajuato-exige-a-gobierno-federal-acelerar-el-nuevo-hospital-de-irapuato/",
+    "resumen": "Guanajuato, Guanajuato.- El Pleno de la 66 Legislatura del Congreso del Estado exhortó al Instituto Mexicano del Seguro Social y a la Secretaría de Hacienda y Crédito Público a realizar las gestiones técnicas, administrativas y presupuestarias necesarias para concretar la construcción del nuevo Hospital General de Zona en Irapuato, Guanajuato, a efecto de posibilitar el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Hallan el cuerpo de un hombre con quemaduras en una parcela de Carrizal Grande, Irapuato",
+    "fecha": "12/11/2026 16:40",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/12/hallan-el-cuerpo-de-un-hombre-con-quemaduras-en-una-parcela-de-carrizal-grande-irapuato-171450.html",
+    "resumen": "Elementos de seguridad localizaron el cuerpo sin vida de un hombre junto a un camino de terracería de la comunidad Carrizal Grande, en Irapuato"
   },
   {
     "prioridad": 2,
@@ -83,7 +123,7 @@
     "prioridad": 2,
     "titulo": "DIF Irapuato lleva servicios a más de 2 mil personas de comunidades",
     "fecha": "12/11/2026 11:53",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/dif-irapuato-lleva-servicios-a-mas-de-2-mil-personas-de-comunidades/",
     "resumen": "Irapuato, Guanajuato.- Durante los últimos cinco años, el Sistema DIF Irapuato ha fortalecido las estrategias de atención comunitaria para acercar servicios públicos, promover la participación ciudadana y contribuir al bienestar de las familias, con más de 56 mil personas atendidas como resultado de esta labor. El Sistema para el Desarrollo Integral de la Familia, encabezado …"
   },
@@ -118,45 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/cambio-de-gobierno-no-deberia-frenar-inversiones-en-irapuato-sostiene-el-ccei-33098313",
     "resumen": "José Augusto Martínez Camarena aseguró que los proyectos cuentan con respaldo en leyes, reglamentos y permisos; afirmó que la ciudad mantiene condiciones atractivas para el capital extranjero, aunque sus efectos pueden tardar años en reflejarse"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Casas de menos de 2 millones de pesos escasean en Irapuato, advierte AMPI",
-    "fecha": "12/11/2026 07:33",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/vivienda-de-hasta-2-millones-de-pesos-escasea-en-irapuato-precios-superan-capacidad-de-trabajadores-33097337",
-    "resumen": "La presidenta de AMPI señaló que en la zona norte de Irapuato algunas propiedades alcanzan los 2.5 millones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tras 41 días suspendidos, vuelven a operar 16 kioscos de trámites en Irapuato",
-    "fecha": "12/11/2026 06:07",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-41-dias-suspendidos-vuelven-a-operar-16-kioscos-de-tramites-en-irapuato-33095876",
-    "resumen": "Siete módulos se incorporan este jueves a los nueve que reanudaron servicio la semana pasada; en Guanajuato suman 169 equipos reactivados, luego de la suspensión por un incidente informático"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Escuelas de Irapuato arrastran siete años de rezago en infraestructura; recursos no alcanzan ni para un aula, acusa Lorena Alfaro",
-    "fecha": "12/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/escuelas-de-irapuato-arrastran-siete-anos-de-rezago-en-infraestructura-recursos-no-alcanzan-lorena-alfaro-33082284",
-    "resumen": "Cuestionó el modelo federal de entrega de recursos a padres de familia y aseguró que los apoyos rondan los 600 mil pesos, insuficientes para construir aulas o techumbres; afirmó que las escuelas están deteriorándose por falta de inversión"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Si este gobierno no quiere cumplir, habrá otro que sí”: Lorena Alfaro mantendrá reservado el terreno para el hospital del IMSS",
-    "fecha": "12/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/si-este-gobierno-no-quiere-cumplir-habra-otro-que-si-lorena-alfaro-mantendra-reservado-el-terreno-para-el-hospital-d-33082190",
-    "resumen": "La presidenta de Irapuato aseguró que Irapuato no liberará el predio destinado al proyecto hospitalario, pese a que el Gobierno Federal no contempló los recursos esperados; acusó incumplimiento de promesas y advirtió que la demanda de atención médica seguirá vigente"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Canaco no da por perdido el hospital del IMSS en Irapuato; pide voluntad política para concretarlo",
-    "fecha": "12/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/canaco-no-da-por-perdido-el-hospital-del-imss-en-irapuato-pide-voluntad-politica-para-concretarlo-33082107",
-    "resumen": "Héctor Carlo León señaló que todavía no existe certeza sobre la falta de recursos para el proyecto y consideró que el Instituto puede impulsar su financiamiento ante la Secretaría de Hacienda"
   }
 ]
