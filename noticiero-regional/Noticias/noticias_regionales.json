@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Siete comunidades de Abasolo tienen pozos contaminados con arsénico y metales pesados",
+    "fecha": "12/11/2026 20:07",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/12/siete-comunidades-de-abasolo-tienen-pozos-contaminados-con-arsenico-y-metales-pesados-171477.html",
+    "resumen": "El alcalde Job Gallardo reconoció que al menos siete comunidades de Abasolo tienen un pozo contaminado con arsénico y metales pesados"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Balean a expolicía y a su hija en colonia Bellavista de Pénjamo",
+    "fecha": "12/11/2026 19:43",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/12/balean-a-expolicia-y-a-su-hija-en-colonia-bellavista-de-penjamo-171470.html",
+    "resumen": "Padre e hija fueron atacados dentro de una tienda en la calle Manuel Doblado; ambos ingresaron al Hospital General con estado de salud reservado"
+  },
+  {
+    "prioridad": 0,
     "titulo": "De “tierra bravía a lugar de identidad: Pénjamo cumple 484 años",
     "fecha": "12/11/2026 15:29",
     "fuente": "Notus",
@@ -32,22 +48,6 @@
     "resumen": "La conmemoración del 484 aniversario de la fundación de Pénjamo, la presidenta municipal, Yozajamby Molina Balver, destacó las raíces históricas del municipio y su responsabilidad como primera mujer en encabezar el gobierno local"
   },
   {
-    "prioridad": 0,
-    "titulo": "Así han vivido sin Agua en San Antonio de Peralta en Pénjamo",
-    "fecha": "11/11/2026 20:20",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/11/asi-han-vivido-sin-agua-en-san-antonio-de-peralta-en-penjamo-171382.html",
-    "resumen": "Los habitantes de San Antonio de Peralta en Pénjamo esperan recuperar el suministro de agua potable con el equipamiento de un pozo"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Dos trabajadores resultan electrocutados en un vivero de Varal de Morales, Pénjamo",
-    "fecha": "11/11/2026 19:52",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/11/dos-trabajadores-resultan-electrocutados-en-un-vivero-de-varal-de-morales-penjamo-171377.html",
-    "resumen": "Dos trabajadores resultaron electrocutados mientras realizaban sus funciones en una empresa, en un vivero de la comunidad de Varal de Morales, en Pénjamo"
-  },
-  {
     "prioridad": 1,
     "titulo": "Con acto cívico, desfile y grupos musicales Cuerámaro celebra aniversario",
     "fecha": "12/11/2026 16:29",
@@ -64,12 +64,60 @@
     "resumen": "Manuel Doblado, Guanajuato.- Tras cumplir con un programa de formación institucional orientado a la prevención y atención de la violencia de género, el Gobierno Municipal de Manuel Doblado recibió la mañana de este jueves el Distintivo Alva, otorgado por la Procuraduría de los Derechos Humanos del Estado de Guanajuato (PRODHEG). La acreditación es resultado de …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Llega nueva Secretaria de Ayuntamiento a Cuerámaro",
-    "fecha": "11/11/2026 23:14",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/llega-nueva-secretaria-de-ayuntamiento-a-cueramaro/",
-    "resumen": "Cuerámaro, Guanajuato.- Sonia Rangel González dejó la Secretaría del Ayuntamiento de Cuerámaro. En su lugar llegó la maestra Reyna Isabel de la Paz Negrete y este es el tercer relevo en esta área durante la Administración 2024–2027. Rangel González fue la segunda persona en ocupar el cargo en este trienio, quien llegó en sustitución de …"
+    "prioridad": 2,
+    "titulo": "Arrancará en diciembre construcción del tren Irapuato-León",
+    "fecha": "12/11/2026 23:25",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/12/arrancara-en-diciembre-construccion-del-tren-irapuato-leon-171495.html",
+    "resumen": "El proyecto contempla cinco estaciones ya autorizadas y hay otras dos en evaluación; la primera piedra será colocada en unas semanas más en la zona de Silao"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Exhiben en video a militares golpeando a tres hombres en Irapuato",
+    "fecha": "12/11/2026 21:14",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/exhiben-en-video-a-militares-golpeando-a-tres-hombres-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un video difundido en redes sociales durante la madrugada de este jueves muestra a elementos del Ejército Mexicano golpeando y pateando a hombres dentro de un terreno baldío en la calle Cedro, en la colonia Bajada de San Martín, al sur de la ciudad. De acuerdo con el video difundido, los hechos ocurrieron …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "VIDEO | Militares someten y golpean a hombres en  colonia Bajada de San Martín, en Irapuato",
+    "fecha": "12/11/2026 20:53",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/video-militares-someten-y-golpean-a-hombres-en-colonia-bajada-de-san-martin-en-irapuato-171485.html",
+    "resumen": "La grabación difundida en redes exhibió a un elemento pateando a un hombre sometido en el suelo; hasta ahora no hay postura oficial sobre el operativo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Advierten a familias de Irapuato revisar grietas en viviendas tras las inundaciones",
+    "fecha": "12/11/2026 20:33",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/advierten-a-familias-de-irapuato-revisar-grietas-en-viviendas-tras-las-inundaciones-171482.html",
+    "resumen": "El Colegio de Ingenieros del Agua de Guanajuato recomendó a las familias afectadas por las inundaciones en Irapuato revisar paredes y fachadas de sus viviendas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Parque Irekua en Irapuato supera los 387 mil visitantes y rebasa su meta anual de usuarios",
+    "fecha": "12/11/2026 20:25",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/parque-irekua-en-irapuato-supera-los-387-mil-visitantes-y-rebasa-su-meta-anual-de-usuarios-171481.html",
+    "resumen": "El parque Irekua de Irapuato incrementó su afluencia, con 387 mil 973 visitantes atendidos. Además, el Centro de Educación Ambiental superó su meta"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Congreso de Guanajuato exige recursos para hospital del IMSS en Irapuato",
+    "fecha": "12/11/2026 20:21",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/12/congreso-de-guanajuato-exige-recursos-para-hospital-del-imss-en-irapuato-171478.html",
+    "resumen": "Con 21 votos, el Congreso aprobó un exhorto al IMSS y Hacienda para presupuestar el hospital de Irapuato, proyectado en 3 mil 500 millones de pesos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Autopista Querétaro-Irapuato tendrá nuevo cierre por obras del tren de pasajeros",
+    "fecha": "12/11/2026 19:35",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/12/autopista-queretaro-irapuato-tendra-nuevo-cierre-por-obras-del-tren-de-pasajeros-171469.html",
+    "resumen": "Las obras del tren de pasajeros provocarán un nuevo cierre parcial en la autopista Querétaro-Irapuato, a la altura de Apaseo el Grande"
   },
   {
     "prioridad": 2,
@@ -110,53 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/12/hasta-encontrarte-halla-nuevas-fosas-con-restos-humanos-en-irapuato-171429.html",
     "resumen": "El colectivo Hasta Encontrarte dio con los hallazgos de restos humanos en una brecha entre Cuchichuato y Tamaula en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Colectivo de Irapuato localiza restos de dos personas en Cuchicuato",
-    "fecha": "12/11/2026 12:54",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/colectivo-de-irapuato-localiza-restos-de-dos-personas-en-cuchicuato/",
-    "resumen": "Irapuato, Guanajuato.- El Colectivo Hasta Encontrarte de Irapuato localizó dos osamentas en Cuchicuato, camino a Tamaula. La vocera de la brigada Karla Martínez informó que podría tratarse de un hombre y una mujer. Un reporte anónimo permitió que las buscadoras ubicaran dos fosas donde se encontraban enterrados los restos de dos personas en una zona …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "DIF Irapuato lleva servicios a más de 2 mil personas de comunidades",
-    "fecha": "12/11/2026 11:53",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/dif-irapuato-lleva-servicios-a-mas-de-2-mil-personas-de-comunidades/",
-    "resumen": "Irapuato, Guanajuato.- Durante los últimos cinco años, el Sistema DIF Irapuato ha fortalecido las estrategias de atención comunitaria para acercar servicios públicos, promover la participación ciudadana y contribuir al bienestar de las familias, con más de 56 mil personas atendidas como resultado de esta labor. El Sistema para el Desarrollo Integral de la Familia, encabezado …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a seis presuntos integrantes del Cártel Santa Rosa de Lima en Irapuato y abaten a uno",
-    "fecha": "12/11/2026 11:01",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/12/detienen-a-seis-presuntos-integrantes-del-cartel-santa-rosa-de-lima-en-irapuato-y-abaten-a-uno-171420.html",
-    "resumen": "Tras la intervención de las fuerzas de seguridad, se logró la detención de seis presuntos integrantes del Cártel Santa Rosa de Lima en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a seis presuntos integrantes del Cártel Santa Rosa de Lima tras enfrentamiento en Irapuato",
-    "fecha": "12/11/2026 09:10",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-seis-presuntos-integrantes-del-cartel-santa-rosa-de-lima-tras-enfrentamiento-en-irapuato-33099240",
-    "resumen": "La Secretaría de la Defensa Nacional confirmó que el enfrentamiento del miércoles 11 de noviembre en La Trinidad de Temascatío dejó seis detenidos, un agresor muerto y seis armas aseguradas. Los detenidos quedaron a disposición de la Fiscalía General de la República"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Aseguran más de 10 mil piezas de pirotecnia en tienda de abarrotes de Irapuato",
-    "fecha": "12/11/2026 08:28",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/aseguran-mas-de-10-mil-piezas-de-pirotecnia-en-tienda-de-abarrotes-de-irapuato-33098315",
-    "resumen": "El decomiso se realizó en la colonia Emiliano Zapata III tras una denuncia ciudadana; entre los productos había mini cebollas, mini cañones, palomas y artificios tipo R-15"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cambio de gobierno no debería frenar inversiones en Irapuato, sostiene el CCEI",
-    "fecha": "12/11/2026 08:12",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cambio-de-gobierno-no-deberia-frenar-inversiones-en-irapuato-sostiene-el-ccei-33098313",
-    "resumen": "José Augusto Martínez Camarena aseguró que los proyectos cuentan con respaldo en leyes, reglamentos y permisos; afirmó que la ciudad mantiene condiciones atractivas para el capital extranjero, aunque sus efectos pueden tardar años en reflejarse"
   }
 ]
