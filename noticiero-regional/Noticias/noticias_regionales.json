@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Policías estatales “golpearon” a menor repartidor de pollo en Pénjamo",
+    "fecha": "14/11/2026 01:34",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/policias-estatales-golpearon-a-menor-repartidor-de-pollo-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato Familiares de un menor de edad que trabaja como repartidor de pollo denunciaron que elementos de las Fuerzas de Seguridad Pública del Estado (FSPE) lo detuvieron durante un operativo de revisión y presuntamente lo agredieron dentro de una unidad oficial. Según su versión, el joven se habría negado a entregar a los agentes …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Ataque armado deja una persona muerta en tienda \"El Cubo\" en Pénjamo",
+    "fecha": "13/11/2026 22:45",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/13/ataque-armado-deja-una-persona-muerta-en-tienda-el-cubo-en-penjamo-171568.html",
+    "resumen": "Las detonaciones alertaron a personas cercanas al negocio El Cubo, donde policías y cuerpos de emergencia confirmaron el homicidio."
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Asesinan a un hombre a balazos sobre el bulevar Degollado en el municipio  de  Pénjamo",
+    "fecha": "13/11/2026 17:41",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/ataque-armado-en-penjamo-deja-un-hombre-muerto-en-el-bulevar-degollado-33127176",
+    "resumen": "Un ataque armado en Pénjamo dejó un hombre muerto; autoridades acordonaron el bulevar Degollado y la Fiscalía procesó la escena."
+  },
+  {
+    "prioridad": 0,
     "titulo": "Promueven cultura de paz y resolución de conflictos en escuelas de Abasolo",
     "fecha": "13/11/2026 16:34",
     "fuente": "Notus",
@@ -25,22 +49,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Siete comunidades de Abasolo tienen pozos contaminados con arsénico y metales pesados",
-    "fecha": "12/11/2026 20:07",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/12/siete-comunidades-de-abasolo-tienen-pozos-contaminados-con-arsenico-y-metales-pesados-171477.html",
-    "resumen": "El alcalde Job Gallardo reconoció que al menos siete comunidades de Abasolo tienen un pozo contaminado con arsénico y metales pesados"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Balean a expolicía y a su hija en colonia Bellavista de Pénjamo",
-    "fecha": "12/11/2026 19:43",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/12/balean-a-expolicia-y-a-su-hija-en-colonia-bellavista-de-penjamo-171470.html",
-    "resumen": "Padre e hija fueron atacados dentro de una tienda en la calle Manuel Doblado; ambos ingresaron al Hospital General con estado de salud reservado"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Tanque elevado de agua potable en Soledad de Vargas registra 90% de avance",
     "fecha": "13/11/2026 16:39",
     "fuente": "Notus",
@@ -54,6 +62,22 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/construyen-tanque-elevado-y-linea-de-agua-potable-en-loma-de-la-esperanza/",
     "resumen": "Abasolo, Guanajuato.- La construcción de infraestructura hidráulica en la localidad de Loma de la Esperanza registra un avance físico del 55%, con una inversión superior a los 12.3 millones de pesos para mejorar el suministro de agua potable a las familias de la zona. El proyecto contempla la instalación de una línea de conducción y …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Habitantes de Presa de Uribe denuncian malos olores y contaminación del río Turbio",
+    "fecha": "13/11/2026 21:05",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/13/habitantes-de-presa-de-uribe-denuncian-malos-olores-y-contaminacion-del-rio-turbio-171563.html",
+    "resumen": "Habitantes de Presa de Uribe, en Huanímaro, denuncian malos olores y proliferación de mosquitos por la contaminación del río Turbio"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Huanímaro pide adelanto de participaciones por 5 millones de pesos para gastos de fin de año",
+    "fecha": "13/11/2026 19:10",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/13/huanimaro-pide-adelanto-de-participaciones-por-5-millones-de-pesos-para-gastos-de-fin-de-ano-171544.html",
+    "resumen": "El Ayuntamiento de Huanímaro aprobó solicitar al gobierno estatal un adelanto de participaciones de 5 millones de pesos para pagar aguinaldos"
   },
   {
     "prioridad": 1,
@@ -97,6 +121,22 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Más de 400 personas fueron detenidas en Irapuato durante octubre",
+    "fecha": "13/11/2026 19:20",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/mas-de-400-personas-fueron-detenidas-en-irapuato-durante-octubre-171546.html",
+    "resumen": "El Observatorio Ciudadano reportó que 427 personas fueron detenidas en Irapuato; el 60% de los arrestos correspondió a faltas administrativas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato se vuelca a las tiendas por las ofertas del Buen Fin",
+    "fecha": "13/11/2026 19:18",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/irapuato-se-vuelca-a-las-tiendas-por-las-ofertas-del-buen-fin-171545.html",
+    "resumen": "Consumidores acudieron desde temprano a centros comerciales y tiendas de autoservicio para buscar descuentos en electrónicos, ropa, calzado y otros productos"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Conoce las colonias más “conflictivas” de Irapuato",
     "fecha": "13/11/2026 17:26",
     "fuente": "Notus",
@@ -118,45 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/desaparece-jessica-abril-cadete-de-policia-de-irapuato-a-dias-de-su-graduacion-171519.html",
     "resumen": "La cadete de policía de Irapuato tenía 19 años, estaba por graduarse este viernes, desapareció el pasado 6 de noviembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Alertan por presunto ladrón en centro de Irapuato; lo captan en negocio",
-    "fecha": "13/11/2026 13:50",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/alertan-por-presunto-ladron-en-centro-de-irapuato-lo-captan-en-negocio/",
-    "resumen": "Irapuato, Guanajuato.- Las cámaras de seguridad de un negocio de Irapuato captaron a un hombre mientras aparentemente se llevaba dinero de la caja de cobro. Según un reporte ciudadano, ya se le ha visto varias veces por la calle 20 de Noviembre y por la zona centro del municipio. En el video se ve al …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sentencian a 11 años de cárcel a hombre por homicidio y robo en carretera en Irapuato",
-    "fecha": "13/11/2026 12:32",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/sentencian-a-11-anos-de-carcel-a-hombre-por-homicidio-y-robo-en-carretera-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- La Fiscalía General del Estado de Guanajuato (FGE) obtuvo una sentencia condenatoria de 11 años de cárcel en contra de Martín “N”, tras acreditar su responsabilidad penal en los delitos de homicidio y robo calificado registrados en el tramo carretero hacia este municipio. De acuerdo con la carpeta de investigación integrada por el …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sentencian a 165 años de cárcel a secuestradores que mutilaron a sus víctimas en Irapuato",
-    "fecha": "13/11/2026 11:56",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/tres-hombres-reciben-165-anos-de-carcel-por-secuestro-en-irapuato-33122399",
-    "resumen": "Salvador Alfonso, ‘El Chaparro’; Luis Jonathan, ‘El Jalisco’, y Manuel, ‘El Mudo’, recibieron 55 años de prisión cada uno por el secuestro y tortura de un taxista y el propietario de un establecimiento nocturno."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Suman 427 detenidos en Irapuato durante octubre; posesión de drogas encabeza presuntos delitos",
-    "fecha": "13/11/2026 09:53",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/suman-427-detenidos-en-irapuato-durante-octubre-posesion-de-drogas-encabeza-presuntos-delitos-33119310",
-    "resumen": "Detenciones en Irapuato sumaron 427 personas en octubre de 2026; 60% correspondió a faltas administrativas y 40% a presuntos delitos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "550 personas con discapacidad y adultos mayores han conseguido trabajo en Irapuato",
-    "fecha": "13/11/2026 09:34",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/550-personas-con-discapacidad-y-adultos-mayores-han-conseguido-trabajo-en-irapuato-33119281",
-    "resumen": "El DIF de Irapuato colocó a 550 personas con discapacidad y adultos mayores y vinculó sus acciones con 330 empresas en cinco años"
   }
 ]
