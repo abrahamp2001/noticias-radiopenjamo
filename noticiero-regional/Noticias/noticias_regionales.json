@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Matan a David y dejan 2 heridos durante ataque armado en El Cubo, Pénjamo",
+    "fecha": "14/11/2026 13:03",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/matan-a-david-y-dejan-2-heridos-durante-ataque-armado-en-el-cubo-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Un hombre sin vida y dos personas lesionadas fue el saldo de un ataque armado registrado la noche en la zona conocida como El Cubo, sobre el bulevar Degollado, en el municipio de Pénjamo. Los hechos ocurrieron alrededor de las 8:55 de la noche, a las afueras de un establecimiento comercial ubicado junto …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Invierten 17.4 MDP en obras de agua potable y prevención de inundaciones en Abasolo",
+    "fecha": "14/11/2026 12:34",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/invierten-17-4-mdp-en-obras-de-agua-potable-y-prevencion-de-inundaciones-en-abasolo/",
+    "resumen": "Abasolo, Guanajuato.- Con el objetivo de constatar el avance de proyectos que mejorarán el suministro de agua potable en comunidades del municipio de Abasolo, el secretario del Agua y Medio Ambiente, José Lara Lona, y el presidente municipal, Job Eduardo Gallardo Santellano, realizaron una gira de supervisión por obras hidráulicas que, una vez concluidas, beneficiarán de …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Fallece Fidel Salinas, policía municipal baleado junto a su hija en Pénjamo",
+    "fecha": "14/11/2026 08:40",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/14/fallece-fidel-salinas-policia-municipal-baleado-junto-a-su-hija-en-penjamo-171575.html",
+    "resumen": "El policía municipal Fidel Salinas murió tras un ataque armado en Pénjamo, donde también resultó herida su hija de cuatro años"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Policías estatales “golpearon” a menor repartidor de pollo en Pénjamo",
     "fecha": "14/11/2026 01:34",
     "fuente": "Notus",
@@ -17,6 +41,14 @@
   },
   {
     "prioridad": 0,
+    "titulo": "Habitantes de Presa de Uribe en Abasolo denuncian malos olores y contaminación del río Turbio",
+    "fecha": "13/11/2026 21:05",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/13/habitantes-de-presa-de-uribe-en-abasolo-denuncian-malos-olores-y-contaminacion-del-rio-turbio-171563.html",
+    "resumen": "Habitantes de Presa de Uribe, en Abasolo, denuncian malos olores y proliferación de mosquitos por la contaminación del río Turbio"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Asesinan a un hombre a balazos sobre el bulevar Degollado en el municipio  de  Pénjamo",
     "fecha": "13/11/2026 17:41",
     "fuente": "El Sol de Irapuato",
@@ -27,7 +59,7 @@
     "prioridad": 0,
     "titulo": "Promueven cultura de paz y resolución de conflictos en escuelas de Abasolo",
     "fecha": "13/11/2026 16:34",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/promueven-cultura-de-paz-y-resolucion-de-conflictos-en-escuelas-de-abasolo/",
     "resumen": "Abasolo, Guanajuato.- Estudiantes de la Escuela Primaria Macrina Uribe, en Abasolo, participaron en una plática del Taller de Resolución de Conflictos, con el objetivo de fomentar la sana convivencia y prevenir la violencia en los espacios escolares. Durante la actividad, realizada el 12 de noviembre, niñas y niños participaron en dinámicas y ejercicios para reflexionar …"
   },
@@ -35,23 +67,15 @@
     "prioridad": 0,
     "titulo": "Entregan 870 lentes gratuitos a estudiantes de secundaria en Abasolo",
     "fecha": "13/11/2026 15:16",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/entregan-870-lentes-gratuitos-a-estudiantes-de-secundaria-en-abasolo/",
     "resumen": "Abasolo, Guanajuato.- Un total de 870 estudiantes de 32 escuelas secundarias de Abasolo recibieron lentes graduados gratuitos como parte del programa Ver Bien para Aprender Mejor, una estrategia que busca atender problemas de salud visual y mejorar las condiciones de aprendizaje. Con esta entrega, Abasolo se suma a municipios como Comonfort, Juventino Rosas y Villagrán. …"
   },
   {
     "prioridad": 0,
-    "titulo": "Color, tradición y alegría recorren las calles de Pénjamo en su 484 aniversario",
-    "fecha": "13/11/2026 04:55",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/color-tradicion-y-alegria-recorren-las-calles-de-penjamo-en-su-484-aniversario-33114926",
-    "resumen": "Miles de familias se congregaron por las principales calles para presenciar el tradicional desfile por el 484 aniversario de la fundación de Pénjamo. Cerca de 30 contingentes participaron en el recorrido, donde la música, los colores y las expresiones culturales acompañaron la celebración"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Tanque elevado de agua potable en Soledad de Vargas registra 90% de avance",
     "fecha": "13/11/2026 16:39",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/tanque-elevado-de-agua-potable-en-soledad-de-vargas-registra-90-de-avance/",
     "resumen": "Abasolo, Guanajuato.- La construcción del tanque elevado de agua potable en Soledad de Vargas, municipio de Abasolo, registra un avance del 90%, por lo que los trabajos se encuentran en su etapa final. El proyecto contempla una inversión de 1 millón 795 mil 428 pesos y busca mejorar la infraestructura hidráulica de esta comunidad mediante …"
   },
@@ -59,17 +83,9 @@
     "prioridad": 0,
     "titulo": "Construyen tanque elevado y línea de agua potable en Loma de la Esperanza",
     "fecha": "13/11/2026 16:36",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/construyen-tanque-elevado-y-linea-de-agua-potable-en-loma-de-la-esperanza/",
     "resumen": "Abasolo, Guanajuato.- La construcción de infraestructura hidráulica en la localidad de Loma de la Esperanza registra un avance físico del 55%, con una inversión superior a los 12.3 millones de pesos para mejorar el suministro de agua potable a las familias de la zona. El proyecto contempla la instalación de una línea de conducción y …"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Habitantes de Presa de Uribe denuncian malos olores y contaminación del río Turbio",
-    "fecha": "13/11/2026 21:05",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/13/habitantes-de-presa-de-uribe-denuncian-malos-olores-y-contaminacion-del-rio-turbio-171563.html",
-    "resumen": "Habitantes de Presa de Uribe, en Huanímaro, denuncian malos olores y proliferación de mosquitos por la contaminación del río Turbio"
   },
   {
     "prioridad": 1,
@@ -83,7 +99,7 @@
     "prioridad": 1,
     "titulo": "Detienen a alcalde originario de Manuel Doblado",
     "fecha": "13/11/2026 16:58",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/detienen-a-alcalde-originario-de-manuel-doblado/",
     "resumen": "Manuel Doblado, Guanajuato.- Adam Flores-Cornejo actual alcalde de San Joaquín en el estado de California hijo de padres originarios de Manuel Doblado, fue “detenido” por autoridades migratorias mexicanas. El dobladense, fue detenido porque al parecer su hija no llevaba consigo el pasaporte mexicano. La presidenta de la comisión de Atención a las Personas Migrantes, Yesenia …"
   },
@@ -91,7 +107,7 @@
     "prioridad": 1,
     "titulo": "Más de 70 comercios ofrecen descuentos por el Buen Fin en Manuel Doblado",
     "fecha": "13/11/2026 16:51",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/mas-de-70-comercios-ofrecen-descuentos-por-el-buen-fin-en-manuel-doblado/",
     "resumen": "Manuel Doblado, Guanajuato.- Un total de 75 comercios de Manuel Doblado participan en el Buen Fin 2026, con descuentos que van del 5 al 70% en productos y servicios de distintos giros, como ropa, calzado, muebles, joyería, cosméticos y alimentos. El programa inició este viernes 13 de noviembre con un acto simbólico en el establecimiento …"
   },
@@ -104,59 +120,43 @@
     "resumen": "Tras no acreditar la transportación legal del combustible, el conductor del tractocamión, identificado como Francisco Javier ‘N’, fue detenido en Irapuato"
   },
   {
-    "prioridad": 1,
-    "titulo": "Inicia la Feria de Cuerámaro 2026 entre música, baile y tradición",
-    "fecha": "13/11/2026 07:17",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/inicia-la-feria-de-cueramaro-2026-entre-musica-baile-y-tradicion-33116579",
-    "resumen": "La Feria Cuerámaro 2026 comenzó con Los Navarro Sax, Cosme Tadeo y Alacranes Musical en el Teatro del Pueblo del Campo de Arriba"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Cuerámaro se viste de fiesta para celebrar 157 años de historia y 57 como ciudad",
-    "fecha": "13/11/2026 05:44",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cueramaro-se-viste-de-fiesta-para-celebrar-157-anos-de-historia-y-57-como-ciudad-33115552",
-    "resumen": "Cuerámaro conmemoró 157 años de su fundación y 57 como ciudad, con autoridades, escuelas y habitantes reunidos para recordar su historia"
-  },
-  {
     "prioridad": 2,
-    "titulo": "Más de 400 personas fueron detenidas en Irapuato durante octubre",
-    "fecha": "13/11/2026 19:20",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/mas-de-400-personas-fueron-detenidas-en-irapuato-durante-octubre-171546.html",
-    "resumen": "El Observatorio Ciudadano reportó que 427 personas fueron detenidas en Irapuato; el 60% de los arrestos correspondió a faltas administrativas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato se vuelca a las tiendas por las ofertas del Buen Fin",
-    "fecha": "13/11/2026 19:18",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/irapuato-se-vuelca-a-las-tiendas-por-las-ofertas-del-buen-fin-171545.html",
-    "resumen": "Consumidores acudieron desde temprano a centros comerciales y tiendas de autoservicio para buscar descuentos en electrónicos, ropa, calzado y otros productos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Conoce las colonias más “conflictivas” de Irapuato",
-    "fecha": "13/11/2026 17:26",
+    "titulo": "Asesinan a un hombre y lo localizan dentro de un automóvil en Irapuato",
+    "fecha": "14/11/2026 12:15",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/conoce-las-colonias-mas-conflictivas-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Las colonias Ex-Hacienda San Miguelito, Solidaridad y Las Reynas encabezaron la lista de detenciones por presuntos delitos cometidos en Irapuato. De 427 personas detenidas en el mes de octubre, 169 lo fueron por presuntos delitos: drogas, robo y lesiones, según el Observatorio Ciudadano Irapuato ¿Cómo vamos?. De las 169 personas detenidas en Irapuato …"
+    "url": "https://notus.com.mx/asesinan-a-un-hombre-y-lo-localizan-dentro-de-un-automovil-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un hombre fue asesinado presuntamente con objeto punzo cortante y localizado sin vida en el interior de un automóvil color rojo, durante la noche del viernes, en la colonia San Miguelito, en Irapuato. Los hechos ocurrieron alrededor de las 11:58 de la noche, sobre la calle Halcón, entre las calles Cóndor y Las …"
   },
   {
     "prioridad": 2,
-    "titulo": "‘Cristalean’ camioneta de participantes sudcalifornianos de Expo Agroalimentaria",
-    "fecha": "13/11/2026 16:46",
+    "titulo": "DIF Irapuato construye almacén para reforzar alimentación comunitaria",
+    "fecha": "14/11/2026 11:15",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/cristalean-camioneta-de-participantes-sudcalifornianos-de-expo-agroalimentaria/",
-    "resumen": "Irapuato, Guanajuato.- Participantes de la Expo Agroalimentaria provenientes de Baja California Sur fueron víctimas de un ‘cristalazo’ mientras se encontraban cenando en el restaurante de alitas cerca de Plaza Cibeles en Irapuato. “Nos acabamos de llevar una mala experiencia”, dijo el agrónomo Alejandro García. El hecho ocurrió alrededor de las 9 y media de la …"
+    "url": "https://notus.com.mx/dif-irapuato-construye-almacen-para-reforzar-alimentacion-comunitaria/",
+    "resumen": "Irapuato, Guanajuato.- Una alimentación adecuada es fundamental para el crecimiento y desarrollo de niñas y niños. Por ello, el Sistema DIF Irapuato fortalece los programas alimentarios que acompañan a familias de comunidades rurales y colonias de la ciudad. En coordinación con el programa de Asistencia Alimentaria del DIF Estatal con tres de sus subprogramas, el Sistema …"
   },
   {
     "prioridad": 2,
-    "titulo": "Desaparece Jessica Abril, cadete de policía de Irapuato, a días de su graduación",
-    "fecha": "13/11/2026 13:50",
+    "titulo": "Hombre muere por heridas de arma punzocortante; lo encuentran dentro de un auto en Irapuato",
+    "fecha": "14/11/2026 09:42",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/13/desaparece-jessica-abril-cadete-de-policia-de-irapuato-a-dias-de-su-graduacion-171519.html",
-    "resumen": "La cadete de policía de Irapuato tenía 19 años, estaba por graduarse este viernes, desapareció el pasado 6 de noviembre"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/14/hombre-muere-por-heridas-de-arma-punzocortante-lo-encuentran-dentro-de-un-auto-en-irapuato-171577.html",
+    "resumen": "Un hombre fue localizado sin vida y con heridas de arma blanca dentro de un vehículo en la colonia San Miguelito en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Choque en Irapuato deja a embarazada hospitalizada; camioneta habría ignorado semáforo",
+    "fecha": "14/11/2026 08:35",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/choque-en-irapuato-deja-a-embarazada-hospitalizada-camioneta-habria-ignorado-semaforo-33134233",
+    "resumen": "Un choque en el cruce de Prolongación Guerrero y bulevar Solidaridad dejó cuantiosos daños materiales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a hombre dentro de auto en Irapuato; vecinos escucharon una discusión previa",
+    "fecha": "14/11/2026 06:14",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-hombre-dentro-de-auto-en-irapuato-vecinos-escucharon-una-discusion-previa-33132238",
+    "resumen": "La víctima fue encontrada dentro de un automóvil en la colonia San Miguelito; policías detuvieron a un hombre en los alrededores y se investiga su participación en el homicidio"
   }
 ]
