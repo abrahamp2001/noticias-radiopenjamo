@@ -1,35 +1,75 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abasolo suspende la recolección de basura",
+    "fecha": "15/11/2026 13:49",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/abasolo-suspende-la-recoleccion-de-basura/",
+    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo dio a conocer que este lunes 16 de noviembre se suspenderá el servicio habitual de recolección de basura en el municipio. De acuerdo con el aviso emitido por la administración municipal, durante esta jornada solo se realizará la recolección en la Plaza Principal y en los accesos principales …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Atropellan a tres personas en la carretera La Herradura en Pénjamo; dos fueron hospitalizadas",
+    "fecha": "15/11/2026 11:17",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/atropellan-a-tres-personas-en-la-carretera-la-herradura-en-penjamo-dos-fueron-hospitalizadas/",
+    "resumen": "Pénjamo, Guanajuato.- Tres personas resultaron lesionadas luego de ser atropelladas sobre la carretera estatal La Herradura, a la altura de la comunidad de Potreros. De acuerdo con el reporte de atención de OxiMedic, tras recibir el aviso de emergencia, paramédicos se trasladaron al sitio, donde localizaron a tres personas con lesiones. Debido a la situación, …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Luto en Pénjamo: muere policía tras ataque contra él y su hija de 4 años",
     "fecha": "14/11/2026 17:24",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/luto-en-penjamo-muere-policia-tras-ataque-contra-el-y-su-hija-de-4-anos/",
     "resumen": "Pénjamo, Guanajuato.- El municipio de Pénjamo y su corporación policiaca están de luto por la muerte del oficial Fidel Salinas después de que presuntos sicarios lo atacaran a él y a su hija. Ambos se encontraban en la calle Manuel Doblado cuando los hombres dispararon; la pequeña de 4 años se reportó en estado grave. …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Matan a David y dejan 2 heridos durante ataque armado en El Cubo, Pénjamo",
-    "fecha": "14/11/2026 13:03",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/matan-a-david-y-dejan-2-heridos-durante-ataque-armado-en-el-cubo-penjamo/",
-    "resumen": "Pénjamo, Guanajuato.- Un hombre sin vida y dos personas lesionadas fue el saldo de un ataque armado registrado la noche en la zona conocida como El Cubo, sobre el bulevar Degollado, en el municipio de Pénjamo. Los hechos ocurrieron alrededor de las 8:55 de la noche, a las afueras de un establecimiento comercial ubicado junto …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Invierten 17.4 MDP en obras de agua potable y prevención de inundaciones en Abasolo",
-    "fecha": "14/11/2026 12:34",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/invierten-17-4-mdp-en-obras-de-agua-potable-y-prevencion-de-inundaciones-en-abasolo/",
-    "resumen": "Abasolo, Guanajuato.- Con el objetivo de constatar el avance de proyectos que mejorarán el suministro de agua potable en comunidades del municipio de Abasolo, el secretario del Agua y Medio Ambiente, José Lara Lona, y el presidente municipal, Job Eduardo Gallardo Santellano, realizaron una gira de supervisión por obras hidráulicas que, una vez concluidas, beneficiarán de …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Fallece Fidel Salinas, policía municipal baleado junto a su hija en Pénjamo",
-    "fecha": "14/11/2026 08:40",
+    "prioridad": 2,
+    "titulo": "Hombre es asesinado en Venado de Yóstiro en Irapuato",
+    "fecha": "15/11/2026 13:09",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/14/fallece-fidel-salinas-policia-municipal-baleado-junto-a-su-hija-en-penjamo-171575.html",
-    "resumen": "El policía municipal Fidel Salinas murió tras un ataque armado en Pénjamo, donde también resultó herida su hija de cuatro años"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/15/hombre-es-asesinado-en-venado-de-yostiro-en-irapuato-171626.html",
+    "resumen": "Los paramédicos revisaron a la víctima del ataque en Irapuato y confirmaron que esta ya no contaba con signos vitales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Sorteo del Servicio Militar en Irapuato asigna 921 bolas blancas a jóvenes",
+    "fecha": "15/11/2026 11:29",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/sorteo-del-servicio-militar-en-irapuato-asigna-921-bolas-blancas-a-jovenes/",
+    "resumen": "Irapuato, Guanajuato.- Un total de 1,151 jóvenes de la Clase 2008 y remisos participaron en el Sorteo del Servicio Militar Nacional realizado en la Presidencia Municipal de Irapuato. En la jornada se asignaron 921 bolas blancas y 230 negras. Quienes obtuvieron bola blanca deberán realizar el adiestramiento militar, que tendrá una duración de tres meses. …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "DIF Irapuato reporta atención a más de 8 mil personas mayores en cinco años",
+    "fecha": "15/11/2026 11:11",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/dif-irapuato-reporta-atencion-a-mas-de-8-mil-personas-mayores-en-cinco-anos/",
+    "resumen": "Irapuato, Guanajuato.- El Sistema DIF Irapuato reportó que 8 mil 660 personas mayores participaron en su programa de Atención a Personas Mayores durante los últimos cinco años. En el último año, se sumaron 350 nuevas inscripciones. El programa ofrece acciones para promover el bienestar físico, mental y social, así como la autonomía y participación comunitaria …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Se dirigía a trabajar y es asesinado a balazos en Irapuato",
+    "fecha": "15/11/2026 10:54",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/se-dirigia-a-trabajar-y-es-asesinado-a-balazos-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Joel, de aproximadamente 39 años de edad, fue asesinado a balazos la mañana de este domingo, luego de ser atacado cuando salía de su domicilio para dirigirse a trabajar, en la colonia Esfuerzo Obrero, en Irapuato. De acuerdo con los primeros reportes, la agresión ocurrió alrededor de las 6 de la mañana, en …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Los antiguos cines de Irapuato: la historia del Rialto, Rex, Cine Club y Cine Teatro",
+    "fecha": "15/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/los-antiguos-cines-de-irapuato-la-historia-del-rialto-rex-cine-club-y-cine-teatro-33139191",
+    "resumen": "Había matinés y con un boleto se podían ver hasta tres películas en un mismo día"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¿Sin planes para el puente? Visita el Zoológico de Irapuato con lo que tiene para ofrecer",
+    "fecha": "14/11/2026 20:51",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/14/sin-planes-para-el-puente-visita-el-zoologico-de-irapuato-con-lo-que-tiene-para-ofrecer-171609.html",
+    "resumen": "Los visitantes podrán disfrutar de las instalaciones del parque Zoológico de Irapuato, que incluyen la observación de cerca de 500 animales"
   },
   {
     "prioridad": 2,
@@ -51,7 +91,7 @@
     "prioridad": 2,
     "titulo": "Rescatan a cinco perritos de incendio en un lote baldío de Irapuato",
     "fecha": "14/11/2026 16:07",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/rescatan-a-cinco-perritos-de-incendio-en-un-lote-baldio-de-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Cinco perritos fueron rescatados por elementos de Protección Civil y Bomberos durante un incendio registrado en un lote baldío sobre Paseo Irapuato, en la colonia Real del Lago. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal, el reporte del fuego fue atendido alrededor del mediodía de este sábado 14 de …"
   },
@@ -75,64 +115,16 @@
     "prioridad": 2,
     "titulo": "Pasa un buen fin de Semana Largo en ZooIra; abrirá el lunes 16 de noviembre",
     "fecha": "14/11/2026 14:42",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/pasa-un-buen-fin-de-semana-largo-en-zooira-abrira-el-lunes-16-de-noviembre/",
     "resumen": "Irapuato, Guanajuato.-  Para que tengas un buen fin de semana largo, el Zoológico de Irapuato es una de tus grandes opciones, ya que abrirá también el lunes 16 de noviembre. Todas las atracciones estarán disponibles en estos días de descanso del fin de semana alusivo al inicio de la Revolución Mexicana, ya que el parque …"
   },
   {
-    "prioridad": 2,
-    "titulo": "Irapuato recibe a Celaya en el clásico guanajuatense del Lunes Premier",
-    "fecha": "14/11/2026 12:38",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-recibe-al-celaya-en-el-clasico-guanajuatense-de-liga-premier-33136941",
-    "resumen": "Va a recibir el lunes a los toros del Celaya en la jornada 12 de la Liga Premier"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a un hombre y lo localizan dentro de un automóvil en Irapuato",
-    "fecha": "14/11/2026 12:15",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/asesinan-a-un-hombre-y-lo-localizan-dentro-de-un-automovil-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un hombre fue asesinado presuntamente con objeto punzo cortante y localizado sin vida en el interior de un automóvil color rojo, durante la noche del viernes, en la colonia San Miguelito, en Irapuato. Los hechos ocurrieron alrededor de las 11:58 de la noche, sobre la calle Halcón, entre las calles Cóndor y Las …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "DIF Irapuato construye almacén para reforzar alimentación comunitaria",
-    "fecha": "14/11/2026 11:15",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/dif-irapuato-construye-almacen-para-reforzar-alimentacion-comunitaria/",
-    "resumen": "Irapuato, Guanajuato.- Una alimentación adecuada es fundamental para el crecimiento y desarrollo de niñas y niños. Por ello, el Sistema DIF Irapuato fortalece los programas alimentarios que acompañan a familias de comunidades rurales y colonias de la ciudad. En coordinación con el programa de Asistencia Alimentaria del DIF Estatal con tres de sus subprogramas, el Sistema …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Bomberos rescatan a cinco perritos de un incendio en un terreno baldío de Irapuato",
-    "fecha": "14/11/2026 10:01",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/bomberos-rescatan-a-cinco-perritos-de-un-incendio-en-un-terreno-baldio-de-irapuato-33135661",
-    "resumen": "Los cachorros estaban en riesgo por el avance de las llamas en un predio de la colonia Real del Lago; quedaron bajo resguardo del Centro de Atención Canina"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hombre muere por heridas de arma punzocortante; lo encuentran dentro de un auto en Irapuato",
-    "fecha": "14/11/2026 09:42",
+    "prioridad": 3,
+    "titulo": "Lanzan campaña de vacunación en municipios del sureste de Guanajuato ¿qué dosis ofrecen?",
+    "fecha": "15/11/2026 10:57",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/14/hombre-muere-por-heridas-de-arma-punzocortante-lo-encuentran-dentro-de-un-auto-en-irapuato-171577.html",
-    "resumen": "Un hombre fue localizado sin vida y con heridas de arma blanca dentro de un vehículo en la colonia San Miguelito en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Choque en Irapuato deja a embarazada hospitalizada; camioneta habría ignorado semáforo",
-    "fecha": "14/11/2026 08:35",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/choque-en-irapuato-deja-a-embarazada-hospitalizada-camioneta-habria-ignorado-semaforo-33134233",
-    "resumen": "Un choque en el cruce de Prolongación Guerrero y bulevar Solidaridad dejó cuantiosos daños materiales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a hombre dentro de auto en Irapuato; vecinos escucharon una discusión previa",
-    "fecha": "14/11/2026 06:14",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-hombre-dentro-de-auto-en-irapuato-vecinos-escucharon-una-discusion-previa-33132238",
-    "resumen": "La víctima fue encontrada dentro de un automóvil en la colonia San Miguelito; policías detuvieron a un hombre en los alrededores y se investiga su participación en el homicidio"
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/15/lanzan-campana-de-vacunacion-en-municipios-del-sureste-de-guanajuato-que-dosis-ofrecen-171623.html",
+    "resumen": "Se busca proteger a los sectores vulnerables en Acámbaro y los municipios vecinos con la campaña de vacunación 2026-2027"
   }
 ]
