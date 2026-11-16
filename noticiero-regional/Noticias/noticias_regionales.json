@@ -16,12 +16,20 @@
     "resumen": "Pénjamo, Guanajuato.- Tres personas resultaron lesionadas luego de ser atropelladas sobre la carretera estatal La Herradura, a la altura de la comunidad de Potreros. De acuerdo con el reporte de atención de OxiMedic, tras recibir el aviso de emergencia, paramédicos se trasladaron al sitio, donde localizaron a tres personas con lesiones. Debido a la situación, …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Luto en Pénjamo: muere policía tras ataque contra él y su hija de 4 años",
-    "fecha": "14/11/2026 17:24",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/luto-en-penjamo-muere-policia-tras-ataque-contra-el-y-su-hija-de-4-anos/",
-    "resumen": "Pénjamo, Guanajuato.- El municipio de Pénjamo y su corporación policiaca están de luto por la muerte del oficial Fidel Salinas después de que presuntos sicarios lo atacaran a él y a su hija. Ambos se encontraban en la calle Manuel Doblado cuando los hombres dispararon; la pequeña de 4 años se reportó en estado grave. …"
+    "prioridad": 2,
+    "titulo": "Romina, cadete de Irapuato gana competencia de natación en aguas abiertas en Puerto Vallarta",
+    "fecha": "15/11/2026 16:22",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/romina-cadete-de-irapuato-gana-competencia-de-natacion-en-aguas-abiertas-en-puerto-vallarta/",
+    "resumen": "Irapuato, Guanajuato.- La cadete Romina Meza Ramos, estudiante del Bachillerato Bivalente Militarizado, Batallón Primer Ligero, Plantel Irapuato, obtuvo el primer lugar de su categoría en la competencia de natación en aguas abiertas Cruce Vallarta, cuarta edición 2026. Meza Ramos compitió en la prueba de 1.5 kilómetros, dentro de la categoría femenil de 15 a 19 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Muere Joel en el hospital tras ser atacado a balazos en la Esfuerzo Obrero de Irapuato",
+    "fecha": "15/11/2026 14:04",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/15/muere-joel-en-el-hospital-tras-ser-atacado-a-balazos-en-la-esfuerzo-obrero-de-irapuato-171627.html",
+    "resumen": "La agresión ocurrió alrededor de las 6:00 de la mañana, en un callejón ubicado entre avenida del Ferrocarril en Irapuato"
   },
   {
     "prioridad": 2,
@@ -78,46 +86,6 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/14/expo-agroalimentaria-de-irapuato-reune-a-mas-de-162-mil-visitantes-y-reporta-saldo-blanco-171607.html",
     "resumen": "La Expo Agroalimentaria de Irapuato reunió a 162 mil 770 visitantes en su edición 2026 y concluyó con saldo blanco por un gran operativo de seguridad"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Construcción de hospital en Irapuato: ¿disputa entre Morena y PAN?",
-    "fecha": "14/11/2026 17:41",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/construccion-de-hospital-en-irapuato-disputa-entre-morena-y-pan/",
-    "resumen": "Guanajuato.- Luego de que diputados panistas del congreso del estado pidió autoridades federales presupuesto para la construcción del nuevo hospital general en Irapuato, morenistas votaron en contra, argumentando que Guanajuato debería sumarse al proyecto de IMSS Bienestar. Pese a la premisa era dejar de lado las diferencias, cada bancada terminó defendiendo su postura política y …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Rescatan a cinco perritos de incendio en un lote baldío de Irapuato",
-    "fecha": "14/11/2026 16:07",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/rescatan-a-cinco-perritos-de-incendio-en-un-lote-baldio-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Cinco perritos fueron rescatados por elementos de Protección Civil y Bomberos durante un incendio registrado en un lote baldío sobre Paseo Irapuato, en la colonia Real del Lago. De acuerdo con información de la Secretaría de Seguridad Ciudadana Municipal, el reporte del fuego fue atendido alrededor del mediodía de este sábado 14 de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Presunta riña en taquería deja hombre con herida de bala en sur de Irapuato",
-    "fecha": "14/11/2026 15:57",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/14/presunta-rina-en-taqueria-deja-hombre-con-herida-de-bala-en-sur-de-irapuato-171594.html",
-    "resumen": "Una riña entre varios sujetos dejó herido a un hombre que cenaba con su esposa en la taquería de la colonia Solidaridad Infonavit en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Rescatan a cinco perritos de incendio en Real del Lago en Irapuato",
-    "fecha": "14/11/2026 15:23",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/14/rescatan-a-cinco-perritos-de-incendio-en-real-del-lago-en-irapuato-171591.html",
-    "resumen": "Cinco perritos fueron puestos a salvo de las llamas del incendio de un lote baldío en Irapuato y quedaron a resguardo del CANI"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Pasa un buen fin de Semana Largo en ZooIra; abrirá el lunes 16 de noviembre",
-    "fecha": "14/11/2026 14:42",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/pasa-un-buen-fin-de-semana-largo-en-zooira-abrira-el-lunes-16-de-noviembre/",
-    "resumen": "Irapuato, Guanajuato.-  Para que tengas un buen fin de semana largo, el Zoológico de Irapuato es una de tus grandes opciones, ya que abrirá también el lunes 16 de noviembre. Todas las atracciones estarán disponibles en estos días de descanso del fin de semana alusivo al inicio de la Revolución Mexicana, ya que el parque …"
   },
   {
     "prioridad": 3,
