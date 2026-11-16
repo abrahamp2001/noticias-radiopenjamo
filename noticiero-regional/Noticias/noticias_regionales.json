@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Camioneta choca en carretera Irapuato-Abasolo; cuatro personas terminan hospitalizadas",
+    "fecha": "16/11/2026 10:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/camioneta-choca-en-carretera-irapuato-abasolo-cuatro-personas-terminan-hospitalizadas-33163974",
+    "resumen": "Siete personas viajaban en la unidad que se impactó contra un objeto fijo a la altura de la colonia El Trébol"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Destinan inversión de 4 millones de pesos para rehabilitar el camino de La Caja de la Golondrina, en Pénjamo",
+    "fecha": "16/11/2026 06:47",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/destinan-inversion-de-4-millones-de-pesos-para-rehabilitar-el-camino-de-la-caja-de-la-golondrina-en-penjamo-33161173",
+    "resumen": "Esta inversión será destinada a la rehabilitación del camino de La Caja de la Golondrina, en Pénjamo, una ruta estratégica para la comunicación de varias comunidades rurales que conecta con la zona de la presa, El Tigre y caminos hacia la sierra"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Detienen a José Jesús N con 57 gramos de presunta marihuana en Pénjamo",
     "fecha": "15/11/2026 20:14",
     "fuente": "Periódico Correo",
@@ -9,106 +25,138 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Abasolo suspende la recolección de basura",
-    "fecha": "15/11/2026 13:49",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/abasolo-suspende-la-recoleccion-de-basura/",
-    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo dio a conocer que este lunes 16 de noviembre se suspenderá el servicio habitual de recolección de basura en el municipio. De acuerdo con el aviso emitido por la administración municipal, durante esta jornada solo se realizará la recolección en la Plaza Principal y en los accesos principales …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Atropellan a tres personas en la carretera La Herradura en Pénjamo; dos fueron hospitalizadas",
-    "fecha": "15/11/2026 11:17",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/atropellan-a-tres-personas-en-la-carretera-la-herradura-en-penjamo-dos-fueron-hospitalizadas/",
-    "resumen": "Pénjamo, Guanajuato.- Tres personas resultaron lesionadas luego de ser atropelladas sobre la carretera estatal La Herradura, a la altura de la comunidad de Potreros. De acuerdo con el reporte de atención de OxiMedic, tras recibir el aviso de emergencia, paramédicos se trasladaron al sitio, donde localizaron a tres personas con lesiones. Debido a la situación, …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Obispo de Irapuato pide a las autoridades reconocer la realidad de los desaparecidos",
-    "fecha": "15/11/2026 21:18",
+    "titulo": "Accidente en El Trébol deja cuatro lesionados en Irapuato",
+    "fecha": "16/11/2026 14:13",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/15/obispo-de-irapuato-pide-a-las-autoridades-reconocer-la-realidad-de-los-desaparecidos-171642.html",
-    "resumen": "Enrique Díaz Díaz pidió a las autoridades brindar más apoyo a las familias buscadoras tras los hallazgos del colectivo Hasta Encontrarte"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/16/accidente-en-el-trebol-deja-cuatro-lesionados-en-irapuato-171663.html",
+    "resumen": "El percance ocurrió cuando una camioneta en la que viajaban siete personas colisionó contra un objeto fijo en la salida de Irapuato a Abasolo"
   },
   {
-    "prioridad": 2,
-    "titulo": "Peregrinaciones guadalupanas complicarán la circulación en el centro de Irapuato por obras del puente Bimbo",
-    "fecha": "15/11/2026 21:02",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/15/peregrinaciones-guadalupanas-complicaran-la-circulacion-en-el-centro-de-irapuato-por-obras-del-puente-bimbo-171641.html",
-    "resumen": "La Dirección de Movilidad y Transporte de Irapuato analiza medidas para bulevares como Díaz Ordaz y San Roque ante las peregrinaciones del 12 de diciembre"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sorteo del Servicio Militar Nacional en Irapuato: 921 jóvenes con bola blanca",
-    "fecha": "15/11/2026 18:14",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/15/sorteo-del-servicio-militar-nacional-en-irapuato-921-jovenes-con-bola-blanca-171635.html",
-    "resumen": "Alrededor de 900 jóvenes de la clase 2008 fueron seleccionados mediante bola blanca para cumplir el adiestramiento del Servicio Militar Nacional en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Romina, cadete de Irapuato gana competencia de natación en aguas abiertas en Puerto Vallarta",
-    "fecha": "15/11/2026 16:22",
+    "prioridad": 1,
+    "titulo": "Huanímaro inaugura segunda etapa de rehabilitación del jardín de Cerrito Alto Nuevo",
+    "fecha": "16/11/2026 13:43",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/romina-cadete-de-irapuato-gana-competencia-de-natacion-en-aguas-abiertas-en-puerto-vallarta/",
-    "resumen": "Irapuato, Guanajuato.- La cadete Romina Meza Ramos, estudiante del Bachillerato Bivalente Militarizado, Batallón Primer Ligero, Plantel Irapuato, obtuvo el primer lugar de su categoría en la competencia de natación en aguas abiertas Cruce Vallarta, cuarta edición 2026. Meza Ramos compitió en la prueba de 1.5 kilómetros, dentro de la categoría femenil de 15 a 19 …"
+    "url": "https://notus.com.mx/huanimaro-inaugura-segunda-etapa-de-rehabilitacion-del-jardin-de-cerrito-alto-nuevo/",
+    "resumen": "Huanímaro, Guanajuato.- El Gobierno Municipal de Huanímaro inauguró la segunda etapa de rehabilitación del jardín principal de Cerrito Alto Nuevo, que incluyó trabajos de alumbrado público y andadores. La obra fue realizada con recursos municipales y beneficia a habitantes de la comunidad. Para esta etapa se destinaron 1 millón 545 mil 788.55 pesos. Los trabajos …"
   },
   {
-    "prioridad": 2,
-    "titulo": "Sentencian a tres de La Familia Michoacana por secuestros en Irapuato; dos empresarios fueron rescatados y otro asesinado",
-    "fecha": "15/11/2026 14:13",
+    "prioridad": 1,
+    "titulo": "Matan a dos hombres afuera de bar en Huanímaro",
+    "fecha": "16/11/2026 13:10",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/16/matan-a-dos-hombres-afuera-de-bar-en-huanimaro-171662.html",
+    "resumen": "Dos hombres fueron asesinados en las afueras de un bar donde había continuado la “fiesta”"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Entregan segunda etapa de rehabilitación del jardín de Cerrito Alto Nuevo en Huanímaro; destinan más de un millón de pesos",
+    "fecha": "16/11/2026 09:04",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/sentencian-a-tres-de-la-familia-michoacana-por-secuestros-en-irapuato-dos-empresarios-fueron-rescatados-y-otro-asesinado-33153562",
-    "resumen": "Rosendo N., Fernando N. y Erick N. recibieron 31 años, tres meses y 24 días de prisión cada uno; atentaron contra un agricultor, un restaurantero y el dueño de un centro nocturno"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/entregan-segunda-etapa-de-rehabilitacion-del-jardin-de-cerrito-alto-nuevo-en-huanimaro-destinan-mas-de-un-millon-de-pes-33161674",
+    "resumen": "La segunda etapa de rehabilitación del jardín principal de Cerrito Alto Nuevo incluyó andadores, bancas, luminarias y juegos recreativos"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Con música y miles de visitantes, concluye la Feria Cuerámaro 2026",
+    "fecha": "16/11/2026 06:10",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/con-musica-y-miles-de-visitantes-concluye-la-feria-cueramaro-2026-33160643",
+    "resumen": "Con motivo del 157 aniversario de la fundación de Cuerámaro, la Feria 2026 registró una importante asistencia de habitantes del municipio y visitantes de otras localidades."
   },
   {
     "prioridad": 2,
-    "titulo": "Muere Joel en el hospital tras ser atacado a balazos en la Esfuerzo Obrero de Irapuato",
-    "fecha": "15/11/2026 14:04",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/15/muere-joel-en-el-hospital-tras-ser-atacado-a-balazos-en-la-esfuerzo-obrero-de-irapuato-171627.html",
-    "resumen": "La agresión ocurrió alrededor de las 6:00 de la mañana, en un callejón ubicado entre avenida del Ferrocarril en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hombre es asesinado en Venado de Yóstiro en Irapuato",
-    "fecha": "15/11/2026 13:09",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/15/hombre-es-asesinado-en-venado-de-yostiro-en-irapuato-171626.html",
-    "resumen": "Los paramédicos revisaron a la víctima del ataque en Irapuato y confirmaron que esta ya no contaba con signos vitales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Sorteo del Servicio Militar en Irapuato asigna 921 bolas blancas a jóvenes",
-    "fecha": "15/11/2026 11:29",
+    "titulo": "Irapuato conmemora el 116 aniversario de la Revolución con desfile cívico-deportivo",
+    "fecha": "16/11/2026 15:12",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/sorteo-del-servicio-militar-en-irapuato-asigna-921-bolas-blancas-a-jovenes/",
-    "resumen": "Irapuato, Guanajuato.- Un total de 1,151 jóvenes de la Clase 2008 y remisos participaron en el Sorteo del Servicio Militar Nacional realizado en la Presidencia Municipal de Irapuato. En la jornada se asignaron 921 bolas blancas y 230 negras. Quienes obtuvieron bola blanca deberán realizar el adiestramiento militar, que tendrá una duración de tres meses. …"
+    "url": "https://notus.com.mx/irapuato-conmemora-el-116-aniversario-de-la-revolucion-con-desfile-civico-deportivo/",
+    "resumen": "Irapuato, Guanajuato.- Cerca de 40 instituciones educativas, corporaciones de seguridad, cuerpos de emergencia y agrupaciones tradicionales participaron en el desfile cívico-deportivo con el que Irapuato conmemoró el 116 aniversario del inicio de la Revolución Mexicana. El recorrido reunió a familias en el Centro Histórico. En representación de la presidenta municipal, Lorena Alfaro García, el secretario …"
   },
   {
     "prioridad": 2,
-    "titulo": "DIF Irapuato reporta atención a más de 8 mil personas mayores en cinco años",
-    "fecha": "15/11/2026 11:11",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/dif-irapuato-reporta-atencion-a-mas-de-8-mil-personas-mayores-en-cinco-anos/",
-    "resumen": "Irapuato, Guanajuato.- El Sistema DIF Irapuato reportó que 8 mil 660 personas mayores participaron en su programa de Atención a Personas Mayores durante los últimos cinco años. En el último año, se sumaron 350 nuevas inscripciones. El programa ofrece acciones para promover el bienestar físico, mental y social, así como la autonomía y participación comunitaria …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Se dirigía a trabajar y es asesinado a balazos en Irapuato",
-    "fecha": "15/11/2026 10:54",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/se-dirigia-a-trabajar-y-es-asesinado-a-balazos-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Joel, de aproximadamente 39 años de edad, fue asesinado a balazos la mañana de este domingo, luego de ser atacado cuando salía de su domicilio para dirigirse a trabajar, en la colonia Esfuerzo Obrero, en Irapuato. De acuerdo con los primeros reportes, la agresión ocurrió alrededor de las 6 de la mañana, en …"
-  },
-  {
-    "prioridad": 3,
-    "titulo": "Lanzan campaña de vacunación en municipios del sureste de Guanajuato ¿qué dosis ofrecen?",
-    "fecha": "15/11/2026 10:57",
+    "titulo": "Silao: Detienen a hombre y adolescente de Irapuato y Villagrán por el asesinato de tres en Barrio Nuevo",
+    "fecha": "16/11/2026 14:43",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/15/lanzan-campana-de-vacunacion-en-municipios-del-sureste-de-guanajuato-que-dosis-ofrecen-171623.html",
-    "resumen": "Se busca proteger a los sectores vulnerables en Acámbaro y los municipios vecinos con la campaña de vacunación 2026-2027"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/16/silao-detienen-a-hombre-y-adolescente-de-irapuato-y-villagran-por-el-asesinato-de-tres-en-barrio-nuevo-171665.html",
+    "resumen": "La Fiscalía General del Estado definirá si hay relación entre los detenidos en el multiataque en Silao registrado el 15 de octubre que dejó 3 víctimas mortales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Se augura un triunfo para la corrida nocturna en la Plaza Revolución",
+    "fecha": "16/11/2026 13:34",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/se-augura-un-triunfo-para-la-corrida-nocturna-en-la-plaza-revolucion/",
+    "resumen": "Texto y fotos: Juan José López Luna. Irapuato, Guanajuato.- Pues, a menos de una semana de que se realice la tradicional corrida del 20 de Noviembre en el viejo coso taurino “Revolución” —donde se conmemora un aniversario más de la gesta revolucionaria en nuestro país y se celebran los 89 años de existencia y 86 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Camino de Guanajuato” según la IA",
+    "fecha": "16/11/2026 12:48",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/camino-de-guanajuato-segun-la-ia/",
+    "resumen": "Guanajuato.- Se le pidió a la inteligencia artificial lo siguiente: Siguiendo el estilo y la métrica de “Camino de Guanajuato”, crea estrofas al estilo de José Alfredo Jiménez, donde se mencione a las ciudades de Celaya con su cajeta, Irapuato con sus fresas, Moroleón y sus peleas de gallos, Acámbaro y su pan, San Pancho …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Estudiante de prepa militarizada en Irapuato conquista el oro en competencia nacional de aguas abiertas",
+    "fecha": "16/11/2026 12:10",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/marcador/2026/nov/16/estudiante-de-prepa-militarizada-en-irapuato-conquista-el-oro-en-competencia-nacional-de-aguas-abiertas-171659.html",
+    "resumen": "Romina Meza Ramos, estudiante de Irapuato, puso en alto a Guanajuato tras obtener el primer lugar en su categoría en el ‘Cruce Vallarta 2026’"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Moda con causa en Irapuato: Club Españita organiza Fashion Show a beneficio",
+    "fecha": "16/11/2026 11:29",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/moda-con-causa-en-irapuato-club-espanita-organiza-fashion-show-a-beneficio-32963113",
+    "resumen": "En el marco del exitoso desfile de modas, la diseñadora irapuatense, Cecy Ortiz Calvillo, recibió un reconocimiento de manos de la presidenta, Laura Elena Moya y de la Reina, Lía I"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "DIF Irapuato suma más de 100 alianzas para ampliar sus apoyos sociales",
+    "fecha": "16/11/2026 10:35",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/dif-irapuato-suma-mas-de-100-alianzas-para-ampliar-sus-apoyos-sociales/",
+    "resumen": "Irapuato, Guanajuato.- El Sistema DIF Irapuato consolidó más de 100 alianzas con empresas, instituciones y organizaciones civiles durante los últimos cinco años para ampliar los servicios y apoyos dirigidos a personas en situación de vulnerabilidad. A través de la estrategia Unidos Nadie se Queda Atrás, el organismo sumó la participación de distintos sectores para atender …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Tras cristalazo a visitantes de Expo Agro, aseguran a presunto líder de banda en Irapuato",
+    "fecha": "16/11/2026 09:20",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-cristalazo-a-visitantes-de-expo-agro-aseguran-a-presunto-lider-de-banda-en-irapuato-33162956",
+    "resumen": "Por los cristalazos en Irapuato, la Policía Municipal aseguró al presunto líder de un grupo tras el robo a visitantes de la Expo Agroalimentaria"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Talan jacaranda de más de 50 años junto a la Catedral de Irapuato; “estaba seca”, dicen",
+    "fecha": "16/11/2026 08:33",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/talan-jacaranda-de-mas-de-50-anos-junto-a-la-catedral-de-irapuato-estaba-seca-dicen-33162502",
+    "resumen": "La jacaranda de la Catedral de Irapuato fue talada tras una evaluación que detectó deterioro y riesgo por el desprendimiento de ramas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Fresas de Irapuato bajo vigilancia: hongos provocaron pérdidas de hasta 80% en cosechas",
+    "fecha": "16/11/2026 07:49",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/fresas-de-irapuato-bajo-vigilancia-hongos-provocaron-perdidas-de-hasta-80-en-cosechas-33161585",
+    "resumen": "Guanajuato mantiene vigilancia fitosanitaria en cultivos de fresa tras las pérdidas por Pestalotia y la presencia de enfermedades causadas por hongos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Esperan hasta una hora para subir a la ruta 32 de Irapuato; Movilidad dice que hay camiones extra",
+    "fecha": "16/11/2026 07:38",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/esperan-hasta-una-hora-para-subir-a-la-ruta-32-de-irapuato-movilidad-dice-que-hay-camiones-extra-33161503",
+    "resumen": "La ruta 32 del transporte público de Irapuato registra esperas de hasta una hora, mientras Movilidad reporta recorridos adicionales para estudiantes del IT"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Así fue el desfile de la Revolución Mexicana en Irapuato: participaron más de 2 mil 600 personas",
+    "fecha": "16/11/2026 06:31",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/asi-fue-el-desfile-de-la-revolucion-mexicana-en-irapuato-participaron-mas-de-2-mil-600-personas-33161022",
+    "resumen": "Estudiantes de 37 instituciones educativas, charros, cabalgadores, integrantes del Pentatlón y corporaciones municipales formaron parte de la conmemoración por el 116 aniversario de la Revolución Mexicana"
   }
 ]
