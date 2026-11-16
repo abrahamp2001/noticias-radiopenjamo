@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Detienen a José Jesús N con 57 gramos de presunta marihuana en Pénjamo",
+    "fecha": "15/11/2026 20:14",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/15/detienen-a-jose-jesus-n-con-57-gramos-de-presunta-marihuana-en-penjamo-171639.html",
+    "resumen": "Un joven de 19 años que dijo ser repartidor de pollo fue detenido por elementos de las FSPE en la calle 2 de Abril, en la colonia Arroyo Hondo de Pénjamo"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo suspende la recolección de basura",
     "fecha": "15/11/2026 13:49",
     "fuente": "Notus",
@@ -17,11 +25,43 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Obispo de Irapuato pide a las autoridades reconocer la realidad de los desaparecidos",
+    "fecha": "15/11/2026 21:18",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/15/obispo-de-irapuato-pide-a-las-autoridades-reconocer-la-realidad-de-los-desaparecidos-171642.html",
+    "resumen": "Enrique Díaz Díaz pidió a las autoridades brindar más apoyo a las familias buscadoras tras los hallazgos del colectivo Hasta Encontrarte"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Peregrinaciones guadalupanas complicarán la circulación en el centro de Irapuato por obras del puente Bimbo",
+    "fecha": "15/11/2026 21:02",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/15/peregrinaciones-guadalupanas-complicaran-la-circulacion-en-el-centro-de-irapuato-por-obras-del-puente-bimbo-171641.html",
+    "resumen": "La Dirección de Movilidad y Transporte de Irapuato analiza medidas para bulevares como Díaz Ordaz y San Roque ante las peregrinaciones del 12 de diciembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Sorteo del Servicio Militar Nacional en Irapuato: 921 jóvenes con bola blanca",
+    "fecha": "15/11/2026 18:14",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/15/sorteo-del-servicio-militar-nacional-en-irapuato-921-jovenes-con-bola-blanca-171635.html",
+    "resumen": "Alrededor de 900 jóvenes de la clase 2008 fueron seleccionados mediante bola blanca para cumplir el adiestramiento del Servicio Militar Nacional en Irapuato"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Romina, cadete de Irapuato gana competencia de natación en aguas abiertas en Puerto Vallarta",
     "fecha": "15/11/2026 16:22",
     "fuente": "Notus",
     "url": "https://notus.com.mx/romina-cadete-de-irapuato-gana-competencia-de-natacion-en-aguas-abiertas-en-puerto-vallarta/",
     "resumen": "Irapuato, Guanajuato.- La cadete Romina Meza Ramos, estudiante del Bachillerato Bivalente Militarizado, Batallón Primer Ligero, Plantel Irapuato, obtuvo el primer lugar de su categoría en la competencia de natación en aguas abiertas Cruce Vallarta, cuarta edición 2026. Meza Ramos compitió en la prueba de 1.5 kilómetros, dentro de la categoría femenil de 15 a 19 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Sentencian a tres de La Familia Michoacana por secuestros en Irapuato; dos empresarios fueron rescatados y otro asesinado",
+    "fecha": "15/11/2026 14:13",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/sentencian-a-tres-de-la-familia-michoacana-por-secuestros-en-irapuato-dos-empresarios-fueron-rescatados-y-otro-asesinado-33153562",
+    "resumen": "Rosendo N., Fernando N. y Erick N. recibieron 31 años, tres meses y 24 días de prisión cada uno; atentaron contra un agricultor, un restaurantero y el dueño de un centro nocturno"
   },
   {
     "prioridad": 2,
@@ -62,30 +102,6 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/se-dirigia-a-trabajar-y-es-asesinado-a-balazos-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Joel, de aproximadamente 39 años de edad, fue asesinado a balazos la mañana de este domingo, luego de ser atacado cuando salía de su domicilio para dirigirse a trabajar, en la colonia Esfuerzo Obrero, en Irapuato. De acuerdo con los primeros reportes, la agresión ocurrió alrededor de las 6 de la mañana, en …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Los antiguos cines de Irapuato: la historia del Rialto, Rex, Cine Club y Cine Teatro",
-    "fecha": "15/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/los-antiguos-cines-de-irapuato-la-historia-del-rialto-rex-cine-club-y-cine-teatro-33139191",
-    "resumen": "Había matinés y con un boleto se podían ver hasta tres películas en un mismo día"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Sin planes para el puente? Visita el Zoológico de Irapuato con lo que tiene para ofrecer",
-    "fecha": "14/11/2026 20:51",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/14/sin-planes-para-el-puente-visita-el-zoologico-de-irapuato-con-lo-que-tiene-para-ofrecer-171609.html",
-    "resumen": "Los visitantes podrán disfrutar de las instalaciones del parque Zoológico de Irapuato, que incluyen la observación de cerca de 500 animales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Expo Agroalimentaria de Irapuato reúne a más de 162 mil visitantes y reporta saldo blanco",
-    "fecha": "14/11/2026 20:24",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/14/expo-agroalimentaria-de-irapuato-reune-a-mas-de-162-mil-visitantes-y-reporta-saldo-blanco-171607.html",
-    "resumen": "La Expo Agroalimentaria de Irapuato reunió a 162 mil 770 visitantes en su edición 2026 y concluyó con saldo blanco por un gran operativo de seguridad"
   },
   {
     "prioridad": 3,
