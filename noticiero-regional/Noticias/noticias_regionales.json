@@ -17,14 +17,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Detienen a José Jesús N con 57 gramos de presunta marihuana en Pénjamo",
-    "fecha": "15/11/2026 20:14",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/15/detienen-a-jose-jesus-n-con-57-gramos-de-presunta-marihuana-en-penjamo-171639.html",
-    "resumen": "Un joven de 19 años que dijo ser repartidor de pollo fue detenido por elementos de las FSPE en la calle 2 de Abril, en la colonia Arroyo Hondo de Pénjamo"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Accidente en El Trébol deja cuatro lesionados en Irapuato",
     "fecha": "16/11/2026 14:13",
     "fuente": "Periódico Correo",
@@ -65,11 +57,27 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Plaza del Comercio de Irapuato recibirá vendedores navideños",
+    "fecha": "16/11/2026 19:35",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/16/plaza-del-comercio-de-irapuato-recibira-vendedores-navidenos-171679.html",
+    "resumen": "Los comerciantes ofrecerán artículos para Navidad, la celebración guadalupana y el Día de Reyes. La convocatoria para obtener un espacio saldrá próximamente"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Irapuato conmemora el 116 aniversario de la Revolución con desfile cívico-deportivo",
     "fecha": "16/11/2026 15:12",
     "fuente": "Notus",
     "url": "https://notus.com.mx/irapuato-conmemora-el-116-aniversario-de-la-revolucion-con-desfile-civico-deportivo/",
     "resumen": "Irapuato, Guanajuato.- Cerca de 40 instituciones educativas, corporaciones de seguridad, cuerpos de emergencia y agrupaciones tradicionales participaron en el desfile cívico-deportivo con el que Irapuato conmemoró el 116 aniversario del inicio de la Revolución Mexicana. El recorrido reunió a familias en el Centro Histórico. En representación de la presidenta municipal, Lorena Alfaro García, el secretario …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Diez victorias y una ilusión que no se apaga: la afición fresera quiere el paso perfecto",
+    "fecha": "16/11/2026 15:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/club-irapuato-suma-10-victorias-y-va-por-un-cierre-invicto-33168361",
+    "resumen": "Entre cánticos, confianza y orgullo por los colores, seguidores del Club Irapuato celebran la racha del equipo y esperan que llegue el triunfo número 11"
   },
   {
     "prioridad": 2,
@@ -150,13 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/esperan-hasta-una-hora-para-subir-a-la-ruta-32-de-irapuato-movilidad-dice-que-hay-camiones-extra-33161503",
     "resumen": "La ruta 32 del transporte público de Irapuato registra esperas de hasta una hora, mientras Movilidad reporta recorridos adicionales para estudiantes del IT"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Así fue el desfile de la Revolución Mexicana en Irapuato: participaron más de 2 mil 600 personas",
-    "fecha": "16/11/2026 06:31",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/asi-fue-el-desfile-de-la-revolucion-mexicana-en-irapuato-participaron-mas-de-2-mil-600-personas-33161022",
-    "resumen": "Estudiantes de 37 instituciones educativas, charros, cabalgadores, integrantes del Pentatlón y corporaciones municipales formaron parte de la conmemoración por el 116 aniversario de la Revolución Mexicana"
   }
 ]
