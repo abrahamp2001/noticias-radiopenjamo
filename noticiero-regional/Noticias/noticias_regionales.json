@@ -25,6 +25,14 @@
   },
   {
     "prioridad": 1,
+    "titulo": "Aprueba 78% gestión de Adolfo Alfaro en Manuel Doblado",
+    "fecha": "17/11/2026 00:29",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/17/aprueba-78-gestion-de-adolfo-alfaro-en-manuel-doblado-171701.html",
+    "resumen": "El PRI concentra más de la mitad de las preferencias electorales en gran medida gracias a su desempeño al frente del gobierno municipal; aventaja al PAN por más de 19 puntos"
+  },
+  {
+    "prioridad": 1,
     "titulo": "Huanímaro inaugura segunda etapa de rehabilitación del jardín de Cerrito Alto Nuevo",
     "fecha": "16/11/2026 13:43",
     "fuente": "Notus",
@@ -57,11 +65,27 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Rentar una casa en Irapuato por menos de 10 mil pesos es cada vez más difícil",
+    "fecha": "16/11/2026 23:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/rentar-una-casa-en-irapuato-por-menos-de-10-mil-pesos-es-cada-vez-mas-dificil-33161778",
+    "resumen": "Las casas en renta en Irapuato por menos de 10 mil pesos escasean; una renta de ese monto implica ingresos familiares de 33 mil 333 pesos"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Plaza del Comercio de Irapuato recibirá vendedores navideños",
     "fecha": "16/11/2026 19:35",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/16/plaza-del-comercio-de-irapuato-recibira-vendedores-navidenos-171679.html",
     "resumen": "Los comerciantes ofrecerán artículos para Navidad, la celebración guadalupana y el Día de Reyes. La convocatoria para obtener un espacio saldrá próximamente"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Toros de Celaya vence 2-1 al Irapuato y termina con su paso perfecto",
+    "fecha": "16/11/2026 18:08",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/celaya-remonta-2-1-al-irapuato-y-termina-su-paso-invicto-33170438",
+    "resumen": "Vino de atrás y, con 10 jugadores, finalizó con la racha de 10 triunfos en fila del Irapuato"
   },
   {
     "prioridad": 2,
@@ -134,29 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/tras-cristalazo-a-visitantes-de-expo-agro-aseguran-a-presunto-lider-de-banda-en-irapuato-33162956",
     "resumen": "Por los cristalazos en Irapuato, la Policía Municipal aseguró al presunto líder de un grupo tras el robo a visitantes de la Expo Agroalimentaria"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Talan jacaranda de más de 50 años junto a la Catedral de Irapuato; “estaba seca”, dicen",
-    "fecha": "16/11/2026 08:33",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/talan-jacaranda-de-mas-de-50-anos-junto-a-la-catedral-de-irapuato-estaba-seca-dicen-33162502",
-    "resumen": "La jacaranda de la Catedral de Irapuato fue talada tras una evaluación que detectó deterioro y riesgo por el desprendimiento de ramas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Fresas de Irapuato bajo vigilancia: hongos provocaron pérdidas de hasta 80% en cosechas",
-    "fecha": "16/11/2026 07:49",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/fresas-de-irapuato-bajo-vigilancia-hongos-provocaron-perdidas-de-hasta-80-en-cosechas-33161585",
-    "resumen": "Guanajuato mantiene vigilancia fitosanitaria en cultivos de fresa tras las pérdidas por Pestalotia y la presencia de enfermedades causadas por hongos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Esperan hasta una hora para subir a la ruta 32 de Irapuato; Movilidad dice que hay camiones extra",
-    "fecha": "16/11/2026 07:38",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/esperan-hasta-una-hora-para-subir-a-la-ruta-32-de-irapuato-movilidad-dice-que-hay-camiones-extra-33161503",
-    "resumen": "La ruta 32 del transporte público de Irapuato registra esperas de hasta una hora, mientras Movilidad reporta recorridos adicionales para estudiantes del IT"
   }
 ]
