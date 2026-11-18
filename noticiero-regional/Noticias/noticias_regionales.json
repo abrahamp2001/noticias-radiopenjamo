@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Yozajamby Molina gestiona con Infonavit nuevas opciones de vivienda para familias de Pénjamo",
+    "fecha": "17/11/2026 23:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-analiza-con-infonavit-opciones-de-vivienda-para-sus-familias-33182280",
+    "resumen": "La alcaldesa Yozajamby Molina Balver sostuvo una reunión de trabajo con representantes de Vivienda del Bienestar de Infonavit para revisar estrategias que permitan acercar alternativas habitacionales a las familias del municipio"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Abasolo realiza 146 esterilizaciones gratuitas de perros y gatos en primera campaña masiva",
     "fecha": "17/11/2026 16:50",
     "fuente": "Notus",
@@ -33,11 +41,51 @@
   },
   {
     "prioridad": 1,
-    "titulo": "Aprueba 78% gestión de Adolfo Alfaro en Manuel Doblado",
-    "fecha": "17/11/2026 00:29",
+    "titulo": "Familias de Huanímaro se capacitan para emprender y generar ingresos propios",
+    "fecha": "17/11/2026 23:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/familias-de-huanimaro-se-capacitan-para-emprender-y-generar-ingresos-propios-33181407",
+    "resumen": "Cursos de repostería y panificación en Huanímaro concluyeron en Los Otates, el Centro Gerontológico y Ojos de Agua con formación práctica"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Bloqueos carreteros dejan varados a transportistas en el Libramiento Norte de Irapuato",
+    "fecha": "17/11/2026 23:00",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/17/aprueba-78-gestion-de-adolfo-alfaro-en-manuel-doblado-171701.html",
-    "resumen": "El PRI concentra más de la mitad de las preferencias electorales en gran medida gracias a su desempeño al frente del gobierno municipal; aventaja al PAN por más de 19 puntos"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/bloqueos-carreteros-dejan-varados-a-transportistas-en-el-libramiento-norte-de-irapuato-171783.html",
+    "resumen": "Conductores de vehículos pesados, como Cristóbal, enfrentan temor a asaltos e incrementos en alimentos y bebidas por los bloqueos de productores agrícolas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Busca Monte de Piedad recuperar a sus clientes con préstamos de 39 pesos por cada mil",
+    "fecha": "17/11/2026 23:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/busca-monte-de-piedad-recuperar-a-sus-clientes-con-prestamos-de-39-pesos-por-cada-mil-33181137",
+    "resumen": "Tras casi un año de huelga, la institución retomó actividades en Irapuato con una tasa de interés mensual de 3.9%; el sindicato asegura que busca competir con casas de empeño que pueden cobrar hasta 13%"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Villa Navideña de Irapuato tendrá nuevos atractivos y decoración renovada",
+    "fecha": "17/11/2026 22:37",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/villa-navidena-de-irapuato-tendra-nuevos-atractivos-y-decoracion-renovada-171780.html",
+    "resumen": "El montaje del árbol ya comenzó y se preparan actividades para las familias, mientras el Municipio define el presupuesto de la temporada"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Pipa de gas choca contra poste de CFE y provoca incendio de pastizal en Villas de Irapuato",
+    "fecha": "17/11/2026 21:35",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/17/pipa-de-gas-choca-contra-poste-de-cfe-y-provoca-incendio-de-pastizal-en-villas-de-irapuato-171774.html",
+    "resumen": "Una pipa de la empresa Gas Noel presuntamente se quedó sin frenos, se impactó contra un poste de la CFE en el fraccionamiento Residencial Villas de Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Tras días desaparecida, localizan sin vida a cadete desaparecida en Irapuato",
+    "fecha": "17/11/2026 21:34",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/tras-dias-desaparecida-localizan-sin-vida-a-cadete-desaparecida-en-irapuato-171773.html",
+    "resumen": "La joven había sido reportada mediante una Alerta Alba. La Fiscalía notificó el hallazgo a sus familiares, pero no ha informado cómo ocurrió su muerte"
   },
   {
     "prioridad": 2,
@@ -110,53 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/jorge-romero-vazquez-recibe-fallo-absolutorio-tras-cinco-anos-de-proceso-33183010",
     "resumen": "El panista ganó una diputación federal por Irapuato en 2021, pero no asumió el cargo debido al proceso penal, durante el cual pasó tres meses en prisión preventiva; tras el fallo absolutorio, aseguró que por ahora no tiene interés en regresar a la política."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Advierte Canaco riesgo económico para 2027 si reformas debilitan al sector productivo",
-    "fecha": "17/11/2026 11:25",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/advierte-canaco-riesgo-economico-para-2027-si-reformas-debilitan-al-sector-productivo-33181013",
-    "resumen": "Canaco Irapuato pidió considerar a las empresas ante reformas y decisiones públicas para proteger la actividad económica y los empleos en 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "332 puntos contra 6: la abismal diferencia con la que el líder Irapuato visita al sotanero Tapachula FC",
-    "fecha": "17/11/2026 10:51",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vs-tapachula-fc-dia-hora-y-como-llegan-al-cierre-de-intergrupos-tras-la-derrota-ante-celaya-33180458",
-    "resumen": "Irapuato, líder con 32 puntos, visitará al Tapachula FC el sábado tras perder el invicto ante Celaya y buscará volver al triunfo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cierre parcial de carretera Irapuato-Silao por accidente",
-    "fecha": "17/11/2026 10:46",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/cierre-parcial-de-carretera-irapuato-silao-por-accidente/",
-    "resumen": "Irapuato, Guanajuato.- La carretera Irapuato-Silao presentó un cierre parcial en un carril derivado de un accidente vial. El incidente ha provocado una fuerte concentración de automóviles a la altura de la comunidad Lo de Juárez. Al parecer, el avance del tramo es lento desde El Copal en dirección a Silao, por lo que la Secretaría …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Alertan por afectaciones a la industria del corredor Irapuato-Salamanca ante bloqueos carreteros",
-    "fecha": "17/11/2026 10:40",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/alertan-por-afectaciones-a-la-industria-del-corredor-irapuato-salamanca-ante-bloqueos-carreteros-33181197",
-    "resumen": "Coparmex Irapuato-Salamanca advierte que los bloqueos carreteros pueden retrasar mercancías, afectar traslados y elevar costos empresariales"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“En la noche va a estar peor”: Gabriela teme no poder volver a casa por bloqueo campesino en Irapuato",
-    "fecha": "17/11/2026 10:20",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/en-la-noche-va-a-estar-peor-gabriela-teme-no-poder-volver-a-casa-por-bloqueo-campesino-en-irapuato-33180980",
-    "resumen": "El bloqueo campesino en la carretera federal 45 altera traslados en Irapuato; trabajadores y viajeros buscan salir o hallar rutas alternas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Nos dicen que estamos locos”: campesinos bloquean la federal 45 en Irapuato; acusan abandono e incumplimiento de acuerdos",
-    "fecha": "17/11/2026 09:54",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/nos-dicen-que-estamos-locos-campesinos-bloquean-la-federal-45-en-irapuato-acusan-abandono-e-incumplimiento-de-acuerdos-33180670",
-    "resumen": "Campesinos mantienen bloqueada la carretera federal 45 en Irapuato por reclamos de apoyos, precios del campo y acuerdos incumplidos"
   }
 ]
