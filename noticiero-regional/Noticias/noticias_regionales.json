@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Impacto de camiones paralizan carretera Pénjamo-La Piedad",
+    "fecha": "18/11/2026 11:28",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/impacto-de-camiones-paralizan-carretera-penjamo-la-piedad/",
+    "resumen": "Pénjamo, Guanajuato.- El impacto entre dos camiones de carga frente a la central de autobuses de Pénjamo provocó el cierre de dos carriles en la carretera federal 90, en dirección a La Piedad. En el hecho no se registró ninguna persona lesionada. Según los primeros reportes, fue un choque por alcance en el que se …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Choque entre tráiler de doble remolque y camión tabiquero bloquea carretera federal 90 en Pénjamo",
+    "fecha": "18/11/2026 04:57",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/choque-entre-trailer-de-doble-remolque-y-camion-tabiquero-bloquea-carretera-federal-90-en-penjamo-33193215",
+    "resumen": "Elementos de emergencia y civiles retiraron los tabiques, mientras dos grúas realizaron las maniobras para sacar las unidades"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Yozajamby Molina gestiona con Infonavit nuevas opciones de vivienda para familias de Pénjamo",
     "fecha": "17/11/2026 23:00",
     "fuente": "El Sol de Irapuato",
@@ -11,7 +27,7 @@
     "prioridad": 0,
     "titulo": "Abasolo realiza 146 esterilizaciones gratuitas de perros y gatos en primera campaña masiva",
     "fecha": "17/11/2026 16:50",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/abasolo-realiza-146-esterilizaciones-gratuitas-de-perros-y-gatos-en-primera-campana-masiva/",
     "resumen": "Abasolo, Guanajuato.- Un total de 146 perros y gatos fueron esterilizados de manera gratuita durante la primera campaña masiva realizada en la cabecera municipal de Abasolo. La jornada fue resultado de la colaboración entre el Gobierno Municipal y la Secretaría de Salud de Guanajuato, a través de la Jurisdicción Sanitaria VI. Realizan cirugías gratuitas en …"
   },
@@ -19,9 +35,25 @@
     "prioridad": 0,
     "titulo": "Abasolo acerca la música y el arte a las familias con actividades culturales",
     "fecha": "17/11/2026 16:48",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/abasolo-acerca-la-musica-y-el-arte-a-las-familias-con-actividades-culturales/",
     "resumen": "Abasolo, Guanajuato.- Con música y distintas expresiones artísticas, la Casa de la Cultura de Abasolo realizó una presentación de rondalla y una muestra de arte. Las actividades buscaron acercar la cultura a las familias y promover la participación de artistas locales. Música y arte reúnen a las familias abasolenses Durante la jornada, los asistentes disfrutaron …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Certifican el Jardín de El Perdón en Manuel Doblado como Entorno Recreativo Saludable",
+    "fecha": "18/11/2026 15:54",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/certifican-el-jardin-de-el-perdon-en-manuel-doblado-como-entorno-recreativo-saludable/",
+    "resumen": "Manuel Doblado, Guanajuato.- El Jardín de El Perdón fue reconocido como un “Entorno Recreativo Saludable” en Manuel Doblado, luego de cumplir con los requisitos establecidos por la Secretaría de Salud de Guanajuato para promover espacios seguros y adecuados para la convivencia familiar. El proceso de certificación comenzó en septiembre de 2025, cuando se seleccionó el …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Entrega el profe Beto la pavimentación de la calle Cafetal en Linda Vista, en Cuerámaro",
+    "fecha": "18/11/2026 09:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/entrega-el-profe-beto-la-pavimentacion-de-la-calle-cafetal-en-linda-vista-en-cueramaro-33197185",
+    "resumen": "Después de las solicitudes de habitantes de la colonia Linda Vista, el gobierno municipal concluyó los trabajos de pavimentación de la calle Cafetal"
   },
   {
     "prioridad": 1,
@@ -33,130 +65,98 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Se descarrila tren de carga en Apaseo el Grande, cerca de obras del Irapuato-Querétaro",
-    "fecha": "18/11/2026 08:50",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/18/se-descarrila-tren-de-carga-en-apaseo-el-grande-cerca-de-obras-del-irapuato-queretaro-171790.html",
-    "resumen": "Hasta el momento, se desconocen las causas que ocasionaron el descarrilamiento del tren que pasaba el la zona de obras ferroviarias en Apaseo el Grande"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Bloqueos carreteros dejan varados a transportistas en el Libramiento Norte de Irapuato",
-    "fecha": "17/11/2026 23:00",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/bloqueos-carreteros-dejan-varados-a-transportistas-en-el-libramiento-norte-de-irapuato-171783.html",
-    "resumen": "Conductores de vehículos pesados, como Cristóbal, enfrentan temor a asaltos e incrementos en alimentos y bebidas por los bloqueos de productores agrícolas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Busca Monte de Piedad recuperar a sus clientes con préstamos de 39 pesos por cada mil",
-    "fecha": "17/11/2026 23:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/busca-monte-de-piedad-recuperar-a-sus-clientes-con-prestamos-de-39-pesos-por-cada-mil-33181137",
-    "resumen": "Tras casi un año de huelga, la institución retomó actividades en Irapuato con una tasa de interés mensual de 3.9%; el sindicato asegura que busca competir con casas de empeño que pueden cobrar hasta 13%"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Villa Navideña de Irapuato tendrá nuevos atractivos y decoración renovada",
-    "fecha": "17/11/2026 22:37",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/villa-navidena-de-irapuato-tendra-nuevos-atractivos-y-decoracion-renovada-171780.html",
-    "resumen": "El montaje del árbol ya comenzó y se preparan actividades para las familias, mientras el Municipio define el presupuesto de la temporada"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Pipa de gas choca contra poste de CFE y provoca incendio de pastizal en Villas de Irapuato",
-    "fecha": "17/11/2026 21:35",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/17/pipa-de-gas-choca-contra-poste-de-cfe-y-provoca-incendio-de-pastizal-en-villas-de-irapuato-171774.html",
-    "resumen": "Una pipa de la empresa Gas Noel presuntamente se quedó sin frenos, se impactó contra un poste de la CFE en el fraccionamiento Residencial Villas de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tras días desaparecida, localizan sin vida a cadete desaparecida en Irapuato",
-    "fecha": "17/11/2026 21:34",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/tras-dias-desaparecida-localizan-sin-vida-a-cadete-desaparecida-en-irapuato-171773.html",
-    "resumen": "La joven había sido reportada mediante una Alerta Alba. La Fiscalía notificó el hallazgo a sus familiares, pero no ha informado cómo ocurrió su muerte"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Campesinos de Purísima del Rincón advierten que no desistirán de cambiar el trazo del tren de pasajeros",
-    "fecha": "17/11/2026 19:56",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/17/campesinos-de-purisima-del-rincon-advierten-que-no-desistiran-de-cambiar-el-trazo-del-tren-de-pasajeros-171758.html",
-    "resumen": "Productores y ejidatarios de Purísima del Rincón exigieron al Gobierno federal modificar el trazo del tren de pasajeros de Irapuato a Guadalajara"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Pozos 50 y 74 de Irapuato siguen en rehabilitación; Lomas del Pedregal recibe agua por tandeo",
-    "fecha": "17/11/2026 19:02",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/pozos-50-y-74-de-irapuato-siguen-en-rehabilitacion-lomas-del-pedregal-recibe-agua-por-tandeo-171749.html",
-    "resumen": "El director de Japami informó que los pozos 50 y 74 siguen en rehabilitación y que las zonas afectadas reciben agua mediante tandeos y pipas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato: Absuelven a Jorge “R”, del delito de violación contra regidora",
-    "fecha": "17/11/2026 18:01",
+    "titulo": "Irapuato reporta más de 2 mil puestas a disposición ante el Ministerio Público",
+    "fecha": "18/11/2026 16:25",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/irapuato-absuelven-a-jorge-r-del-delito-de-violacion-contra-regidora/",
-    "resumen": "Irapuato, Guanajuato.- Jorge “R”, diputado federal electo por el PAN en 2021 fue absuelto del delito de violación espuria en agravio de Regina, actual regidora de Irapuato. Después de cinco años de proceso, un juez de oralidad penal absolvió al panista. La sentencia se dictó en la Sala 1 de juicio oral penal de Irapuato, …"
+    "url": "https://notus.com.mx/irapuato-reporta-mas-de-2-mil-puestas-a-disposicion-ante-el-ministerio-publico/",
+    "resumen": "Irapuato, Guanajuato.- La Secretaría de Seguridad Ciudadana Municipal de Irapuato reportó 2 mil 85 puestas a disposición ante el Ministerio Público entre enero de 2025 y noviembre de 2026, de las cuales el 45% estuvieron relacionadas con el delito de robo. Los resultados fueron presentados durante una nueva edición de Platicando con Irapuato, como parte …"
   },
   {
     "prioridad": 2,
-    "titulo": "Jessica Abril no llegó a graduarse como policía de Irapuato: tras 11 días desaparecida, confirmaron su muerte",
-    "fecha": "17/11/2026 16:44",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/confirman-que-jessica-abril-rocha-esquivel-murio-en-irapuato-33187274",
-    "resumen": "La joven de 19 años pertenecía a la generación 52 de la Academia de Policía de Irapuato; su cuerpo fue identificado mediante pruebas de ADN; la alcaldesa Lorena Alfaro pidió guardar un minuto de silencio en su memoria"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Absuelven a Jorge Romero de violación en Irapuato: \"estoy contento\", afirma",
-    "fecha": "17/11/2026 15:55",
+    "titulo": "Darán apoyo para gastos a familia de Jessica Abril, la cadete de policía fallecidaen Irapuato",
+    "fecha": "18/11/2026 14:30",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/absuelven-a-jorge-romero-de-violacion-en-irapuato-estoy-contento-afirma-171732.html",
-    "resumen": "El juez consideró como omisa e insuficiente la labor de la Fiscalía, lo que impidió acreditar la comisión de un delito por parte del panista en Irapuato"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/18/daran-apoyo-para-gastos-a-familia-de-jessica-abril-la-cadete-de-policia-fallecidaen-irapuato-171808.html",
+    "resumen": "El día de la graduación como policía de Jessica Abril, la Fiscalía le informó a su familia que esta había sido encontrada sin vida"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato lleva el programa ‘Presidenta en tu Escuela’ a primaria Club de Leones Norte",
-    "fecha": "17/11/2026 15:00",
+    "titulo": "Sentencian a chofer de camión de pasajeros en Irapuato por violación",
+    "fecha": "18/11/2026 14:26",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/irapuato-lleva-el-programa-presidenta-en-tu-escuela-a-primaria-club-de-leones-norte/",
-    "resumen": "Irapuato, Guanajuato.- El programa ‘Presidenta en tu Escuela’ llegó a la primaria Club de Leones Irapuato Norte, donde autoridades municipales, docentes y estudiantes participaron en un encuentro para fortalecer la cercanía con la comunidad educativa y promover la formación en valores cívicos. En representación de la presidenta municipal, Lorena Alfaro García, acudió la presidenta del …"
+    "url": "https://notus.com.mx/sentencian-a-chofer-de-camion-de-pasajeros-en-irapuato-por-violacion/",
+    "resumen": "Irapuato, Guanajuato.- La Fiscalía de Guanajuato dictó una resolución de 8 años y 3 meses de cárcel en contra de JOSÉ OCTAVIO “N” por el delito de violación en 2023. El hombre atacó a la víctima en el camión de pasajeros que él conducía en Irapuato. Asimismo, en otro caso, ALEXANDER “N” fue sentenciado a …"
   },
   {
     "prioridad": 2,
-    "titulo": "Madres de familia en Irapuato ven en la Tarjeta Rosa un apoyo para sus economías",
-    "fecha": "17/11/2026 14:17",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/17/madres-de-familia-en-irapuato-ven-en-la-tarjeta-rosa-un-apoyo-para-sus-economias-171720.html",
-    "resumen": "Las beneficiarias de la Tarjeta Rosa en Irapuato reconocen que, aunque no es suficiente, el apoyo otorgado ayuda a sostener a sus familias"
+    "titulo": "Caen 73 personas en operativos de seguridad en Irapuato",
+    "fecha": "18/11/2026 13:35",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/caen-73-personas-en-operativos-de-seguridad-en-irapuato/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Un total de 73 personas detenidas, 20 vehículos asegurados y 84 dosis de presunta droga decomisadas fue el resultado de los operativos realizados del 8 al 14 de noviembre por los grupos especiales de la Secretaría de Seguridad Ciudadana de Irapuato. De acuerdo con la Secretaría de Seguridad Ciudadana de …"
   },
   {
     "prioridad": 2,
-    "titulo": "Buscan a adolescente en Irapuato y a tres hombres desaparecidos en Guanajuato",
-    "fecha": "17/11/2026 14:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/17/buscan-a-adolescente-en-irapuato-y-a-tres-hombres-desaparecidos-en-guanajuato-171719.html",
-    "resumen": "En las últimas horas, las autoridades activaron la alerta amber por Cristian y la búsqueda de tres hombres desaparecidos en el estado de Guanajuato"
+    "titulo": "Exigen justicia en Irapuato por joven cadete encontrada sin vida",
+    "fecha": "18/11/2026 13:30",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/exigen-justicia-en-irapuato-por-joven-cadete-encontrada-sin-vida/",
+    "resumen": "Irapuato, Guanajuato.- Tras días de búsqueda de la irapuatense Jessica Abril Rocha Esquivel se confirmó su localización sin vida, ante los presuntos señalamientos de asesinato, piden justicia. Aparentemente, el cuerpo de la joven cadete había sido encontrada el mismo día en que dejaron de tener contacto con ella; apenas este martes el hecho fue notificado …"
   },
   {
     "prioridad": 2,
-    "titulo": "Tras cinco años de proceso, absuelven al panista Jorge Romero por caso de violación espuria",
-    "fecha": "17/11/2026 12:08",
+    "titulo": "Irapuato incorpora a 41 nuevos policías municipales tras graduación de cadetes",
+    "fecha": "18/11/2026 13:23",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/irapuato-incorpora-a-41-nuevos-policias-municipales-tras-graduacion-de-cadetes/",
+    "resumen": "Irapuato, Guanajuato.- Un total de 41 nuevos policías se incorporarán a la Policía Municipal de Irapuato, luego de graduarse de la Generación 52 de la Academia de Formación y Profesionalización en Seguridad Ciudadana. Los nuevos elementos, 22 mujeres y 19 hombres, se integrarán a las labores de proximidad para fortalecer la seguridad en el municipio. …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Productores liberan carreteras, pero la lucha sigue",
+    "fecha": "18/11/2026 11:06",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/productores-liberan-carreteras-pero-la-lucha-sigue/",
+    "resumen": "Irapuato, Guanajuato.- Las carreteras de Guanajuato amanecieron este miércoles sin bloqueos, luego de que productores de maíz y trigo levantaran los cierres. Los agricultores, aclararon que la movilización no ha terminado y que esperan respuestas en una reunión prevista en secretaria de Gobernación. De acuerdo con la Secretaría de Seguridad y Paz del estado, la …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Porcicultores de Guanajuato se suman a movilización nacional",
+    "fecha": "18/11/2026 10:55",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/porcicultores-de-guanajuato-se-suman-a-movilizacion-nacional/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Productores porcícolas de Guanajuato se unieron este martes a la movilización nacional del sector agropecuario que incluye bloqueos carreteros en distintos estados para solicitar apoyo gubernamental ante la caída en el precio de venta del cerdo y el ingreso de carne importada. Según datos proporcionados por los propios productores, el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Jessica Abril Rocha: Seguridad de Irapuato revela cómo reportó su desaparición a Fiscalía",
+    "fecha": "18/11/2026 10:23",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/jorge-romero-vazquez-recibe-fallo-absolutorio-tras-cinco-anos-de-proceso-33183010",
-    "resumen": "El panista ganó una diputación federal por Irapuato en 2021, pero no asumió el cargo debido al proceso penal, durante el cual pasó tres meses en prisión preventiva; tras el fallo absolutorio, aseguró que por ahora no tiene interés en regresar a la política."
+    "url": "https://oem.com.mx/elsoldeirapuato/local/jessica-abril-rocha-seguridad-de-irapuato-revela-como-reporto-su-desaparicion-a-fiscalia-33197428",
+    "resumen": "La secretaria María del Consuelo Cruz Galindo explicó que la Academia de Policía informó que desde el primer día de su desaparición investigadores acudieron a las instalaciones para recabar información"
   },
   {
     "prioridad": 2,
-    "titulo": "Advierte Canaco riesgo económico para 2027 si reformas debilitan al sector productivo",
-    "fecha": "17/11/2026 11:25",
+    "titulo": "Extorsiones y amenazas generan temor entre habitantes de Irapuato",
+    "fecha": "18/11/2026 10:16",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/extorsiones-y-amenazas-generan-temor-entre-habitantes-de-irapuato/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Irapuato acumulaba 221 carpetas de investigación por extorsión hasta el 8 de noviembre según El Secretariado Ejecutivo Del Sistema Estatal De Seguridad Pública (SESESP) Las amenazas y los intentos de extorsión continúan generando preocupación entre habitantes de la localidad, El Secretariado Ejecutivo Del Sistema Estatal De Seguridad Pública anunció un …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "En Irapuato, 20 mil cuentas todavía deben el impuesto predial",
+    "fecha": "18/11/2026 10:15",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/advierte-canaco-riesgo-economico-para-2027-si-reformas-debilitan-al-sector-productivo-33181013",
-    "resumen": "Canaco Irapuato pidió considerar a las empresas ante reformas y decisiones públicas para proteger la actividad económica y los empleos en 2027"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/en-irapuato-20-mil-cuentas-todavia-deben-el-impuesto-predial-33197380",
+    "resumen": "La Tesorería Municipal recuperó 82 millones de pesos de adeudos correspondientes a años anteriores, pero mantiene acciones de cobro para regularizar las cuentas pendientes; la recaudación general del predial alcanzó cerca de 400 millones de pesos durante 2026"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Arsénico en agua de Irapuato: especialista identifica seis zonas que requieren vigilancia",
+    "fecha": "18/11/2026 10:07",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/arsenico-en-agua-de-irapuato-especialista-identifica-seis-zonas-que-requieren-vigilancia-33197348",
+    "resumen": "Carrizal Grande, La Pila, Singan, Las Fuentes, Nogalia y Haciendas del Carrizal son los sectores señalados por el presidente del Colegio de Ingenieros del Agua como los que presentan más minerales en el agua subterránea"
   }
 ]
