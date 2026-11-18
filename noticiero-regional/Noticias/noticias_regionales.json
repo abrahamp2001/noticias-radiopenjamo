@@ -24,28 +24,20 @@
     "resumen": "Abasolo, Guanajuato.- Con música y distintas expresiones artísticas, la Casa de la Cultura de Abasolo realizó una presentación de rondalla y una muestra de arte. Las actividades buscaron acercar la cultura a las familias y promover la participación de artistas locales. Música y arte reúnen a las familias abasolenses Durante la jornada, los asistentes disfrutaron …"
   },
   {
-    "prioridad": 0,
-    "titulo": "¿Vas de Guanajuato a Michoacán? Agricultores cierran en ambos sentidos la carretera Pénjamo La Piedad",
-    "fecha": "17/11/2026 08:40",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/bloqueo-en-la-carretera-penjamo-la-piedad-agricultores-cierran-ambos-sentidos-por-el-precio-del-maiz-33178838",
-    "resumen": "El bloqueo de la carretera federal 90 entre Pénjamo y La Piedad afecta ambos sentidos; agricultores esperan respuestas sobre el precio del maíz"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Primero repartieron tacos de carnitas a policías y reporteros; minutos después bloquearon toda la carretera Irapuato-Abasolo",
-    "fecha": "17/11/2026 08:02",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/bloqueo-en-la-carretera-federal-90-irapuato-abasolo-campesinos-cierran-ambos-sentidos-33178087",
-    "resumen": "Campesinos y porcicultores bloquearon la carretera federal 90 en Irapuato por desacuerdos con el Gobierno Federal sobre precios y comercialización"
-  },
-  {
     "prioridad": 1,
     "titulo": "Familias de Huanímaro se capacitan para emprender y generar ingresos propios",
     "fecha": "17/11/2026 23:00",
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/familias-de-huanimaro-se-capacitan-para-emprender-y-generar-ingresos-propios-33181407",
     "resumen": "Cursos de repostería y panificación en Huanímaro concluyeron en Los Otates, el Centro Gerontológico y Ojos de Agua con formación práctica"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Se descarrila tren de carga en Apaseo el Grande, cerca de obras del Irapuato-Querétaro",
+    "fecha": "18/11/2026 08:50",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/18/se-descarrila-tren-de-carga-en-apaseo-el-grande-cerca-de-obras-del-irapuato-queretaro-171790.html",
+    "resumen": "Hasta el momento, se desconocen las causas que ocasionaron el descarrilamiento del tren que pasaba el la zona de obras ferroviarias en Apaseo el Grande"
   },
   {
     "prioridad": 2,
@@ -158,5 +150,13 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/jorge-romero-vazquez-recibe-fallo-absolutorio-tras-cinco-anos-de-proceso-33183010",
     "resumen": "El panista ganó una diputación federal por Irapuato en 2021, pero no asumió el cargo debido al proceso penal, durante el cual pasó tres meses en prisión preventiva; tras el fallo absolutorio, aseguró que por ahora no tiene interés en regresar a la política."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Advierte Canaco riesgo económico para 2027 si reformas debilitan al sector productivo",
+    "fecha": "17/11/2026 11:25",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/advierte-canaco-riesgo-economico-para-2027-si-reformas-debilitan-al-sector-productivo-33181013",
+    "resumen": "Canaco Irapuato pidió considerar a las empresas ante reformas y decisiones públicas para proteger la actividad económica y los empleos en 2027"
   }
 ]
