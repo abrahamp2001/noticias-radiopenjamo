@@ -1,6 +1,22 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Fallece Elvira Delgado, madre buscadora de Pénjamo",
+    "fecha": "18/11/2026 16:55",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/fallece-elvira-delgado-madre-buscadora-de-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Pénjamo y el colectivo Hasta Encontrarte lamentaron el fallecimiento de Elvira Delgado, madre buscadora y trabajadora del área de Limpia del municipio. La penjamense perdió a su hija Maricela Chávez Delgado en 2023, por lo que se convirtió en miembro del grupo de búsqueda. “Hoy despedimos a una madre que nunca soltó la …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Responden propietarios de mascotas a campaña de esterilización en Abasolo; realizan 146 cirugías",
+    "fecha": "18/11/2026 13:01",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/esterilizacion-de-perros-y-gatos-en-abasolo-atiende-a-146-mascotas-33198088",
+    "resumen": "La campaña municipal de esterilización registró la participación de propietarios de mascotas que acudieron al Poliforum para acceder a los procedimientos sin costo. Más de 20 médicos y personal de apoyo participaron en la jornada coordinada con la Jurisdicción Sanitaria VI"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Impacto de camiones paralizan carretera Pénjamo-La Piedad",
     "fecha": "18/11/2026 11:28",
     "fuente": "Notus página 2",
@@ -24,26 +40,26 @@
     "resumen": "La alcaldesa Yozajamby Molina Balver sostuvo una reunión de trabajo con representantes de Vivienda del Bienestar de Infonavit para revisar estrategias que permitan acercar alternativas habitacionales a las familias del municipio"
   },
   {
-    "prioridad": 0,
-    "titulo": "Abasolo realiza 146 esterilizaciones gratuitas de perros y gatos en primera campaña masiva",
-    "fecha": "17/11/2026 16:50",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/abasolo-realiza-146-esterilizaciones-gratuitas-de-perros-y-gatos-en-primera-campana-masiva/",
-    "resumen": "Abasolo, Guanajuato.- Un total de 146 perros y gatos fueron esterilizados de manera gratuita durante la primera campaña masiva realizada en la cabecera municipal de Abasolo. La jornada fue resultado de la colaboración entre el Gobierno Municipal y la Secretaría de Salud de Guanajuato, a través de la Jurisdicción Sanitaria VI. Realizan cirugías gratuitas en …"
+    "prioridad": 1,
+    "titulo": "Avanza pavimentación en Cuerámaro en calles de Linda Vista y Del Carmen",
+    "fecha": "18/11/2026 17:07",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/avanza-pavimentacion-en-cueramaro-en-calles-de-linda-vista-y-del-carmen/",
+    "resumen": "Cuerámaro, Guanajuato.- El alcalde de Cuerámaro Humberto, ‘Profe Beto’, realizó la entrega formal de la pavimentación de la calle Cafetal en la colonia Linda Vista. También inauguró los trabajos de mejora de la calle El Refugio, en Del Carmen, avanzando con la rehabilitación de vialidades en el municipio. Para El Refugio, autoridades municipales y estatales …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Abasolo acerca la música y el arte a las familias con actividades culturales",
-    "fecha": "17/11/2026 16:48",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/abasolo-acerca-la-musica-y-el-arte-a-las-familias-con-actividades-culturales/",
-    "resumen": "Abasolo, Guanajuato.- Con música y distintas expresiones artísticas, la Casa de la Cultura de Abasolo realizó una presentación de rondalla y una muestra de arte. Las actividades buscaron acercar la cultura a las familias y promover la participación de artistas locales. Música y arte reúnen a las familias abasolenses Durante la jornada, los asistentes disfrutaron …"
+    "prioridad": 1,
+    "titulo": "Con más de 80 años de fe, arrancan las calles compuestas en Cuerámaro",
+    "fecha": "18/11/2026 17:03",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/con-mas-de-80-anos-de-fe-arrancan-las-calles-compuestas-en-cueramaro/",
+    "resumen": "Cuerámaro, Guanajuato.- Las tradicionales calles compuestas ya dieron inicio en Cuerámaro este 16 de noviembre y como cada año, concluirán el 12 de diciembre. La Parroquia San Francisco de Asís invitó a participar en las festividades en honor a la Santísima Virgen de Guadalupe, entre las que destacan las peregrinaciones. Este año, la celebración que …"
   },
   {
     "prioridad": 1,
     "titulo": "Certifican el Jardín de El Perdón en Manuel Doblado como Entorno Recreativo Saludable",
     "fecha": "18/11/2026 15:54",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/certifican-el-jardin-de-el-perdon-en-manuel-doblado-como-entorno-recreativo-saludable/",
     "resumen": "Manuel Doblado, Guanajuato.- El Jardín de El Perdón fue reconocido como un “Entorno Recreativo Saludable” en Manuel Doblado, luego de cumplir con los requisitos establecidos por la Secretaría de Salud de Guanajuato para promover espacios seguros y adecuados para la convivencia familiar. El proceso de certificación comenzó en septiembre de 2025, cuando se seleccionó el …"
   },
@@ -65,6 +81,22 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Maleza seca y pirotecnia amenazan la calidad del aire en Irapuato durante el invierno",
+    "fecha": "18/11/2026 18:32",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/18/maleza-seca-y-pirotecnia-amenazan-la-calidad-del-aire-en-irapuato-durante-el-invierno-171833.html",
+    "resumen": "La maleza seca, las quemas agrícolas y el uso de pirotecnia representan riesgos para la calidad del aire en Irapuato durante la temporada crítica"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Estudiante de la UG obtiene segundo lugar en concurso nacional de control biológico",
+    "fecha": "18/11/2026 16:52",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/estudiante-de-la-ug-obtiene-segundo-lugar-en-concurso-nacional-de-control-biologico/",
+    "resumen": "Irapuato, Guanajuato.- Abraham Rizo Patiño, estudiante de la Maestría Interinstitucional en Producción Pecuaria de la Universidad de Guanajuato (UG), obtuvo el segundo lugar en el concurso de carteles del XLVIII Congreso Nacional de Control Biológico, realizado en Campeche. El reconocimiento fue otorgado por su investigación sobre la actividad ovicida del hongo Arthrobotrys oligospora contra el …"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Irapuato reporta más de 2 mil puestas a disposición ante el Ministerio Público",
     "fecha": "18/11/2026 16:25",
     "fuente": "Notus",
@@ -83,9 +115,17 @@
     "prioridad": 2,
     "titulo": "Sentencian a chofer de camión de pasajeros en Irapuato por violación",
     "fecha": "18/11/2026 14:26",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/sentencian-a-chofer-de-camion-de-pasajeros-en-irapuato-por-violacion/",
     "resumen": "Irapuato, Guanajuato.- La Fiscalía de Guanajuato dictó una resolución de 8 años y 3 meses de cárcel en contra de JOSÉ OCTAVIO “N” por el delito de violación en 2023. El hombre atacó a la víctima en el camión de pasajeros que él conducía en Irapuato. Asimismo, en otro caso, ALEXANDER “N” fue sentenciado a …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Dos accidentes en dos días en Lomas del Pedregal: ahora muere mujer que viajaba en cuatrimoto",
+    "fecha": "18/11/2026 13:43",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/mujer-muere-tras-choque-de-cuatrimoto-en-irapuato-33201577",
+    "resumen": "Una mujer de 37 años murió y otra de 45 resultó lesionada al chocar contra una caseta de vigilancia en Irapuato; un día antes, una pipa de gas también se accidentó en una pendiente de la zona."
   },
   {
     "prioridad": 2,
@@ -113,50 +153,10 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Productores liberan carreteras, pero la lucha sigue",
-    "fecha": "18/11/2026 11:06",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/productores-liberan-carreteras-pero-la-lucha-sigue/",
-    "resumen": "Irapuato, Guanajuato.- Las carreteras de Guanajuato amanecieron este miércoles sin bloqueos, luego de que productores de maíz y trigo levantaran los cierres. Los agricultores, aclararon que la movilización no ha terminado y que esperan respuestas en una reunión prevista en secretaria de Gobernación. De acuerdo con la Secretaría de Seguridad y Paz del estado, la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Porcicultores de Guanajuato se suman a movilización nacional",
-    "fecha": "18/11/2026 10:55",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/porcicultores-de-guanajuato-se-suman-a-movilizacion-nacional/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Productores porcícolas de Guanajuato se unieron este martes a la movilización nacional del sector agropecuario que incluye bloqueos carreteros en distintos estados para solicitar apoyo gubernamental ante la caída en el precio de venta del cerdo y el ingreso de carne importada. Según datos proporcionados por los propios productores, el …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Jessica Abril Rocha: Seguridad de Irapuato revela cómo reportó su desaparición a Fiscalía",
-    "fecha": "18/11/2026 10:23",
+    "titulo": "Un uniforme hecho a su medida: Marilyn Estefanía fue guardia nacional por un día en Irapuato",
+    "fecha": "18/11/2026 12:55",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/jessica-abril-rocha-seguridad-de-irapuato-revela-como-reporto-su-desaparicion-a-fiscalia-33197428",
-    "resumen": "La secretaria María del Consuelo Cruz Galindo explicó que la Academia de Policía informó que desde el primer día de su desaparición investigadores acudieron a las instalaciones para recabar información"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Extorsiones y amenazas generan temor entre habitantes de Irapuato",
-    "fecha": "18/11/2026 10:16",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/extorsiones-y-amenazas-generan-temor-entre-habitantes-de-irapuato/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Irapuato acumulaba 221 carpetas de investigación por extorsión hasta el 8 de noviembre según El Secretariado Ejecutivo Del Sistema Estatal De Seguridad Pública (SESESP) Las amenazas y los intentos de extorsión continúan generando preocupación entre habitantes de la localidad, El Secretariado Ejecutivo Del Sistema Estatal De Seguridad Pública anunció un …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "En Irapuato, 20 mil cuentas todavía deben el impuesto predial",
-    "fecha": "18/11/2026 10:15",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/en-irapuato-20-mil-cuentas-todavia-deben-el-impuesto-predial-33197380",
-    "resumen": "La Tesorería Municipal recuperó 82 millones de pesos de adeudos correspondientes a años anteriores, pero mantiene acciones de cobro para regularizar las cuentas pendientes; la recaudación general del predial alcanzó cerca de 400 millones de pesos durante 2026"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Arsénico en agua de Irapuato: especialista identifica seis zonas que requieren vigilancia",
-    "fecha": "18/11/2026 10:07",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/arsenico-en-agua-de-irapuato-especialista-identifica-seis-zonas-que-requieren-vigilancia-33197348",
-    "resumen": "Carrizal Grande, La Pila, Singan, Las Fuentes, Nogalia y Haciendas del Carrizal son los sectores señalados por el presidente del Colegio de Ingenieros del Agua como los que presentan más minerales en el agua subterránea"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/un-uniforme-hecho-a-su-medida-marilyn-estefania-fue-guardia-nacional-por-un-dia-en-irapuato-33200740",
+    "resumen": "Marilyn Estefanía, de siete años, fue nombrada guardia nacional honoraria en Irapuato y recorrió instalaciones, vehículos y equipos"
   }
 ]
