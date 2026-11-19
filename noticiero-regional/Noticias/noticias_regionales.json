@@ -1,27 +1,51 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Presentan programa “Escuelas Ahorradoras de Agua” en primaria de Tamazula, Abasolo",
+    "fecha": "19/11/2026 14:55",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/presentan-programa-escuelas-ahorradoras-de-agua-en-primaria-de-tamazula-abasolo/",
+    "resumen": "Abasolo, Guanajuato.- Con actividades educativas dirigidas a estudiantes de todos los grados, fue presentado el programa “Escuelas Ahorradoras de Agua” en la primaria Aquiles Serdán, ubicada en la comunidad de Tamazula, en Abasolo. La iniciativa busca fomentar desde la infancia una cultura de cuidado y aprovechamiento responsable del agua. Promueven el cuidado del agua en …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Inician pavimentación en colonia Hermosillo de Abasolo con inversión de 10 millones de pesos",
+    "fecha": "19/11/2026 14:51",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/inician-pavimentacion-en-colonia-hermosillo-de-abasolo-con-inversion-de-10-millones-de-pesos/",
+    "resumen": "Abasolo, Guanajuato.- Con una inversión de 10 millones de pesos, iniciaron los trabajos de pavimentación en la colonia Hermosillo, en Abasolo. El proyecto contempla intervenir más de 600 metros de vialidad y renovar los servicios básicos para mejorar la infraestructura y movilidad de las familias. Renovarán vialidad y servicios básicos La obra contempla la pavimentación …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Arranca programa de mejoramiento de vivienda en Pénjamo; 48 cuartos dormitorio",
+    "fecha": "19/11/2026 13:03",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/arranca-programa-de-mejoramiento-de-vivienda-en-penjamo-48-cuartos-dormitorio/",
+    "resumen": "Pénjamo, Guanajuato.- Un total de 48 familias de 14 comunidades rurales de Pénjamo recibirán un cuarto dormitorio adicional como parte del Proyecto de Infraestructura Social para el Mejoramiento de Vivienda 2026, que contempla una inversión de 6 millones 395 mil 169 pesos. La entrega simbólica de certificados de construcción se realizó en el Jardín Principal, …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Abandonan cuerpo con signos de violencia en Chiripitzeo, Pénjamo; es el segundo en menos de 24 horas",
+    "fecha": "19/11/2026 11:44",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/19/abandonan-cuerpo-con-signos-de-violencia-en-chiripitzeo-penjamo-es-el-segundo-en-menos-de-24-horas-171885.html",
+    "resumen": "En menos de 24 horas dos cadáveres con aparentes signos de violencia fueron abandonados en diversos puntos del municipio"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Pénjamo: dejan restos de hombre cerca de una banca en Churipitzeo",
+    "fecha": "19/11/2026 11:03",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/penjamo-dejan-restos-de-hombre-cerca-de-una-banca-en-churipitzeo/",
+    "resumen": "Pénjamo, Guanajuato.- El cuerpo de una persona aparentemente desmembrada fue localizado en la entrada de Ojo de Agua El Sabino en la comunidad de Churipitzeo, Pénjamo. Según los primeros reportes, los restos de un hombre se encontraban cerca de una banca. Policía Municipal, FSPE, Guardia Nacional y Ejército Mexicano se movilizaron ante el reporte de …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Fallece Elvira Delgado, madre buscadora de Pénjamo",
     "fecha": "18/11/2026 16:55",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/fallece-elvira-delgado-madre-buscadora-de-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- Pénjamo y el colectivo Hasta Encontrarte lamentaron el fallecimiento de Elvira Delgado, madre buscadora y trabajadora del área de Limpia del municipio. La penjamense perdió a su hija Maricela Chávez Delgado en 2023, por lo que se convirtió en miembro del grupo de búsqueda. “Hoy despedimos a una madre que nunca soltó la …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Responden propietarios de mascotas a campaña de esterilización en Abasolo; realizan 146 cirugías",
-    "fecha": "18/11/2026 13:01",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/esterilizacion-de-perros-y-gatos-en-abasolo-atiende-a-146-mascotas-33198088",
-    "resumen": "La campaña municipal de esterilización registró la participación de propietarios de mascotas que acudieron al Poliforum para acceder a los procedimientos sin costo. Más de 20 médicos y personal de apoyo participaron en la jornada coordinada con la Jurisdicción Sanitaria VI"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Impacto de camiones paralizan carretera Pénjamo-La Piedad",
-    "fecha": "18/11/2026 11:28",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/impacto-de-camiones-paralizan-carretera-penjamo-la-piedad/",
-    "resumen": "Pénjamo, Guanajuato.- El impacto entre dos camiones de carga frente a la central de autobuses de Pénjamo provocó el cierre de dos carriles en la carretera federal 90, en dirección a La Piedad. En el hecho no se registró ninguna persona lesionada. Según los primeros reportes, fue un choque por alcance en el que se …"
   },
   {
     "prioridad": 0,
@@ -51,7 +75,7 @@
     "prioridad": 1,
     "titulo": "Avanza pavimentación en Cuerámaro en calles de Linda Vista y Del Carmen",
     "fecha": "18/11/2026 17:07",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/avanza-pavimentacion-en-cueramaro-en-calles-de-linda-vista-y-del-carmen/",
     "resumen": "Cuerámaro, Guanajuato.- El alcalde de Cuerámaro Humberto, ‘Profe Beto’, realizó la entrega formal de la pavimentación de la calle Cafetal en la colonia Linda Vista. También inauguró los trabajos de mejora de la calle El Refugio, en Del Carmen, avanzando con la rehabilitación de vialidades en el municipio. Para El Refugio, autoridades municipales y estatales …"
   },
@@ -59,104 +83,80 @@
     "prioridad": 1,
     "titulo": "Con más de 80 años de fe, arrancan las calles compuestas en Cuerámaro",
     "fecha": "18/11/2026 17:03",
-    "fuente": "Notus",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/con-mas-de-80-anos-de-fe-arrancan-las-calles-compuestas-en-cueramaro/",
     "resumen": "Cuerámaro, Guanajuato.- Las tradicionales calles compuestas ya dieron inicio en Cuerámaro este 16 de noviembre y como cada año, concluirán el 12 de diciembre. La Parroquia San Francisco de Asís invitó a participar en las festividades en honor a la Santísima Virgen de Guadalupe, entre las que destacan las peregrinaciones. Este año, la celebración que …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Certifican el Jardín de El Perdón en Manuel Doblado como Entorno Recreativo Saludable",
-    "fecha": "18/11/2026 15:54",
+    "prioridad": 2,
+    "titulo": "Partido Verde anuncia incorporación de Ignacio Ortiz Aldana a su proyecto político en Irapuato",
+    "fecha": "19/11/2026 16:34",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/partido-verde-anuncia-incorporacion-de-ignacio-ortiz-aldana-a-su-proyecto-politico-en-irapuato/",
+    "resumen": "El exsecretario de Salud de Guanajuato se suma a los trabajos del partido en el municipio; el comunicado no precisa una candidatura ni un cargo partidista. Irapuato, Guanajuato. El Partido…"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Realizarán jornada gratuita de vasectomías sin bisturí en Irapuato este 21 de noviembre",
+    "fecha": "19/11/2026 16:22",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/realizaran-jornada-gratuita-de-vasectomias-sin-bisturi-en-irapuato-este-21-de-noviembre/",
+    "resumen": "Irapuato, Guanajuato.- La Secretaría de Salud de Guanajuato realizará una jornada gratuita de vasectomías sin bisturí este sábado 21 de noviembre en Irapuato. La atención estará dirigida a hombres interesados en la planificación familiar y se brindará en el CAISES Galaxia El Naranjal. Ofrecerán vasectomías gratuitas en Irapuato La jornada es organizada por la Secretaría …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Desfile navideño “La Magia de Santa” regresa a Irapuato",
+    "fecha": "19/11/2026 15:52",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/desfile-navideno-la-magia-de-santa-regresa-a-irapuato/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- La asociación “Llevando Magia y Sonrisas”, en conjunto con patrocinadores y autoridades locales, presentaron oficialmente la quinta edición del desfile navideño “La Magia de Santa”. Contingentes Roberto Rivera Meléndez, presidente de la asociación y del comité organizador, destacó el crecimiento de esta iniciativa ciudadana que celebra cinco años de unir …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Un muerto y un herido en colonia Ignacio Allende de Irapuato",
+    "fecha": "19/11/2026 15:16",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/un-muerto-y-un-herido-en-colonia-ignacio-allende-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un ataque sobre la calle Villacoapa de la colonia Ignacio Allende en Irapuato dejó a un hombre sin vida y a otro más lesionado. Con este suceso, la zona suma tres ataques en menos de 4 semanas; van dos víctimas mortales y tres heridas. Autoridades del municipio arribaron al lugar luego de una …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Cambian ruta de peregrinaciones guadalupanas en Irapuato",
+    "fecha": "19/11/2026 14:44",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cambian-ruta-de-peregrinaciones-guadalupanas-en-irapuato/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Las tradicionales peregrinaciones guadalupanas contarán con un nuevo punto de partida durante la presente edición. El secretario del Ayuntamiento, Gerardo Barroso Rangel, informó que los contingentes ya no saldrán desde el Parque Irekua, sino que iniciarán su trayecto en las instalaciones de Japami. De acuerdo con el funcionario, esta modificación …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "AMMJE Irapuato renueva su Consejo Directivo para el periodo 2026-2028",
+    "fecha": "19/11/2026 14:38",
     "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/certifican-el-jardin-de-el-perdon-en-manuel-doblado-como-entorno-recreativo-saludable/",
-    "resumen": "Manuel Doblado, Guanajuato.- El Jardín de El Perdón fue reconocido como un “Entorno Recreativo Saludable” en Manuel Doblado, luego de cumplir con los requisitos establecidos por la Secretaría de Salud de Guanajuato para promover espacios seguros y adecuados para la convivencia familiar. El proceso de certificación comenzó en septiembre de 2025, cuando se seleccionó el …"
+    "url": "https://notus.com.mx/ammje-irapuato-renueva-su-consejo-directivo-para-el-periodo-2026-2028/",
+    "resumen": "Irapuato, Guanajuato.- La Asociación Mexicana de Mujeres Jefas de Empresa (AMMJE), capítulo Irapuato, renovó su Consejo Directivo para el periodo 2026-2028, con María de los Ángeles Estrada Martínez al frente. Durante la ceremonia, autoridades estatales destacaron la importancia de fortalecer el emprendimiento femenino y las redes de colaboración empresarial. Reconocen el liderazgo de las mujeres …"
   },
   {
     "prioridad": 2,
-    "titulo": "La danza folklórica llena de magia y color la Plaza Miguel Hidalgo de Irapuato",
-    "fecha": "19/11/2026 04:31",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/gossip/la-danza-folklorica-llena-de-magia-y-color-la-plaza-miguel-hidalgo-de-irapuato-32995275",
-    "resumen": "Con su zapateado único, los bailarines conquistaron al público fresero, demostrando que el folklor mexicano mantiene vivas las tradiciones y une generaciones a través del arte"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Por qué tarda en responder el 911 de Irapuato? C4 señala que 70% de las llamadas son improcedentes",
-    "fecha": "19/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/por-que-tarda-en-responder-el-911-de-irapuato-c4-senala-que-70-de-las-llamadas-son-improcedentes-33197573",
-    "resumen": "El director del C4, Víctor Aguirre, informó que durante 2026 se han recibido alrededor de 380 mil llamadas al número de emergencias, algunas de ellas de broma o falsas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato puede habilitar refugios temporales en una hora ante bajas temperaturas",
-    "fecha": "19/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-puede-habilitar-refugios-temporales-en-una-hora-ante-bajas-temperaturas-33198162",
-    "resumen": "Protección Civil informó que existe un espacio disponible durante todo el año en Monte Olivo y que el DIF cuenta con un protocolo para instalar otros albergues en caso de ser necesario."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Negocios entre balas: es Guanajuato segundo nacional en ataques contra comercios",
-    "fecha": "18/11/2026 23:38",
+    "titulo": "Asesinan a balazos a hombre en Ignacio Allende, Irapuato; hay un detenido bajo investigación",
+    "fecha": "19/11/2026 14:26",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/18/negocios-entre-balas-es-guanajuato-segundo-nacional-en-ataques-contra-comercios-171866.html",
-    "resumen": "Guanajuato suma 41 ataques contra comercios y solo es superado por Sinaloa; Irapuato ocupa el segundo lugar nacional entre los municipios, con 21 agresiones"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/19/asesinan-a-balazos-a-hombre-en-ignacio-allende-irapuato-hay-un-detenido-bajo-investigacion-171898.html",
+    "resumen": "Reportes al 911 alertaron detonaciones de arma de fuego en la colonia de Irapuato, donde posteriormente se encontró a un hombre sin vida"
   },
   {
     "prioridad": 2,
-    "titulo": "Tras choque contra escuela, Irapuato mantiene vigilancia a pipas de gas",
-    "fecha": "18/11/2026 21:52",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/18/tras-choque-contra-escuela-irapuato-mantiene-vigilancia-a-pipas-de-gas-171855.html",
-    "resumen": "Protección Civil aseguró que las revisiones se realizan durante todo el año y que las empresas deben reparar las unidades antes de volver a ponerlas en circulación"
+    "titulo": "Parque Irekua cerrado este jueves 19 por labores de mantenimiento",
+    "fecha": "19/11/2026 14:10",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/parque-irekua-cerrado-este-jueves-19-por-labores-de-mantenimiento/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Con el objetivo de garantizar la seguridad de los usuarios y conservar en óptimas condiciones las áreas verdes, la Presidencia Municipal determinó el cierre temporal del Parque Irekua durante la jornada de este jueves 19 de noviembre. De acuerdo con la información oficial, las cuadrillas operativas llevarán a cabo un …"
   },
   {
     "prioridad": 2,
-    "titulo": "Motociclista muere arrollado por un tráiler en el bulevar Mariano J. García de Irapuato",
-    "fecha": "18/11/2026 21:12",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/18/motociclista-muere-arrollado-por-un-trailer-en-el-bulevar-mariano-j-garcia-de-irapuato-171851.html",
-    "resumen": "Un joven de alrededor de 20 años murió arrollado por un tráiler en el bulevar Mariano J. García, a la altura de la colonia 12 de Diciembre, en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Cuatro taekwondoínes de Villagrán clasifican al Grand Slam 2026",
-    "fecha": "18/11/2026 21:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/18/cuatro-taekwondoines-de-villagran-clasifican-al-grand-slam-2026-171850.html",
-    "resumen": "Los deportistas competirán en Irapuato frente a los mejores exponentes del país y buscarán fortalecer su camino rumbo a los Nacionales CONADE 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Maleza seca y pirotecnia amenazan la calidad del aire en Irapuato durante el invierno",
-    "fecha": "18/11/2026 18:32",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/18/maleza-seca-y-pirotecnia-amenazan-la-calidad-del-aire-en-irapuato-durante-el-invierno-171833.html",
-    "resumen": "La maleza seca, las quemas agrícolas y el uso de pirotecnia representan riesgos para la calidad del aire en Irapuato durante la temporada crítica"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Estudiante de la UG obtiene segundo lugar en concurso nacional de control biológico",
-    "fecha": "18/11/2026 16:52",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/estudiante-de-la-ug-obtiene-segundo-lugar-en-concurso-nacional-de-control-biologico/",
-    "resumen": "Irapuato, Guanajuato.- Abraham Rizo Patiño, estudiante de la Maestría Interinstitucional en Producción Pecuaria de la Universidad de Guanajuato (UG), obtuvo el segundo lugar en el concurso de carteles del XLVIII Congreso Nacional de Control Biológico, realizado en Campeche. El reconocimiento fue otorgado por su investigación sobre la actividad ovicida del hongo Arthrobotrys oligospora contra el …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere motociclista tras derrapar y ser arrollado por tráiler en Irapuato",
-    "fecha": "18/11/2026 16:31",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/motociclista-muere-tras-derrapar-entre-un-trailer-y-una-camioneta-en-irapuato-33204521",
-    "resumen": "El joven intentó rebasar entre un tráiler y una camioneta sobre el bulevar Mariano J. García; al caer de su motocicleta, la pesada unidad le pasó por encima"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato reporta más de 2 mil puestas a disposición ante el Ministerio Público",
-    "fecha": "18/11/2026 16:25",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/irapuato-reporta-mas-de-2-mil-puestas-a-disposicion-ante-el-ministerio-publico/",
-    "resumen": "Irapuato, Guanajuato.- La Secretaría de Seguridad Ciudadana Municipal de Irapuato reportó 2 mil 85 puestas a disposición ante el Ministerio Público entre enero de 2025 y noviembre de 2026, de las cuales el 45% estuvieron relacionadas con el delito de robo. Los resultados fueron presentados durante una nueva edición de Platicando con Irapuato, como parte …"
+    "titulo": "‘Cristalean’ vehículo de regidor del PAN en Irapuato",
+    "fecha": "19/11/2026 13:27",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/cristalean-vehiculo-de-regidor-del-pan-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- El regidor irapuatense Emmanuel Jaime Barrientos señaló que su vehículo fue ‘cristaleado’ entre el bulevar Lázaro Cárdenas y la calle Niños Héroes. “Si alguien anda ofreciendo partituras, dibujos extraordinarios o notas del semestre, avísenme porfa”, publicó en redes alrededor de las 8 de la noche del miércoles. Barrientos recomendó a la población no …"
   }
 ]
