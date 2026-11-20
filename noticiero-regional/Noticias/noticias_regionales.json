@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Recolectores de Abasolo denuncian inconsciencia ciudadana; alcalde desmiente fallas en el servicio",
+    "fecha": "19/11/2026 20:12",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/19/recolectores-de-abasolo-denuncian-inconsciencia-ciudadana-alcalde-desmiente-fallas-en-el-servicio-171945.html",
+    "resumen": "Trabajadores de limpia de Abasolo denunciaron que la ciudadanía saca colchones, sillones y escombro que no caben en los camiones"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Presentan programa “Escuelas Ahorradoras de Agua” en primaria de Tamazula, Abasolo",
     "fecha": "19/11/2026 14:55",
     "fuente": "Notus página 2",
@@ -48,14 +56,6 @@
     "resumen": "Pénjamo, Guanajuato.- El cuerpo de una persona aparentemente desmembrada fue localizado en la entrada de Ojo de Agua El Sabino en la comunidad de Churipitzeo, Pénjamo. Según los primeros reportes, los restos de un hombre se encontraban cerca de una banca. Policía Municipal, FSPE, Guardia Nacional y Ejército Mexicano se movilizaron ante el reporte de …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Estas son las zonas de Irapuato donde las quemas agrícolas pueden afectar la calidad del aire",
-    "fecha": "19/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/estas-son-las-zonas-de-irapuato-donde-las-quemas-agricolas-pueden-afectar-la-calidad-del-aire-33197702",
-    "resumen": "Las áreas rurales ubicadas hacia Abasolo, Cuerámaro y Pueblo Nuevo concentran terrenos agrícolas donde la quema de esquilmos representa un riesgo de contaminación"
-  },
-  {
     "prioridad": 1,
     "titulo": "Motociclista pierde la vida tras chocar contra poste en Cuerámaro",
     "fecha": "19/11/2026 16:59",
@@ -72,20 +72,12 @@
     "resumen": "Por: Christopher Rodríguez. Manuel Doblado, Guanajuato.- Con la llegada de noviembre, las calles de Manuel Doblado vuelven a transformarse en un escenario de luces, rezos y encuentro vecinal. Esto sucede gracias a la celebración anual de Las Iluminaciones. Esta festividad es una de las más emblemáticas del municipio. Además, refleja el profundo arraigo católico de …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Feria de Cuerámaro 2026 superó expectativas; en un día reunió a más de 20 mil visitantes: Profe Beto",
-    "fecha": "19/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/feria-de-cueramaro-2026-supero-expectativas-en-un-dia-reunio-a-mas-de-20-mil-visitantes-profe-beto-33197633",
-    "resumen": "El presidente municipal, Humberto Hernández Martínez, informó que durante los cinco días de actividades se registró saldo blanco. La afluencia alcanzó cifras que rebasaron las previsiones iniciales, con más de 20 mil asistentes en un solo día"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Niñas y niños llevarán la historia de León al Teatro Manuel Doblado",
-    "fecha": "18/11/2026 22:16",
+    "prioridad": 2,
+    "titulo": "PVEM incorpora a Ignacio Ortiz, exsecretario de Salud de Guanajuato, a su proyecto político en Irapuato",
+    "fecha": "19/11/2026 21:02",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/leon/2026/nov/18/ninas-y-ninos-llevaran-la-historia-de-leon-al-teatro-manuel-doblado-171859.html",
-    "resumen": "El concierto dedicado al aniversario de la ciudad incluirá cinco estrenos mundiales sobre sus raíces agrícolas, barrios, oficios y tradición textil"
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/19/pvem-incorpora-a-ignacio-ortiz-exsecretario-de-salud-de-guanajuato-a-su-proyecto-politico-en-irapuato-171956.html",
+    "resumen": "Ignacio Ortiz Aldana se incorporó al proyecto político del Partido Verde en Irapuato, donde la dirigencia busca fortalecer su presencia"
   },
   {
     "prioridad": 2,
@@ -94,6 +86,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/19/con-apoyo-del-imuvi-asi-buscan-regularizar-asentamientos-y-fraccionamientos-en-irapuato-171934.html",
     "resumen": "El Ayuntamiento otorgó nuevas facultades al IMUVI para agilizar la regularización de asentamientos irregulares en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a dos hombres y lesionan a una mujer durante ataque armado en Irapuato",
+    "fecha": "19/11/2026 19:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-dos-hombres-y-lesionan-a-una-mujer-durante-ataque-armado-en-irapuato-33224111",
+    "resumen": "La agresión ocurrió en la calle Manuel Palafox, de la colonia Emiliano Zapata Segunda Sección, donde elementos de seguridad encontraron a las víctimas después de recibir reportes por detonaciones de arma de fuego"
   },
   {
     "prioridad": 2,
@@ -129,14 +129,6 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Partido Verde anuncia incorporación de Ignacio Ortiz Aldana a su proyecto político en Irapuato",
-    "fecha": "19/11/2026 16:34",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/partido-verde-anuncia-incorporacion-de-ignacio-ortiz-aldana-a-su-proyecto-politico-en-irapuato/",
-    "resumen": "El exsecretario de Salud de Guanajuato se suma a los trabajos del partido en el municipio; el comunicado no precisa una candidatura ni un cargo partidista. Irapuato, Guanajuato. El Partido…"
-  },
-  {
-    "prioridad": 2,
     "titulo": "Realizarán jornada gratuita de vasectomías sin bisturí en Irapuato este 21 de noviembre",
     "fecha": "19/11/2026 16:22",
     "fuente": "Notus",
@@ -150,6 +142,14 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/desfile-navideno-la-magia-de-santa-regresa-a-irapuato/",
     "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- La asociación “Llevando Magia y Sonrisas”, en conjunto con patrocinadores y autoridades locales, presentaron oficialmente la quinta edición del desfile navideño “La Magia de Santa”. Contingentes Roberto Rivera Meléndez, presidente de la asociación y del comité organizador, destacó el crecimiento de esta iniciativa ciudadana que celebra cinco años de unir …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ignacio Ortiz Aldana, exsecretario de Salud de Guanajuato, se incorpora al Partido Verde en Irapuato",
+    "fecha": "19/11/2026 15:39",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/ignacio-ortiz-aldana-exsecretario-de-salud-de-guanajuato-se-incorpora-al-partido-verde-en-irapuato-33221804",
+    "resumen": "Su nombre ha sido mencionado como posible perfil para la alcaldía y su nuevo partido busca alianza con Morena para impulsarlo"
   },
   {
     "prioridad": 2,
