@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Pénjamo prepara dos árboles navideños y decoración en distintos puntos del municipio",
+    "fecha": "20/11/2026 11:25",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-prepara-dos-arboles-navidenos-y-decoracion-en-distintos-puntos-del-municipio-33232730",
+    "resumen": "La decoración navideña en Pénjamo incluirá dos árboles, un espacio con alimentos, luces en Santa Ana Pacueco y adornos en el parque lineal"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Pavimentarán calle Plutarco Elías Calles en Abasolo con inversión de 10.6 millones de pesos",
     "fecha": "20/11/2026 01:00",
     "fuente": "El Sol de Irapuato",
@@ -24,6 +32,38 @@
     "resumen": "Trabajadores de limpia de Abasolo denunciaron que la ciudadanía saca colchones, sillones y escombro que no caben en los camiones"
   },
   {
+    "prioridad": 0,
+    "titulo": "Cuerámaro tendrá candidata del PRI a la alcaldía en 2027",
+    "fecha": "20/11/2026 19:21",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cueramaro-tendra-candidata-del-pri-a-la-alcaldia-en-2027/",
+    "resumen": "Cuerámaro, Guanajuato.- El PRI postulará a una mujer para la presidencia municipal de Cuerámaro en la elección de 2027. Así lo definió el Consejo Político Estatal del partido, que repartió por género las candidaturas de los 46 municipios del estado. Cuerámaro quedó entre los 23 municipios reservados para mujeres, junto con Romita, Pénjamo, Irapuato, Celaya, …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Manuel Doblado abre la puerta a la reelección de Adolfo Alfaro",
+    "fecha": "20/11/2026 19:39",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/manuel-doblado-abre-la-puerta-a-la-reeleccion-de-adolfo-alfaro/",
+    "resumen": "Manuel Doblado, Guanajuato.- El PRI postulará a un hombre para la presidencia municipal de Manuel Doblado en 2027. Con esta decisión, el actual alcalde, Adolfo Alfaro, queda en posibilidad de buscar la reelección. La definición la tomó el Consejo Político Estatal del PRI en su sesión de instalación, en la que asignó por género las …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Estela Pérez Campos busca regresar con su familia, es de Cuerámaro",
+    "fecha": "20/11/2026 16:55",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/estela-perez-campos-busca-regresar-con-su-familia-es-de-cueramaro/",
+    "resumen": "Cuerámaro, Guanajuato.- La Procuraduría de la Defensa de las Personas Adultas Mayores de San Luis Potosí solicitó el apoyo de la ciudadanía para localizar a los familiares de Estela Pérez Campos, de 67 años, originaria de Cuerámaro, Guanajuato. A través de un llamado a la población, la dependencia pidió compartir la información para ayudar a …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Manuel Doblado celebra el 116 aniversario de la Revolución Mexicana con desfile de 51 contingentes",
+    "fecha": "20/11/2026 16:14",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/manuel-doblado-celebra-el-116-aniversario-de-la-revolucion-mexicana-con-desfile-de-51-contingentes/",
+    "resumen": "Manuel Doblado, Guanajuato.- Con la participación de 51 contingentes y más de mil 785 personas, Manuel Doblado conmemoró el 116 aniversario del inicio de la Revolución Mexicana con su tradicional desfile cívico-militar, que reunió a miles de familias en las principales calles de la ciudad. Desfile reúne a instituciones y asociaciones Las actividades comenzaron con …"
+  },
+  {
     "prioridad": 1,
     "titulo": "Confirman muerte de segundo policía de Pueblo Nuevo tras asesinato de director de Seguridad",
     "fecha": "20/11/2026 13:41",
@@ -32,20 +72,44 @@
     "resumen": "El policía Eduardo Casiano Delgado perdió la vida tras la agresión registrada en la carretera Pueblo Nuevo - Huanímaro"
   },
   {
-    "prioridad": 1,
-    "titulo": "Motociclista pierde la vida tras chocar contra poste en Cuerámaro",
-    "fecha": "19/11/2026 16:59",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/motociclista-pierde-la-vida-tras-chocar-contra-poste-en-cueramaro/",
-    "resumen": "Cuerámaro, Guanajuato.- Un motociclista perdió la vida tras impactarse con un poste cerca de la Unidad Deportiva de Cuerámaro. Al parecer, se trata de un joven que abordaba una motocicleta tipo Cross color gris. Elementos de seguridad cerraron por ambos sentidos la circulación luego del percance en el que murió el afectado. La Fiscalía del …"
+    "prioridad": 2,
+    "titulo": "Incertidumbre por el tren alcanza a comerciantes de Purísima",
+    "fecha": "20/11/2026 19:19",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/20/incertidumbre-por-el-tren-alcanza-a-comerciantes-de-purisima-172012.html",
+    "resumen": "Además de ejidatarios y campesinos inconformes, vecinos temen que el proyecto ferroviario de Irapuato a Guadalajara afecte sus casas y comercios"
   },
   {
-    "prioridad": 1,
-    "titulo": "‘Las Iluminaciones 2026’: fe, convivencia y tradición en Manuel Doblado",
-    "fecha": "19/11/2026 16:55",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/las-iluminaciones-2026-fe-convivencia-y-tradicion-en-manuel-doblado/",
-    "resumen": "Por: Christopher Rodríguez. Manuel Doblado, Guanajuato.- Con la llegada de noviembre, las calles de Manuel Doblado vuelven a transformarse en un escenario de luces, rezos y encuentro vecinal. Esto sucede gracias a la celebración anual de Las Iluminaciones. Esta festividad es una de las más emblemáticas del municipio. Además, refleja el profundo arraigo católico de …"
+    "prioridad": 2,
+    "titulo": "Irapuato recibe el Grand Slam de Taekwondo 2026 con los mejores atletas de México",
+    "fecha": "20/11/2026 17:00",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-recibe-el-grand-slam-de-taekwondo-2026-con-los-mejores-atletas-de-mexico/",
+    "resumen": "Irapuato, Guanajuato.- Irapuato es sede del Grand Slam de Taekwondo 2026, competencia nacional que reúne a los mejores exponentes de esta disciplina en México. El evento se desarrolla del 19 al 21 de noviembre en el Inforum, donde los atletas buscan demostrar su nivel y avanzar en el proceso de selección nacional. Grand Slam reúne …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato registra 124 accidentes de tránsito durante octubre; seis personas fallecieron",
+    "fecha": "20/11/2026 16:44",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-registra-124-accidentes-de-transito-durante-octubre-seis-personas-fallecieron/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Observatorio Ciudadano Irapuato ¿Cómo Vamos? presentó su reporte de accidentes de tránsito correspondiente a octubre de 2026. Durante ese mes se registraron 124 accidentes en la ciudad, un aumento del 17% respecto a octubre de 2025. De acuerdo con el informe, en promedio ocurrió un accidente de tránsito cada …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato entrega mil 80 cascos y chalecos reflejantes a motociclistas",
+    "fecha": "20/11/2026 16:36",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-entrega-mil-80-cascos-y-chalecos-reflejantes-a-motociclistas/",
+    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato entregó mil 80 cascos y chalecos reflejantes a través del programa “Casco Seguro, Irapuato Seguro”, una iniciativa que busca prevenir accidentes, proteger la vida de los motociclistas y fomentar una conducción responsable, principalmente entre estudiantes y jóvenes del municipio. Buscan prevenir accidentes entre motociclistas La entrega fue encabezada por …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Capacitan al 100% de comerciantes del Centro Histórico de Irapuato",
+    "fecha": "20/11/2026 16:26",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/capacitan-al-100-de-comerciantes-del-centro-historico-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato informó que alcanzó el 100% de comerciantes del Centro Histórico capacitados en atención al cliente y administración de negocios. La más reciente entrega de constancias benefició a 117 comerciantes fijos y semifijos, mediante una colaboración con el CECATI No. 80. Comerciantes reciben capacitación para mejorar sus negocios La entrega …"
   },
   {
     "prioridad": 2,
@@ -59,7 +123,7 @@
     "prioridad": 2,
     "titulo": "Grupo Pedal y Fibra presentará “Divina Crisis” en el Teatro de la Ciudad",
     "fecha": "20/11/2026 13:10",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/grupo-pedal-y-fibra-presentara-divina-crisis-en-el-teatro-de-la-ciudad/",
     "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Grupo Pedal y Fibra prepara la presentación de su temporada 2026 con la puesta en escena “Divina Crisis”, un proyecto que llegará al Teatro de la Ciudad del miércoles 25 al sábado 28 de noviembre, con funciones programadas a las 8:00 de la noche, la actividad contará con la …"
   },
@@ -67,96 +131,32 @@
     "prioridad": 2,
     "titulo": "Alistan festejos a Santa Cecilia en Irapuato",
     "fecha": "20/11/2026 12:49",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/alistan-festejos-a-santa-cecilia-en-irapuato/",
     "resumen": "Por: Christopher Rodríguez. Irapuato, Guanajuato.- Con motivo de la celebración de Santa Cecilia, la tradición volverá a unir a familias en Irapuato. Como parte de las actividades programadas, el próximo domingo 22 de noviembre se llevará a cabo una jornada con diferentes eventos religiosos y de convivencia, el programa contempla una peregrinación, música en vivo, …"
   },
   {
     "prioridad": 2,
+    "titulo": "Tras asesinato de policías en Pueblo Nuevo, Irapuato descarta amenazas contra sus elementos",
+    "fecha": "20/11/2026 12:13",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-asesinato-de-policias-en-pueblo-nuevo-irapuato-descarta-amenazas-contra-sus-elementos-33234772",
+    "resumen": "Irapuato no reporta amenazas contra policías municipales y mantiene protocolos para reforzar accesos, inmuebles y plazas ante hechos de alto impacto"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Los mejores del taekwondo mexicano compiten en Irapuato; buscan avanzar hacia la selección nacional",
+    "fecha": "20/11/2026 12:13",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/grand-slam-2026-de-taekwondo-reune-a-los-15-mejores-en-irapuato-33235907",
+    "resumen": "El Grand Slam 2026 reúne en el Inforum a los 15 mejores exponentes del ranking nacional por categoría y rama; la ciudad también recibió un preselectivo rumbo a los Juegos Panamericanos de Lima 2027"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Familias irapuatenses disfrutan de noche de cine en la Emiliano Zapata 3",
     "fecha": "20/11/2026 11:24",
-    "fuente": "Notus página 2",
+    "fuente": "Notus página 3",
     "url": "https://notus.com.mx/familias-irapuatenses-disfrutan-de-noche-de-cine-en-la-emiliano-zapata-3/",
     "resumen": "Irapuato, Guanajuato.- Una función de cine comunitario disfrutaron familias irapuatenses en el parque vecinal del fraccionamiento Emiliano Zapata 3, actividad que llevo a cabo el Gobierno de Irapuato, a través de la Dirección General de Desarrollo Social y Humano, en colaboración con Grupo Salinas. Durante la actividad, familias de la zona y colonias aledañas disfrutaron …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Lo lograste, hijo”: recibe el mismo grado militar que tenía su padre antes de morir",
-    "fecha": "20/11/2026 09:58",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/ascensos-en-la-xii-region-militar-en-irapuato-32-elementos-suben-de-rango-y-3-reciben-condecoracion-de-perseverancia-33232577",
-    "resumen": "Edwin Miguel Mora recibió el grado de capitán primero de la Guardia Nacional, como su padre, durante una ceremonia militar en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque deja 2 muertos y 1 herida en Irapuato; reportan presunta capturar de cinco involucrados",
-    "fecha": "20/11/2026 09:54",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/ataque-deja-2-muertos-y-1-herida-en-irapuato-reportan-presunta-capturar-de-cinco-involucrados-171971.html",
-    "resumen": "El ataque se habría dado en la colonia Emiliano Zapata 2da Sección, en Irapuato, tras lo cual se habría generado una movilización"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Lorena Alfaro pide a comerciantes denunciar trabajo infantil y vigilar posible prostitución en Centro de Irapuato",
-    "fecha": "20/11/2026 09:15",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/lorena-alfaro-pide-a-comerciantes-denunciar-trabajo-infantil-y-vigilar-posible-prostitucion-en-centro-de-irapuato-33232966",
-    "resumen": "La alcaldesa pidió a comerciantes del Centro Histórico de Irapuato reportar trabajo infantil y posibles irregularidades cerca de la Catedral"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Motoescuela de Irapuato supera 300 alumnos; 87% aprueba evaluación de manejo",
-    "fecha": "20/11/2026 09:02",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/motoescuela-de-irapuato-supera-300-alumnos-87-aprueba-evaluacion-de-manejo-33232744",
-    "resumen": "La Motoescuela Municipal de Irapuato ha capacitado a más de 300 personas; la campaña prevé entregar mil 80 cascos y chalecos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "¿Sin presupuesto para ir al cine? Así funcionan las jornadas de películas gratis en parques vecinales de Irapuato",
-    "fecha": "20/11/2026 07:59",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/cine-gratis-en-parques-de-irapuato-proyectan-escuela-de-miedo-con-tamales-y-ponche-en-la-emiliano-zapata-iii-33231610",
-    "resumen": "El cine gratis en Irapuato llegó al parque de Emiliano Zapata III con “Escuela de Miedo”, juegos, alimentos y convivencia familiar"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato y Federación no acuerdan por dónde entraría tren de pasajeros; viaducto sigue en revisión",
-    "fecha": "20/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-y-federacion-no-acuerdan-por-donde-entraria-tren-de-pasajeros-viaducto-sigue-en-revision-33218731",
-    "resumen": "Ya se conocen los puntos de intervención de la obra dentro del municipio, pero continúa pendiente definir dónde comenzará el tramo elevado; el Ayuntamiento presentó una propuesta técnica y volverá a reunirse con autoridades federales la próxima semana"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "PVEM incorpora a Ignacio Ortiz, exsecretario de Salud de Guanajuato, a su proyecto político en Irapuato",
-    "fecha": "19/11/2026 21:02",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/19/pvem-incorpora-a-ignacio-ortiz-exsecretario-de-salud-de-guanajuato-a-su-proyecto-politico-en-irapuato-171956.html",
-    "resumen": "Ignacio Ortiz Aldana se incorporó al proyecto político del Partido Verde en Irapuato, donde la dirigencia busca fortalecer su presencia"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Con apoyo del IMUVI, así buscan regularizar asentamientos y fraccionamientos en Irapuato",
-    "fecha": "19/11/2026 19:26",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/19/con-apoyo-del-imuvi-asi-buscan-regularizar-asentamientos-y-fraccionamientos-en-irapuato-171934.html",
-    "resumen": "El Ayuntamiento otorgó nuevas facultades al IMUVI para agilizar la regularización de asentamientos irregulares en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a dos hombres y lesionan a una mujer durante ataque armado en Irapuato",
-    "fecha": "19/11/2026 19:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-dos-hombres-y-lesionan-a-una-mujer-durante-ataque-armado-en-irapuato-33224111",
-    "resumen": "La agresión ocurrió en la calle Manuel Palafox, de la colonia Emiliano Zapata Segunda Sección, donde elementos de seguridad encontraron a las víctimas después de recibir reportes por detonaciones de arma de fuego"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Retraso en presupuesto limitó actividades para la comunidad LGBT+ en Irapuato",
-    "fecha": "19/11/2026 18:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/19/retraso-en-presupuesto-limito-actividades-para-la-comunidad-lgbt-en-irapuato-171926.html",
-    "resumen": "La Unidad de Diversidad Sexual recibió hasta agosto su presupuesto anual, lo que limitó actividades y apoyos para la comunidad LGBT+ en Irapuato"
   }
 ]
