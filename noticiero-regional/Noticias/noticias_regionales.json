@@ -1,19 +1,19 @@
 [
   {
     "prioridad": 0,
-    "titulo": "Pénjamo prepara dos árboles navideños y decoración en distintos puntos del municipio",
-    "fecha": "20/11/2026 11:25",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/penjamo-prepara-dos-arboles-navidenos-y-decoracion-en-distintos-puntos-del-municipio-33232730",
-    "resumen": "La decoración navideña en Pénjamo incluirá dos árboles, un espacio con alimentos, luces en Santa Ana Pacueco y adornos en el parque lineal"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Cuerámaro tendrá candidata del PRI a la alcaldía en 2027",
     "fecha": "20/11/2026 19:21",
     "fuente": "Notus",
     "url": "https://notus.com.mx/cueramaro-tendra-candidata-del-pri-a-la-alcaldia-en-2027/",
     "resumen": "Cuerámaro, Guanajuato.- El PRI postulará a una mujer para la presidencia municipal de Cuerámaro en la elección de 2027. Así lo definió el Consejo Político Estatal del partido, que repartió por género las candidaturas de los 46 municipios del estado. Cuerámaro quedó entre los 23 municipios reservados para mujeres, junto con Romita, Pénjamo, Irapuato, Celaya, …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Estudiantes toman las calles de Huanímaro para conmemorar el 116 aniversario de la Revolución Mexicana",
+    "fecha": "21/11/2026 04:32",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/estudiantes-toman-las-calles-de-huanimaro-para-conmemorar-el-116-aniversario-de-la-revolucion-mexicana-33229728",
+    "resumen": "Con música, contingentes escolares y participación de familias, el municipio celebró el 20anuvwrsario de la Revolución Mexicana. Desde la plaza principal, la alcaldesa Laura Villalpando Arroyo llamó a las nuevas generaciones a conocer la historia del país y mantener presentes sus raíces"
   },
   {
     "prioridad": 1,
@@ -35,7 +35,7 @@
     "prioridad": 1,
     "titulo": "Manuel Doblado celebra el 116 aniversario de la Revolución Mexicana con desfile de 51 contingentes",
     "fecha": "20/11/2026 16:14",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/manuel-doblado-celebra-el-116-aniversario-de-la-revolucion-mexicana-con-desfile-de-51-contingentes/",
     "resumen": "Manuel Doblado, Guanajuato.- Con la participación de 51 contingentes y más de mil 785 personas, Manuel Doblado conmemoró el 116 aniversario del inicio de la Revolución Mexicana con su tradicional desfile cívico-militar, que reunió a miles de familias en las principales calles de la ciudad. Desfile reúne a instituciones y asociaciones Las actividades comenzaron con …"
   },
@@ -46,6 +46,30 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/confirman-muerte-de-segundo-policia-de-pueblo-nuevo-tras-asesinato-de-director-de-seguridad-171986.html",
     "resumen": "El policía Eduardo Casiano Delgado perdió la vida tras la agresión registrada en la carretera Pueblo Nuevo - Huanímaro"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Marca Guanajuato vende más de 1.4 MDP en Festival del Globo y Expo Agroalimentaria",
+    "fecha": "21/11/2026 11:24",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/marca-guanajuato-vende-mas-de-1-4-mdp-en-festival-del-globo-y-expo-agroalimentaria/",
+    "resumen": "León, Guanajuato.- Las empresas guanajuatenses siguen encontrando nuevos espacios para mostrar la calidad de sus productos, conectar con consumidores y fortalecer sus negocios. Como resultado de su participación en el Festival Internacional del Globo, en León, y la Expo Agroalimentaria, en Irapuato, las y los productores Marca Guanajuato registraron ventas por un total de 1 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a hombre armado en Irapuato tras ataque que dejó dos muertos en Emiliano Zapata",
+    "fecha": "21/11/2026 06:36",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-hombre-armado-en-irapuato-tras-ataque-que-dejo-dos-muertos-en-emiliano-zapata-33246301",
+    "resumen": "Jesús N., alias Chuy, fue detenido a bordo de un Nissan Versa blanco que podría estar relacionado con el ataque armado del 19 de noviembre"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Tres salidas a hombros y seis orejas en la Corrida de la Revolución de Irapuato",
+    "fecha": "21/11/2026 06:04",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/tres-salidas-a-hombros-y-seis-orejas-en-la-corrida-de-la-revolucion-de-irapuato-33245702",
+    "resumen": "Guillermo Hermoso de Mendoza, Diego San Román e Isaac Fonseca cortaron dos orejas cada uno durante el festejo celebrado en la Plaza de Toros Revolución, que registró tres cuartos de entrada"
   },
   {
     "prioridad": 2,
@@ -81,6 +105,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Parque Ecológico de Irapuato ampliará su oferta de actividades culturales y deportivas",
+    "fecha": "20/11/2026 19:20",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/20/parque-ecologico-de-irapuato-ampliara-su-oferta-de-actividades-culturales-y-deportivas-172013.html",
+    "resumen": "El Parque Ecológico de Irapuato ampliará su oferta de actividades culturales, recreativas y deportivas para atraer a más visitantes"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Incertidumbre por el tren alcanza a comerciantes de Purísima",
     "fecha": "20/11/2026 19:19",
     "fuente": "Periódico Correo",
@@ -99,7 +131,7 @@
     "prioridad": 2,
     "titulo": "Irapuato registra 124 accidentes de tránsito durante octubre; seis personas fallecieron",
     "fecha": "20/11/2026 16:44",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-registra-124-accidentes-de-transito-durante-octubre-seis-personas-fallecieron/",
     "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Observatorio Ciudadano Irapuato ¿Cómo Vamos? presentó su reporte de accidentes de tránsito correspondiente a octubre de 2026. Durante ese mes se registraron 124 accidentes en la ciudad, un aumento del 17% respecto a octubre de 2025. De acuerdo con el informe, en promedio ocurrió un accidente de tránsito cada …"
   },
@@ -107,7 +139,7 @@
     "prioridad": 2,
     "titulo": "Irapuato entrega mil 80 cascos y chalecos reflejantes a motociclistas",
     "fecha": "20/11/2026 16:36",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-entrega-mil-80-cascos-y-chalecos-reflejantes-a-motociclistas/",
     "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato entregó mil 80 cascos y chalecos reflejantes a través del programa “Casco Seguro, Irapuato Seguro”, una iniciativa que busca prevenir accidentes, proteger la vida de los motociclistas y fomentar una conducción responsable, principalmente entre estudiantes y jóvenes del municipio. Buscan prevenir accidentes entre motociclistas La entrega fue encabezada por …"
   },
@@ -115,7 +147,7 @@
     "prioridad": 2,
     "titulo": "Capacitan al 100% de comerciantes del Centro Histórico de Irapuato",
     "fecha": "20/11/2026 16:26",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/capacitan-al-100-de-comerciantes-del-centro-historico-de-irapuato/",
     "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato informó que alcanzó el 100% de comerciantes del Centro Histórico capacitados en atención al cliente y administración de negocios. La más reciente entrega de constancias benefició a 117 comerciantes fijos y semifijos, mediante una colaboración con el CECATI No. 80. Comerciantes reciben capacitación para mejorar sus negocios La entrega …"
   },
@@ -126,37 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/20/irapuato-ascienden-a-militar-de-la-guardia-nacional-de-guanajuato-a-capitan-primero-171988.html",
     "resumen": "Durante una ceremonia en el campo de Irapuato se reconoció la trayectoria de elementos de la GN, sumado al ascenso de Erwin Guillermo Mora a capital"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Grupo Pedal y Fibra presentará “Divina Crisis” en el Teatro de la Ciudad",
-    "fecha": "20/11/2026 13:10",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/grupo-pedal-y-fibra-presentara-divina-crisis-en-el-teatro-de-la-ciudad/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Grupo Pedal y Fibra prepara la presentación de su temporada 2026 con la puesta en escena “Divina Crisis”, un proyecto que llegará al Teatro de la Ciudad del miércoles 25 al sábado 28 de noviembre, con funciones programadas a las 8:00 de la noche, la actividad contará con la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Alistan festejos a Santa Cecilia en Irapuato",
-    "fecha": "20/11/2026 12:49",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/alistan-festejos-a-santa-cecilia-en-irapuato/",
-    "resumen": "Por: Christopher Rodríguez. Irapuato, Guanajuato.- Con motivo de la celebración de Santa Cecilia, la tradición volverá a unir a familias en Irapuato. Como parte de las actividades programadas, el próximo domingo 22 de noviembre se llevará a cabo una jornada con diferentes eventos religiosos y de convivencia, el programa contempla una peregrinación, música en vivo, …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tras asesinato de policías en Pueblo Nuevo, Irapuato descarta amenazas contra sus elementos",
-    "fecha": "20/11/2026 12:13",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-asesinato-de-policias-en-pueblo-nuevo-irapuato-descarta-amenazas-contra-sus-elementos-33234772",
-    "resumen": "Irapuato no reporta amenazas contra policías municipales y mantiene protocolos para reforzar accesos, inmuebles y plazas ante hechos de alto impacto"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Los mejores del taekwondo mexicano compiten en Irapuato; buscan avanzar hacia la selección nacional",
-    "fecha": "20/11/2026 12:13",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/grand-slam-2026-de-taekwondo-reune-a-los-15-mejores-en-irapuato-33235907",
-    "resumen": "El Grand Slam 2026 reúne en el Inforum a los 15 mejores exponentes del ranking nacional por categoría y rama; la ciudad también recibió un preselectivo rumbo a los Juegos Panamericanos de Lima 2027"
   }
 ]
