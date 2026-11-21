@@ -9,30 +9,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Pavimentarán calle Plutarco Elías Calles en Abasolo con inversión de 10.6 millones de pesos",
-    "fecha": "20/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/abasolo-destina-10-6-millones-de-pesos-a-pavimentacion-de-calle-en-colonia-hermosillo-en-abasolo-33218847",
-    "resumen": "La obra busca mejorar las condiciones de circulación y los servicios básicos para los habitantes de colonia Hermosillo, con una inversión de 10 millones 625 mil pesos"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Gobierno estatal y municipal coordinan obras para atender necesidades de infraestructura en Abasolo",
-    "fecha": "20/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/gobierno-estatal-y-municipal-coordinan-obras-para-atender-necesidades-de-infraestructura-en-abasolo-33219289",
-    "resumen": "La intervención en esta zona de Abasolo fue seleccionada por las necesidades de infraestructura de sus habitantes"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Recolectores de Abasolo denuncian inconsciencia ciudadana; alcalde desmiente fallas en el servicio",
-    "fecha": "19/11/2026 20:12",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/19/recolectores-de-abasolo-denuncian-inconsciencia-ciudadana-alcalde-desmiente-fallas-en-el-servicio-171945.html",
-    "resumen": "Trabajadores de limpia de Abasolo denunciaron que la ciudadanía saca colchones, sillones y escombro que no caben en los camiones"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Cuerámaro tendrá candidata del PRI a la alcaldía en 2027",
     "fecha": "20/11/2026 19:21",
     "fuente": "Notus",
@@ -70,6 +46,38 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/confirman-muerte-de-segundo-policia-de-pueblo-nuevo-tras-asesinato-de-director-de-seguridad-171986.html",
     "resumen": "El policía Eduardo Casiano Delgado perdió la vida tras la agresión registrada en la carretera Pueblo Nuevo - Huanímaro"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Vuelca pipa cargada de granos en conexión de las carreteras León-Irapuato y León-Salamanca",
+    "fecha": "20/11/2026 20:29",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/vuelca-pipa-cargada-de-granos-en-conexion-de-las-carreteras-leon-irapuato-y-leon-salamanca-172024.html",
+    "resumen": "El conductor perdió el control de la unidad a la altura de El Copal; resultó con golpes leves y el accidente dejó daños materiales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Caen en cateo en Irapuato y reciben condena por delincuencia organizada",
+    "fecha": "20/11/2026 20:20",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/caen-en-cateo-en-irapuato-y-reciben-condena-por-delincuencia-organizada-172022.html",
+    "resumen": "La investigación federal comenzó en 2021, luego de que les aseguraran metanfetamina, marihuana, cocaína y otros indicios en una vivienda"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato registra 124 accidentes viales en octubre con seis personas fallecidas",
+    "fecha": "20/11/2026 20:02",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/20/irapuato-registra-124-accidentes-viales-en-octubre-con-seis-personas-fallecidas-172020.html",
+    "resumen": "Los percances en Irapuato aumentaron 17% respecto a octubre de 2025; el Observatorio Ciudadano reportó 85 personas lesionadas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado deja un hombre lesionado en colonia Carrizalito de Irapuato",
+    "fecha": "20/11/2026 19:57",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/ataque-armado-deja-un-hombre-lesionado-en-colonia-carrizalito-de-irapuato-172018.html",
+    "resumen": "Vecinos reportaron detonaciones y pidieron apoyo al 911. El lesionado fue trasladado a un hospital, mientras la Fiscalía inició las investigaciones"
   },
   {
     "prioridad": 2,
@@ -150,13 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/deportes/grand-slam-2026-de-taekwondo-reune-a-los-15-mejores-en-irapuato-33235907",
     "resumen": "El Grand Slam 2026 reúne en el Inforum a los 15 mejores exponentes del ranking nacional por categoría y rama; la ciudad también recibió un preselectivo rumbo a los Juegos Panamericanos de Lima 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Familias irapuatenses disfrutan de noche de cine en la Emiliano Zapata 3",
-    "fecha": "20/11/2026 11:24",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/familias-irapuatenses-disfrutan-de-noche-de-cine-en-la-emiliano-zapata-3/",
-    "resumen": "Irapuato, Guanajuato.- Una función de cine comunitario disfrutaron familias irapuatenses en el parque vecinal del fraccionamiento Emiliano Zapata 3, actividad que llevo a cabo el Gobierno de Irapuato, a través de la Dirección General de Desarrollo Social y Humano, en colaboración con Grupo Salinas. Durante la actividad, familias de la zona y colonias aledañas disfrutaron …"
   }
 ]
