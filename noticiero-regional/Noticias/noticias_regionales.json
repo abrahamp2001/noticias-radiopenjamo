@@ -27,7 +27,7 @@
     "prioridad": 1,
     "titulo": "Estela Pérez Campos busca regresar con su familia, es de Cuerámaro",
     "fecha": "20/11/2026 16:55",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/estela-perez-campos-busca-regresar-con-su-familia-es-de-cueramaro/",
     "resumen": "Cuerámaro, Guanajuato.- La Procuraduría de la Defensa de las Personas Adultas Mayores de San Luis Potosí solicitó el apoyo de la ciudadanía para localizar a los familiares de Estela Pérez Campos, de 67 años, originaria de Cuerámaro, Guanajuato. A través de un llamado a la población, la dependencia pidió compartir la información para ayudar a …"
   },
@@ -40,20 +40,28 @@
     "resumen": "Manuel Doblado, Guanajuato.- Con la participación de 51 contingentes y más de mil 785 personas, Manuel Doblado conmemoró el 116 aniversario del inicio de la Revolución Mexicana con su tradicional desfile cívico-militar, que reunió a miles de familias en las principales calles de la ciudad. Desfile reúne a instituciones y asociaciones Las actividades comenzaron con …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Confirman muerte de segundo policía de Pueblo Nuevo tras asesinato de director de Seguridad",
-    "fecha": "20/11/2026 13:41",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/confirman-muerte-de-segundo-policia-de-pueblo-nuevo-tras-asesinato-de-director-de-seguridad-171986.html",
-    "resumen": "El policía Eduardo Casiano Delgado perdió la vida tras la agresión registrada en la carretera Pueblo Nuevo - Huanímaro"
-  },
-  {
     "prioridad": 2,
     "titulo": "Marca Guanajuato vende más de 1.4 MDP en Festival del Globo y Expo Agroalimentaria",
     "fecha": "21/11/2026 11:24",
     "fuente": "Notus",
     "url": "https://notus.com.mx/marca-guanajuato-vende-mas-de-1-4-mdp-en-festival-del-globo-y-expo-agroalimentaria/",
     "resumen": "León, Guanajuato.- Las empresas guanajuatenses siguen encontrando nuevos espacios para mostrar la calidad de sus productos, conectar con consumidores y fortalecer sus negocios. Como resultado de su participación en el Festival Internacional del Globo, en León, y la Expo Agroalimentaria, en Irapuato, las y los productores Marca Guanajuato registraron ventas por un total de 1 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Alcohol, cigarro y comida, los hábitos que Salud de Irapuato pide vigilar en diciembre",
+    "fecha": "21/11/2026 09:08",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/alcohol-cigarro-y-comida-los-habitos-que-salud-de-irapuato-pide-vigilar-en-diciembre-33248759",
+    "resumen": "Eduardo Tovar Guerrero, director de Salud Municipal, recomendó evitar los excesos en la alimentación durante las posadas y celebraciones de Navidad y Año Nuevo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Tras asaltos en Celaya y León, Irapuato refuerza prevención en plazas comerciales",
+    "fecha": "21/11/2026 08:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-asaltos-en-celaya-y-leon-irapuato-refuerza-prevencion-en-plazas-comerciales-33248517",
+    "resumen": "La secretaria de Seguridad Ciudadana, Consuelo Cruz Galindo, reconoció que Irapuato no está exento de robos, pero hay comunicación con administradores para prevenir hechos similares"
   },
   {
     "prioridad": 2,
@@ -123,7 +131,7 @@
     "prioridad": 2,
     "titulo": "Irapuato recibe el Grand Slam de Taekwondo 2026 con los mejores atletas de México",
     "fecha": "20/11/2026 17:00",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-recibe-el-grand-slam-de-taekwondo-2026-con-los-mejores-atletas-de-mexico/",
     "resumen": "Irapuato, Guanajuato.- Irapuato es sede del Grand Slam de Taekwondo 2026, competencia nacional que reúne a los mejores exponentes de esta disciplina en México. El evento se desarrolla del 19 al 21 de noviembre en el Inforum, donde los atletas buscan demostrar su nivel y avanzar en el proceso de selección nacional. Grand Slam reúne …"
   },
@@ -150,13 +158,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/capacitan-al-100-de-comerciantes-del-centro-historico-de-irapuato/",
     "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato informó que alcanzó el 100% de comerciantes del Centro Histórico capacitados en atención al cliente y administración de negocios. La más reciente entrega de constancias benefició a 117 comerciantes fijos y semifijos, mediante una colaboración con el CECATI No. 80. Comerciantes reciben capacitación para mejorar sus negocios La entrega …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato: Ascienden a militar de la Guardia Nacional de Guanajuato a capitán primero",
-    "fecha": "20/11/2026 14:07",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/20/irapuato-ascienden-a-militar-de-la-guardia-nacional-de-guanajuato-a-capitan-primero-171988.html",
-    "resumen": "Durante una ceremonia en el campo de Irapuato se reconoció la trayectoria de elementos de la GN, sumado al ascenso de Erwin Guillermo Mora a capital"
   }
 ]
