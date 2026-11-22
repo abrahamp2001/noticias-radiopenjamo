@@ -1,9 +1,17 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Fallece Don Juanito “El Puma”, músico de Pénjamo",
+    "fecha": "21/11/2026 17:22",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/fallece-don-juanito-el-puma-musico-de-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- Familiares de Juan Ramírez Hernández, conocido en Pénjamo y en el gremio musical como Juanito “El puma”, confirmaron su lamentable fallecimiento. Don Juanito fue un gran músico del grupo Trova Puma. Su hija, Ibeth, compartió el pasado viernes que el penjamense había sido llamado por el creador. El acordeonista será recordado por su …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Cuerámaro tendrá candidata del PRI a la alcaldía en 2027",
     "fecha": "20/11/2026 19:21",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/cueramaro-tendra-candidata-del-pri-a-la-alcaldia-en-2027/",
     "resumen": "Cuerámaro, Guanajuato.- El PRI postulará a una mujer para la presidencia municipal de Cuerámaro en la elección de 2027. Así lo definió el Consejo Político Estatal del partido, que repartió por género las candidaturas de los 46 municipios del estado. Cuerámaro quedó entre los 23 municipios reservados para mujeres, junto con Romita, Pénjamo, Irapuato, Celaya, …"
   },
@@ -19,33 +27,65 @@
     "prioridad": 1,
     "titulo": "Manuel Doblado abre la puerta a la reelección de Adolfo Alfaro",
     "fecha": "20/11/2026 19:39",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/manuel-doblado-abre-la-puerta-a-la-reeleccion-de-adolfo-alfaro/",
     "resumen": "Manuel Doblado, Guanajuato.- El PRI postulará a un hombre para la presidencia municipal de Manuel Doblado en 2027. Con esta decisión, el actual alcalde, Adolfo Alfaro, queda en posibilidad de buscar la reelección. La definición la tomó el Consejo Político Estatal del PRI en su sesión de instalación, en la que asignó por género las …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Estela Pérez Campos busca regresar con su familia, es de Cuerámaro",
-    "fecha": "20/11/2026 16:55",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/estela-perez-campos-busca-regresar-con-su-familia-es-de-cueramaro/",
-    "resumen": "Cuerámaro, Guanajuato.- La Procuraduría de la Defensa de las Personas Adultas Mayores de San Luis Potosí solicitó el apoyo de la ciudadanía para localizar a los familiares de Estela Pérez Campos, de 67 años, originaria de Cuerámaro, Guanajuato. A través de un llamado a la población, la dependencia pidió compartir la información para ayudar a …"
+    "prioridad": 2,
+    "titulo": "Los osos más lindos están en el zoológico de Irapuato",
+    "fecha": "21/11/2026 18:15",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/los-osos-mas-lindos-estan-en-el-zoologico-de-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Este noviembre es buen momento para que conozcas a los osos que hay en el Zoológico de Irapuato. Hay dos especies de osos en el parque: los osos negros y los osos pardos. Son dos parejas que son muy interesantes de conocer. En el caso de los osos pardos, que se llaman “Coque” …"
   },
   {
-    "prioridad": 1,
-    "titulo": "Manuel Doblado celebra el 116 aniversario de la Revolución Mexicana con desfile de 51 contingentes",
-    "fecha": "20/11/2026 16:14",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/manuel-doblado-celebra-el-116-aniversario-de-la-revolucion-mexicana-con-desfile-de-51-contingentes/",
-    "resumen": "Manuel Doblado, Guanajuato.- Con la participación de 51 contingentes y más de mil 785 personas, Manuel Doblado conmemoró el 116 aniversario del inicio de la Revolución Mexicana con su tradicional desfile cívico-militar, que reunió a miles de familias en las principales calles de la ciudad. Desfile reúne a instituciones y asociaciones Las actividades comenzaron con …"
+    "prioridad": 2,
+    "titulo": "Triple salida en hombros tras corrida nocturna del 20 de Noviembre en Irapuato",
+    "fecha": "21/11/2026 17:41",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/triple-salida-en-hombros-tras-corrida-nocturna-del-20-de-noviembre-en-irapuato/",
+    "resumen": "Texto y fotos por Juan José López Luna Irapuato, Guanajuato.- Con poco más de tres cuartos de entrada y ambiente fresco, se dio la tradicional corrida del 20 de Noviembre en la vieja e histórica plaza “Revolución” en Irapuato, aunque esta vez nocturna y para conmemorar la gesta revolucionaria de 1910 además del cumpleaños 89 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Balean a persona en Irapuato; helicóptero de FSPE sobrevuela la zona",
+    "fecha": "21/11/2026 15:21",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/balean-a-persona-en-irapuato-helicoptero-de-fspe-sobrevuela-la-zona/",
+    "resumen": "Irapuato Guanajuato.- Elementos de seguridad de Irapuato recibieron el reporte de una agresión armada sobre la calle Higuera con esquina al bulevar Esperanza. Según información preliminar, una persona resultó lesionada y fue trasladada por sus propios medios a recibir atención médica, en tanto que se destacó la presencia del helicóptero de FSPE sobrevolando por la zona. Tras el …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a cuatro personas en Residencial Campestre tras intento de robo a vehículo",
+    "fecha": "21/11/2026 13:22",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-cuatro-personas-tras-intento-de-abrir-una-camioneta-en-irapuato-33252899",
+    "resumen": "Se les relaciona con cristalazos a vehículos en Irapuato"
   },
   {
     "prioridad": 2,
     "titulo": "Marca Guanajuato vende más de 1.4 MDP en Festival del Globo y Expo Agroalimentaria",
     "fecha": "21/11/2026 11:24",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/marca-guanajuato-vende-mas-de-1-4-mdp-en-festival-del-globo-y-expo-agroalimentaria/",
     "resumen": "León, Guanajuato.- Las empresas guanajuatenses siguen encontrando nuevos espacios para mostrar la calidad de sus productos, conectar con consumidores y fortalecer sus negocios. Como resultado de su participación en el Festival Internacional del Globo, en León, y la Expo Agroalimentaria, en Irapuato, las y los productores Marca Guanajuato registraron ventas por un total de 1 …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en Irapuato deja un hombre herido",
+    "fecha": "21/11/2026 10:34",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/balean-a-hombre-en-la-calle-higuera-de-la-colonia-guanajuato-en-irapuato-33250598",
+    "resumen": "La víctima fue trasladada a un hospital por sus propios medios, mientras que una comerciante reclamó que el cierre policial impedía el ingreso de clientes a su establecimiento"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "La Navidad también se construye con sus manos: adultos mayores y personas con discapacidad dan vida a la Villa Navideña de Irapuato",
+    "fecha": "21/11/2026 09:46",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/la-navidad-tambien-se-construye-con-sus-manos-adultos-mayores-y-personas-con-discapacidad-dan-vida-a-la-villa-navidena-33249027",
+    "resumen": "Personas adultas mayores y con discapacidad participan en la Villa Navideña mediante empleos temporales y espacios para comercializar sus productos"
   },
   {
     "prioridad": 2,
@@ -118,45 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/20/parque-ecologico-de-irapuato-ampliara-su-oferta-de-actividades-culturales-y-deportivas-172013.html",
     "resumen": "El Parque Ecológico de Irapuato ampliará su oferta de actividades culturales, recreativas y deportivas para atraer a más visitantes"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Incertidumbre por el tren alcanza a comerciantes de Purísima",
-    "fecha": "20/11/2026 19:19",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/20/incertidumbre-por-el-tren-alcanza-a-comerciantes-de-purisima-172012.html",
-    "resumen": "Además de ejidatarios y campesinos inconformes, vecinos temen que el proyecto ferroviario de Irapuato a Guadalajara afecte sus casas y comercios"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato recibe el Grand Slam de Taekwondo 2026 con los mejores atletas de México",
-    "fecha": "20/11/2026 17:00",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-recibe-el-grand-slam-de-taekwondo-2026-con-los-mejores-atletas-de-mexico/",
-    "resumen": "Irapuato, Guanajuato.- Irapuato es sede del Grand Slam de Taekwondo 2026, competencia nacional que reúne a los mejores exponentes de esta disciplina en México. El evento se desarrolla del 19 al 21 de noviembre en el Inforum, donde los atletas buscan demostrar su nivel y avanzar en el proceso de selección nacional. Grand Slam reúne …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato registra 124 accidentes de tránsito durante octubre; seis personas fallecieron",
-    "fecha": "20/11/2026 16:44",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-registra-124-accidentes-de-transito-durante-octubre-seis-personas-fallecieron/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Observatorio Ciudadano Irapuato ¿Cómo Vamos? presentó su reporte de accidentes de tránsito correspondiente a octubre de 2026. Durante ese mes se registraron 124 accidentes en la ciudad, un aumento del 17% respecto a octubre de 2025. De acuerdo con el informe, en promedio ocurrió un accidente de tránsito cada …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato entrega mil 80 cascos y chalecos reflejantes a motociclistas",
-    "fecha": "20/11/2026 16:36",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-entrega-mil-80-cascos-y-chalecos-reflejantes-a-motociclistas/",
-    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato entregó mil 80 cascos y chalecos reflejantes a través del programa “Casco Seguro, Irapuato Seguro”, una iniciativa que busca prevenir accidentes, proteger la vida de los motociclistas y fomentar una conducción responsable, principalmente entre estudiantes y jóvenes del municipio. Buscan prevenir accidentes entre motociclistas La entrega fue encabezada por …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Capacitan al 100% de comerciantes del Centro Histórico de Irapuato",
-    "fecha": "20/11/2026 16:26",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/capacitan-al-100-de-comerciantes-del-centro-historico-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- El Gobierno de Irapuato informó que alcanzó el 100% de comerciantes del Centro Histórico capacitados en atención al cliente y administración de negocios. La más reciente entrega de constancias benefició a 117 comerciantes fijos y semifijos, mediante una colaboración con el CECATI No. 80. Comerciantes reciben capacitación para mejorar sus negocios La entrega …"
   }
 ]
