@@ -8,14 +8,6 @@
     "resumen": "Pénjamo, Guanajuato.- Familiares de Juan Ramírez Hernández, conocido en Pénjamo y en el gremio musical como Juanito “El puma”, confirmaron su lamentable fallecimiento. Don Juanito fue un gran músico del grupo Trova Puma. Su hija, Ibeth, compartió el pasado viernes que el penjamense había sido llamado por el creador. El acordeonista será recordado por su …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Cuerámaro tendrá candidata del PRI a la alcaldía en 2027",
-    "fecha": "20/11/2026 19:21",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/cueramaro-tendra-candidata-del-pri-a-la-alcaldia-en-2027/",
-    "resumen": "Cuerámaro, Guanajuato.- El PRI postulará a una mujer para la presidencia municipal de Cuerámaro en la elección de 2027. Así lo definió el Consejo Político Estatal del partido, que repartió por género las candidaturas de los 46 municipios del estado. Cuerámaro quedó entre los 23 municipios reservados para mujeres, junto con Romita, Pénjamo, Irapuato, Celaya, …"
-  },
-  {
     "prioridad": 1,
     "titulo": "Estudiantes toman las calles de Huanímaro para conmemorar el 116 aniversario de la Revolución Mexicana",
     "fecha": "21/11/2026 04:32",
@@ -30,6 +22,14 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/manuel-doblado-abre-la-puerta-a-la-reeleccion-de-adolfo-alfaro/",
     "resumen": "Manuel Doblado, Guanajuato.- El PRI postulará a un hombre para la presidencia municipal de Manuel Doblado en 2027. Con esta decisión, el actual alcalde, Adolfo Alfaro, queda en posibilidad de buscar la reelección. La definición la tomó el Consejo Político Estatal del PRI en su sesión de instalación, en la que asignó por género las …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Balean a hombre en la colonia Irapuato y lo dejan herido",
+    "fecha": "21/11/2026 18:44",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/21/balean-a-hombre-en-la-colonia-irapuato-y-lo-dejan-herido-172066.html",
+    "resumen": "Familiares del herido no esperaron a que llegara la ambulancia y en un vehículo particular lo trasladaron a un hospital de Irapuato"
   },
   {
     "prioridad": 2,
@@ -150,13 +150,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/20/ataque-armado-deja-un-hombre-lesionado-en-colonia-carrizalito-de-irapuato-172018.html",
     "resumen": "Vecinos reportaron detonaciones y pidieron apoyo al 911. El lesionado fue trasladado a un hospital, mientras la Fiscalía inició las investigaciones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Parque Ecológico de Irapuato ampliará su oferta de actividades culturales y deportivas",
-    "fecha": "20/11/2026 19:20",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/20/parque-ecologico-de-irapuato-ampliara-su-oferta-de-actividades-culturales-y-deportivas-172013.html",
-    "resumen": "El Parque Ecológico de Irapuato ampliará su oferta de actividades culturales, recreativas y deportivas para atraer a más visitantes"
   }
 ]
