@@ -1,11 +1,27 @@
 [
   {
     "prioridad": 0,
+    "titulo": "SKY STATE de Pénjamo vence a las tricampeonas y conquista el Torneo Revolución en Penjamillo",
+    "fecha": "22/11/2026 12:35",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/sky-state-de-penjamo-vence-a-las-tricampeonas-y-conquista-el-torneo-revolucion-en-penjamillo/",
+    "resumen": "Penjamillo, Michoacán. El equipo femenil SKY STATE de Pénjamo, Guanajuato, ganó el Torneo Revolución al vencer a las tricampeonas en la final del viernes 20 de noviembre de 2026. El…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Fallece Don Juanito “El Puma”, músico de Pénjamo",
     "fecha": "21/11/2026 17:22",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/fallece-don-juanito-el-puma-musico-de-penjamo/",
     "resumen": "Pénjamo, Guanajuato.- Familiares de Juan Ramírez Hernández, conocido en Pénjamo y en el gremio musical como Juanito “El puma”, confirmaron su lamentable fallecimiento. Don Juanito fue un gran músico del grupo Trova Puma. Su hija, Ibeth, compartió el pasado viernes que el penjamense había sido llamado por el creador. El acordeonista será recordado por su …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Isaías González encabeza nueva Coordinación Municipal en Huanímaro",
+    "fecha": "22/11/2026 12:36",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/isaias-gonzalez-encabeza-nueva-coordinacion-municipal-en-huanimaro/",
+    "resumen": "Durante la toma de protesta se llamó al diálogo y al trabajo en unidad; el mensaje destacó que no se presentaron candidaturas. Huanímaro, Guanajuato. Isaías González asumió la responsabilidad de…"
   },
   {
     "prioridad": 1,
@@ -14,6 +30,46 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/municipios/2026/nov/21/sequia-y-bajos-precios-golpean-a-campesinos-de-manuel-doblado-y-yuriria-172084.html",
     "resumen": "Los campesinos de Manuel Doblado y Yuriria enfrentaron un año complicado por la falta de lluvias y los bajos precios de sus productos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Desde Irapuato, la familia González celebra el Día del Músico con fiesta a Santa Cecilia",
+    "fecha": "22/11/2026 13:52",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/desde-irapuato-la-familia-gonzalez-celebra-el-dia-del-musico-con-fiesta-a-santa-cecilia-172106.html",
+    "resumen": "La fiesta organizada por la familia en Irapuato en honor a la patrona de los músicos es una tradición familiar, al igual que la herencia musical"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato ofrece 19 talleres gratuitos para impulsar el autoempleo y emprendimiento",
+    "fecha": "22/11/2026 13:03",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-ofrece-19-talleres-gratuitos-para-impulsar-el-autoempleo-y-emprendimiento/",
+    "resumen": "Irapuato, Guanajuato.- Con 19 talleres gratuitos y 10 meses de capacitación, el Gobierno de Irapuato impulsa el autoempleo y el emprendimiento entre habitantes de más de 40 colonias. Mediante el programa “Capacítate con Paso Firme”, las personas adquieren conocimientos y habilidades para desarrollar proyectos propios, generar ingresos y mejorar su calidad de vida. Ofrecen capacitación …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Camioneta cae a canal de agua en la salida a Pueblo Nuevo, en Irapuato",
+    "fecha": "22/11/2026 12:35",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/camioneta-cae-a-canal-de-agua-en-la-salida-a-pueblo-nuevo-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Una camioneta Tracker descapotable de color blanco cayó a un canal de agua sobre la carretera estatal Irapuato-Pueblo Nuevo, la mañana de este domingo. El accidente se registró a unos metros del corralón municipal, en la salida hacia Pueblo Nuevo. Tras el reporte, elementos de Protección Civil y de la Policía Preventiva de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato remonta y vence a Tapachula",
+    "fecha": "22/11/2026 11:52",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/irapuato-remonta-y-vence-a-tapachula/",
+    "resumen": "Irapuato, Guanajuato.- La Trinca Fresera del Irapuato remontó un marcador adverso y derrotó 2-1 a Tapachula, en el duelo correspondiente a la jornada 13 de la Liga Premier, disputado en el Estadio Olímpico de Tapachula. El conjunto chiapaneco se adelantó al minuto 53 con anotación de Andrés Moya, pero Heriberto de la Rosa empató al …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Es la que nos da trabajo todo el año”: músicos de Irapuato celebran a Santa Cecilia",
+    "fecha": "22/11/2026 07:56",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/es-la-que-nos-da-trabajo-todo-el-ano-musicos-de-irapuato-celebran-a-santa-cecilia-33262461",
+    "resumen": "Leonardo Ayala Morales, integrante de la Sección 409, explicó que los músicos se reúnen para agradecer las contrataciones que les permiten sostener a sus familias"
   },
   {
     "prioridad": 2,
@@ -67,7 +123,7 @@
     "prioridad": 2,
     "titulo": "Triple salida en hombros tras corrida nocturna del 20 de Noviembre en Irapuato",
     "fecha": "21/11/2026 17:41",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/triple-salida-en-hombros-tras-corrida-nocturna-del-20-de-noviembre-en-irapuato/",
     "resumen": "Texto y fotos por Juan José López Luna Irapuato, Guanajuato.- Con poco más de tres cuartos de entrada y ambiente fresco, se dio la tradicional corrida del 20 de Noviembre en la vieja e histórica plaza “Revolución” en Irapuato, aunque esta vez nocturna y para conmemorar la gesta revolucionaria de 1910 además del cumpleaños 89 …"
   },
@@ -75,7 +131,7 @@
     "prioridad": 2,
     "titulo": "Balean a persona en Irapuato; helicóptero de FSPE sobrevuela la zona",
     "fecha": "21/11/2026 15:21",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/balean-a-persona-en-irapuato-helicoptero-de-fspe-sobrevuela-la-zona/",
     "resumen": "Irapuato Guanajuato.- Elementos de seguridad de Irapuato recibieron el reporte de una agresión armada sobre la calle Higuera con esquina al bulevar Esperanza. Según información preliminar, una persona resultó lesionada y fue trasladada por sus propios medios a recibir atención médica, en tanto que se destacó la presencia del helicóptero de FSPE sobrevolando por la zona. Tras el …"
   },
@@ -86,21 +142,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-2-1-a-tapachula-en-la-jornada-13-de-liga-premier-33254102",
     "resumen": "Batalló la escuadra del profesor Luis Almada para regresar a la senda de los triunfos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a cuatro personas en Residencial Campestre tras intento de robo a vehículo",
-    "fecha": "21/11/2026 13:22",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-cuatro-personas-tras-intento-de-abrir-una-camioneta-en-irapuato-33252899",
-    "resumen": "Se les relaciona con cristalazos a vehículos en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Marca Guanajuato vende más de 1.4 MDP en Festival del Globo y Expo Agroalimentaria",
-    "fecha": "21/11/2026 11:24",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/marca-guanajuato-vende-mas-de-1-4-mdp-en-festival-del-globo-y-expo-agroalimentaria/",
-    "resumen": "León, Guanajuato.- Las empresas guanajuatenses siguen encontrando nuevos espacios para mostrar la calidad de sus productos, conectar con consumidores y fortalecer sus negocios. Como resultado de su participación en el Festival Internacional del Globo, en León, y la Expo Agroalimentaria, en Irapuato, las y los productores Marca Guanajuato registraron ventas por un total de 1 …"
   }
 ]
