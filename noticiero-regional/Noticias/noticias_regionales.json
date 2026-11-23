@@ -1,19 +1,35 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Chavita, el músico de 11 años que toca clarinete, tambora, percusiones y tuba en Abasolo",
+    "fecha": "22/11/2026 18:11",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/22/chavita-el-musico-de-11-anos-que-toca-clarinete-tambora-percusiones-y-tuba-en-abasolo-172126.html",
+    "resumen": "Chavita, de 11 años, es el último eslabón de una familia musical en Abasolo: desde los tres años sintió el llamado de la música al ver ensayar a su hermano Jesús"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Cierran carretera Pénjamo-Abasolo por accidente vehicular",
+    "fecha": "22/11/2026 16:43",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/cierran-carretera-penjamo-abasolo-por-accidente-vehicular/",
+    "resumen": "Pénjamo, Guanajuato.- Un accidente vehicular provocó el cierre total de la carretera federal 1110, en el tramo Pénjamo-Abasolo, a la altura de la comunidad de San Vicente del Caño. De acuerdo con el reporte, la circulación se encuentra completamente, por lo que se exhorta a los automovilistas a extremar precauciones y utilizar rutas alternas. Inclusive …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Inicia restauración del oratorio de la Parroquia de San Francisco de Asís en Pénjamo",
+    "fecha": "22/11/2026 15:56",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/inicia-restauracion-del-oratorio-de-la-parroquia-de-san-francisco-de-asis-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- El Gobierno Municipal inició los trabajos de restauración del oratorio de la Parroquia de San Francisco de Asís, inmueble que resultó afectado por el incendio de un puesto comercial cercano. La presidenta municipal, Yozajambi Molina, informó que las labores buscan recuperar este espacio religioso y devolverle su belleza. La alcaldesa destacó que el …"
+  },
+  {
+    "prioridad": 0,
     "titulo": "SKY STATE de Pénjamo vence a las tricampeonas y conquista el Torneo Revolución en Penjamillo",
     "fecha": "22/11/2026 12:35",
     "fuente": "Pénjamo TV",
     "url": "https://www.penjamotv.com/sky-state-de-penjamo-vence-a-las-tricampeonas-y-conquista-el-torneo-revolucion-en-penjamillo/",
     "resumen": "Penjamillo, Michoacán. El equipo femenil SKY STATE de Pénjamo, Guanajuato, ganó el Torneo Revolución al vencer a las tricampeonas en la final del viernes 20 de noviembre de 2026. El…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Fallece Don Juanito “El Puma”, músico de Pénjamo",
-    "fecha": "21/11/2026 17:22",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/fallece-don-juanito-el-puma-musico-de-penjamo/",
-    "resumen": "Pénjamo, Guanajuato.- Familiares de Juan Ramírez Hernández, conocido en Pénjamo y en el gremio musical como Juanito “El puma”, confirmaron su lamentable fallecimiento. Don Juanito fue un gran músico del grupo Trova Puma. Su hija, Ibeth, compartió el pasado viernes que el penjamense había sido llamado por el creador. El acordeonista será recordado por su …"
   },
   {
     "prioridad": 1,
@@ -33,6 +49,46 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Ataque armado en el Campo Estrella de la colonia Progresiva El Jaral, Irapuato, deja un muerto y un herido",
+    "fecha": "22/11/2026 16:48",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/22/ataque-armado-en-el-campo-estrella-de-la-colonia-progresiva-el-jaral-irapuato-deja-un-muerto-y-un-herido-172120.html",
+    "resumen": "Hombres armados dispararon contra dos personas tras los partidos de fútbol en el Campo Estrella en la colonia Progresiva El Jaral, en Irapuato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ataque armado en campos de futbol Estrella deja un muerto y varios heridos en Irapuato",
+    "fecha": "22/11/2026 16:42",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/ataque-armado-en-campos-de-futbol-estrella-deja-un-muerto-y-varios-heridos-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un ataque armado registrado durante un partido de futbol en los campos Estrella, en Irapuato, dejó como saldo una persona sin vida y varios heridos. De acuerdo con los primeros reportes, los disparos se escucharon en pleno encuentro deportivo, lo que provocó alarma entre los asistentes y la movilización de corporaciones de seguridad. …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Que no te suspendan el celular",
+    "fecha": "22/11/2026 16:38",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/que-no-te-suspendan-el-celular/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Los usuarios de telefonía celular en México cuyo número termine en 7 tienen hasta el próximo 30 de noviembre para completar el registro de su línea y evitar que su servicio sea suspendido temporalmente. La medida forma parte del calendario establecido por la Comisión Reguladora de Telecomunicaciones, que contempla la …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "¡No respetan! El mal uso de las ciclovías",
+    "fecha": "22/11/2026 16:22",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/no-respetan-el-mal-uso-de-las-ciclovias/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Las ciclovías en la zona centro de Irapuato presentan al parecer problemas de uso indebido, situación que compromete la seguridad y movilidad de quienes utilizan este medio de transporte. Ante este panorama, los ciclistas se ven obligados a circular por carriles, cuya infraestructura no está destinada para bicicletas cuando estos …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Derriba poste y deja cables de luz sobre avenida San Juan, en Irapuato",
+    "fecha": "22/11/2026 16:11",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/derriba-poste-y-deja-cables-de-luz-sobre-avenida-san-juan-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Un poste fue derribado durante un accidente automovilístico registrado la mañana de este domingo sobre la avenida San Juan, entre las calles Lagunilla y Cafetales, en Irapuato. De acuerdo con un reporte ciudadano, el percance ocurrió alrededor de las 5:30 de la mañana, cuando un vehículo en el que viajaban varios jóvenes impactó …"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Desde Irapuato, la familia González celebra el Día del Músico con fiesta a Santa Cecilia",
     "fecha": "22/11/2026 13:52",
     "fuente": "Periódico Correo",
@@ -43,7 +99,7 @@
     "prioridad": 2,
     "titulo": "Irapuato ofrece 19 talleres gratuitos para impulsar el autoempleo y emprendimiento",
     "fecha": "22/11/2026 13:03",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-ofrece-19-talleres-gratuitos-para-impulsar-el-autoempleo-y-emprendimiento/",
     "resumen": "Irapuato, Guanajuato.- Con 19 talleres gratuitos y 10 meses de capacitación, el Gobierno de Irapuato impulsa el autoempleo y el emprendimiento entre habitantes de más de 40 colonias. Mediante el programa “Capacítate con Paso Firme”, las personas adquieren conocimientos y habilidades para desarrollar proyectos propios, generar ingresos y mejorar su calidad de vida. Ofrecen capacitación …"
   },
@@ -51,7 +107,7 @@
     "prioridad": 2,
     "titulo": "Camioneta cae a canal de agua en la salida a Pueblo Nuevo, en Irapuato",
     "fecha": "22/11/2026 12:35",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/camioneta-cae-a-canal-de-agua-en-la-salida-a-pueblo-nuevo-en-irapuato/",
     "resumen": "Irapuato, Guanajuato.- Una camioneta Tracker descapotable de color blanco cayó a un canal de agua sobre la carretera estatal Irapuato-Pueblo Nuevo, la mañana de este domingo. El accidente se registró a unos metros del corralón municipal, en la salida hacia Pueblo Nuevo. Tras el reporte, elementos de Protección Civil y de la Policía Preventiva de …"
   },
@@ -59,9 +115,25 @@
     "prioridad": 2,
     "titulo": "Irapuato remonta y vence a Tapachula",
     "fecha": "22/11/2026 11:52",
-    "fuente": "Notus",
+    "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-remonta-y-vence-a-tapachula/",
     "resumen": "Irapuato, Guanajuato.- La Trinca Fresera del Irapuato remontó un marcador adverso y derrotó 2-1 a Tapachula, en el duelo correspondiente a la jornada 13 de la Liga Premier, disputado en el Estadio Olímpico de Tapachula. El conjunto chiapaneco se adelantó al minuto 53 con anotación de Andrés Moya, pero Heriberto de la Rosa empató al …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a un hombre y lesionan a otro durante partido de futbol en Las Delicias, en Irapuato",
+    "fecha": "22/11/2026 11:46",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-un-hombre-y-lesionan-a-otro-durante-partido-de-futbol-en-las-delicias-en-irapuato-33266428",
+    "resumen": "Un hombre fue asesinado y otro resultó herido durante un ataque armado en los campos deportivos Estrella de Irapuato, mientras se disputaba un partido"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "El peligro de dormir con un anafre encendido: Protección Civil de Irapuato advierte que puede ser mortal",
+    "fecha": "22/11/2026 10:21",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/el-peligro-de-dormir-con-un-anafre-encendido-proteccion-civil-de-irapuato-advierte-que-puede-ser-mortal-33264744",
+    "resumen": "Las autoridades municipales también piden revisar calentadores eléctricos y luces navideñas para prevenir incendios"
   },
   {
     "prioridad": 2,
@@ -86,61 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/miriam-perdio-una-pierna-pero-no-las-ganas-de-sacar-adelante-a-sus-hijas-hoy-tiene-su-propio-negocio-33250638",
     "resumen": "Tras enviudar y sufrir un accidente que le provocó la pérdida de una pierna, Miriam convirtió lo aprendido en los talleres de capacitación de Irapuato en un emprendimiento"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Desplegarán operativo para prevenir accidentes durante los tradicionales Barrios en Irapuato",
-    "fecha": "21/11/2026 20:50",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/21/desplegaran-operativo-para-prevenir-accidentes-durante-los-tradicionales-barrios-en-irapuato-172081.html",
-    "resumen": "Protección Civil realizará operativos de supervisión durante los Barrios en Irapuato para verificar las condiciones de seguridad de juegos mecánicos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato abrirá parcialmente el estacionamiento del mirador del Cuarto Cinturón Vial",
-    "fecha": "21/11/2026 20:45",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/21/irapuato-abrira-parcialmente-el-estacionamiento-del-mirador-del-cuarto-cinturon-vial-172080.html",
-    "resumen": "El Gobierno Municipal de Irapuato mantendrá restricciones en el estacionamiento del mirador del Cuarto Cinturón Vial para evitar el consumo de alcohol"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Balean a hombre en la colonia Irapuato y lo dejan herido",
-    "fecha": "21/11/2026 18:44",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/21/balean-a-hombre-en-la-colonia-irapuato-y-lo-dejan-herido-172066.html",
-    "resumen": "Familiares del herido no esperaron a que llegara la ambulancia y en un vehículo particular lo trasladaron a un hospital de Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Los osos más lindos están en el zoológico de Irapuato",
-    "fecha": "21/11/2026 18:15",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/los-osos-mas-lindos-estan-en-el-zoologico-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Este noviembre es buen momento para que conozcas a los osos que hay en el Zoológico de Irapuato. Hay dos especies de osos en el parque: los osos negros y los osos pardos. Son dos parejas que son muy interesantes de conocer. En el caso de los osos pardos, que se llaman “Coque” …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Triple salida en hombros tras corrida nocturna del 20 de Noviembre en Irapuato",
-    "fecha": "21/11/2026 17:41",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/triple-salida-en-hombros-tras-corrida-nocturna-del-20-de-noviembre-en-irapuato/",
-    "resumen": "Texto y fotos por Juan José López Luna Irapuato, Guanajuato.- Con poco más de tres cuartos de entrada y ambiente fresco, se dio la tradicional corrida del 20 de Noviembre en la vieja e histórica plaza “Revolución” en Irapuato, aunque esta vez nocturna y para conmemorar la gesta revolucionaria de 1910 además del cumpleaños 89 …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Balean a persona en Irapuato; helicóptero de FSPE sobrevuela la zona",
-    "fecha": "21/11/2026 15:21",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/balean-a-persona-en-irapuato-helicoptero-de-fspe-sobrevuela-la-zona/",
-    "resumen": "Irapuato Guanajuato.- Elementos de seguridad de Irapuato recibieron el reporte de una agresión armada sobre la calle Higuera con esquina al bulevar Esperanza. Según información preliminar, una persona resultó lesionada y fue trasladada por sus propios medios a recibir atención médica, en tanto que se destacó la presencia del helicóptero de FSPE sobrevolando por la zona. Tras el …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato supera por 2-1 al Tapachula FC en la Jornada 13 de Primera en la Liga Premier",
-    "fecha": "21/11/2026 14:59",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-vence-2-1-a-tapachula-en-la-jornada-13-de-liga-premier-33254102",
-    "resumen": "Batalló la escuadra del profesor Luis Almada para regresar a la senda de los triunfos"
   }
 ]
