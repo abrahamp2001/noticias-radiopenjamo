@@ -40,12 +40,44 @@
     "resumen": "Durante la toma de protesta se llamó al diálogo y al trabajo en unidad; el mensaje destacó que no se presentaron candidaturas. Huanímaro, Guanajuato. Isaías González asumió la responsabilidad de…"
   },
   {
-    "prioridad": 1,
-    "titulo": "Sequía y bajos precios golpean a campesinos de Manuel Doblado y Yuriria",
-    "fecha": "21/11/2026 21:41",
+    "prioridad": 2,
+    "titulo": "Choca motociclista contra barra de contención y queda grave en Irapuato",
+    "fecha": "23/11/2026 00:43",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/21/sequia-y-bajos-precios-golpean-a-campesinos-de-manuel-doblado-y-yuriria-172084.html",
-    "resumen": "Los campesinos de Manuel Doblado y Yuriria enfrentaron un año complicado por la falta de lluvias y los bajos precios de sus productos"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/choca-motociclista-contra-barra-de-contencion-y-queda-grave-en-irapuato-172157.html",
+    "resumen": "El accidente ocurrió en la colonia Guerrero. Paramédicos trasladaron al conductor a un hospital en código rojo por la gravedad de sus heridas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato: Disputa entre sujetos deja un muerto y un herido en Bajada de San Martín",
+    "fecha": "23/11/2026 00:37",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/irapuato-disputa-entre-sujetos-deja-un-muerto-y-un-herido-en-bajada-de-san-martin-172156.html",
+    "resumen": "Los hombres convivían cuando comenzaron a discutir con otros sujetos, quienes presuntamente les dispararon; uno murió en el lugar"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Obispo de Irapuato pide evitar excesos durante fiestas de los Barrios",
+    "fecha": "22/11/2026 19:33",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/obispo-de-irapuato-pide-evitar-excesos-durante-fiestas-de-los-barrios-172130.html",
+    "resumen": "Enrique Díaz Díaz llamó a conservar la convivencia y la oración durante las celebraciones, y advirtió que el alcohol puede provocar enfrentamientos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Riña deja un hombre asesinado y otro lesionado en Bajada de San Martín, en Irapuato",
+    "fecha": "22/11/2026 19:16",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/rina-deja-un-hombre-asesinado-y-otro-lesionado-en-bajada-de-san-martin-en-irapuato-33270445",
+    "resumen": "Una agresión a balazos en Irapuato dejó un hombre asesinado y otro lesionado en la colonia Bajada de San Martín; la Fiscalía investigará el caso"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato busca concentrar producción de ladrillo en una sola zona",
+    "fecha": "22/11/2026 19:11",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/irapuato-busca-concentrar-produccion-de-ladrillo-en-una-sola-zona-172128.html",
+    "resumen": "El proyecto contempla trasladar a los productores cerca de El Carrizal y establecer un convenio para ocupar el terreno, luego de 15 años de gestiones"
   },
   {
     "prioridad": 2,
@@ -89,6 +121,14 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Asesinan a un hombre y lesionan a otro en ataque directo en Las Delicias, en Irapuato",
+    "fecha": "22/11/2026 14:53",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-un-hombre-y-lesionan-a-otro-en-ataque-directo-en-las-delicias-en-irapuato-33268832",
+    "resumen": "Un hombre murió y otro resultó herido durante un ataque armado en Irapuato; la Fiscalía de Guanajuato investiga para identificar a los responsables"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Desde Irapuato, la familia González celebra el Día del Músico con fiesta a Santa Cecilia",
     "fecha": "22/11/2026 13:52",
     "fuente": "Periódico Correo",
@@ -118,45 +158,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-remonta-y-vence-a-tapachula/",
     "resumen": "Irapuato, Guanajuato.- La Trinca Fresera del Irapuato remontó un marcador adverso y derrotó 2-1 a Tapachula, en el duelo correspondiente a la jornada 13 de la Liga Premier, disputado en el Estadio Olímpico de Tapachula. El conjunto chiapaneco se adelantó al minuto 53 con anotación de Andrés Moya, pero Heriberto de la Rosa empató al …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a un hombre y lesionan a otro durante partido de futbol en Las Delicias, en Irapuato",
-    "fecha": "22/11/2026 11:46",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-un-hombre-y-lesionan-a-otro-durante-partido-de-futbol-en-las-delicias-en-irapuato-33266428",
-    "resumen": "Un hombre fue asesinado y otro resultó herido durante un ataque armado en los campos deportivos Estrella de Irapuato, mientras se disputaba un partido"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "El peligro de dormir con un anafre encendido: Protección Civil de Irapuato advierte que puede ser mortal",
-    "fecha": "22/11/2026 10:21",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/el-peligro-de-dormir-con-un-anafre-encendido-proteccion-civil-de-irapuato-advierte-que-puede-ser-mortal-33264744",
-    "resumen": "Las autoridades municipales también piden revisar calentadores eléctricos y luces navideñas para prevenir incendios"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Es la que nos da trabajo todo el año”: músicos de Irapuato celebran a Santa Cecilia",
-    "fecha": "22/11/2026 07:56",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/es-la-que-nos-da-trabajo-todo-el-ano-musicos-de-irapuato-celebran-a-santa-cecilia-33262461",
-    "resumen": "Leonardo Ayala Morales, integrante de la Sección 409, explicó que los músicos se reúnen para agradecer las contrataciones que les permiten sostener a sus familias"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hoteleros de Irapuato exigen aplicar regulación a Airbnb para competir en igualdad de condiciones",
-    "fecha": "22/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/hoteleros-de-irapuato-exigen-aplicar-regulacion-a-airbnb-para-competir-en-igualdad-de-condiciones-33249525",
-    "resumen": "En Guanajuato hay 5 mil 921 propiedades anunciadas en Airbnb y existe una ley que regula esta modalidad de hospedaje desde 2020"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Miriam perdió una pierna, pero no las ganas de sacar adelante a sus hijas; hoy tiene su propio negocio",
-    "fecha": "22/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/miriam-perdio-una-pierna-pero-no-las-ganas-de-sacar-adelante-a-sus-hijas-hoy-tiene-su-propio-negocio-33250638",
-    "resumen": "Tras enviudar y sufrir un accidente que le provocó la pérdida de una pierna, Miriam convirtió lo aprendido en los talleres de capacitación de Irapuato en un emprendimiento"
   }
 ]
