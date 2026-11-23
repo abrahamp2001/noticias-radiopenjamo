@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "DIF Pénjamo adquiere camioneta para traslado de adultos mayores y personas con discapacidad",
+    "fecha": "23/11/2026 06:34",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/dif-penjamo-adquiere-camioneta-para-traslado-de-adultos-mayores-y-personas-con-discapacidad/",
+    "resumen": "La unidad fue adquirida mediante la coordinación entre el Gobierno Municipal de Pénjamo y el Gobierno del Estado de Guanajuato, con el propósito de facilitar el acceso a servicios y…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Chavita, el músico de 11 años que toca clarinete, tambora, percusiones y tuba en Abasolo",
     "fecha": "22/11/2026 18:11",
     "fuente": "Periódico Correo",
@@ -41,6 +49,38 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Salía de madrugada a vender desayunos; lo asesinan frente a empresa de limpia en Irapuato",
+    "fecha": "23/11/2026 03:42",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/salia-de-madrugada-a-vender-desayunos-lo-asesinan-frente-a-empresa-de-limpia-en-irapuato-33272870",
+    "resumen": "Un vendedor de desayunos fue asesinado a balazos frente a una empresa de recolección de basura en Irapuato; dos hombres huyeron"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“Irapuato no es de un grupo de poder”: Movimiento Ciudadano busca posicionarse rumbo a 2027",
+    "fecha": "23/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-no-es-de-un-grupo-de-poder-movimiento-ciudadano-busca-posicionarse-rumbo-a-2027-33264397",
+    "resumen": "Eliane Hernández aseguró que Movimiento Ciudadano construye una alternativa política a partir de las necesidades identificadas en colonias y comunidades; no descartó buscar la candidatura a la alcaldía en 2027"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Coparmex Irapuato-Salamanca pide moderar aumento al salario mínimo de 2027 por presión sobre Mipymes",
+    "fecha": "23/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/coparmex-irapuato-salamanca-pide-moderar-aumento-al-salario-minimo-de-2027-por-presion-sobre-mipymes-33262704",
+    "resumen": "Fernando González López respaldó mejorar los ingresos de los trabajadores, pero pidió incrementos más mesurados y programas de apoyo para conservar empleos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Tras años de gestiones, Irapuato busca liberar terreno para reubicar a 20 ladrilleros",
+    "fecha": "23/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-anos-de-gestiones-irapuato-busca-liberar-terreno-para-reubicar-a-20-ladrilleros-33262608",
+    "resumen": "Gonzalo Guerrero, director de Sustentabilidad, señaló que el municipio trabaja para disponer de un predio cercano al Libramiento Norte y establecer un convenio con los productores"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Choca motociclista contra barra de contención y queda grave en Irapuato",
     "fecha": "23/11/2026 00:43",
     "fuente": "Periódico Correo",
@@ -54,6 +94,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/irapuato-disputa-entre-sujetos-deja-un-muerto-y-un-herido-en-bajada-de-san-martin-172156.html",
     "resumen": "Los hombres convivían cuando comenzaron a discutir con otros sujetos, quienes presuntamente les dispararon; uno murió en el lugar"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Villa Navideña de Irapuato abre espacio laboral a personas mayores y con discapacidad",
+    "fecha": "22/11/2026 21:23",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/villa-navidena-de-irapuato-abre-espacio-laboral-a-personas-mayores-y-con-discapacidad-172140.html",
+    "resumen": "En la edición anterior participaron 63 personas en la atención de visitantes, apoyo en atracciones y venta de productos elaborados por ellas mismas"
   },
   {
     "prioridad": 2,
@@ -110,53 +158,5 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/no-respetan-el-mal-uso-de-las-ciclovias/",
     "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Las ciclovías en la zona centro de Irapuato presentan al parecer problemas de uso indebido, situación que compromete la seguridad y movilidad de quienes utilizan este medio de transporte. Ante este panorama, los ciclistas se ven obligados a circular por carriles, cuya infraestructura no está destinada para bicicletas cuando estos …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Derriba poste y deja cables de luz sobre avenida San Juan, en Irapuato",
-    "fecha": "22/11/2026 16:11",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/derriba-poste-y-deja-cables-de-luz-sobre-avenida-san-juan-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un poste fue derribado durante un accidente automovilístico registrado la mañana de este domingo sobre la avenida San Juan, entre las calles Lagunilla y Cafetales, en Irapuato. De acuerdo con un reporte ciudadano, el percance ocurrió alrededor de las 5:30 de la mañana, cuando un vehículo en el que viajaban varios jóvenes impactó …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a un hombre y lesionan a otro en ataque directo en Las Delicias, en Irapuato",
-    "fecha": "22/11/2026 14:53",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-un-hombre-y-lesionan-a-otro-en-ataque-directo-en-las-delicias-en-irapuato-33268832",
-    "resumen": "Un hombre murió y otro resultó herido durante un ataque armado en Irapuato; la Fiscalía de Guanajuato investiga para identificar a los responsables"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Desde Irapuato, la familia González celebra el Día del Músico con fiesta a Santa Cecilia",
-    "fecha": "22/11/2026 13:52",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/desde-irapuato-la-familia-gonzalez-celebra-el-dia-del-musico-con-fiesta-a-santa-cecilia-172106.html",
-    "resumen": "La fiesta organizada por la familia en Irapuato en honor a la patrona de los músicos es una tradición familiar, al igual que la herencia musical"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato ofrece 19 talleres gratuitos para impulsar el autoempleo y emprendimiento",
-    "fecha": "22/11/2026 13:03",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-ofrece-19-talleres-gratuitos-para-impulsar-el-autoempleo-y-emprendimiento/",
-    "resumen": "Irapuato, Guanajuato.- Con 19 talleres gratuitos y 10 meses de capacitación, el Gobierno de Irapuato impulsa el autoempleo y el emprendimiento entre habitantes de más de 40 colonias. Mediante el programa “Capacítate con Paso Firme”, las personas adquieren conocimientos y habilidades para desarrollar proyectos propios, generar ingresos y mejorar su calidad de vida. Ofrecen capacitación …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Camioneta cae a canal de agua en la salida a Pueblo Nuevo, en Irapuato",
-    "fecha": "22/11/2026 12:35",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/camioneta-cae-a-canal-de-agua-en-la-salida-a-pueblo-nuevo-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Una camioneta Tracker descapotable de color blanco cayó a un canal de agua sobre la carretera estatal Irapuato-Pueblo Nuevo, la mañana de este domingo. El accidente se registró a unos metros del corralón municipal, en la salida hacia Pueblo Nuevo. Tras el reporte, elementos de Protección Civil y de la Policía Preventiva de …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato remonta y vence a Tapachula",
-    "fecha": "22/11/2026 11:52",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/irapuato-remonta-y-vence-a-tapachula/",
-    "resumen": "Irapuato, Guanajuato.- La Trinca Fresera del Irapuato remontó un marcador adverso y derrotó 2-1 a Tapachula, en el duelo correspondiente a la jornada 13 de la Liga Premier, disputado en el Estadio Olímpico de Tapachula. El conjunto chiapaneco se adelantó al minuto 53 con anotación de Andrés Moya, pero Heriberto de la Rosa empató al …"
   }
 ]
