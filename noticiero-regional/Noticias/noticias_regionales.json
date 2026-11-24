@@ -1,6 +1,38 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Aparece “tiradero clandestino” junto a la Presa de Tacubaya, en Pénjamo",
+    "fecha": "24/11/2026 15:54",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/aparece-tiradero-clandestino-junto-a-la-presa-de-tacubaya-en-penjamo/",
+    "resumen": "Pénjamo, Guanajuato.- En Pénjamo fueron retiradas más de 25 tolvas de basura de un tiradero clandestino ubicado a pocos metros de la Presa de Tacubaya. La limpieza estuvo a cargo de las direcciones de Servicios Básicos y de Obras Públicas, en coordinación con el dueño del predio donde se acumulaban los desechos. De acuerdo con …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Pénjamo inicia construcción de acceso al futuro Recinto Ferial y Centro de Convenciones",
+    "fecha": "24/11/2026 11:30",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/penjamo-inicia-construccion-de-acceso-al-futuro-recinto-ferial-y-centro-de-convenciones/",
+    "resumen": "Pénjamo, Guanajuato.- El Gobierno Municipal de Pénjamo inició la construcción de la vialidad de acceso al futuro Recinto Ferial y Centro de Convenciones, una obra que contempla una inversión de 6 millones 115 mil 276 pesos. El proyecto busca mejorar la conectividad, facilitar los traslados y comenzar el desarrollo de un nuevo espacio para eventos …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Abasolo impulsa el cuidado del agua con programa ambiental en escuelas",
+    "fecha": "24/11/2026 11:03",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/abasolo-impulsa-el-cuidado-del-agua-con-programa-ambiental-en-escuelas/",
+    "resumen": "Abasolo, Guanajuato.- El Gobierno Municipal de Abasolo llevó el programa “Escuelas Ahorradoras de Agua” a la Escuela Primaria Lucio Blanco, ubicada en la colonia Emiliano Zapata. La iniciativa busca fomentar la conciencia ambiental entre las nuevas generaciones y promover el uso responsable del agua desde las aulas. Promueven el ahorro de agua entre estudiantes de …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Abasolo lleva el programa “Escuelas Ahorradoras de Agua” a la Primaria Lucio Blanco",
+    "fecha": "24/11/2026 07:53",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/abasolo-lleva-el-programa-escuelas-ahorradoras-de-agua-a-la-primaria-lucio-blanco/",
+    "resumen": "La jornada, realizada en la colonia Emiliano Zapata, busca fomentar hábitos de ahorro de agua entre estudiantes y personal escolar. Abasolo, Guanajuato. La Dirección de Ecología y Medio Ambiente de…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Pénjamo busca 500 millones de pesos para el presupuesto 2027",
     "fecha": "23/11/2026 19:32",
     "fuente": "Periódico Correo",
@@ -9,19 +41,11 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Choque en la carretera Pénjamo-La Piedad deja 3 heridos",
-    "fecha": "23/11/2026 16:51",
+    "titulo": "Comisiones del Congreso estatal avalan primer bloque de leyes de ingresos municipales 2027",
+    "fecha": "24/11/2026 17:11",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/choque-en-la-carretera-penjamo-la-piedad-deja-3-heridos/",
-    "resumen": "Pénjamo, Guanajuato.- La mañana de este lunes ocurrió un accidente de una unidad de carga y automóviles en la carretera federal 1110 en el tramo Pénjamo – La Piedad, en el cual se reportaron presuntamente 3 personas lesionadas, a la altura del kilómetro 70, poco antes del camino de acceso a la comunidad de La …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "DIF Pénjamo entrega una andadera a alumna de preescolar de Santa Ana Pacueco",
-    "fecha": "23/11/2026 11:53",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/dif-penjamo-entrega-una-andadera-a-alumna-de-preescolar-de-santa-ana-pacueco/",
-    "resumen": "Pénjamo, Guanajuato. Zuleyma Milagros Salazar Méndez, de cuatro años, recibió una andadera de manos de Cony Balver Rodríguez, presidenta del DIF Municipal de Pénjamo. La niña cursa el segundo grado…"
+    "url": "https://notus.com.mx/comisiones-del-congreso-estatal-avalan-primer-bloque-de-leyes-de-ingresos-municipales-2027/",
+    "resumen": "Guanajuato, Guanajuato.- Las Comisiones Unidas de Hacienda y Fiscalización y de Gobernación y Puntos Constitucionales analizaron el primer bloque de iniciativas de leyes de ingresos municipales para el ejercicio fiscal de 2027 y aprobaron los dictámenes correspondientes. En este primer bloque se analizaron las iniciativas de leyes de ingresos de los municipios de: Atarjea, Abasolo, …"
   },
   {
     "prioridad": 0,
@@ -30,6 +54,22 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/pareja-de-motociclistas-resulta-lesionada-tras-chocar-contra-un-trailer-en-la-federal-90-172238.html",
     "resumen": "Una pareja que viajaba a bordo de una motocicleta negra se impactó contra la parte lateral de un tráiler que se incorporaba a la carretera federal 90 Irapuato-Abasolo"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Supervisan obras de pavimentación en la colonia Niños Héroes de Manuel Doblado",
+    "fecha": "24/11/2026 16:54",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/supervisan-obras-de-pavimentacion-en-la-colonia-ninos-heroes-de-manuel-doblado/",
+    "resumen": "Manuel Doblado, Guanajuato.- El presidente municipal de Manuel Doblado, Gustavo Adolfo Alfaro Reyes, acudió a la colonia Niños Héroes para supervisar los trabajos de obra que se realizan en las calles Juan de la Barrera y Vicente Suárez, donde también sostuvo un encuentro con habitantes de la zona. Durante el recorrido, el alcalde conoció las …"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Manuel Doblado arranca dos obras por más de 4.8 millones de pesos",
+    "fecha": "24/11/2026 11:54",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/manuel-doblado-arranca-dos-obras-por-mas-de-4-8-millones-de-pesos/",
+    "resumen": "Manuel Doblado, Guanajuato.- El Gobierno Municipal de Manuel Doblado inició dos obras de infraestructura en la colonia Miguel Hidalgo y la comunidad de San José de Bellavista, con una inversión conjunta de 4 millones 818 mil 380.63 pesos. Los proyectos contemplan la construcción de banquetas, guarniciones y pavimentación para mejorar la movilidad y seguridad de …"
   },
   {
     "prioridad": 1,
@@ -48,115 +88,75 @@
     "resumen": "Cuerámaro enviará a 170 trabajadores a campos agrícolas de California durante 2027, donde tendrán empleos temporales por seis meses"
   },
   {
-    "prioridad": 1,
-    "titulo": "Huanímaro conmemora el 116 aniversario de la Revolución Mexicana con tradicional desfile",
-    "fecha": "23/11/2026 11:21",
+    "prioridad": 2,
+    "titulo": "¿Quién era Luis Alberto Ríos, 'El More', futbolista asesinado en Irapuato?",
+    "fecha": "24/11/2026 17:25",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/quien-era-luis-alberto-rios-el-more-futbolista-asesinado-en-irapuato-172297.html",
+    "resumen": "Luis Alberto Ríos, conocido como \"El More\", fue futbolista del Atlético San Francisco, equipo con el que logró un campeonato"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Detienen a Carlos N con dosis de cristal y un cuchillo en la colonia Flores Magón Sur de Irapuato",
+    "fecha": "24/11/2026 17:13",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/24/detienen-a-carlos-n-con-dosis-de-cristal-y-un-cuchillo-en-la-colonia-flores-magon-sur-de-irapuato-172295.html",
+    "resumen": "Integrantes de la Policía Municipal de Irapuato detuvieron a Carlos \"N\" por la posesión de dosis de una sustancia con características de la droga conocida como cristal y le aseguraron un cuchillo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Colectivos  acusan falta de disposición de la Unidad de la Diversidad para impulsar agenda LGBT en Irapuato",
+    "fecha": "24/11/2026 16:08",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/colectivos-acusan-falta-de-disposicion-de-la-unidad-de-la-diversidad-para-impulsar-agenda-lgbt-en-irapuato-172287.html",
+    "resumen": "Integrantes de asociaciones de Irapuato señala que su participación en colaboración con la Unidad de la Diversidad se ha limitado a ser invitados a eventos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Carlos el ‘asalta taxis’ suma 35 ingresos y orden por robo en Irapuato",
+    "fecha": "24/11/2026 15:54",
     "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/huanimaro-conmemora-el-116-aniversario-de-la-revolucion-mexicana-con-tradicional-desfile/",
-    "resumen": "Huanímaro, Guanjuato.- Con la participación de instituciones educativas, autoridades municipales y cientos de ciudadanos, Huanímaro conmemoró el 116 aniversario de la Revolución Mexicana con el tradicional desfile del 20 de noviembre. La jornada comenzó con un acto cívico en el fraccionamiento El Mirador y continuó con un recorrido por las principales calles hasta llegar al …"
+    "url": "https://notus.com.mx/carlos-el-asalta-taxis-suma-35-ingresos-y-orden-por-robo-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Carlos de 35 años actuaba con apariencia inofensiva antes de ‘asaltar’ a sus víctimas en Irapuato, así relataron habitantes que lo reconocieron tras su detención. Entre su historial delictivo de 35 ingresos previos, destacan agresiones a su pareja y lesiones por arma blanca, además de un proceso por robo y una orden judicial …"
   },
   {
     "prioridad": 2,
-    "titulo": "Restaurantes de Irapuato esperan repunte de hasta 30% en diciembre tras recuperación tardía",
-    "fecha": "24/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/restaurantes-de-irapuato-esperan-repunte-de-hasta-30-en-diciembre-tras-recuperacion-tardia-33278179",
-    "resumen": "El sector no sintió en octubre el repunte habitual y apenas comenzó a registrar mayor movimiento en noviembre; Canirac confía en que las posadas y los festejos de fin de año impulsen el consumo"
+    "titulo": "“No estás sola”: suman esfuerzos en Irapuato para prevenir la violencia contra las mujeres",
+    "fecha": "24/11/2026 14:58",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/no-estas-sola-suman-esfuerzos-en-irapuato-para-prevenir-la-violencia-contra-las-mujeres/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- En el marco del día internacional de violencia contra la mujer presentaron la iniciativa, “No estás sola”. La intención que promueve el Instituto de las Mujeres Irapuatenses (INMIRA) tiene el propósito de fortalecer las acciones de prevención y atención de la violencia; diversas instituciones gubernamentales, empresas y organizaciones se sumaron. …"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato tendría mil 200 millones de pesos para obras y proyectos en 2027",
-    "fecha": "24/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-tendria-mil-200-millones-de-pesos-para-obras-y-proyectos-en-2027-33278268",
-    "resumen": "De un presupuesto global estimado en 4 mil millones de pesos, alrededor de mil 200 millones quedarían sujetos a distribución entre infraestructura, programas sociales y proyectos estratégicos; la recaudación municipal superaría los 2 mil 700 millones."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen al presunto asaltante de un conductor de Uber tras viralizarse el video en Irapuato",
-    "fecha": "23/11/2026 20:03",
+    "titulo": "Presentan 6 ofertas para la licitación del tren de pasajeros Irapuato-Guadalajara ¿cuánto podría costar?",
+    "fecha": "24/11/2026 13:12",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/detienen-al-presunto-asaltante-de-un-conductor-de-uber-tras-viralizarse-el-video-en-irapuato-172221.html",
-    "resumen": "Un hombre que presuntamente asaltó con un arma blanca a un conductor de Uber fue detenido horas después de que el video del robo se viralizara en redes sociales"
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/24/presentan-6-ofertas-para-la-licitacion-del-tren-de-pasajeros-irapuato-guadalajara-cuanto-podria-costar-172267.html",
+    "resumen": "Fueron seis los proyectos participantes en la licitación de la construcción del tren de pasajeros Irapuato a Guadalajara"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato mantiene sin ejercer 25 millones de pesos del Ramo 33 y desata disputa en el Ayuntamiento",
-    "fecha": "23/11/2026 18:51",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/23/irapuato-mantiene-sin-ejercer-25-millones-de-pesos-del-ramo-33-y-desata-disputa-en-el-ayuntamiento-172212.html",
-    "resumen": "El gobierno municipal de Irapuato mantiene pendientes de ejercer 25 millones de pesos del Ramo 33, situación que provocó un enfrentamiento entre regidores"
+    "titulo": "Los Barrios de Irapuato: así nació la tradición guadalupana que cumple más de un siglo",
+    "fecha": "24/11/2026 13:02",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/los-barrios-de-irapuato-asi-nacio-la-tradicion-guadalupana-que-cumple-mas-de-un-siglo/",
+    "resumen": "Irapuato, Guanajuato.- La tradicional fiesta de los Barrios de Irapuato tiene sus raíces en el siglo XIX, cuando los habitantes de la antigua villa comenzaron a organizar un octavario en honor a la Virgen de Guadalupe. La celebración surgió por iniciativa del sacerdote Juan Nepomuceno García y reunió a los distintos barrios en jornadas consecutivas …"
   },
   {
     "prioridad": 2,
-    "titulo": "Ataque armado en Valenciana de Yostiro, Irapuato, deja un hombre muerto",
-    "fecha": "23/11/2026 17:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/ataque-armado-en-valenciana-de-yostiro-irapuato-deja-un-hombre-muerto-172200.html",
-    "resumen": "Un hombre murió tras un ataque armado en la calle Pitayo de la comunidad Valenciana de Yostiro, en Irapuato; vecinos reportaron alrededor de las 10:30 horas"
+    "titulo": "Irapuatenses localizan a ‘asaltante’ de taxis y lo ‘entregan’ a la policía",
+    "fecha": "24/11/2026 12:07",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/irapuatenses-localizan-a-asaltante-de-taxis-y-lo-entregan-a-la-policia/",
+    "resumen": "Irapuato, Guanajuato.- Ciudadanos irapuatenses identificaron al hombre captado en video asaltando a un taxista y lo retuvieron hasta ser entregado a la policía municipal. El presunto responsable fue asegurado en posesión de presunta droga y un cuchillo. De acuerdo con la evidencia documentada por el chofer de un taxi, el hombre se hizo pasar por …"
   },
   {
     "prioridad": 2,
-    "titulo": "Centro Acuático y Puente El Carrizalito proyectos clave de Irapuato",
-    "fecha": "23/11/2026 16:56",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/centro-acuatico-y-puente-el-carrizalito-proyectos-clave-de-irapuato/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Centro Acuático de Irapuato continúa a la espera de recursos para concretar su segunda etapa y quedar en condiciones de operar, informó la presidenta municipal, Lorena Alfaro García. La alcaldesa explicó que la primera etapa de este proyecto concluyó a finales de 2025. Sin embargo, todavía se requiere una …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "El futbol como punto de encuentro: Irapuato clausura la Liga por la Paz tras reunir a 420 jóvenes de sus colonias",
-    "fecha": "23/11/2026 15:06",
+    "titulo": "Obras Públicas cerrará el año con 65 acciones y 150 millones de pesos para calles de Irapuato",
+    "fecha": "24/11/2026 12:04",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/liga-por-la-paz-en-irapuato-san-juan-de-retana-es-campeon-33280821",
-    "resumen": "San Juan de Retana se llevó el campeonato y Francisco Javier Gutiérrez Valdés fue reconocido con 20 goles; el torneo buscó que jóvenes de distintas comunidades encontraran en el deporte un espacio de convivencia y prevención de la violencia."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "El corrido que José Alfredo pudo componer a Irapuato",
-    "fecha": "23/11/2026 14:53",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/el-corrido-que-jose-alfredo-pudo-componer-a-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- José Alfredo Jiménez cantó León –su feria con su jugada y donde la vida no vale nada- , Silao –donde le hería el recuerdo-, al cerro del Cubilete –consuelo de los que sufren, adoración de los pobres, a Santa Rosa –la sierra de Guanajuato- y, sobre todo, a Dolores Hidalgo –su pueblo adorado …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Detienen a presunto asaltante de conductores en Irapuato; su captura también quedó grabada en video",
-    "fecha": "23/11/2026 14:29",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-presunto-asaltante-de-conductores-en-irapuato-su-captura-tambien-quedo-grabada-en-video-33281472",
-    "resumen": "El sujeto habría despojado de sus pertenencias a un conductor de plataforma; usuarios de redes sociales habían difundido el asalto y alertado sobre el hombre."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Muere repartidor de tortillas en Irapuato tras ataque directo",
-    "fecha": "23/11/2026 14:27",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/muere-repartidor-de-tortillas-en-irapuato-tras-ataque-directo/",
-    "resumen": "Irapuato, Guanajuato.- Un hombre perdió la vida en un ataque armado directo sobre la calle Pitayo de la comunidad Venado de Yóstiro perteneciente a Irapuato. De manera extraoficial, se ubicó a la persona como repartidor de tortillas. Policía Municipal, Ejército Mexicano y paramédicos de la Cruz Roja acudieron a la zona y se constató que …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Centro Acuático de Irapuato sigue a la espera de recursos para su conclusión",
-    "fecha": "23/11/2026 14:05",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/centro-acuatico-de-irapuato-sigue-sin-recursos-para-concluirlo-33281179",
-    "resumen": "El proyecto ya está en el banco de inversiones de CODE Guanajuato, pero aún no tiene presupuesto confirmado para 2027; la dependencia reporta alrededor de 60 millones de pesos en obras deportivas durante este año."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato destinará 30% de su presupuesto de 2027 a seguridad; busca más policías en las calles",
-    "fecha": "23/11/2026 13:16",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-destinara-30-de-su-presupuesto-a-seguridad-publica-en-2027-33280214",
-    "resumen": "La alcaldesa Lorena Alfaro señaló que el municipio mantendrá como prioridad el fortalecimiento de la corporación, mientras ajusta sus proyectos de obra para un año marcado por el cierre de administración y la falta de recursos federales."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Festejan en Los Fresnos a Santa Cecilia",
-    "fecha": "23/11/2026 12:48",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/festejan-en-los-fresnos-a-santa-cecilia/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Con música, devoción y una tradición que continúa reuniendo a los habitantes de la colonia Los Fresnos, se llevó a cabo la celebración en honor a Santa Cecilia, patrona de los músicos. Como cada año, músicos y familias se reunieron para participar en las actividades religiosas y acompañar a la …"
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-prepara-65-obras-publicas-de-rehabilitacion-de-calles-33294817",
+    "resumen": "Manuel Venegas Pérez aseguró que habrá trabajos en colonias y comunidades, además de la intervención en avenida La Virgen; la inversión anual superará los mil millones de pesos."
   }
 ]
