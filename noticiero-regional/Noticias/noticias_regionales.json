@@ -25,19 +25,19 @@
   },
   {
     "prioridad": 0,
-    "titulo": "DIF Pénjamo adquiere camioneta para traslado de adultos mayores y personas con discapacidad",
-    "fecha": "23/11/2026 06:34",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/dif-penjamo-adquiere-camioneta-para-traslado-de-adultos-mayores-y-personas-con-discapacidad/",
-    "resumen": "La unidad fue adquirida mediante la coordinación entre el Gobierno Municipal de Pénjamo y el Gobierno del Estado de Guanajuato, con el propósito de facilitar el acceso a servicios y…"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Pareja de motociclistas resulta lesionada tras chocar contra un tráiler en la Federal 90",
     "fecha": "23/11/2026 21:52",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/pareja-de-motociclistas-resulta-lesionada-tras-chocar-contra-un-trailer-en-la-federal-90-172238.html",
     "resumen": "Una pareja que viajaba a bordo de una motocicleta negra se impactó contra la parte lateral de un tráiler que se incorporaba a la carretera federal 90 Irapuato-Abasolo"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Pese a reclamos a CFE, Puerta de Llave, en Manuel Doblado, sigue con apagones",
+    "fecha": "23/11/2026 22:01",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/23/pese-a-reclamos-a-cfe-puerta-de-llave-en-manuel-doblado-sigue-con-apagones-172239.html",
+    "resumen": "Los cortes afectan actividades diarias y preocupan a familias con pacientes que dependen de oxígeno; habitantes aseguran que la CFE no resuelve las fallas"
   },
   {
     "prioridad": 1,
@@ -54,6 +54,22 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/huanimaro-conmemora-el-116-aniversario-de-la-revolucion-mexicana-con-tradicional-desfile/",
     "resumen": "Huanímaro, Guanjuato.- Con la participación de instituciones educativas, autoridades municipales y cientos de ciudadanos, Huanímaro conmemoró el 116 aniversario de la Revolución Mexicana con el tradicional desfile del 20 de noviembre. La jornada comenzó con un acto cívico en el fraccionamiento El Mirador y continuó con un recorrido por las principales calles hasta llegar al …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Restaurantes de Irapuato esperan repunte de hasta 30% en diciembre tras recuperación tardía",
+    "fecha": "24/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/restaurantes-de-irapuato-esperan-repunte-de-hasta-30-en-diciembre-tras-recuperacion-tardia-33278179",
+    "resumen": "El sector no sintió en octubre el repunte habitual y apenas comenzó a registrar mayor movimiento en noviembre; Canirac confía en que las posadas y los festejos de fin de año impulsen el consumo"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato tendría mil 200 millones de pesos para obras y proyectos en 2027",
+    "fecha": "24/11/2026 01:00",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-tendria-mil-200-millones-de-pesos-para-obras-y-proyectos-en-2027-33278268",
+    "resumen": "De un presupuesto global estimado en 4 mil millones de pesos, alrededor de mil 200 millones quedarían sujetos a distribución entre infraestructura, programas sociales y proyectos estratégicos; la recaudación municipal superaría los 2 mil 700 millones."
   },
   {
     "prioridad": 2,
@@ -142,21 +158,5 @@
     "fuente": "Notus",
     "url": "https://notus.com.mx/festejan-en-los-fresnos-a-santa-cecilia/",
     "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Con música, devoción y una tradición que continúa reuniendo a los habitantes de la colonia Los Fresnos, se llevó a cabo la celebración en honor a Santa Cecilia, patrona de los músicos. Como cada año, músicos y familias se reunieron para participar en las actividades religiosas y acompañar a la …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Prevenir el acoso desde comercios: Irapuato incorpora 57 tiendas Bara como Puntos Rosas",
-    "fecha": "23/11/2026 11:54",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/prevenir-el-acoso-desde-comercios-irapuato-incorpora-57-tiendas-bara-como-puntos-rosas-33278827",
-    "resumen": "El municipio sumó nuevas sucursales a la estrategia de espacios seguros para mujeres; anteriormente había incorporado cien tiendas OXXO y otros establecimientos comerciales como puntos de resguardo y canalización"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Mejoran red de agua, drenaje y calles de comunidades en Irapuato",
-    "fecha": "23/11/2026 11:53",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/mejoran-red-de-agua-drenaje-y-calles-de-comunidades-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Las familias de la comunidad de Rancho Grande en Irapuato, cuentan ahora con mejor infraestructura hidráulica y sanitaria, con lo que su calidad de vida mejora. Estas acciones son parte de la labor que realiza el Gobierno de Irapuato, a través de la Junta de Agua Potable, Drenaje, Alcantarillado y Saneamiento de Irapuato …"
   }
 ]
