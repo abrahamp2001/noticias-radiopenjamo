@@ -1,6 +1,30 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Pénjamo busca 500 millones de pesos para el presupuesto 2027",
+    "fecha": "23/11/2026 19:32",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/23/penjamo-busca-500-millones-de-pesos-para-el-presupuesto-2027-172216.html",
+    "resumen": "La presidenta municipal Yozajamby Molina informó que Pénjamo busca 500 millones de pesos para el presupuesto 2027, monto similar al de años recientes"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "Choque en la carretera Pénjamo-La Piedad deja 3 heridos",
+    "fecha": "23/11/2026 16:51",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/choque-en-la-carretera-penjamo-la-piedad-deja-3-heridos/",
+    "resumen": "Pénjamo, Guanajuato.- La mañana de este lunes ocurrió un accidente de una unidad de carga y automóviles en la carretera federal 1110 en el tramo Pénjamo – La Piedad, en el cual se reportaron presuntamente 3 personas lesionadas, a la altura del kilómetro 70, poco antes del camino de acceso a la comunidad de La …"
+  },
+  {
+    "prioridad": 0,
+    "titulo": "DIF Pénjamo entrega una andadera a alumna de preescolar de Santa Ana Pacueco",
+    "fecha": "23/11/2026 11:53",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/dif-penjamo-entrega-una-andadera-a-alumna-de-preescolar-de-santa-ana-pacueco/",
+    "resumen": "Pénjamo, Guanajuato. Zuleyma Milagros Salazar Méndez, de cuatro años, recibió una andadera de manos de Cony Balver Rodríguez, presidenta del DIF Municipal de Pénjamo. La niña cursa el segundo grado…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "DIF Pénjamo adquiere camioneta para traslado de adultos mayores y personas con discapacidad",
     "fecha": "23/11/2026 06:34",
     "fuente": "Pénjamo TV",
@@ -8,155 +32,131 @@
     "resumen": "La unidad fue adquirida mediante la coordinación entre el Gobierno Municipal de Pénjamo y el Gobierno del Estado de Guanajuato, con el propósito de facilitar el acceso a servicios y…"
   },
   {
-    "prioridad": 0,
-    "titulo": "Chavita, el músico de 11 años que toca clarinete, tambora, percusiones y tuba en Abasolo",
-    "fecha": "22/11/2026 18:11",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/22/chavita-el-musico-de-11-anos-que-toca-clarinete-tambora-percusiones-y-tuba-en-abasolo-172126.html",
-    "resumen": "Chavita, de 11 años, es el último eslabón de una familia musical en Abasolo: desde los tres años sintió el llamado de la música al ver ensayar a su hermano Jesús"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Cierran carretera Pénjamo-Abasolo por accidente vehicular",
-    "fecha": "22/11/2026 16:43",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/cierran-carretera-penjamo-abasolo-por-accidente-vehicular/",
-    "resumen": "Pénjamo, Guanajuato.- Un accidente vehicular provocó el cierre total de la carretera federal 1110, en el tramo Pénjamo-Abasolo, a la altura de la comunidad de San Vicente del Caño. De acuerdo con el reporte, la circulación se encuentra completamente, por lo que se exhorta a los automovilistas a extremar precauciones y utilizar rutas alternas. Inclusive …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Inicia restauración del oratorio de la Parroquia de San Francisco de Asís en Pénjamo",
-    "fecha": "22/11/2026 15:56",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/inicia-restauracion-del-oratorio-de-la-parroquia-de-san-francisco-de-asis-en-penjamo/",
-    "resumen": "Pénjamo, Guanajuato.- El Gobierno Municipal inició los trabajos de restauración del oratorio de la Parroquia de San Francisco de Asís, inmueble que resultó afectado por el incendio de un puesto comercial cercano. La presidenta municipal, Yozajambi Molina, informó que las labores buscan recuperar este espacio religioso y devolverle su belleza. La alcaldesa destacó que el …"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "SKY STATE de Pénjamo vence a las tricampeonas y conquista el Torneo Revolución en Penjamillo",
-    "fecha": "22/11/2026 12:35",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/sky-state-de-penjamo-vence-a-las-tricampeonas-y-conquista-el-torneo-revolucion-en-penjamillo/",
-    "resumen": "Penjamillo, Michoacán. El equipo femenil SKY STATE de Pénjamo, Guanajuato, ganó el Torneo Revolución al vencer a las tricampeonas en la final del viernes 20 de noviembre de 2026. El…"
-  },
-  {
     "prioridad": 1,
-    "titulo": "Isaías González encabeza nueva Coordinación Municipal en Huanímaro",
-    "fecha": "22/11/2026 12:36",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/isaias-gonzalez-encabeza-nueva-coordinacion-municipal-en-huanimaro/",
-    "resumen": "Durante la toma de protesta se llamó al diálogo y al trabajo en unidad; el mensaje destacó que no se presentaron candidaturas. Huanímaro, Guanajuato. Isaías González asumió la responsabilidad de…"
+    "titulo": "Huanímaro conmemora el 116 aniversario de la Revolución Mexicana con tradicional desfile",
+    "fecha": "23/11/2026 11:21",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/huanimaro-conmemora-el-116-aniversario-de-la-revolucion-mexicana-con-tradicional-desfile/",
+    "resumen": "Huanímaro, Guanjuato.- Con la participación de instituciones educativas, autoridades municipales y cientos de ciudadanos, Huanímaro conmemoró el 116 aniversario de la Revolución Mexicana con el tradicional desfile del 20 de noviembre. La jornada comenzó con un acto cívico en el fraccionamiento El Mirador y continuó con un recorrido por las principales calles hasta llegar al …"
   },
   {
     "prioridad": 2,
-    "titulo": "Salía de madrugada a vender desayunos; lo asesinan frente a empresa de limpia en Irapuato",
-    "fecha": "23/11/2026 03:42",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/salia-de-madrugada-a-vender-desayunos-lo-asesinan-frente-a-empresa-de-limpia-en-irapuato-33272870",
-    "resumen": "Un vendedor de desayunos fue asesinado a balazos frente a una empresa de recolección de basura en Irapuato; dos hombres huyeron"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“Irapuato no es de un grupo de poder”: Movimiento Ciudadano busca posicionarse rumbo a 2027",
-    "fecha": "23/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-no-es-de-un-grupo-de-poder-movimiento-ciudadano-busca-posicionarse-rumbo-a-2027-33264397",
-    "resumen": "Eliane Hernández aseguró que Movimiento Ciudadano construye una alternativa política a partir de las necesidades identificadas en colonias y comunidades; no descartó buscar la candidatura a la alcaldía en 2027"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Coparmex Irapuato-Salamanca pide moderar aumento al salario mínimo de 2027 por presión sobre Mipymes",
-    "fecha": "23/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/coparmex-irapuato-salamanca-pide-moderar-aumento-al-salario-minimo-de-2027-por-presion-sobre-mipymes-33262704",
-    "resumen": "Fernando González López respaldó mejorar los ingresos de los trabajadores, pero pidió incrementos más mesurados y programas de apoyo para conservar empleos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Tras años de gestiones, Irapuato busca liberar terreno para reubicar a 20 ladrilleros",
-    "fecha": "23/11/2026 01:00",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/tras-anos-de-gestiones-irapuato-busca-liberar-terreno-para-reubicar-a-20-ladrilleros-33262608",
-    "resumen": "Gonzalo Guerrero, director de Sustentabilidad, señaló que el municipio trabaja para disponer de un predio cercano al Libramiento Norte y establecer un convenio con los productores"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Choca motociclista contra barra de contención y queda grave en Irapuato",
-    "fecha": "23/11/2026 00:43",
+    "titulo": "Irapuato mantiene sin ejercer 25 millones de pesos del Ramo 33 y desata disputa en el Ayuntamiento",
+    "fecha": "23/11/2026 18:51",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/choca-motociclista-contra-barra-de-contencion-y-queda-grave-en-irapuato-172157.html",
-    "resumen": "El accidente ocurrió en la colonia Guerrero. Paramédicos trasladaron al conductor a un hospital en código rojo por la gravedad de sus heridas"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/23/irapuato-mantiene-sin-ejercer-25-millones-de-pesos-del-ramo-33-y-desata-disputa-en-el-ayuntamiento-172212.html",
+    "resumen": "El gobierno municipal de Irapuato mantiene pendientes de ejercer 25 millones de pesos del Ramo 33, situación que provocó un enfrentamiento entre regidores"
   },
   {
     "prioridad": 2,
-    "titulo": "Irapuato: Disputa entre sujetos deja un muerto y un herido en Bajada de San Martín",
-    "fecha": "23/11/2026 00:37",
+    "titulo": "Ataque armado en Valenciana de Yostiro, Irapuato, deja un hombre muerto",
+    "fecha": "23/11/2026 17:08",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/irapuato-disputa-entre-sujetos-deja-un-muerto-y-un-herido-en-bajada-de-san-martin-172156.html",
-    "resumen": "Los hombres convivían cuando comenzaron a discutir con otros sujetos, quienes presuntamente les dispararon; uno murió en el lugar"
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/ataque-armado-en-valenciana-de-yostiro-irapuato-deja-un-hombre-muerto-172200.html",
+    "resumen": "Un hombre murió tras un ataque armado en la calle Pitayo de la comunidad Valenciana de Yostiro, en Irapuato; vecinos reportaron alrededor de las 10:30 horas"
   },
   {
     "prioridad": 2,
-    "titulo": "Villa Navideña de Irapuato abre espacio laboral a personas mayores y con discapacidad",
-    "fecha": "22/11/2026 21:23",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/villa-navidena-de-irapuato-abre-espacio-laboral-a-personas-mayores-y-con-discapacidad-172140.html",
-    "resumen": "En la edición anterior participaron 63 personas en la atención de visitantes, apoyo en atracciones y venta de productos elaborados por ellas mismas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Obispo de Irapuato pide evitar excesos durante fiestas de los Barrios",
-    "fecha": "22/11/2026 19:33",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/obispo-de-irapuato-pide-evitar-excesos-durante-fiestas-de-los-barrios-172130.html",
-    "resumen": "Enrique Díaz Díaz llamó a conservar la convivencia y la oración durante las celebraciones, y advirtió que el alcohol puede provocar enfrentamientos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Riña deja un hombre asesinado y otro lesionado en Bajada de San Martín, en Irapuato",
-    "fecha": "22/11/2026 19:16",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/rina-deja-un-hombre-asesinado-y-otro-lesionado-en-bajada-de-san-martin-en-irapuato-33270445",
-    "resumen": "Una agresión a balazos en Irapuato dejó un hombre asesinado y otro lesionado en la colonia Bajada de San Martín; la Fiscalía investigará el caso"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato busca concentrar producción de ladrillo en una sola zona",
-    "fecha": "22/11/2026 19:11",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/22/irapuato-busca-concentrar-produccion-de-ladrillo-en-una-sola-zona-172128.html",
-    "resumen": "El proyecto contempla trasladar a los productores cerca de El Carrizal y establecer un convenio para ocupar el terreno, luego de 15 años de gestiones"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en el Campo Estrella de la colonia Progresiva El Jaral, Irapuato, deja un muerto y un herido",
-    "fecha": "22/11/2026 16:48",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/22/ataque-armado-en-el-campo-estrella-de-la-colonia-progresiva-el-jaral-irapuato-deja-un-muerto-y-un-herido-172120.html",
-    "resumen": "Hombres armados dispararon contra dos personas tras los partidos de fútbol en el Campo Estrella en la colonia Progresiva El Jaral, en Irapuato"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ataque armado en campos de futbol Estrella deja un muerto y varios heridos en Irapuato",
-    "fecha": "22/11/2026 16:42",
+    "titulo": "Centro Acuático y Puente El Carrizalito proyectos clave de Irapuato",
+    "fecha": "23/11/2026 16:56",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/ataque-armado-en-campos-de-futbol-estrella-deja-un-muerto-y-varios-heridos-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un ataque armado registrado durante un partido de futbol en los campos Estrella, en Irapuato, dejó como saldo una persona sin vida y varios heridos. De acuerdo con los primeros reportes, los disparos se escucharon en pleno encuentro deportivo, lo que provocó alarma entre los asistentes y la movilización de corporaciones de seguridad. …"
+    "url": "https://notus.com.mx/centro-acuatico-y-puente-el-carrizalito-proyectos-clave-de-irapuato/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- El Centro Acuático de Irapuato continúa a la espera de recursos para concretar su segunda etapa y quedar en condiciones de operar, informó la presidenta municipal, Lorena Alfaro García. La alcaldesa explicó que la primera etapa de este proyecto concluyó a finales de 2025. Sin embargo, todavía se requiere una …"
   },
   {
     "prioridad": 2,
-    "titulo": "Que no te suspendan el celular",
-    "fecha": "22/11/2026 16:38",
+    "titulo": "El corrido que José Alfredo pudo componer a Irapuato",
+    "fecha": "23/11/2026 14:53",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/que-no-te-suspendan-el-celular/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Los usuarios de telefonía celular en México cuyo número termine en 7 tienen hasta el próximo 30 de noviembre para completar el registro de su línea y evitar que su servicio sea suspendido temporalmente. La medida forma parte del calendario establecido por la Comisión Reguladora de Telecomunicaciones, que contempla la …"
+    "url": "https://notus.com.mx/el-corrido-que-jose-alfredo-pudo-componer-a-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- José Alfredo Jiménez cantó León –su feria con su jugada y donde la vida no vale nada- , Silao –donde le hería el recuerdo-, al cerro del Cubilete –consuelo de los que sufren, adoración de los pobres, a Santa Rosa –la sierra de Guanajuato- y, sobre todo, a Dolores Hidalgo –su pueblo adorado …"
   },
   {
     "prioridad": 2,
-    "titulo": "¡No respetan! El mal uso de las ciclovías",
-    "fecha": "22/11/2026 16:22",
+    "titulo": "Detienen a presunto asaltante de conductores en Irapuato; su captura también quedó grabada en video",
+    "fecha": "23/11/2026 14:29",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/detienen-a-presunto-asaltante-de-conductores-en-irapuato-su-captura-tambien-quedo-grabada-en-video-33281472",
+    "resumen": "El sujeto habría despojado de sus pertenencias a un conductor de plataforma; usuarios de redes sociales habían difundido el asalto y alertado sobre el hombre."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Muere repartidor de tortillas en Irapuato tras ataque directo",
+    "fecha": "23/11/2026 14:27",
     "fuente": "Notus",
-    "url": "https://notus.com.mx/no-respetan-el-mal-uso-de-las-ciclovias/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Las ciclovías en la zona centro de Irapuato presentan al parecer problemas de uso indebido, situación que compromete la seguridad y movilidad de quienes utilizan este medio de transporte. Ante este panorama, los ciclistas se ven obligados a circular por carriles, cuya infraestructura no está destinada para bicicletas cuando estos …"
+    "url": "https://notus.com.mx/muere-repartidor-de-tortillas-en-irapuato-tras-ataque-directo/",
+    "resumen": "Irapuato, Guanajuato.- Un hombre perdió la vida en un ataque armado directo sobre la calle Pitayo de la comunidad Venado de Yóstiro perteneciente a Irapuato. De manera extraoficial, se ubicó a la persona como repartidor de tortillas. Policía Municipal, Ejército Mexicano y paramédicos de la Cruz Roja acudieron a la zona y se constató que …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Centro Acuático de Irapuato sigue a la espera de recursos para su conclusión",
+    "fecha": "23/11/2026 14:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/centro-acuatico-de-irapuato-sigue-sin-recursos-para-concluirlo-33281179",
+    "resumen": "El proyecto ya está en el banco de inversiones de CODE Guanajuato, pero aún no tiene presupuesto confirmado para 2027; la dependencia reporta alrededor de 60 millones de pesos en obras deportivas durante este año."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato destinará 30% de su presupuesto de 2027 a seguridad; busca más policías en las calles",
+    "fecha": "23/11/2026 13:16",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-destinara-30-de-su-presupuesto-a-seguridad-publica-en-2027-33280214",
+    "resumen": "La alcaldesa Lorena Alfaro señaló que el municipio mantendrá como prioridad el fortalecimiento de la corporación, mientras ajusta sus proyectos de obra para un año marcado por el cierre de administración y la falta de recursos federales."
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Festejan en Los Fresnos a Santa Cecilia",
+    "fecha": "23/11/2026 12:48",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/festejan-en-los-fresnos-a-santa-cecilia/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Con música, devoción y una tradición que continúa reuniendo a los habitantes de la colonia Los Fresnos, se llevó a cabo la celebración en honor a Santa Cecilia, patrona de los músicos. Como cada año, músicos y familias se reunieron para participar en las actividades religiosas y acompañar a la …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Prevenir el acoso desde comercios: Irapuato incorpora 57 tiendas Bara como Puntos Rosas",
+    "fecha": "23/11/2026 11:54",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/prevenir-el-acoso-desde-comercios-irapuato-incorpora-57-tiendas-bara-como-puntos-rosas-33278827",
+    "resumen": "El municipio sumó nuevas sucursales a la estrategia de espacios seguros para mujeres; anteriormente había incorporado cien tiendas OXXO y otros establecimientos comerciales como puntos de resguardo y canalización"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Mejoran red de agua, drenaje y calles de comunidades en Irapuato",
+    "fecha": "23/11/2026 11:53",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/mejoran-red-de-agua-drenaje-y-calles-de-comunidades-en-irapuato/",
+    "resumen": "Irapuato, Guanajuato.- Las familias de la comunidad de Rancho Grande en Irapuato, cuentan ahora con mejor infraestructura hidráulica y sanitaria, con lo que su calidad de vida mejora. Estas acciones son parte de la labor que realiza el Gobierno de Irapuato, a través de la Junta de Agua Potable, Drenaje, Alcantarillado y Saneamiento de Irapuato …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Zona norte tiene áreas habitacionales, pero no terrenos municipales para vivienda social",
+    "fecha": "23/11/2026 11:40",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/zona-norte-tiene-areas-habitacionales-pero-no-terrenos-municipales-para-vivienda-social-33278637",
+    "resumen": "AMPI considera que predios cercanos al Cuarto Cinturón, San Marino y el CRI podrían aprovecharse para nuevos desarrollos; Desarrollo Urbano señala que el crecimiento actual de Irapuato se concentra hacia el norponiente y surponiente"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato: identifican a vendedor asesinado con ‘historial delictivo’",
+    "fecha": "23/11/2026 11:05",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/irapuato-identifican-a-vendedor-asesinado-con-historial-delictivo/",
+    "resumen": "Irapuato, Guanajuato.- El asesinato de un hombre que vendía almuerzos sobre la avenida Siglo XIX en Irapuato movilizó a corporaciones de seguridad. La víctima ultimada cerca del Inforum fue presuntamente identificada como Arturo de 60 años, quien aparentemente contaba con historial delictivo por robo de vehículo. De acuerdo con el reporte preliminar, el hombre se …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Matan a vendedor de café cerca del Inforum en Irapuato",
+    "fecha": "23/11/2026 09:57",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/matan-a-vendedor-de-cafe-cerca-del-inforum-en-irapuato-172161.html",
+    "resumen": "El homicidio se dio cerca de las 6 de la mañana de este lunes cuando el comerciante de café de Irapuato recién instalaba su puesto"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato visita a Purépechas para cerrar como líder la primera vuelta de Liga Premier",
+    "fecha": "23/11/2026 09:05",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/irapuato-visita-a-purepechas-para-cerrar-como-lider-la-primera-vuelta-de-liga-premier-33276719",
+    "resumen": "Con el liderato general asegurado, se preparan para el juego del sábado en Morelia"
   }
 ]
