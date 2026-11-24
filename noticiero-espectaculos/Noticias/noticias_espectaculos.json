@@ -1,93 +1,87 @@
 [
   {
+    "titulo": "Jimmy Kimmel Criticizes Trump’s ‘Fishy’ Support of Nvidia CEO Jensen Huang",
+    "fuente": "Rolling Stone",
+    "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/jimmy-kimmel-nvidia-ceo-jensen-huang-donald-trump-support-1235663346/",
+    "fecha": "2026-11-24T08:43:08+00:00"
+  },
+  {
+    "titulo": "Hila Klein Shares ‘Incredibly Painful’ Decision to Leave ‘H3 Podcast’ After Ethan Klein’s Affair",
+    "fuente": "Rolling Stone",
+    "url": "https://www.rollingstone.com/culture/culture-news/hila-klein-h3-podcast-departure-ethan-klein-affair-1235663340/",
+    "fecha": "2026-11-24T08:07:04+00:00"
+  },
+  {
+    "titulo": "Anthem Singer Apologizes for ‘O Canada’ Flub at Leafs-Islanders Game",
+    "fuente": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/singer-apologizes-o-canada-anthem-leafs-islanders-game-1235663328/",
+    "fecha": "2026-11-24T06:50:50+00:00"
+  },
+  {
+    "titulo": "¡Mónica Dossetti volvió al cuidado de su hermano agresor! Avanza su esclerosis multiple, ¡triste noticia! - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLWhfb1VoWW1IM3FOZnAtb01LbkxwdC0zYVJqUm80UWdfc3JKNXJwQ3pxSndnUktRUnQ1U3RkTDFXc2U4UFd2RnVKbTZCVEF2TDdIYWR5Wnc5aEgwaWVoWHVQY09ISWV2ejNTSm85QkhxUmxmSk5xTWZTR21VMXZSdk9nWjcyUzIwOHhrRWVLUFM5TmtWUDFKYlhrR1FiSzJQempldEktQ0RkblBJaUs2UVd6X1VPVVFhLXJ1ckFGZllhTXkyMXhJcmJEeDdTNnk1TWt4M2YtUU9VcnA4NkJletIB7gFBVV95cUxNbkliU05XN3d5dk9uaHA4c2VmZVAzSjViS0xmM1pQaHhhWm4td1lFcTFGVnNod1B4RjFIOFdZV3lNZWdfSTlad3JISXJGWTQ2d2NMUWlvdWhVNVgzQ3d4eWNMSGVVZjJfd2ZzWm9UNk1jVUdfNE9SVmM3aTZTOE9OR3dQclk3ZkFldlYzTzRhV3lybXJKem54MnRORDhLREFkbVpveERRQ3JlRnZ4TTBHa254TDNWVWdzUWdDdUhHMmF1MkliSzlVaVdLbkk1elg3Zmdzd2hJRmc4TzdSTEdxYnA2eElPV29HbEQwczBn?oc=5",
+    "fecha": "2026-11-24T06:00:00+00:00"
+  },
+  {
+    "titulo": "A Gaby Goldsmith, ¡ya no la contratan para las telenovelas! La hospitalización de su madre le golpeó su econo - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWl9RZWtvY2tLa053Y2dRVEs4ZFF5ZVpOdUZrclBqNldqMkJvYVZMUHhCVUllajU4Q0hMX04tTDlTSkFMcG1vVm1xdXF3cDVvdHh5Xzl1Y2d5NXd4UzZ1ZlU5ZjJyMFJRRjl3Y2RwV2xJeER4U1ZrV0ZuWWFWLXAwMXpVR1YtRWdpcF9sU1RxSzVwbzVGbTdXeUJVVWxfR1ZMdWMwRHh3T1dqb01GOVRpeXNaVlpVWEJLNWlUbUFoZjBFYVNoMUdCc0dWV25saVMxbUJTZTJYOUFfQ3pRSmg5Z0FBakdhQjhhd3g1WdIB-gFBVV95cUxNWkJ6Nll0VXZuX2paVVF2XzdqdGlSQVJSbjA2cGxpYkhwSDR5SkFVVEVpZG9vYkJxQ1l3cE5CQXNTQ044MUVBb25xQXBiaTNuZkZDWUUzcTBlNEV2N0pJX1VtYnpVeW9EcHhZNWpIMDlXMXpfc2NPM1NKX2pQSlFSb1JtZzFBYzBPaFM3MHRhYnh6dmlLMWxuUkFvQmpIcjVmX0VsX1NpZXBTc3VPRHNuSklfTEFnVzUxZ1ZkbkZRQkxhS21oT3hmWjJ6TXRTOEhEaXV5WG1RczdmbjItZVJybmdZbjA2LWRzaTdxTG9IenJDSmNTenhGZ2Z3?oc=5",
+    "fecha": "2026-11-24T06:00:00+00:00"
+  },
+  {
+    "titulo": "Yulianna Peniche, la Maldita lisiada, le hizo una particular solicitud a su Nandito, Osvaldo Benavides, ¡le p - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQm5seExaNWNHREp2UTVCVzY2bzYwRFFFeGc5eTdGSXROck04VVRscmJFRWNDMHI5Z09ZVHRvNkJFOEV3NEd3VVMtVFpoSUFGTm1WTFBmRXlwYUNENHJQR1c5aFVDYWx1alRLTkRiSk11alhDWHJrek5CdjJuZ2E4Z0ZRLU9Yb3dELU5XbXUwV3FTWWw3Y0toTWtwZExTYnE4akEta016NmpCVEZSclJ6Z04ydmdBV19TMVJqQ2FVdDVSWXFXbi1ORUZiWjZQU3c1T2pRSHdTX3NiU3RvNTZQYnZlUkxpTjdvam1Qak5nQ2lKNV9uOXfSAYMCQVVfeXFMTXh4UEloakU5U2VodWJ3SWNQbUduMERSU0VnU0RZNF9ubldLcm9kMFEwSDZ0VFYxSWN6WldxcUFWRXozM0NPamszNkxOY0IzT1dhejVRT3V1TjYySDhueHpzUGdNZEJEZ2lFUk5DMlViQ0IxcVNqeXA0elRiN0dPQWRWM3pHQVpid29mVWhZVHlRN1ZKNFozbTh4ZEZwTy1UWjVqTUc5cTUtXzB1Z29uQ09YSkV0eXlwRVFoeEtneUlFNURWMGhNUFlCRDVRaHlvaEd0TUd5Y2pjalBXZVFiUk5KZkZ3NDZwMnJ6N2FDT0daTmZLUTJ1SnItYzRLOV9oNE5PQQ?oc=5",
+    "fecha": "2026-11-24T06:00:00+00:00"
+  },
+  {
+    "titulo": "Portada 1554 - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54UXJ6cl9xSng5ZEFCdU4tVllQTURjUjFORDFvei1hWFNKRHZXdlBpY1NaUWxfS0p1Ylk4LWVnSHdCSlM3QnNwSF8tc0xTeU1yYWp5dk9Qei1xQzQ?oc=5",
+    "fecha": "2026-11-24T06:00:00+00:00"
+  },
+  {
+    "titulo": "Arturo Vázquez, hijo de Alberto Vázquez, enfrenta duros problemas económicos: \"Vivo de las ayudas y prestamos - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ1pfdnlMSXo3b0Vwc2FlS1JyWTFlSy1QN1h0MzEtd3hyYVB0TFpHRmJ2dENSMnM3ZDJ5RUZuNnFKclVlQlNnWU5MQWt2MXh3Ylp1Z1p3MWVoeDVheW5BT19nQ1pBNXRZVjZOTUY5NEE1MmN6R3BsVWpDSlpHX0pTLVdXckRGWWlIcHBxZWZScWNncVRmM1g3YkRGdjNuZmtaaWNIMHBhYVl2TWhFOVRZYWF3U0pleXRtVkxZWU13b0w2UmswVm9NbG5jS0FyTzd1X2p4Z3ZzSlFXZ21uM3hJRkxSa2s1UmvSAfQBQVVfeXFMTjVFdUREZWdQemNONnMtVXA0amhCZ25wSFpVQmhEd1BsVTZfaW9nZE1lSXBOazBsaVhZcmZMVXpBVzVMNlhiLTM4dHhzYXFDRDMzS3loZXdWbHg5Vi03djhvUmtZcExGS0xSUU5YSlI2bWFXTXpmcV83WnB3Y29OOURmR096emExZWdYeFA1dFFHZVdGOG9EbTIzR3Q4UWU0Rm9RbGY4OS1YZDE0VC1NczNkTFotM3ltdm9IZzRRSlVKZnhWMm91ckg3elpTb3pncWplSmJ6eWdXSjdMMEpXLWRDSXhJWkVXMVYwLVhzRU1ONWVuSQ?oc=5",
+    "fecha": "2026-11-24T06:00:00+00:00"
+  },
+  {
+    "titulo": "¡Oh, cielos! Conocido comediante visita lugares de encuentro y ¡tiene intimidad con 10 hombres en un solo día - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYTVxLTZ5QWFjNUtEemlpbmpsenhPcGFHUDRJTndVcTFiOUJEU2JxMG11cTRBWFBoTTcwcXNrU2h4UXdJYXlRaXlHS0ZpaTZWeHJycWhZTzU5c2lRWVRJbXJabkNwUTBkZFJfNlVvcUFHQTg1YnJrQmNkdFNNRVNqczB2eXpNVklDOXRMbXotbC1ZUDZlN2NZOURGUzd2eExOQzlNNXJIb1J1LVFSRG85Tm5qVkZTUFlyaVhkdWpjSk94NkpOOUg5V2JGeHhsTllPZDJKVlYtMG1ZY19JRktBUlZvRTI4OFXSAfQBQVVfeXFMTVQ2UzZWbF9oTGdSODAxUFlqRENib3JnMm1xb1c1YmlBVjNqanZUNFBEZW1WYVhvcGM1MkJzNXRTVjMxekw1SXRoeHQyVWgzTjFvMW44R0hkTFNGcVExV08zZks1Q0R0cVBTT2dJa3IwMHpZQy0tbDFBck5TMkg2dnNpdGlfc3pmVENIZTUyUUdFOXVVcHVYeHpiRjdXaElVTE5GcmRJa3FOV0h3SmlWRzA2TEU2bkhJV3Q0NV9yanZ6b19GQ3F0a3pOWUxWalBua0tVLXVpZjhRdjBibE9LaWgzbmhjWjU4YkRORTFPU1dEOUZxdw?oc=5",
+    "fecha": "2026-11-24T06:00:00+00:00"
+  },
+  {
+    "titulo": "Billy Ray Cyrus Shares Snapshots From Miley’s Wedding: ‘Beautiful’ to See Family ‘United by Love’",
+    "fuente": "Rolling Stone",
+    "url": "https://www.rollingstone.com/music/music-news/miley-cyrus-wedding-father-billy-ray-cyrus-1235663323/",
+    "fecha": "2026-11-24T05:36:39+00:00"
+  },
+  {
+    "titulo": "The Best Magnesium Supplements and What to Look For, According to an Expert",
+    "fuente": "Rolling Stone",
+    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/best-magnesium-supplements-according-to-expert-shop-online-1235617573/",
+    "fecha": "2026-11-24T05:02:00+00:00"
+  },
+  {
+    "titulo": "Carlos Bonavides ya es abuelo; Aylín Barrera, su hija no reconocida, dio a luz ¿habrá reconciliación? - TVNotas",
+    "fuente": "TVNotas",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVGZzNnNtSUVZWFprbjdYQzViY0FvVm1oQU1zUWFfd2taeUttQWVBOGgyRlE3R0VYajFWakViS2ZwMFhFYVdVWTY0QWxUbV9aN0tQYmFGSU5RdWxlakF5bzc3eEtfQW9kcmQ2VEE5dkNfNklsZmZSSHZaZ0d0U1VjcWFQeWpIOXBBNDUwSERyaVB1a1VGYVM2RU9vVjFMY3FXSXNFdUdDTXA0eDZCMnk3clAyTGhXNktzZnBlZzBSeWQ5VlZzVHVNRnp0cVF0OGJXRU9VTy1ld1FNb2_SAegBQVVfeXFMTUdTM0ZJTUNEeWkzcVJlb1VuZnQ0YzlJbVZJaVpXVjZTU1ppTHFjZ0huZHJacExHbmU3ZTNCRkIzVzRuRXdORXFLdDZFUDFmaURSbV9HZlVKMDFJRU5USlhxYjVGVTlaX3Rpb2QySTI4bnRGbFUxdTQ3dC1OZFZJV21waDFyb0RzZ0lIVy1YVFlIX3I4R2xzZkJBNGdfU3k3eFhCUUVScUhYZDJ3LTVWR1o5RFBDWnBIcHk3dWtvOVYwSEhlRUR4NGhZcHlCa1EtVUk4eWFrWHJyRDdiRklMWHBhRnFHVjl6bA?oc=5",
+    "fecha": "2026-11-24T04:03:31+00:00"
+  },
+  {
     "titulo": "José Eduardo Derbez ¿batea a Mariana Bo? Revelan desplante en plena cita; ¿terminó su romance? VIDEO - TVNotas",
     "fuente": "TVNotas",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1Q3LWlYOWhnS2hZT0JFbjlSQWJfbmEwMENhTTBYdThYX082MWRxT0JqakVfVXdNYlkyZHZMYnVvemVZRFRzZmZUZXpsNVg1eDM1ZkR4UlVwZUlPNjY4TzZKZHNpVDQ1eDBqbXNkSjcxTXhFaXY4WVlnLWVVaWdETlJ4M0dpajNQZ3hnTjBKSmktZ2M4S181ZVRGblBsQWZWQUROc1Y5SkFWZFFLNUNIVEZoSWpDQ0ZiVDlOQVB3b2UtQ3hjM25ZSTZvS3NwX3B6MGZ4aklMeE02Z9IB5wFBVV95cUxOM3YxR1I2TU43aXNuVHg4UnVQTDhjUHg2dGJGSWxOVHZ1YmRQcmloUjhOVnpkN3I5X1U4MmV6aVQzU0ZlVDlXalZGeDdIZU9ucDVvbVA3MXpSbFl5enNrTElKWFZ3dWpNckFrenI3Z1pTcnlCZFgtS2pqV2ZuM0g4dUJxWnhYNWQ0SndVMHB5SHhsV2hCYlJoU0thb0E1RVJyYmZhaFR2dG1CSkZsWGRkY1o4SjhWend2ZGk3bHAzdnByUFR2NUYtNW1yeHlPNmNYVElsX09Rdm9mVDQybDJDUXp4eWxkOVU?oc=5",
     "fecha": "2026-11-24T03:49:17+00:00"
   },
   {
-    "titulo": "Miss Universo 2026: FILTRAN al top 5 favoritas del certamen a horas del evento: ¿México tiene posibilidades? - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeC0tbDhKclpCM2YzQjBYMHNaZUFpNHltVl9lTmdONWx3T2J6X3NjVmJmU3BZLVNjMm5panFXTmtEWkxxNmlSR0VFSk9fYkRIRTluajVJdHNwQjczWkJDUzBqXzNxMUtBSFB3NnphZWlPNkxHcEVpdkRXN1BTQzNVWlVROW4xbmdOSkVxeWs2LUtlZzFtZHF3OW1uUEExbUZfOExQVzhOdVlPY1dhMzRDaElEbnRHQWhjckJkb2ljTnRZOEhRZWpyQ291c0NXWmthVGpaM3Y1dUVHTS1hMnY2SzFXbEhfUE9KUF91YlhjTdIB_AFBVV95cUxQam5qaEVjRjdVdHlSV2JiUzhRUDRYMFpiY3BSM3E0dUlybUViekVacWVxcXpNR3p1OEQzeFBXX3FVTlhCMDBYUnhGbm5MTXEweTFZVkdIZVBxRGJCN2hFREVRTEFnQWRhelktSFBUWE43Zy03bTA5MFZ2S1VwMGpRdERnSmJWZy0xNERlN1MtaFU4OVdmRzZjSUhvMTJrNnEtM2EwbEpjRWJ5cmYyYjduYkdvbDFFZDVwMVFOMWxnRUR4ajNrZnVJaHh5ZHN2VnY1RXVPQWNIbkktZ3dUSzdIbENNQmVFcktMRjlTbWhqeGtTZFByREpES0k2SVo?oc=5",
-    "fecha": "2026-11-24T03:26:25+00:00"
-  },
-  {
-    "titulo": "Ms. Rachel Shows Support for Unrepresented Children Facing Deportation at Immigration Court",
-    "fuente": "Rolling Stone",
-    "url": "https://www.rollingstone.com/culture/culture-news/ms-rachel-support-children-facing-deportation-immigration-1235663297/",
-    "fecha": "2026-11-24T02:41:12+00:00"
-  },
-  {
-    "titulo": "Alfredo Del Mazo propone ciclovías con sensores y datos para reducir accidentes en ciudades de México: ¿Cómo? - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaW8tZ3cxSmpuRkJ2eXpKaWh2MVNtT2xfd2F4eXYxXy1NbktySmE2VHc2Mlc2SlRCOENQUEJCTHFhMzVfeTBYWUFET1N6VVFOTnVaZFZDb0dNTzQwcW0tWUxLOG80MVR4OV9BZVpnTXFPT05qUTdNZWoxSmlZZUZMN3AxZGRYYV92RjZ2bEN6dC1kcE82QU5VRXc3aEtVSlVvNHpUMXc2cTNQTXU4aFZkNjBYTFc0Ykg0VWFmTXRNbU14Z0hYWkgwMjBEaVo2OVJkOTRhbnZ6dTFGT3dp0gHqAUFVX3lxTE1RZ0VvZGowY3YzZUpwcmNiSS1lOEV5UDNuZG5wNFVIejRpY1VLMU9ZdlNHQnpVbWtxM2xkV01yLWRLclU3c2NmQThFa0JBSzZVSTF1MXJRTXdpTWdhcVJOOG5JY0NsSHJoTmg3TlZlVEhzWk5UODlRZlBxN3hFbmRhbi1GaUlJZTBoSW9Sc2g5V0lRNy1WT2dzS1VqLU05SEhsWERORE1ZUXNYLU53a0w1aXJQTWRFNGxUNFN3WkdJSEFHMkUtU3g5aHFMYVd4VkE3X01sMW9ScU5Gb2s2OG1YNDdyczU1SFlodw?oc=5",
-    "fecha": "2026-11-24T02:21:59+00:00"
-  },
-  {
-    "titulo": "Galilea Montijo se pronuncia ante las acusaciones de Vadhir N, ¿se le va encima? “Las disculpas no bastan” - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN3FJMk1lSzBBUDY5YU16SU1oQVNmS0ZldkhEN3F0ZGlRMjRqTV8wLTlYWTlVOWc4SU14dUN6TzBvQU8tQXB0SnlMcWhQN2JEaGhJX01JRGlxRWlKSm40YlE2VGFLUmhiRlNOblF6ZVJNdF9vd2RQOTJHaWZwamo5ZUJ3SG00TzRtR2l4MVlyZExtNHpOaU9MWmFvaGQ0LV83T0ktNFNfd1FGNVk0aklLQ25ERldQTlNyT1RWNDRVWE4yVzl1bEpqUHQxbmgwVTBWVHY0aHZFQUVaQ2UwdVQtbFNB0gHvAUFVX3lxTE0wZk5nMlhCMTFfZXF6dm9UTmJ5OVZoNFJISTgyVVRZTkgwNGRGaFByVU12ZkRkOGlDenBoUzBlYUlfT3JLSXlJbk5GdDRIZ3diTC1YQklWaE9pNVVNd2xKcWxRVktSSXRGUzlKb19fVlhBeVpOVFhTblpkUDZBQkw3VGRzUy16bWtqa1N4SFRFSHNQTzJDVnR6aGs4dmFzRGI1UkY5MnV1Tnlrc3gxcG9IUWdDb3RCMTZwelNWOF9BdVFpclBYVXZHMlMtei05UlV5N1otdm9VVUk4eXVweHAwZXZiQ1hZT2lLVTRidFlF?oc=5",
-    "fecha": "2026-11-24T02:12:19+00:00"
-  },
-  {
-    "titulo": "Natalia Alcocer estalla contra Manelyk por denunciar violencia de género en La granja VIP: \"¿Es neta?\" VIDEO - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS0w3VE9VZlF5VGpxSmFyOGNubUFFWjFmM3kwUEIzTzFRSjg1Tm5jaXl1RHJEOUxyNEoyM2FTd3VGZFUxODRBMkJOeHNvTHNJeXBWNkRCSTJTVDdEVlZkVVAyMnlmQi1XMzFTNVhxcW4wS0NldHNoNXVUS3hnWXZWdzR3TkQ2RjBCdWRVR2hiYlFzTUExaTFRUlhiN1d2dzY2MmNqYlhRdE5ickhZZXJVTEZXN3U4bVdJSWFaRVlPWXdEM2hfSExmY2RtMmJpNzE4QWVuZUxxdTQ0VElETWxSRUY4bVrSAfIBQVVfeXFMTkc1cXlfRHNDVlVwbWxvYzhjdk9HbUJ5THVOZGpRSjBMM2RaMnlhc0xaMlItTHM4TUtxdWx1djViWWU2QjdIRzhqVDQ4MUY1amJ1dDRudWtuaE5QT1BZTmJqTnl1ZHd4NzQ4VFZ0eVFDWXJZbU5jek5wWjlSUnFfdGJBQ0dZN1hCcGdTY0hvME5WVzJfNlg2RERhajlYR1otRDVBTTE1cllWbzZRakJTYW9HWUIyMjNvdS1NeHJPc0NNd2lPZWhOa3paTi1vcDgtMlZOSlowbUJhNFY1bzdlOGZaNk9EX0otb0l2RU5qcHBQOXc?oc=5",
-    "fecha": "2026-11-24T02:11:36+00:00"
-  },
-  {
-    "titulo": "La granja VIP 2026: ¿Quién se convirtió en capataz HOY, 23 de noviembre? ¡Revelan el legado de 'la Bebeshita' - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOal82endFQ0RHUXF3N3IzM2R4cHZUQUpHSFRkY0lVRnU4eFp6dlZDN2ZQUWxhUVI1bVA1c2JIcHJncmRhbkxWV2d6eWVBbldEcklQUm9WMmNmcVRmN3VsNzZmOFFwUHdsNkNTM0xwMWlLaTkzR1Zjd3FXUENITnkzeXhSeU9USElZOEUwTXdBanc1X1diMWFWNUpENW9hY0RkZ2E5LXowNmt4a1ZhRk9nSm03MXZLVmZHekZVd3RPam95OHdOTmlsLXl5TkJMMlBuc2dSOFZhRFBCRXZGNS1Sb2VzY9IB8AFBVV95cUxQd0o2TUxreUQzeVo0OEk1Sml0X24xZU5jdmRJak5XOERiVG12eXV3MHFvYURiRGxyWElmdnBNVWExN241QVVYWHktamItdGZWUF83dkVDY1NLeTEyaWVLemFSaXJzTHE5ZU9xdkk2X292MVRzTDRWWkl0T09nWWg0ODd5NVotbi1wU1BuWDhiTnUtaUxYbkwtUV9qRmI4SGM1NW9UTjdDU2NhaVltdHRMdkJyOTh6TDZVaU11RTVKUEtyM01hQWl2SXJLa1R4ZzdzcllEWGt5Wl9id0ZLd2poSEJZVE9NMlJwQmdGWFJMX1A?oc=5",
-    "fecha": "2026-11-24T01:20:53+00:00"
-  },
-  {
-    "titulo": "Bob Seger and the Silver Bullet Band Bassist Chris Campbell Dead at 78",
-    "fuente": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/bob-seger-silver-bullet-band-bassist-chris-campbell-dead-1235662929/",
-    "fecha": "2026-11-24T01:11:22+00:00"
-  },
-  {
-    "titulo": "¡Boda en la dinastía Aguilar! Leonardo Aguilar se compromete; Adriana Caballero presume anillo en redes, FOTO - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdnBRZUpOcjBCRXlIUnZNMU54WUFNMUppblBmVUxIM3pzTld5OTUxZU1JWlpsQ3FqT1lWOWJVMXdaNHdGamREVEZ0QUtjbFpqeHVfNnlPYjRBYkMxUnRLbFJKSVNVTHI5dlJ4WWxrMDQ5Wlc5UUttOTJzam5mY3Y1d1V2RTNtNkFBbUl1OHBobjJMaWRtX1dIaDFZWFRtVEdIb2huUzgxb3ItWjEwb3doekVYN3RHMWt2clZ4dk5tTkhtay1OQlRiVkFac0F6c3prUzRUeGxfWURsOV92SEp2YXhNOHEySlnSAfQBQVVfeXFMT1A1RXVETTJOVm1ZOXowWThIS25oUzZRNm5CNUJzOXpMb1Btek1aaUVCQzV6cXVSMjE2djVnTXpuVnpTUlZ2b3huWTd5bmM2RjMxcVZETlg5Q0tfNjlwLUlPVUNUTW8xa3RMLXh2UEkxeEpXYXhCXzZ3bE1zclhLbTRfV0pCdm5oT0I1TE5LYXlIUzZBRjdRTDVNS1Z5cklnNUw3ZjA0c29qdlJ3S2RycXFuZWdzcWhBUWpKbDBLYzEzNG00MmFOdDBtMzFjRURwRE1GT1BBTFJQSHMxTFhfeFBOVk5ZNEdOZDIwYW93emNvR2xhMA?oc=5",
-    "fecha": "2026-11-24T01:07:05+00:00"
-  },
-  {
-    "titulo": "From Suits to Basics, These Pieces Are Up to 79% Off at the Men’s Wearhouse Black Friday Sale",
-    "fuente": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/lifestyle/mens-wearhouse-black-friday-1235183311/",
-    "fecha": "2026-11-24T00:58:00+00:00"
-  },
-  {
-    "titulo": "¡Sandra Itzel pierde parte del pleito legal contra Nuja Amar! Esposa de Adrián Di Monte se impone: \"La gana N - TVNotas",
-    "fuente": "TVNotas",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVHdjYlZ5b1VZNFlmamx2dWxDeTdteGhZd1hma0hHcFFhWGNtUzJsUWVXbS16ZzRFZ1RZcWtMcmVfcXBGNVNzYnF0S25QUFFySThLZlROQ3U3bFdYZ3VWb0VxMS16eTdCbmtMZkdBRkZ5cEVRdDdsUmxucUFvREF1QWJOWXlNbEd1ekx2TmtRV09GUXlNSmdqVTZWNTZoYnYwbnNLelpUbzlnMnF4XzNQUUQ5VU5NUmRpQjdJSkxYRTZKTUtMUDczbUN2d0dFLXJia3M5NUZpbU9aUmVlMWhPd2ZwUlFLemdwb1pv0gH4AUFVX3lxTE1ieUZaWFQtdENpbjg0VkdNRko5N0RMSHpHZjdka1p5LTIxckdqTVhYaEtZOHBOYnE2M3VaYXdiNHNKTng0Z1RNQU9pNG9LZkNDa2ZBS0pfT2sydXoteDdIVTl1VjgtQ251SmlBS0JGRFV2SmF6aWFDWjFtSkV1ZVYyWk9vREFmc2tvbzZqb2ZKVFB2QW9VOE1XQUx2ZnNlZ2IwM0E2dzltQ0ZGZ3pybFd5SkJRWlVTTlZIOEoyakw4Ri1fQjRQQmxGV3dfay1aMTVmVm5Pa3FfWURWT0lsa283UTV5SnN6UFpBNzY1bV9obEJIMllaTmRr?oc=5",
-    "fecha": "2026-11-24T00:51:56+00:00"
-  },
-  {
     "titulo": "Paola Dalay presume lujoso viaje y 'riqueza' de César Romo; 'Ventaneando' asegura que todo lo obtuvo por colaboraciones - Radio Fórmula",
     "fuente": "Ventaneando",
     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNOXNjdnFPS2hVZk81QVVvUWlTeGlrd3oxUVkzNm9KZkFJa1liamVjNU42TVdpVEc5WXdGc2ZBM3BqYkdlNGhTRnVnNDN5QnA2ZXh5MGp3cVBzY1lvZWpIaTBWOHk0VmlraUpGSy1PeERVbWR6RzFwMld0bXFZWGVSdVVUN0VWZkpiUUtUb3JzRGo0ZklqTGpaQVJ0MTNacUp6UEdQMU0zeW9GMmZ6Sk1JSW45LXZ2aFVOalROYzh4eHBmblJVY2pYLURvZFBSZHFSZEFjenh1a2ZUUnJ1OURhV3cyVjVuWjE5Uzk5bi1jMjBrblkxWVcwOEV4SFYtNGs0RDRvWTZXM0hFX2trbnNF0gGPAkFVX3lxTE05c2N2cU9LaFVmTzVBVW9RaVN4aWt3ejFRWTM2b0pmQUlrWWJqZWM1TjZNV2lURzlZd0ZzZkEzcGpiR2U0aFNGdWc0M3lCcDZleHkwandxUHNjWW9lakhpMFY4eTRWaWtpSkZLLU94RFVtZHpHMXAyV3RtcVlYZVJ1VVQ3RVZmSmJRS1RvcnNEajRmSWpMalpBUnQxM1pxSnpQR1AxTTN5b0YyZnpKTUlJbjktdnZoVU5qVE5jOHh4cGZuUlVjalgtRG9kUFJkcVJkQWN6eHVrZlRScnU5RGFXdzJWNW5aMTlTOTluLWMyMGtuWTFZVzA4RXhIVi00azRENG9ZNlczSEVfa2tuc0U?oc=5",
     "fecha": "2026-11-24T00:06:42+00:00"
-  },
-  {
-    "titulo": "Audible’s Best Deal Is Back — Get 3 Months for $1 a Month",
-    "fuente": "Rolling Stone",
-    "url": "https://www.rollingstone.com/product-recommendations/tech/audible-audiobooks-deal-black-friday-1235662818/",
-    "fecha": "2026-11-24T00:00:00+00:00"
-  },
-  {
-    "titulo": "Mary J. Blige’s ‘Real Love’ Did Not Infringe on ‘Impeach the President,’ Appeals Court Rules",
-    "fuente": "Rolling Stone",
-    "url": "https://www.rollingstone.com/music/music-news/mary-j-blige-real-love-impeach-the-president-appeals-ruling-1235663099/",
-    "fecha": "2026-11-23T23:18:01+00:00"
-  },
-  {
-    "titulo": "Olga Breeskin cae redondita en estafa con Daddy Yankee y pierde más de diez mil dolares - El Grafico",
-    "fuente": "Ventaneando",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGw2ai1mMkNucFQ1amxCYmdNZWdfM3dNQWw0QUxQaHkyWHJkTGxHZzc4bW9JRUVTWWlnOUgxQzY2VXdVRUpVYUhoYkxSeTBNaEZ5QTZtZXdfX01UcloteWI3RTVlN2ZzZmZaTjFaQk52TmE0d3dhQlFEVm13QlRJaDRzY28xMGc1NlctMkJkTnc0ckQtNTdMMW9feFRobW1Ba29jbkZnNTZIdUJIWUZoQkgyTEtaYWw4QWRRYU54OXhmcnVMWmRvWWc2cXVyUXVMRzdV?oc=5",
-    "fecha": "2026-11-23T22:29:00+00:00"
   },
   {
     "titulo": "Exclusiva: Arturo Carmona y Cruz Martínez, exparejas de Alicia Villarreal, esperan con ansias la llegada de Loreta, hija de Melenie Carmona - TV Azteca",
@@ -118,5 +112,11 @@
     "fuente": "Ventaneando",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWRaQXpVXzVEVWNpR3pIX2FCemppaXd4UVBxMlFpRmo1QzJnSUJabjVFeHVsUDM3WFB4eGJoWFhvMnRxRVFqa3gxb28xS290cU5RNEhpOEFWaEdBMjN3azh3OXNDUkxsNkJDSkpQbHUtd1JvVGxZMlFVa05YRmlNRHR3aFBWeHZXWEJCVnJOTXJHdFFRb0R2eC1MdGpZMlJFOFNvR2JvcEZ0alRqN1lhZk01d0xpWWQ5Wl9UZzBaZw?oc=5",
     "fecha": "2026-11-23T21:31:03+00:00"
+  },
+  {
+    "titulo": "Yuridia perdona a Pati Chapoy tras años de polémicas por su físico: “Siempre quise ser tu amiga” - Infobae",
+    "fuente": "Ventaneando",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObVA0Y3M5TE9YcmpTMUlXUmtzV0pWYUxBRUhuWHBzR3BrU3d2a3RHSnBkcm5pMXFQU3pNUmM2M204bnJmdVllMjEyNWZjX3NBRXo5TVJULTViWTMzT1ZDNVNwbFBfdlBkYURIMi01YWRhWllJOUZtMDlnaUcyU2RrVHV3U2xpcm5BSnNaa09ibmFJSE1sOEF4bXB0dS1FQUlOQTh5amE0R2d2dmJOT01LOXo1YVdUZlczUXFmQVp2RW91NkdkaklacEl4MHhDMWJoZGfSAewBQVVfeXFMTXFXaEhKWTF1SGdQM05CcW9oSmlNM1FEckdTdlRJQkdwZEtXRFpyQnRkU2Z3ZjhRaVFuUmQxOE14LWdrNDhLaTNZeHdNYTVJbHVCQXNPeFNVLWV2d1NVSjNUdUR2SHRBMzhSUmtVRGRMTGV6ZDJ6WDZnYWJtRkZ1RmJ2SU16T1FJU2lTam5KcUZRUm12VlM3ZXJGcWxuaHNJTHhCREM3OVdyc1plXzh3bzU0bjBGRTJfUVdWeG9UQ2Q0Wng3ZGJoQUYteVVDOEs2cHpkUU85TnRyZEwtRXRsbmZFcnBMT0lkS3Z4ZTI?oc=5",
+    "fecha": "2026-11-22T16:55:00+00:00"
   }
 ]
