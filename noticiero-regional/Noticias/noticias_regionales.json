@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Con sus productos frescos, Dionisio ofrece las delicias y el sabor de la Sierra de Pénjamo",
+    "fecha": "25/11/2026 09:47",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/25/con-sus-productos-frescos-dionisio-ofrece-las-delicias-y-el-sabor-de-la-sierra-de-penjamo-172356.html",
+    "resumen": "Ubicado cada semana a las afueras del mercado, Dionisio funciona como un puente para que habitantes de Pénjamo degusten el sabor de la sierra"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Reubicación de comerciantes genera incertidumbre entre nopaleros del mercado de Pénjamo",
     "fecha": "24/11/2026 20:31",
     "fuente": "Periódico Correo",
@@ -33,14 +41,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Abasolo lleva el programa “Escuelas Ahorradoras de Agua” a la Primaria Lucio Blanco",
-    "fecha": "24/11/2026 07:53",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/abasolo-lleva-el-programa-escuelas-ahorradoras-de-agua-a-la-primaria-lucio-blanco/",
-    "resumen": "La jornada, realizada en la colonia Emiliano Zapata, busca fomentar hábitos de ahorro de agua entre estudiantes y personal escolar. Abasolo, Guanajuato. La Dirección de Ecología y Medio Ambiente de…"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Comisiones del Congreso estatal avalan primer bloque de leyes de ingresos municipales 2027",
     "fecha": "24/11/2026 17:11",
     "fuente": "Notus",
@@ -70,6 +70,46 @@
     "fuente": "Notus página 3",
     "url": "https://notus.com.mx/manuel-doblado-arranca-dos-obras-por-mas-de-4-8-millones-de-pesos/",
     "resumen": "Manuel Doblado, Guanajuato.- El Gobierno Municipal de Manuel Doblado inició dos obras de infraestructura en la colonia Miguel Hidalgo y la comunidad de San José de Bellavista, con una inversión conjunta de 4 millones 818 mil 380.63 pesos. Los proyectos contemplan la construcción de banquetas, guarniciones y pavimentación para mejorar la movilidad y seguridad de …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Villa Navideña llega a Irapuato con espectáculos y actividades familiares",
+    "fecha": "25/11/2026 10:52",
+    "fuente": "Notus",
+    "url": "https://notus.com.mx/villa-navidena-llega-a-irapuato-con-espectaculos-y-actividades-familiares/",
+    "resumen": "Irapuato, Guanajuato.- La Villa Navideña Fiestas de Paz 2026 llegará al Centro Histórico de Irapuato con una amplia programación de actividades culturales, espectáculos, atracciones y eventos familiares, con el objetivo de promover la convivencia, fortalecer las tradiciones y compartir el espíritu navideño. Durante la presentación de esta celebración, la presidenta municipal, Lorena Alfaro García, destacó …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a hombre en Lomas del Pedregal de Irapuato",
+    "fecha": "25/11/2026 09:53",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/25/asesinan-a-hombre-en-lomas-del-pedregal-de-irapuato-172357.html",
+    "resumen": "En el lugar trascendió que el hombre asesinado en Irapuato era presuntamente un agricultor, pero esto deberá ser confirmado por la FGE"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“La Morada de los Hombres”: el libro de Israel Morales Castorena que revive la historia del Irapuato antiguo",
+    "fecha": "25/11/2026 04:54",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/gossip/la-morada-de-los-hombres-el-libro-de-israel-morales-castorena-que-revive-la-historia-del-irapuato-antiguo-33246351",
+    "resumen": "El texto permite saber como era el municipio fresero hace más de 2 mil años, quienes fueron las personas que habitaron el territorio en aquélla época, cómo era su vida cotidiana y dónde estaban los pueblos que construyeron"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan a agricultor cuando salía de su domicilio en Villas de Irapuato",
+    "fecha": "25/11/2026 04:19",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/policiaca/asesinan-a-agricultor-cuando-salia-de-su-domicilio-en-villas-de-irapuato-33303371",
+    "resumen": "Jacobo Schevenin, dedicado a la actividad agrícola, fue atacado por sujetos armados cuando salía de su domicilio en Lomas del Pedregal"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato mantiene gestiones para concluir el centro acuático y construir puente en Carrizalito",
+    "fecha": "24/11/2026 21:14",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/irapuato-mantiene-gestiones-para-concluir-el-centro-acuatico-y-construir-puente-en-carrizalito-172337.html",
+    "resumen": "El Gobierno Municipal de Irapuato gestiona recursos estatales para concluir el centro acuático y construir el puente de Carrizalito"
   },
   {
     "prioridad": 2,
@@ -118,45 +158,5 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/24/asaltante-de-uber-en-irapuato-tiene-35-arrestos-en-su-historial-fue-detenido-con-droga-y-un-cuchillo-172295.html",
     "resumen": "Integrantes de la Policía Municipal de Irapuato detuvieron a Carlos \"N\" por la posesión de dosis de una sustancia con características de la droga conocida como cristal y le aseguraron un cuchillo"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Colectivos  acusan falta de disposición de la Unidad de la Diversidad para impulsar agenda LGBT en Irapuato",
-    "fecha": "24/11/2026 16:08",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/colectivos-acusan-falta-de-disposicion-de-la-unidad-de-la-diversidad-para-impulsar-agenda-lgbt-en-irapuato-172287.html",
-    "resumen": "Integrantes de asociaciones de Irapuato señala que su participación en colaboración con la Unidad de la Diversidad se ha limitado a ser invitados a eventos"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Carlos el ‘asalta taxis’ suma 35 ingresos y orden por robo en Irapuato",
-    "fecha": "24/11/2026 15:54",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/carlos-el-asalta-taxis-suma-35-ingresos-y-orden-por-robo-en-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Carlos de 35 años actuaba con apariencia inofensiva antes de ‘asaltar’ a sus víctimas en Irapuato, así relataron habitantes que lo reconocieron tras su detención. Entre su historial delictivo de 35 ingresos previos, destacan agresiones a su pareja y lesiones por arma blanca, además de un proceso por robo y una orden judicial …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Ya hay fechas: Villa Navideña de Irapuato tendrá juegos, conciertos y desfiles para diciembre",
-    "fecha": "24/11/2026 15:06",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/villa-navidena-fiestas-de-paz-2026-inicia-el-4-de-diciembre-en-irapuato-33298363",
-    "resumen": "El Centro Histórico de Irapuato recibirá conciertos, pastorelas, comparsas, talleres y cinco atracciones mecánicas; las personas podrán tener boletos para ellos al sobar un juguete"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "“No estás sola”: suman esfuerzos en Irapuato para prevenir la violencia contra las mujeres",
-    "fecha": "24/11/2026 14:58",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/no-estas-sola-suman-esfuerzos-en-irapuato-para-prevenir-la-violencia-contra-las-mujeres/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- En el marco del día internacional de violencia contra la mujer presentaron la iniciativa, “No estás sola”. La intención que promueve el Instituto de las Mujeres Irapuatenses (INMIRA) tiene el propósito de fortalecer las acciones de prevención y atención de la violencia; diversas instituciones gubernamentales, empresas y organizaciones se sumaron. …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Presentan 6 ofertas para la licitación del tren de pasajeros Irapuato-Guadalajara ¿cuánto podría costar?",
-    "fecha": "24/11/2026 13:12",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/24/presentan-6-ofertas-para-la-licitacion-del-tren-de-pasajeros-irapuato-guadalajara-cuanto-podria-costar-172267.html",
-    "resumen": "Fueron seis los proyectos participantes en la licitación de la construcción del tren de pasajeros Irapuato a Guadalajara"
   }
 ]
