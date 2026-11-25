@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Reubicación de comerciantes genera incertidumbre entre nopaleros del mercado de Pénjamo",
+    "fecha": "24/11/2026 20:31",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/24/reubicacion-de-comerciantes-genera-incertidumbre-entre-nopaleros-del-mercado-de-penjamo-172324.html",
+    "resumen": "Los nopaleros de Pénjamo mantienen incertidumbre sobre el lugar donde podrán vender sus productos tras la remodelación del mercado municipal"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Aparece “tiradero clandestino” junto a la Presa de Tacubaya, en Pénjamo",
     "fecha": "24/11/2026 15:54",
     "fuente": "Notus página 2",
@@ -33,14 +41,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Pénjamo busca 500 millones de pesos para el presupuesto 2027",
-    "fecha": "23/11/2026 19:32",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/23/penjamo-busca-500-millones-de-pesos-para-el-presupuesto-2027-172216.html",
-    "resumen": "La presidenta municipal Yozajamby Molina informó que Pénjamo busca 500 millones de pesos para el presupuesto 2027, monto similar al de años recientes"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Comisiones del Congreso estatal avalan primer bloque de leyes de ingresos municipales 2027",
     "fecha": "24/11/2026 17:11",
     "fuente": "Notus",
@@ -54,6 +54,14 @@
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/pareja-de-motociclistas-resulta-lesionada-tras-chocar-contra-un-trailer-en-la-federal-90-172238.html",
     "resumen": "Una pareja que viajaba a bordo de una motocicleta negra se impactó contra la parte lateral de un tráiler que se incorporaba a la carretera federal 90 Irapuato-Abasolo"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Huanímaro recibe las reliquias de San José Sánchez del Río; alistan altar",
+    "fecha": "24/11/2026 20:44",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/24/huanimaro-recibe-las-reliquias-de-san-jose-sanchez-del-rio-alistan-altar-172327.html",
+    "resumen": "La comunidad católica de Huanímaro recibió la imagen de San José Sánchez del Río, que fue entronizada en el templo de la Virgen de Guadalupe"
   },
   {
     "prioridad": 1,
@@ -80,12 +88,36 @@
     "resumen": "Los cortes afectan actividades diarias y preocupan a familias con pacientes que dependen de oxígeno; habitantes aseguran que la CFE no resuelve las fallas"
   },
   {
-    "prioridad": 1,
-    "titulo": "Trabajadores de Cuerámaro viajarán a Estados Unidos con empleo temporal durante 2027",
-    "fecha": "23/11/2026 20:35",
+    "prioridad": 2,
+    "titulo": "Irapuato alista la Villa Navideña Fiestas de Paz 2026 del 4 de diciembre al 6 de enero",
+    "fecha": "24/11/2026 20:48",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/23/trabajadores-de-cueramaro-viajaran-a-estados-unidos-con-empleo-temporal-durante-2027-172226.html",
-    "resumen": "Cuerámaro enviará a 170 trabajadores a campos agrícolas de California durante 2027, donde tendrán empleos temporales por seis meses"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/irapuato-alista-la-villa-navidena-fiestas-de-paz-2026-del-4-de-diciembre-al-6-de-enero-172329.html",
+    "resumen": "El Centro Histórico de Irapuato se prepara para la Villa Navideña Fiestas de Paz 2026, que comenzará el 4 de diciembre con el encendido del árbol"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Muro del tren de pasajeros mantiene afectaciones para vecinos de Apaseo el Grande",
+    "fecha": "24/11/2026 20:12",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/24/muro-del-tren-de-pasajeros-mantiene-afectaciones-para-vecinos-de-apaseo-el-grande-172319.html",
+    "resumen": "El Muro del tren de pasajeros Querétaro-Irapuato mantiene inconformidades entre vecinos de Apaseo el Grande, quienes aún no logran acuerdos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Acusan fallas en operativos contra venta de alcohol en canchas de futbol en Irapuato",
+    "fecha": "24/11/2026 19:26",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/acusan-fallas-en-operativos-contra-venta-de-alcohol-en-canchas-de-futbol-en-irapuato-172311.html",
+    "resumen": "El regidor Ignacio Morales Rojas calificó como fallidos los operativos contra la venta de alcohol en canchas de futbol en Irapuato y pidió reforzar la vigilanci"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato refrenda su compromiso contra la violencia hacia las mujeres en el 25N",
+    "fecha": "24/11/2026 19:21",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/24/irapuato-refrenda-su-compromiso-contra-la-violencia-hacia-las-mujeres-en-el-25n-172310.html",
+    "resumen": "Autoridades de Irapuato, representantes de empresas y organismos civiles de Irapuato refrendaron su compromiso para prevenir y erradicar la violencia contra las mujeres"
   },
   {
     "prioridad": 2,
@@ -97,10 +129,10 @@
   },
   {
     "prioridad": 2,
-    "titulo": "Detienen a Carlos N con dosis de cristal y un cuchillo en la colonia Flores Magón Sur de Irapuato",
+    "titulo": "Asaltante de Uber en Irapuato tiene 35 arrestos en su historial; fue detenido con droga y un cuchillo",
     "fecha": "24/11/2026 17:13",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/24/detienen-a-carlos-n-con-dosis-de-cristal-y-un-cuchillo-en-la-colonia-flores-magon-sur-de-irapuato-172295.html",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/24/asaltante-de-uber-en-irapuato-tiene-35-arrestos-en-su-historial-fue-detenido-con-droga-y-un-cuchillo-172295.html",
     "resumen": "Integrantes de la Policía Municipal de Irapuato detuvieron a Carlos \"N\" por la posesión de dosis de una sustancia con características de la droga conocida como cristal y le aseguraron un cuchillo"
   },
   {
@@ -121,42 +153,10 @@
   },
   {
     "prioridad": 2,
-    "titulo": "“No estás sola”: suman esfuerzos en Irapuato para prevenir la violencia contra las mujeres",
-    "fecha": "24/11/2026 14:58",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/no-estas-sola-suman-esfuerzos-en-irapuato-para-prevenir-la-violencia-contra-las-mujeres/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- En el marco del día internacional de violencia contra la mujer presentaron la iniciativa, “No estás sola”. La intención que promueve el Instituto de las Mujeres Irapuatenses (INMIRA) tiene el propósito de fortalecer las acciones de prevención y atención de la violencia; diversas instituciones gubernamentales, empresas y organizaciones se sumaron. …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Presentan 6 ofertas para la licitación del tren de pasajeros Irapuato-Guadalajara ¿cuánto podría costar?",
-    "fecha": "24/11/2026 13:12",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/24/presentan-6-ofertas-para-la-licitacion-del-tren-de-pasajeros-irapuato-guadalajara-cuanto-podria-costar-172267.html",
-    "resumen": "Fueron seis los proyectos participantes en la licitación de la construcción del tren de pasajeros Irapuato a Guadalajara"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Los Barrios de Irapuato: así nació la tradición guadalupana que cumple más de un siglo",
-    "fecha": "24/11/2026 13:02",
-    "fuente": "Notus página 2",
-    "url": "https://notus.com.mx/los-barrios-de-irapuato-asi-nacio-la-tradicion-guadalupana-que-cumple-mas-de-un-siglo/",
-    "resumen": "Irapuato, Guanajuato.- La tradicional fiesta de los Barrios de Irapuato tiene sus raíces en el siglo XIX, cuando los habitantes de la antigua villa comenzaron a organizar un octavario en honor a la Virgen de Guadalupe. La celebración surgió por iniciativa del sacerdote Juan Nepomuceno García y reunió a los distintos barrios en jornadas consecutivas …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuatenses localizan a ‘asaltante’ de taxis y lo ‘entregan’ a la policía",
-    "fecha": "24/11/2026 12:07",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/irapuatenses-localizan-a-asaltante-de-taxis-y-lo-entregan-a-la-policia/",
-    "resumen": "Irapuato, Guanajuato.- Ciudadanos irapuatenses identificaron al hombre captado en video asaltando a un taxista y lo retuvieron hasta ser entregado a la policía municipal. El presunto responsable fue asegurado en posesión de presunta droga y un cuchillo. De acuerdo con la evidencia documentada por el chofer de un taxi, el hombre se hizo pasar por …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Obras Públicas cerrará el año con 65 acciones y 150 millones de pesos para calles de Irapuato",
-    "fecha": "24/11/2026 12:04",
+    "titulo": "Ya hay fechas: Villa Navideña de Irapuato tendrá juegos, conciertos y desfiles para diciembre",
+    "fecha": "24/11/2026 15:06",
     "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/irapuato-prepara-65-obras-publicas-de-rehabilitacion-de-calles-33294817",
-    "resumen": "Manuel Venegas Pérez aseguró que habrá trabajos en colonias y comunidades, además de la intervención en avenida La Virgen; la inversión anual superará los mil millones de pesos."
+    "url": "https://oem.com.mx/elsoldeirapuato/local/villa-navidena-fiestas-de-paz-2026-inicia-el-4-de-diciembre-en-irapuato-33298363",
+    "resumen": "El Centro Histórico de Irapuato recibirá conciertos, pastorelas, comparsas, talleres y cinco atracciones mecánicas; las personas podrán tener boletos para ellos al sobar un juguete"
   }
 ]
