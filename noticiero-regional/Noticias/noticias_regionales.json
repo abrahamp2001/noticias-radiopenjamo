@@ -48,14 +48,6 @@
     "resumen": "Guanajuato, Guanajuato.- Las Comisiones Unidas de Hacienda y Fiscalización y de Gobernación y Puntos Constitucionales analizaron el primer bloque de iniciativas de leyes de ingresos municipales para el ejercicio fiscal de 2027 y aprobaron los dictámenes correspondientes. En este primer bloque se analizaron las iniciativas de leyes de ingresos de los municipios de: Atarjea, Abasolo, …"
   },
   {
-    "prioridad": 0,
-    "titulo": "Pareja de motociclistas resulta lesionada tras chocar contra un tráiler en la Federal 90",
-    "fecha": "23/11/2026 21:52",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/23/pareja-de-motociclistas-resulta-lesionada-tras-chocar-contra-un-trailer-en-la-federal-90-172238.html",
-    "resumen": "Una pareja que viajaba a bordo de una motocicleta negra se impactó contra la parte lateral de un tráiler que se incorporaba a la carretera federal 90 Irapuato-Abasolo"
-  },
-  {
     "prioridad": 1,
     "titulo": "Huanímaro recibe las reliquias de San José Sánchez del Río; alistan altar",
     "fecha": "24/11/2026 20:44",
@@ -78,14 +70,6 @@
     "fuente": "Notus página 3",
     "url": "https://notus.com.mx/manuel-doblado-arranca-dos-obras-por-mas-de-4-8-millones-de-pesos/",
     "resumen": "Manuel Doblado, Guanajuato.- El Gobierno Municipal de Manuel Doblado inició dos obras de infraestructura en la colonia Miguel Hidalgo y la comunidad de San José de Bellavista, con una inversión conjunta de 4 millones 818 mil 380.63 pesos. Los proyectos contemplan la construcción de banquetas, guarniciones y pavimentación para mejorar la movilidad y seguridad de …"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Pese a reclamos a CFE, Puerta de Llave, en Manuel Doblado, sigue con apagones",
-    "fecha": "23/11/2026 22:01",
-    "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/23/pese-a-reclamos-a-cfe-puerta-de-llave-en-manuel-doblado-sigue-con-apagones-172239.html",
-    "resumen": "Los cortes afectan actividades diarias y preocupan a familias con pacientes que dependen de oxígeno; habitantes aseguran que la CFE no resuelve las fallas"
   },
   {
     "prioridad": 2,
@@ -158,5 +142,21 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/villa-navidena-fiestas-de-paz-2026-inicia-el-4-de-diciembre-en-irapuato-33298363",
     "resumen": "El Centro Histórico de Irapuato recibirá conciertos, pastorelas, comparsas, talleres y cinco atracciones mecánicas; las personas podrán tener boletos para ellos al sobar un juguete"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "“No estás sola”: suman esfuerzos en Irapuato para prevenir la violencia contra las mujeres",
+    "fecha": "24/11/2026 14:58",
+    "fuente": "Notus página 2",
+    "url": "https://notus.com.mx/no-estas-sola-suman-esfuerzos-en-irapuato-para-prevenir-la-violencia-contra-las-mujeres/",
+    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- En el marco del día internacional de violencia contra la mujer presentaron la iniciativa, “No estás sola”. La intención que promueve el Instituto de las Mujeres Irapuatenses (INMIRA) tiene el propósito de fortalecer las acciones de prevención y atención de la violencia; diversas instituciones gubernamentales, empresas y organizaciones se sumaron. …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Presentan 6 ofertas para la licitación del tren de pasajeros Irapuato-Guadalajara ¿cuánto podría costar?",
+    "fecha": "24/11/2026 13:12",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/24/presentan-6-ofertas-para-la-licitacion-del-tren-de-pasajeros-irapuato-guadalajara-cuanto-podria-costar-172267.html",
+    "resumen": "Fueron seis los proyectos participantes en la licitación de la construcción del tren de pasajeros Irapuato a Guadalajara"
   }
 ]
