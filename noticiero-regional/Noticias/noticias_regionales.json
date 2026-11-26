@@ -25,22 +25,6 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Inicia construcción del acceso al futuro recinto ferial de Pénjamo",
-    "fecha": "25/11/2026 12:26",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/inicia-construccion-del-acceso-al-futuro-recinto-ferial-de-penjamo/",
-    "resumen": "El municipio invertirá 6 millones 115 mil 276 pesos en un primer tramo de 197 metros y cuatro carriles, a partir del bulevar Santos Degollado. Pénjamo, Guanajuato. La alcaldesa Yozajamby…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Diana García Gómez será titular de la Notaría Pública número 6 de Pénjamo",
-    "fecha": "25/11/2026 11:52",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/diana-garcia-gomez-sera-titular-de-la-notaria-publica-numero-6-de-penjamo/",
-    "resumen": "Pénjamo, Guanajuato. La licenciada Diana García Gómez aprobó el examen de oposición para ocupar la titularidad de la Notaría Pública número 6, con residencia en Pénjamo. La Secretaría de Gobierno…"
-  },
-  {
-    "prioridad": 0,
     "titulo": "Con sus productos frescos, Dionisio ofrece las delicias y el sabor de la Sierra de Pénjamo",
     "fecha": "25/11/2026 09:47",
     "fuente": "Periódico Correo",
@@ -158,5 +142,21 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/deportes/de-irapuato-al-extranjero-cordel-la-marca-de-uniformes-creada-por-edson-cordova-33310734",
     "resumen": "Cordel ha encontrado una gran aceptación en territorio guanajuatense, trascendiendo fronteras"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Asesinan al empresario irapuatense Jacobo Schevenin",
+    "fecha": "25/11/2026 11:42",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/asesinan-al-empresario-irapuatense-jacobo-schevenin/",
+    "resumen": "Irapuato, Guanajuato.- El empresario irapuatense identificado como Jacobo Schevenin fue asesinado a balazos cuando salía de su casa. De acuerdo con los primeros reportes, el hombre viajaba en una camioneta Chevrolet cuando fue interceptado por hombres armados que le dispararon en repetidas ocasiones. Tras la agresión, perdió el control del vehículo y salió del camino …"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Villa Navideña llega a Irapuato con espectáculos y actividades familiares",
+    "fecha": "25/11/2026 10:52",
+    "fuente": "Notus página 3",
+    "url": "https://notus.com.mx/villa-navidena-llega-a-irapuato-con-espectaculos-y-actividades-familiares/",
+    "resumen": "Irapuato, Guanajuato.- La Villa Navideña Fiestas de Paz 2026 llegará al Centro Histórico de Irapuato con una amplia programación de actividades culturales, espectáculos, atracciones y eventos familiares, con el objetivo de promover la convivencia, fortalecer las tradiciones y compartir el espíritu navideño. Durante la presentación de esta celebración, la presidenta municipal, Lorena Alfaro García, destacó …"
   }
 ]
