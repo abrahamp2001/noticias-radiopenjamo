@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Cristo rechazado en Cuerámaro encontró devoción y refugio entre fieles de Abasolo",
+    "fecha": "25/11/2026 18:21",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/25/cristo-rechazado-en-cueramaro-encontro-devocion-y-refugio-entre-fieles-de-abasolo-172404.html",
+    "resumen": "La imagen de Cristo en Cuerámaro fue rechazada por la comunidad de Las Masas y encontró en Abasolo un hogar hace casi 80 años"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Más de 5 millones de pesos destinan a pavimentación de la calle Príncipe Nicolás en Abasolo",
     "fecha": "25/11/2026 16:57",
     "fuente": "Notus",
@@ -40,12 +48,20 @@
     "resumen": "Ubicado cada semana a las afueras del mercado, Dionisio funciona como un puente para que habitantes de Pénjamo degusten el sabor de la sierra"
   },
   {
-    "prioridad": 0,
-    "titulo": "Reubicación de comerciantes genera incertidumbre entre nopaleros del mercado de Pénjamo",
-    "fecha": "24/11/2026 20:31",
+    "prioridad": 1,
+    "titulo": "Mujeres de Huanímaro sufren por casos de violencia física, psicológica y económica",
+    "fecha": "25/11/2026 19:34",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/24/reubicacion-de-comerciantes-genera-incertidumbre-entre-nopaleros-del-mercado-de-penjamo-172324.html",
-    "resumen": "Los nopaleros de Pénjamo mantienen incertidumbre sobre el lugar donde podrán vender sus productos tras la remodelación del mercado municipal"
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/25/mujeres-de-huanimaro-sufren-por-casos-de-violencia-fisica-psicologica-y-economica-172411.html",
+    "resumen": "Mujeres de Huanímaro enfrentan principalmente violencia física, psicológica y económica; el Instituto de la Mujer busca fortalecer su atención"
+  },
+  {
+    "prioridad": 1,
+    "titulo": "Este es ‘El Mono’, la estatua que rinde homenaje a Emiliano Zapata en Cuerámaro",
+    "fecha": "25/11/2026 18:17",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/25/este-es-el-mono-la-estatua-que-rinde-homenaje-a-emiliano-zapata-en-cueramaro-172403.html",
+    "resumen": "Una antigua piedra de cantera se convirtió en la estatua de Emiliano Zapata en Cuerámaro, una escultura conocida como \"El Mono\""
   },
   {
     "prioridad": 1,
@@ -80,12 +96,28 @@
     "resumen": "La atención de un reporte por un presunto incendio provocó tensión entre bomberos de Manuel Doblado y empleados que quemaban hierba"
   },
   {
-    "prioridad": 1,
-    "titulo": "Huanímaro recibe las reliquias de San José Sánchez del Río; alistan altar",
-    "fecha": "24/11/2026 20:44",
+    "prioridad": 2,
+    "titulo": "Feria Infantil del Libro acerca la literatura y la cultura a estudiantes de Irapuato",
+    "fecha": "25/11/2026 20:40",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/24/huanimaro-recibe-las-reliquias-de-san-jose-sanchez-del-rio-alistan-altar-172327.html",
-    "resumen": "La comunidad católica de Huanímaro recibió la imagen de San José Sánchez del Río, que fue entronizada en el templo de la Virgen de Guadalupe"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/25/feria-infantil-del-libro-acerca-la-literatura-y-la-cultura-a-estudiantes-de-irapuato-172424.html",
+    "resumen": "La primaria rural María del Carmen Romero Torres, en San José de Mendoza, realizó la Feria Infantil del Libro con actividades literarias y culturales"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Juan Miguel acusa trato desigual a Celaya en apoyos para la Feria de Navidad",
+    "fecha": "25/11/2026 19:23",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/celaya/2026/nov/25/juan-miguel-acusa-trato-desigual-a-celaya-en-apoyos-para-la-feria-de-navidad-172410.html",
+    "resumen": "El alcalde cuestionó que Irapuato y Dolores Hidalgo recibieran más recursos estatales y aseguró que buscará una nueva aportación para el festejo decembrino"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Irapuato busca concesionar el relleno sanitario de Peñitas por falta de recursos",
+    "fecha": "25/11/2026 17:26",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/25/irapuato-busca-concesionar-el-relleno-sanitario-de-penitas-por-falta-de-recursos-172398.html",
+    "resumen": "El titular de Servicios Públicos informó que el relleno sanitario de Irapuato se concesionaría ante la incapacidad del gobierno municipal de garantizar su operación"
   },
   {
     "prioridad": 2,
@@ -126,37 +158,5 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/deportes/de-irapuato-al-extranjero-cordel-la-marca-de-uniformes-creada-por-edson-cordova-33310734",
     "resumen": "Cordel ha encontrado una gran aceptación en territorio guanajuatense, trascendiendo fronteras"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan al empresario irapuatense Jacobo Schevenin",
-    "fecha": "25/11/2026 11:42",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/asesinan-al-empresario-irapuatense-jacobo-schevenin/",
-    "resumen": "Irapuato, Guanajuato.- El empresario irapuatense identificado como Jacobo Schevenin fue asesinado a balazos cuando salía de su casa. De acuerdo con los primeros reportes, el hombre viajaba en una camioneta Chevrolet cuando fue interceptado por hombres armados que le dispararon en repetidas ocasiones. Tras la agresión, perdió el control del vehículo y salió del camino …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Villa Navideña llega a Irapuato con espectáculos y actividades familiares",
-    "fecha": "25/11/2026 10:52",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/villa-navidena-llega-a-irapuato-con-espectaculos-y-actividades-familiares/",
-    "resumen": "Irapuato, Guanajuato.- La Villa Navideña Fiestas de Paz 2026 llegará al Centro Histórico de Irapuato con una amplia programación de actividades culturales, espectáculos, atracciones y eventos familiares, con el objetivo de promover la convivencia, fortalecer las tradiciones y compartir el espíritu navideño. Durante la presentación de esta celebración, la presidenta municipal, Lorena Alfaro García, destacó …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Las Peñitas tiene entre 18 y 30 meses de vida útil; buscan concesionar su operación",
-    "fecha": "25/11/2026 10:36",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/las-penitas-tiene-entre-18-y-30-meses-de-vida-util-buscan-concesionar-su-operacion-33309968",
-    "resumen": "Irapuato genera y deposita alrededor de 520 toneladas de basura al día en el sitio; el municipio plantea que un particular se encargue de su rehabilitación, ampliación y operación, mientras surgen cuestionamientos sobre los alcances ambientales del proyecto."
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Policía buscó vehículos sospechosos tras asesinato de agricultor en Villas de Irapuato; Fiscalía investiga",
-    "fecha": "25/11/2026 10:21",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/policia-busco-vehiculos-sospechosos-tras-asesinato-de-agricultor-en-villas-de-irapuato-fiscalia-investiga-33309679",
-    "resumen": "La Secretaría de Seguridad Ciudadana entregó la escena y los indicios recabados a la Fiscalía; María del Consuelo Cruz Galindo confirmó que mantienen un operativo permanente en la zona y acompañamiento a la familia"
   }
 ]
