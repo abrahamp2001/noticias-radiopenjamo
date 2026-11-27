@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "Abasolo prepara nueva unidad de atención para víctimas de violencia",
+    "fecha": "26/11/2026 21:08",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/26/abasolo-prepara-nueva-unidad-de-atencion-para-victimas-de-violencia-172529.html",
+    "resumen": "El acuerdo contempla capacitación de funcionarios, intercambio de información y políticas públicas para apoyar a víctimas directas e indirectas"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Más de 30 escuelas de Pénjamo firman convenio para medir su consumo de agua y detectar fugas",
     "fecha": "26/11/2026 17:54",
     "fuente": "Pénjamo TV",
@@ -112,20 +120,20 @@
     "resumen": "La presidenta municipal, Yozajamby Molina Balver, inauguró las dos vialidades, cuya intervención incluyó concreto hidráulico, banquetas y renovación de las redes de agua potable y drenaje"
   },
   {
-    "prioridad": 0,
-    "titulo": "Inicia construcción de acceso al futuro recinto ferial de Pénjamo; destinan 6.1 millones de pesos",
-    "fecha": "26/11/2026 05:51",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/inicia-construccion-de-acceso-al-futuro-recinto-ferial-de-penjamo-destinan-6-1-millones-de-pesos-33320399",
-    "resumen": "La primera etapa contempla 197 metros lineales de vialidad con cuatro carriles, alumbrado solar y obras de drenaje"
-  },
-  {
     "prioridad": 1,
     "titulo": "Políticas de Trump reducirían la llegada de migrantes en Manuel Doblado",
     "fecha": "26/11/2026 17:25",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/municipios/2026/nov/26/politicas-de-trump-reducirian-la-llegada-de-migrantes-en-manuel-doblado-172494.html",
     "resumen": "La llegada de migrantes en Manuel Doblado podría disminuir hasta 40% este año debido a la incertidumbre por las políticas migratorias de Estados Unidos"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Mujer muere y hombre resulta lesionado tras derrapar en motocicleta en el bulevar Solidaridad, Irapuato",
+    "fecha": "26/11/2026 22:37",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/26/mujer-muere-y-hombre-resulta-lesionado-tras-derrapar-en-motocicleta-en-el-bulevar-solidaridad-irapuato-172538.html",
+    "resumen": "Una mujer perdió la vida y un hombre resultó lesionado luego de sufrir un aparatoso accidente cuando viajaban a bordo de una motocicleta sobre el bulevar Solidaridad en Irapuato"
   },
   {
     "prioridad": 2,
@@ -137,26 +145,18 @@
   },
   {
     "prioridad": 2,
+    "titulo": "Irapuato reconoce a sus mejores atletas con el Premio Municipal del Deporte",
+    "fecha": "26/11/2026 16:58",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/deportes/edna-sibel-guzman-oliva-gana-el-premio-municipal-del-deporte-de-irapuato-33331087",
+    "resumen": "Se reconoció el esfuerzo de los atletas de Irapuato en diferentes categorías"
+  },
+  {
+    "prioridad": 2,
     "titulo": "Motociclistas armados matan a un hombre en la colonia Los Álamos de Irapuato",
     "fecha": "26/11/2026 16:54",
     "fuente": "Periódico Correo",
     "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/26/motociclistas-armados-matan-a-un-hombre-en-la-colonia-los-alamos-de-irapuato-172490.html",
     "resumen": "Un hombre fue ultimado a balazos la tarde de este jueves en la calle Jabillo, en la colonia Los Álamos, en Irapuato, por motociclistas armados que se detuvieron frente a él, le dispararon y huyeron"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Asesinan a “El Güicho” en la colonia Los Álamos de Irapuato",
-    "fecha": "26/11/2026 16:49",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/asesinan-a-el-guicho-en-la-colonia-los-alamos-de-irapuato/",
-    "resumen": "Irapuato, Guanajuato.- Un hombre fue asesinado a balazos en la colonia Los Álamos, en Irapuato. La víctima fue identificada preliminarmente como Luis, conocido con el apodo de “El Güicho”. El ataque ocurrió alrededor de las 3:30 de la tarde, sobre la calle Jabillo, casi en el cruce con Picea, donde vecinos de la zona reportaron …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Trinca de mi vida busca talento guanajuatense; más de mil jóvenes han sido visoreados",
-    "fecha": "26/11/2026 16:27",
-    "fuente": "Notus",
-    "url": "https://notus.com.mx/trinca-de-mi-vida-busca-talento-guanajuatense-mas-de-mil-jovenes-han-sido-visoreados/",
-    "resumen": "Por Christopher Rodríguez. Irapuato, Guanajuato.- Más de mil jóvenes futbolistas han participado en las visorias realizadas por Trinca de Mi Vida en distintos municipios de Guanajuato, como parte de un proyecto para detectar nuevos talentos y brindarles oportunidades de desarrollo. De acuerdo con la organización, las actividades se han llevado a cabo en Irapuato, Silao, …"
   }
 ]
