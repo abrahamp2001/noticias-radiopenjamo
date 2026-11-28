@@ -56,28 +56,20 @@
     "resumen": "El acuerdo contempla capacitación de funcionarios, intercambio de información y políticas públicas para apoyar a víctimas directas e indirectas"
   },
   {
-    "prioridad": 0,
-    "titulo": "Más de 30 escuelas de Pénjamo firman convenio para medir su consumo de agua y detectar fugas",
-    "fecha": "26/11/2026 17:54",
-    "fuente": "Pénjamo TV",
-    "url": "https://www.penjamotv.com/mas-de-30-escuelas-de-penjamo-firman-convenio-para-medir-su-consumo-de-agua-y-detectar-fugas/",
-    "resumen": "Los planteles públicos de educación básica de la cabecera municipal y de las comunidades registrarán cada semana su consumo de agua e involucrarán a las familias en su cuidado. Pénjamo,…"
-  },
-  {
-    "prioridad": 0,
-    "titulo": "Abasolo tendrá nuevo parque en Ojo de Agua y centro de gobierno",
-    "fecha": "26/11/2026 17:21",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/abasolo-tendra-nuevo-parque-en-ojo-de-agua-y-centro-de-gobierno/",
-    "resumen": "Abasolo, Guanajuato.- El Ayuntamiento de Abasolo aprobó por mayoría la donación de terrenos para la construcción del parque en Ojo de Agua y un centro de gobierno. Las ediles Carolina Ceballos, Adriana Delgado y Dolores González acusaron que se les convocó sin documentos y rechazaron que la donación esté condicionada a la construcción de un …"
-  },
-  {
-    "prioridad": 1,
-    "titulo": "Políticas de Trump reducirían la llegada de migrantes en Manuel Doblado",
-    "fecha": "26/11/2026 17:25",
+    "prioridad": 2,
+    "titulo": "Reconocen a profesionistas y colegios en el Cuarto Congreso de Profesionistas de Guanajuato",
+    "fecha": "27/11/2026 20:32",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/26/politicas-de-trump-reducirian-la-llegada-de-migrantes-en-manuel-doblado-172494.html",
-    "resumen": "La llegada de migrantes en Manuel Doblado podría disminuir hasta 40% este año debido a la incertidumbre por las políticas migratorias de Estados Unidos"
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/27/reconocen-a-profesionistas-y-colegios-en-el-cuarto-congreso-de-profesionistas-de-guanajuato-172598.html",
+    "resumen": "En el Cuarto Congreso de Profesionistas del Estado de Guanajuato, realizado este viernes en el Inforum de Irapuato, se reconocieron la trayectoria, preparación y aportaciones de profesionistas de distintas disciplinas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Ignacio Ortiz Aldana sería candidato del Verde en Irapuato",
+    "fecha": "27/11/2026 19:35",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/irapuato/2026/nov/27/ignacio-ortiz-aldana-seria-candidato-del-verde-en-irapuato-172589.html",
+    "resumen": "La dirigencia estatal del PVEM lo considera su posible abanderado, mientras mantiene conversaciones para definir si competirá junto con Morena y el PT"
   },
   {
     "prioridad": 2,
@@ -158,5 +150,13 @@
     "fuente": "El Sol de Irapuato",
     "url": "https://oem.com.mx/elsoldeirapuato/local/hiroshima-busca-fortalecer-relacion-con-irapuato-en-educacion-cultura-y-economia-33340709",
     "resumen": "El intercambio educativo México-Japón en Irapuato ha beneficiado a más de 400 estudiantes, docentes e integrantes de comunidades educativas"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Piden fortalecer certificación de profesionistas en Guanajuato; reconocen trayectoria de especialistas",
+    "fecha": "27/11/2026 10:13",
+    "fuente": "El Sol de Irapuato",
+    "url": "https://oem.com.mx/elsoldeirapuato/local/piden-fortalecer-certificacion-de-profesionistas-en-guanajuato-reconocen-trayectoria-de-especialistas-33340547",
+    "resumen": "El Congreso de Profesionistas de Guanajuato reunió en Irapuato a especialistas y planteó fortalecer la certificación y la actualización permanente"
   }
 ]
