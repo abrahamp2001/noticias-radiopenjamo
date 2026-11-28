@@ -1,6 +1,14 @@
 [
   {
     "prioridad": 0,
+    "titulo": "DIF Pénjamo orienta a madres de familia y estudiantes sobre alimentación equilibrada",
+    "fecha": "27/11/2026 21:29",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/dif-penjamo-orienta-a-madres-de-familia-y-estudiantes-sobre-alimentacion-equilibrada/",
+    "resumen": "Pénjamo, Guanajuato. El DIF Municipal de Pénjamo brindó orientación alimentaria a madres de familia y estudiantes con el propósito de fomentar hábitos saludables en la vida diaria. De acuerdo con…"
+  },
+  {
+    "prioridad": 0,
     "titulo": "Porcicultores de Abasolo en “crisis” por precio del cerdo",
     "fecha": "27/11/2026 16:31",
     "fuente": "Notus",
@@ -49,11 +57,27 @@
   },
   {
     "prioridad": 0,
-    "titulo": "Abasolo prepara nueva unidad de atención para víctimas de violencia",
-    "fecha": "26/11/2026 21:08",
+    "titulo": "Todavía puedes hacer esa llamada",
+    "fecha": "27/11/2026 21:57",
+    "fuente": "Pénjamo TV",
+    "url": "https://www.penjamotv.com/todavia-puedes-hacer-esa-llamada/",
+    "resumen": "Un minuto para ti · PénjamoTV A veces, mientras lavas las dos tazas de la cena, te acuerdas de alguien. Piensas: «El domingo le marco, cuando tenga algo que contarle».…"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Acumula Guanajuato diez denuncias por campañas anticipadas previo a comicios de 2027",
+    "fecha": "27/11/2026 21:50",
     "fuente": "Periódico Correo",
-    "url": "https://periodicocorreo.com.mx/municipios/2026/nov/26/abasolo-prepara-nueva-unidad-de-atencion-para-victimas-de-violencia-172529.html",
-    "resumen": "El acuerdo contempla capacitación de funcionarios, intercambio de información y políticas públicas para apoyar a víctimas directas e indirectas"
+    "url": "https://periodicocorreo.com.mx/vida-publica/2026/nov/27/acumula-guanajuato-diez-denuncias-por-campanas-anticipadas-previo-a-comicios-de-2027-172610.html",
+    "resumen": "Existen cuatro indagatorias iniciadas contra actores políticos de Dolores Hidalgo, así como dos casos contra aspirantes a las alcaldías de Irapuato y León"
+  },
+  {
+    "prioridad": 2,
+    "titulo": "Se incendia un tráiler frigorífico en la Carretera Federal 45, cerca de Fipasi",
+    "fecha": "27/11/2026 20:49",
+    "fuente": "Periódico Correo",
+    "url": "https://periodicocorreo.com.mx/seguridad/2026/nov/27/se-incendia-un-trailer-frigorifico-en-la-carretera-federal-45-cerca-de-fipasi-172602.html",
+    "resumen": "Un tráiler frigorífico se incendió alrededor de las 6:00 de la tarde de este viernes en la Carretera Federal 45, en el tramo Silao-Irapuato"
   },
   {
     "prioridad": 2,
@@ -134,29 +158,5 @@
     "fuente": "Notus página 2",
     "url": "https://notus.com.mx/irapuato-reune-a-46-colegios-en-el-cuarto-congreso-de-profesionistas-de-guanajuato/",
     "resumen": "Irapuato, Guanajuato.- Con la participación de representantes de 46 colegios de profesionistas, Irapuato fue sede del Cuarto Congreso de Profesionistas del Estado de Guanajuato, un encuentro que reunió a autoridades, especialistas, instituciones educativas y estudiantes para reconocer las aportaciones del gremio al desarrollo de la entidad y analizar los retos del ejercicio profesional. El evento, …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Irapuato reconoce a sus atletas con el Premio Municipal del Deporte 2026",
-    "fecha": "27/11/2026 11:40",
-    "fuente": "Notus página 3",
-    "url": "https://notus.com.mx/irapuato-reconoce-a-sus-atletas-con-el-premio-municipal-del-deporte-2026/",
-    "resumen": "Irapuato, Guanajuato.- El talento deportivo de Irapuato tuvo su reconocimiento con la entrega del Premio Municipal del Deporte 2026, ceremonia en la que fueron distinguidos atletas, entrenadores y promotores por sus resultados, trayectoria y contribución al desarrollo del deporte en el municipio. Durante el evento, organizado por el Gobierno Municipal a través de la Comisión …"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Hiroshima busca fortalecer relación con Irapuato en educación, cultura y economía",
-    "fecha": "27/11/2026 10:22",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/hiroshima-busca-fortalecer-relacion-con-irapuato-en-educacion-cultura-y-economia-33340709",
-    "resumen": "El intercambio educativo México-Japón en Irapuato ha beneficiado a más de 400 estudiantes, docentes e integrantes de comunidades educativas"
-  },
-  {
-    "prioridad": 2,
-    "titulo": "Piden fortalecer certificación de profesionistas en Guanajuato; reconocen trayectoria de especialistas",
-    "fecha": "27/11/2026 10:13",
-    "fuente": "El Sol de Irapuato",
-    "url": "https://oem.com.mx/elsoldeirapuato/local/piden-fortalecer-certificacion-de-profesionistas-en-guanajuato-reconocen-trayectoria-de-especialistas-33340547",
-    "resumen": "El Congreso de Profesionistas de Guanajuato reunió en Irapuato a especialistas y planteó fortalecer la certificación y la actualización permanente"
   }
 ]
